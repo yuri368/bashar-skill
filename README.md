@@ -10,15 +10,9 @@
 
 ## 项目定位
 
-`bashar-skill` 不是一个普通提示词，也不是一个单次问答模板。
+`bashar-skill` 目前主要的用途为本人个人使用，随带发布到GitHub上，大部分内容为Codex生成，并不保证质量如何。
 
-它更像是一个围绕 Bashar 原文资料建立的本地知识 Skill，目标是让 AI 在处理以下问题时，先检索资料库，再基于原文作答：
-
-* Bashar 原文中如何解释某个概念？
-* 某个说法是否能在资料库中找到来源？
-* “跟随最高兴奋”“限制性信念”“同步性”等主题有哪些原文入口？
-* 某个中文总结是否偏离 Bashar 原意？
-* 如何用更接近 Bashar 的问答节奏来回应一个现实问题？
+它是一个围绕 Bashar 原文资料建立的本地知识 Skill，目标是让 AI 在处理以下问题时，先检索资料库，再基于原文作答
 
 本项目的核心原则是：
 
@@ -53,7 +47,6 @@ Bashar（巴夏）通常被介绍为通过传讯者 Darryl Anka 进行表达的 
 1. **过度总结**：把复杂的原文对话压缩成一句口号。
 2. **语境丢失**：只保留结论，不保留问题、追问和定义过程。
 3. **心理学化或鸡汤化**：把 Bashar 的表达改写成普通自我成长建议。
-4. **来源不清**：难以判断某句话到底来自原文、转述，还是二次创作。
 
 `bashar-skill` 的目标不是让 AI “装作懂 Bashar”，而是让 AI 先回到 Bashar 资料库，再基于可追溯文本进行回答。
 
@@ -210,19 +203,13 @@ bashar-skill/
 
 ## 安装方式
 
-将仓库克隆到 Codex skills 目录，并保持目录名为 `bashar`：
+1.将项目地址(https://github.com/yuri368/bashar-skill/tree/main)：丢给AI，让AI帮你安装
+
+2.将仓库克隆到 Codex skills 目录，并保持目录名为 `bashar`：
 
 ```powershell
 git clone https://github.com/yuri368/bashar-skill.git $env:USERPROFILE\.codex\skills\bashar
 ```
-
-如果你的 Codex skills 根目录不是：
-
-```powershell
-$env:USERPROFILE\.codex\skills
-```
-
-请把命令最后的路径替换为你的实际 skills 目录。
 
 ---
 
@@ -263,103 +250,6 @@ bashar
 
 ---
 
-## 常用检索命令
-
-### 搜索“兴奋”
-
-```powershell
-python scripts/search_sources.py 兴奋 --limit 5
-```
-
-### 搜索“信念 / 定义”
-
-```powershell
-python scripts/search_sources.py 信念 定义 --limit 5
-```
-
-### 搜索正文里的“恐惧”
-
-```powershell
-python scripts/search_sources.py 恐惧 --content --limit 5
-```
-
-### 搜索“祈祷 / 行动”并扫描正文
-
-```powershell
-python scripts/search_sources.py 祈祷 行动 --content --format 文本 --limit 5
-```
-
-### 搜索“平行实相”
-
-```powershell
-python scripts/search_sources.py 平行实相 --limit 5
-```
-
-默认情况下，检索会筛选：
-
-```text
-source_persona=Bashar
-```
-
-如果明确需要比较其他来源，可以关闭 persona 筛选：
-
-```powershell
-python scripts/search_sources.py 关键词 --persona ""
-```
-
----
-
-## 重建搜索索引
-
-修改 `sources/` 或 `sources/_meta/articles.jsonl` 后，运行：
-
-```powershell
-python scripts/build_search_index.py
-```
-
-重建后，检索脚本会继续优先使用：
-
-```text
-sources/_meta/search_index.jsonl
-```
-
----
-
-## 推荐工作流
-
-### 1. 回答 Bashar 相关问题
-
-先检索资料库，再基于原文回答。
-
-```text
-用 bashar skill 回答：
-我现在不知道自己真正的兴奋是什么，怎么办？
-```
-
-### 2. 查找某个概念的原文来源
-
-```text
-用 bashar skill 查一下：
-巴夏关于“定义创造体验”的原文在哪里？
-```
-
-### 3. 校准已有回答
-
-```text
-这段回答像 Bashar 吗？
-如果不像，请根据资料库原文重写。
-```
-
-### 4. 继续优化资料系统
-
-```text
-继续优化 bashar skill：
-检查“限制性信念”主题索引，
-找出更适合作为一级入口的原文。
-```
-
----
-
 ## Skill 回答原则
 
 更完整的行为规则见 `SKILL.md`。
@@ -386,23 +276,6 @@ sources/_meta/search_index.jsonl
 4. 修改资料库后，重建 `sources/_meta/search_index.jsonl`。
 5. 每次实质性修改后，更新 `迭代历史.md`。
 6. 不确定的总结不要写成定论，优先标记为待校准。
-
----
-
-## 发布包重建
-
-本仓库由本地完整 Skill 通过导出脚本生成：
-
-```powershell
-python scripts/export_github_package.py --target H:\ProgramFiles\AIStudio\profile\.codex\skills\bashar-github --force
-```
-
-导出脚本会：
-
-* 筛选 `source_persona=Bashar` 的资料
-* 剔除非 Bashar 来源记录
-* 复制必要脚本和 Skill 文件
-* 重建 Bashar-only 索引文件
 
 ---
 
