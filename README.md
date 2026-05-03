@@ -107,27 +107,19 @@ bashar-skill/
 
 ### 方式一：让 AI 辅助安装
 
-可以将本项目地址发给 AI，并让 AI 根据你的 Codex skills 目录进行安装：
+可以将本项目地址发给 AI，并让 AI 根据你的 Agent skills 目录进行安装：
 
 ```text
 https://github.com/yuri368/bashar-skill
 ```
 
-### 方式二：手动克隆到 Codex skills 目录
+### 方式二：手动克隆到 skills 目录
 
-将仓库克隆到 Codex skills 目录，并保持目录名为 `bashar`：
+将仓库克隆到 Codex skills 目录，或者其他什么Agent skills 目录。以Codex来说：
 
 ```powershell
 git clone https://github.com/yuri368/bashar-skill.git $env:USERPROFILE\.codex\skills\bashar
 ```
-
-如果你的 Codex skills 根目录不是：
-
-```powershell
-$env:USERPROFILE\.codex\skills
-```
-
-请把命令最后的路径替换为你的实际 skills 目录。
 
 ---
 
