@@ -162,6 +162,20 @@ python scripts/search_sources.py "跟随兴奋"
 - `README.md`、`VERSION`、`迭代历史.md` 已同步版本说明。
 - Git tag 与 `VERSION` 文件一致。
 
+自动提交并推送到 GitHub：
+
+```powershell
+powershell -ExecutionPolicy Bypass -File scripts/publish_to_github.ps1 -Message "发布本次 Bashar 资料库更新"
+```
+
+发布新版本并自动打 tag：
+
+```powershell
+powershell -ExecutionPolicy Bypass -File scripts/publish_to_github.ps1 -Message "发布 v0.2.1" -Version 0.2.1
+```
+
+脚本会在推送前检查远端分支状态、重建检索索引、扫描正文 UTF-8 编码、运行一次 `Bashar` 检索 smoke test，然后提交并推送当前分支。使用 `-DryRun` 可以预览会执行的步骤。
+
 ---
 
 ## 当前限制
