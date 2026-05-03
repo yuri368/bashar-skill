@@ -1,106 +1,106 @@
-°ÍÏÄ£ºË²ÒÆµÄÔ­Àí
-Ô­´´ °¢¿üÑÇ °ÍÏÄËµ
- 2024Äê10ÔÂ03ÈÕ 06:02 ÁÉÄş
-Ç°ÑÔ
+å·´å¤ï¼šç¬ç§»çš„åŸç†
+åŸåˆ› é˜¿å¥äºš å·´å¤è¯´
+ 2024å¹´10æœˆ03æ—¥ 06:02 è¾½å®
+å‰è¨€
 
-Õâ¾ÍÊÇÎÒÃÇµÄ·É´¬ÈçºÎ´ÓÒ»¿ÅºãĞÇµ½ÁíÒ»¿ÅºãĞÇµÄÂÃĞĞ·½Ê½¡£ÎÒÃÇÒÑ¾­¸ôÀëÁËÕâËÒ·É´¬£¬½«Æä´ÓÈÎºÎÌØ¶¨µÄÓîÖæÏÖÊµÖĞ½âËø¡£
+è¿™å°±æ˜¯æˆ‘ä»¬çš„é£èˆ¹å¦‚ä½•ä»ä¸€é¢—æ’æ˜Ÿåˆ°å¦ä¸€é¢—æ’æ˜Ÿçš„æ—…è¡Œæ–¹å¼ã€‚æˆ‘ä»¬å·²ç»éš”ç¦»äº†è¿™è‰˜é£èˆ¹ï¼Œå°†å…¶ä»ä»»ä½•ç‰¹å®šçš„å®‡å®™ç°å®ä¸­è§£é”ã€‚
 
-                  ÒëÕß£º°¢¿üÑÇ Aquia
+                  è¯‘è€…ï¼šé˜¿å¥äºš Aquia
 
-              ´«Ñ¶Ê±¼ä£º2024Äê9ÔÂ15ÈÕ
+              ä¼ è®¯æ—¶é—´ï¼š2024å¹´9æœˆ15æ—¥
 
-ÎÊ£ºÕâ¸öÎÊÌâÓë´«ËÍÓĞ¹Ø¡£ÎÊÌâÊÇ£¬ÄãÄÜÃèÊöÒ»¸öÊµÑé£¬À´¿´¿´ÖØÁ¦ºÍµç´ÅÊÇÏà¹ØµÄÂğ£¿
+é—®ï¼šè¿™ä¸ªé—®é¢˜ä¸ä¼ é€æœ‰å…³ã€‚é—®é¢˜æ˜¯ï¼Œä½ èƒ½æè¿°ä¸€ä¸ªå®éªŒï¼Œæ¥çœ‹çœ‹é‡åŠ›å’Œç”µç£æ˜¯ç›¸å…³çš„å—ï¼Ÿ
 
 The question has to do with teleportation.And the question is, can you describe an experiment to see gravity and electromagnetism as related?
 
-°ÍÏÄ£ºÊÇµÄ¡£ÎÒÃÇÒÑ¾­¸øÁËÄãÃÇÄÇ¸öÊµÑé¡£ÎÒÃÇ½«ÔÙ´Î¼òÒªµØÃèÊöËü¡£ËüÊÇÖ¸´æÔÚÓÚÒ»¸öÌØ¶¨Î»ÖÃµÄÎïÌå²»ÊÇÔÚÄ³¸öÎ»ÖÃÉÏµÄÎïÌå¡£Õâ¸öÎ»ÖÃ´æÔÚÓÚÎïÌåÖĞ¡£Ã¿¸öÎïÌå¶¼¿ÉÒÔ±»ÊÓÎªÒ»¸öÄÜÁ¿·½³Ì¡£
+å·´å¤ï¼šæ˜¯çš„ã€‚æˆ‘ä»¬å·²ç»ç»™äº†ä½ ä»¬é‚£ä¸ªå®éªŒã€‚æˆ‘ä»¬å°†å†æ¬¡ç®€è¦åœ°æè¿°å®ƒã€‚å®ƒæ˜¯æŒ‡å­˜åœ¨äºä¸€ä¸ªç‰¹å®šä½ç½®çš„ç‰©ä½“ä¸æ˜¯åœ¨æŸä¸ªä½ç½®ä¸Šçš„ç‰©ä½“ã€‚è¿™ä¸ªä½ç½®å­˜åœ¨äºç‰©ä½“ä¸­ã€‚æ¯ä¸ªç‰©ä½“éƒ½å¯ä»¥è¢«è§†ä¸ºä¸€ä¸ªèƒ½é‡æ–¹ç¨‹ã€‚
 
 Yes. We have already given you that experiment. We'll describe it again briefly. It is the idea that objects that exist in a particular location are not objects in a location.The location exists in the object. Every object can be considered an energy equation.
 
-ÄÜÁ¿·½³ÌÖĞµÄÒ»¸ö±äÁ¿ÊÇ±íÊ¾ÆäÔÚÊ±¿ÕÖĞÎ»ÖÃµÄ±äÁ¿¡£Èç¹ûÄã¸Ä±äÊ±¿ÕÎ»ÖÃ±äÁ¿µÄÆµÂÊ£¬ÄãÊµ¼ÊÉÏ¸Ä±äÁËÎïÌåÔÚ¿Õ¼äºÍÊ±¼äÖĞµÄÎ»ÖÃ¡£Õâ¾ÍÊÇÎÒÃÇµÄ·É´¬ÈçºÎ´ÓÒ»¿ÅºãĞÇµ½ÁíÒ»¿ÅºãĞÇµÄÂÃĞĞ·½Ê½¡£ÎÒÃÇÒÑ¾­¸ôÀëÁËÕâËÒ·É´¬£¬½«Æä´ÓÈÎºÎÌØ¶¨µÄÓîÖæÏÖÊµÖĞ½âËø¡£
+èƒ½é‡æ–¹ç¨‹ä¸­çš„ä¸€ä¸ªå˜é‡æ˜¯è¡¨ç¤ºå…¶åœ¨æ—¶ç©ºä¸­ä½ç½®çš„å˜é‡ã€‚å¦‚æœä½ æ”¹å˜æ—¶ç©ºä½ç½®å˜é‡çš„é¢‘ç‡ï¼Œä½ å®é™…ä¸Šæ”¹å˜äº†ç‰©ä½“åœ¨ç©ºé—´å’Œæ—¶é—´ä¸­çš„ä½ç½®ã€‚è¿™å°±æ˜¯æˆ‘ä»¬çš„é£èˆ¹å¦‚ä½•ä»ä¸€é¢—æ’æ˜Ÿåˆ°å¦ä¸€é¢—æ’æ˜Ÿçš„æ—…è¡Œæ–¹å¼ã€‚æˆ‘ä»¬å·²ç»éš”ç¦»äº†è¿™è‰˜é£èˆ¹ï¼Œå°†å…¶ä»ä»»ä½•ç‰¹å®šçš„å®‡å®™ç°å®ä¸­è§£é”ã€‚
 
 And one of the variables in that energy equation is the variable that represents its location in space-time.If you change that space-time locational variable frequency, you actually change the location of the object in space and time.That's how our ships travel from star to star. We have isolated the ship, unlocked it from any particular universal reality.
 
-´¦ÓÚÒ»ÖÖ²»È·¶¨µÄ×´Ì¬¡£È»ºóÎÒÃÇÊ©¼Ó´ú±íÎÒÃÇÏëÒªÈ¥µÄÎ»ÖÃµÄÆµÂÊµÄÕñ¶¯ÆµÂÊ¡£·É´¬±ØĞëÔÚµÚÒ»¸öÎ»ÖÃÍ£Ö¹´æÔÚ£¬²¢ÔÚµÚ¶ş¸öÎ»ÖÃ×Ô¶¯µØ¿ªÊ¼´æÔÚ£¬¶øÎŞĞèÔÚÁ½ÕßÖ®¼äĞĞÊ»¡£ÒòÎªÒ»ÇĞ¶¼ÊÇÈ«Ï¢µÄ£¬¾ÍÔÚ´ËÊ±´ËµØ¡£ÎÒÃÇËù×öµÄÖ»ÊÇ¸Ä±äÊÓ½Ç£¬¸Ä±ä·É´¬¼°Æä´¬Ô±ÔÚÊ±¿ÕÖĞµÄÎ»ÖÃ±äÁ¿µÄ¹Û²ì½Ç¶È£¬ÕâÊÇÒ»ÖÖ»Ã¾õ¡£ÕâÓĞµÀÀíÂğ£¿
+å¤„äºä¸€ç§ä¸ç¡®å®šçš„çŠ¶æ€ã€‚ç„¶åæˆ‘ä»¬æ–½åŠ ä»£è¡¨æˆ‘ä»¬æƒ³è¦å»çš„ä½ç½®çš„é¢‘ç‡çš„æŒ¯åŠ¨é¢‘ç‡ã€‚é£èˆ¹å¿…é¡»åœ¨ç¬¬ä¸€ä¸ªä½ç½®åœæ­¢å­˜åœ¨ï¼Œå¹¶åœ¨ç¬¬äºŒä¸ªä½ç½®è‡ªåŠ¨åœ°å¼€å§‹å­˜åœ¨ï¼Œè€Œæ— éœ€åœ¨ä¸¤è€…ä¹‹é—´è¡Œé©¶ã€‚å› ä¸ºä¸€åˆ‡éƒ½æ˜¯å…¨æ¯çš„ï¼Œå°±åœ¨æ­¤æ—¶æ­¤åœ°ã€‚æˆ‘ä»¬æ‰€åšçš„åªæ˜¯æ”¹å˜è§†è§’ï¼Œæ”¹å˜é£èˆ¹åŠå…¶èˆ¹å‘˜åœ¨æ—¶ç©ºä¸­çš„ä½ç½®å˜é‡çš„è§‚å¯Ÿè§’åº¦ï¼Œè¿™æ˜¯ä¸€ç§å¹»è§‰ã€‚è¿™æœ‰é“ç†å—ï¼Ÿ
 
 In a limbo state. And then we impose the vibrational frequency that represents the frequency of the location we wish to go to.And the ship must stop existing at the first location and automatically start existing at the second location without traveling in between.Because everything holographically is here and now. And all we're doing is changing the perspective, the angle of observation of the locational variable of that ship and its crew in space-time which is an illusion. Is this making some sense?
 
-Í¼Æ¬
+å›¾ç‰‡
 
-ÎÊ£º¶ÔÎÒÃ»ÓĞ£¬µ«Ï£Íû¶ÔÀ´ËµËûÓĞ¡£
+é—®ï¼šå¯¹æˆ‘æ²¡æœ‰ï¼Œä½†å¸Œæœ›å¯¹æ¥è¯´ä»–æœ‰ã€‚
 
 Not to me, but hopefully to him.
 
-°ÍÏÄ£ººÃ°É¡£µ«Õâ½«ÖØÁ¦¡¢µç´ÅÑ§µÈ¸ÅÄîÁªÏµÆğÀ´¡£ÎÒ»á»»Ò»ÖÖËµ·¨¡£ÏëÏóÒ»ÏÂì³²¨ÄÇÆõÂİĞı¡£ÄãÊìÏ¤Âğ£¿
+å·´å¤ï¼šå¥½å§ã€‚ä½†è¿™å°†é‡åŠ›ã€ç”µç£å­¦ç­‰æ¦‚å¿µè”ç³»èµ·æ¥ã€‚æˆ‘ä¼šæ¢ä¸€ç§è¯´æ³•ã€‚æƒ³è±¡ä¸€ä¸‹æ–æ³¢é‚£å¥‘èºæ—‹ã€‚ä½ ç†Ÿæ‚‰å—ï¼Ÿ
 
 All right. But this connects the idea of gravity and electromagnetism and so on and so forth.I'll put it another way. Imagine a Fibonacci spiral. Are you familiar with that?
 
-ÎÊ£ºÊÇµÄ¡£
+é—®ï¼šæ˜¯çš„ã€‚
 
 Yes.
 
-°ÍÏÄ£ººÃµÄ¡£ËùÒÔÏëÏóÒ»¸ö·´ì³²¨ÄÇÆõÂİĞıÏòÁíÒ»¸ö·½ÏòÒÆ¶¯£¬²¢ÓëµÚÒ»¸öÂİĞıÖØµş¡£ÄãÄÜÏëÏóÂğ£¿
+å·´å¤ï¼šå¥½çš„ã€‚æ‰€ä»¥æƒ³è±¡ä¸€ä¸ªåæ–æ³¢é‚£å¥‘èºæ—‹å‘å¦ä¸€ä¸ªæ–¹å‘ç§»åŠ¨ï¼Œå¹¶ä¸ç¬¬ä¸€ä¸ªèºæ—‹é‡å ã€‚ä½ èƒ½æƒ³è±¡å—ï¼Ÿ
 
 All right. So imagine a counter Fibonacci spiral going the other way and overlapping the first one.Can you imagine that? 
 
-ÎÊ£ºÊÇµÄ¡£
+é—®ï¼šæ˜¯çš„ã€‚
 
 Yes.
 
-°ÍÏÄ£ºÏÖÔÚÏëÏóÒ»ÏÂ£¬ÎÒËùÃèÊöµÄÊÇÒ»¸ö¼òµ¥µÄ¶şÎ¬°æ±¾£¬Êµ¼ÊÉÏÊÇ·Ç³£¶àÎ¬µÄ¡£ËùÒÔËü»á³¯×Å¸÷¸ö·½Ïò·¢Õ¹¡£µ«ÎªÁË¼òµ¥Æğ¼û£¬ÏëÏóÒ»ÏÂË«ÂİĞı¡£ºÃÂğ£¿
+å·´å¤ï¼šç°åœ¨æƒ³è±¡ä¸€ä¸‹ï¼Œæˆ‘æ‰€æè¿°çš„æ˜¯ä¸€ä¸ªç®€å•çš„äºŒç»´ç‰ˆæœ¬ï¼Œå®é™…ä¸Šæ˜¯éå¸¸å¤šç»´çš„ã€‚æ‰€ä»¥å®ƒä¼šæœç€å„ä¸ªæ–¹å‘å‘å±•ã€‚ä½†ä¸ºäº†ç®€å•èµ·è§ï¼Œæƒ³è±¡ä¸€ä¸‹åŒèºæ—‹ã€‚å¥½å—ï¼Ÿ
 
 Now imagine that what I'm describing is a simple two-dimensional version of something that is actually very multidimensional.So it would go in all sorts of directions. But for simplicity's sake, just imagine that double spiral.All right? 
 
-ÎÊ£ºàÅ¡£
+é—®ï¼šå—¯ã€‚
 
-°ÍÏÄ£ºÔÚÄ³Ğ©µØ·½£¬Ò»¸öÂİĞıÓëÁíÒ»¸öÂİĞıÏà½»¡£¶ÔÂğ£¿
+å·´å¤ï¼šåœ¨æŸäº›åœ°æ–¹ï¼Œä¸€ä¸ªèºæ—‹ä¸å¦ä¸€ä¸ªèºæ—‹ç›¸äº¤ã€‚å¯¹å—ï¼Ÿ
 
 There are places where then the spiral, one spiral, crosses the other spiral.Correct? 
 
-ÎÊ£ºàÅ¡£
+é—®ï¼šå—¯ã€‚
 
-°ÍÏÄ£ºËüÖ®ËùÒÔÕâÑù£¬ÊÇÒòÎªËüÔÚÔ½À´Ô½Ô¶µÄ¾àÀëÉÏ³ÊÂİĞı×´¡£¶ÔÂğ£¿
+å·´å¤ï¼šå®ƒä¹‹æ‰€ä»¥è¿™æ ·ï¼Œæ˜¯å› ä¸ºå®ƒåœ¨è¶Šæ¥è¶Šè¿œçš„è·ç¦»ä¸Šå‘ˆèºæ—‹çŠ¶ã€‚å¯¹å—ï¼Ÿ
 
 And it does so because it is a spiral at farther and farther and farther distances.Correct?
 
-ÎÊ£ºÄãÊÇ¶ÔµÄ¡£
+é—®ï¼šä½ æ˜¯å¯¹çš„ã€‚
 
 You are. 
 
-Í¼Æ¬
+å›¾ç‰‡
 
 
-°ÍÏÄ£ºĞ»Ğ»¡£ËùÒÔÎÒÃÇ³ÆÖ®Îª½Úµã¡£ºÃÂğ£¿
+å·´å¤ï¼šè°¢è°¢ã€‚æ‰€ä»¥æˆ‘ä»¬ç§°ä¹‹ä¸ºèŠ‚ç‚¹ã€‚å¥½å—ï¼Ÿ
 
 Thank you.So we call those nodal points.All right?
 
-ÕâĞ©½Úµã£¬È¡¾öÓÚËüÃÇÈçºÎ´©¹ıÁíÒ»¸öÂİĞı£¬ÒÔ¼°ÓĞ¶àÉÙ´Î½»²æ£¬Êµ¼ÊÉÏ»á²úÉú²»Í¬µÄĞ§Ó¦£¬ÄãÃÇ³ÆÖ®ÎªÖØÁ¦¡¢µç´ÅÁ¦¡¢Ç¿ºËÁ¦¡¢ÈõºËÁ¦¡¢°µÎïÖÊ¡¢°µÄÜÁ¿µÈµÈ¡£
+è¿™äº›èŠ‚ç‚¹ï¼Œå–å†³äºå®ƒä»¬å¦‚ä½•ç©¿è¿‡å¦ä¸€ä¸ªèºæ—‹ï¼Œä»¥åŠæœ‰å¤šå°‘æ¬¡äº¤å‰ï¼Œå®é™…ä¸Šä¼šäº§ç”Ÿä¸åŒçš„æ•ˆåº”ï¼Œä½ ä»¬ç§°ä¹‹ä¸ºé‡åŠ›ã€ç”µç£åŠ›ã€å¼ºæ ¸åŠ›ã€å¼±æ ¸åŠ›ã€æš—ç‰©è´¨ã€æš—èƒ½é‡ç­‰ç­‰ã€‚
 
 Those nodal points, depending upon exactly how they cross the other spiral and how many iterations of that crossing there are, actually create the different effects you call gravity, electromagnetism, strong nuclear force, weak nuclear force, dark matter, dark energy, so on and so forth.
 
-ÕıÊÇÕâÖÖÌØÊâµÄ½á¹¹¿ÉÒÔ½âÊÍÄãÔÚÎïÖÊÓîÖæÖĞÌåÑéµ½µÄËùÓĞ²»Í¬µÄËùÎ½Á¦Á¿Ö®¼äµÄ¹ØÏµ£¬²¢Í¨¹ı½«ËüÃÇÀí½âÎª°üº¬ÒâÊ¶³¡µÄ»ù±¾¸ÅÄîµÄ²»Í¬½Úµã¼¯ÖĞÀ´Õ¹Ê¾ËüÃÇÖ®¼äµÄÁªÏµ¡£
+æ­£æ˜¯è¿™ç§ç‰¹æ®Šçš„ç»“æ„å¯ä»¥è§£é‡Šä½ åœ¨ç‰©è´¨å®‡å®™ä¸­ä½“éªŒåˆ°çš„æ‰€æœ‰ä¸åŒçš„æ‰€è°“åŠ›é‡ä¹‹é—´çš„å…³ç³»ï¼Œå¹¶é€šè¿‡å°†å®ƒä»¬ç†è§£ä¸ºåŒ…å«æ„è¯†åœºçš„åŸºæœ¬æ¦‚å¿µçš„ä¸åŒèŠ‚ç‚¹é›†ä¸­æ¥å±•ç¤ºå®ƒä»¬ä¹‹é—´çš„è”ç³»ã€‚
 
 It is that particular structure that can explain the relationship between all the different so-called forces that you experience in your physical universe and show the connection between them all by understanding them as different concentrations of nodal points of a fundamental concept that contains a field of consciousness.
 
-ËùÒÔÈç¹ûÒâÊ¶×÷ÎªÒ»¸öÁìÓò±»ÔÊĞí½øÈëÉúÌ¬ÏµÍ³¡£¡£¡£ÏÖÔÚ£¬Ïà¶Ô×î½ü£¬Êµ¼ÊÉÏÒÑ¾­´´½¨ÁËÒ»¸öĞÂµÄÊıÑ§·½³Ì£¬ËüÈ·ÊµÔÊĞíÒıÁ¦ºÍÁ¿×ÓÁ¦Ñ§Ïà½áºÏ¡£ÕâÊÇÕıÈ·µÄ·½Ïò¡£µ«ËüÈÔÈ»±ØĞë°üº¬Àí½âÈçºÎÁ¿»¯ºÍ´´½¨ĞÂµÄÊıÑ§±íÊ¾»òÒâÊ¶³¡µÄ¼¸ºÎ±íÊ¾£¬Ò»ÇĞ¶¼ÊÇ´ÓÕâ¸öÒâÊ¶³¡ÖĞ´´Ôì³öÀ´µÄ¡£
+æ‰€ä»¥å¦‚æœæ„è¯†ä½œä¸ºä¸€ä¸ªé¢†åŸŸè¢«å…è®¸è¿›å…¥ç”Ÿæ€ç³»ç»Ÿã€‚ã€‚ã€‚ç°åœ¨ï¼Œç›¸å¯¹æœ€è¿‘ï¼Œå®é™…ä¸Šå·²ç»åˆ›å»ºäº†ä¸€ä¸ªæ–°çš„æ•°å­¦æ–¹ç¨‹ï¼Œå®ƒç¡®å®å…è®¸å¼•åŠ›å’Œé‡å­åŠ›å­¦ç›¸ç»“åˆã€‚è¿™æ˜¯æ­£ç¡®çš„æ–¹å‘ã€‚ä½†å®ƒä»ç„¶å¿…é¡»åŒ…å«ç†è§£å¦‚ä½•é‡åŒ–å’Œåˆ›å»ºæ–°çš„æ•°å­¦è¡¨ç¤ºæˆ–æ„è¯†åœºçš„å‡ ä½•è¡¨ç¤ºï¼Œä¸€åˆ‡éƒ½æ˜¯ä»è¿™ä¸ªæ„è¯†åœºä¸­åˆ›é€ å‡ºæ¥çš„ã€‚
 
 So if consciousness as a field is allowed into the ecosystem... Now, relatively recently, there actually has been the creation of a new mathematical equation that does allow gravity and quantum mechanics to be combined.And that is the correct direction to go in. But it still must include the understanding of how to quantify and create new mathematical representations or geometric representations of the field of consciousness out of which everything is created. 
 
-Ò»µ©Äã½«ÆäÄÉÈëÄãµÄ·½³ÌÊ½ÖĞ£¬Äã¾Í»áÀí½âÕâÖÖ¹ØÏµ¡£µ«´Óì³²¨ÄÇÆõË«ÂİĞı¿ªÊ¼£¬Äã¿ÉÒÔ½¨Á¢Ò»¸ö¿ò¼Ü£¬ÔÚÕâ¸ö¿ò¼ÜÉÏ£¬Äã¿ÉÒÔ¸üÉîÈëµØÀí½âËùÓĞÕâĞ©Ïà»¥¹ØÏµµÄ¶àÎ¬ĞÔÖÊ¡£Õâ»áÓĞ°ïÖúÂğ£¿
+ä¸€æ—¦ä½ å°†å…¶çº³å…¥ä½ çš„æ–¹ç¨‹å¼ä¸­ï¼Œä½ å°±ä¼šç†è§£è¿™ç§å…³ç³»ã€‚ä½†ä»æ–æ³¢é‚£å¥‘åŒèºæ—‹å¼€å§‹ï¼Œä½ å¯ä»¥å»ºç«‹ä¸€ä¸ªæ¡†æ¶ï¼Œåœ¨è¿™ä¸ªæ¡†æ¶ä¸Šï¼Œä½ å¯ä»¥æ›´æ·±å…¥åœ°ç†è§£æ‰€æœ‰è¿™äº›ç›¸äº’å…³ç³»çš„å¤šç»´æ€§è´¨ã€‚è¿™ä¼šæœ‰å¸®åŠ©å—ï¼Ÿ
 
 And once you include that into your equations, you will understand the relationship. But starting with that Fibonacci double spiral can be a skeleton upon which you can build a deeper understanding of the multidimensional nature of all of those relationships to each other.Will that help? 
 
-Í¼Æ¬
+å›¾ç‰‡
 
-ÎÊ£ºÄ³ÈËÓĞ£¬ÊÇµÄ¡£ÎÒÍ·ÌÛ¡£
+é—®ï¼šæŸäººæœ‰ï¼Œæ˜¯çš„ã€‚æˆ‘å¤´ç–¼ã€‚
 
 Somebody, yes. My brain hurts. 
 
-°ÍÏÄ£ººÃ°É¡£
+å·´å¤ï¼šå¥½å§ã€‚
 
 All right. 
 
-ÎÊ£º·Ç³£¸ĞĞ»Äã£¬°ÍÏÄ¡£
+é—®ï¼šéå¸¸æ„Ÿè°¢ä½ ï¼Œå·´å¤ã€‚
 
 Thank you so much, Bashar.
 

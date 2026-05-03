@@ -1,50 +1,50 @@
-°ÍÏÄ£º¸¥²®Ë¹¾ŞÊ¯
-Ô­´´ °¢¿üÑÇ °ÍÏÄËµ
- 2024Äê12ÔÂ23ÈÕ 06:00 ÁÉÄş
-Ç°ÑÔ
+å·´å¤ï¼šå¼—ä¼¯æ–¯å·¨çŸ³
+åŸåˆ› é˜¿å¥äºš å·´å¤è¯´
+ 2024å¹´12æœˆ23æ—¥ 06:00 è¾½å®
+å‰è¨€
 
-µ«Õâ¸öÏë·¨ÊÇ£¬ËüÀ´×ÔºÜ¾ÃÒÔÇ°µÄÎÄÃ÷¡£ÔÚÄ³ÖÖ³Ì¶ÈÉÏ£¬ËüÈÔÈ»ÔÚÄÜÁ¿ÉÏÓĞÒ»Ğ©»î¶¯£¬µ«²¢²»ÊÇÕæÕı°´ÕÕÆä×î³õµÄÓÃÍ¾£¬ÒòÎªÄÇ¸öÎÄÃ÷²»ÔÙÏñÒÔÇ°ÄÇÑùÔÚ»ğĞÇÉÏÁË¡£
+ä½†è¿™ä¸ªæƒ³æ³•æ˜¯ï¼Œå®ƒæ¥è‡ªå¾ˆä¹…ä»¥å‰çš„æ–‡æ˜ã€‚åœ¨æŸç§ç¨‹åº¦ä¸Šï¼Œå®ƒä»ç„¶åœ¨èƒ½é‡ä¸Šæœ‰ä¸€äº›æ´»åŠ¨ï¼Œä½†å¹¶ä¸æ˜¯çœŸæ­£æŒ‰ç…§å…¶æœ€åˆçš„ç”¨é€”ï¼Œå› ä¸ºé‚£ä¸ªæ–‡æ˜ä¸å†åƒä»¥å‰é‚£æ ·åœ¨ç«æ˜Ÿä¸Šäº†ã€‚
 
-                  ÒëÕß£º°¢¿üÑÇ Aquia
+                  è¯‘è€…ï¼šé˜¿å¥äºš Aquia
 
-               ´«Ñ¶Ê±¼ä£º2021Äê2ÔÂ27ÈÕ
+               ä¼ è®¯æ—¶é—´ï¼š2021å¹´2æœˆ27æ—¥
 
-ÎÊ£ºÁíÒ»¸öÎÊÌâÊÇ£¬ÄãÄÜ¸æËßÎÒÃÇ»ğÎÀÒ»ÉÏµÄ¸¥²®Ë¹¾ŞÊ¯Âğ£¿Ëü·ÅÔÚÄÇÀïÁËÂğ£¿Ë­·ÅµÄ£¿ËüµÄÄ¿µÄÊÇÊ²Ã´£¿ËüÓëÎÒÃÇĞÇÇòÉÏµÄÈÎºÎ¾ŞÊ¯¶¼ÓĞ¹ØÏµÂğ£¿
+é—®ï¼šå¦ä¸€ä¸ªé—®é¢˜æ˜¯ï¼Œä½ èƒ½å‘Šè¯‰æˆ‘ä»¬ç«å«ä¸€ä¸Šçš„å¼—ä¼¯æ–¯å·¨çŸ³å—ï¼Ÿå®ƒæ”¾åœ¨é‚£é‡Œäº†å—ï¼Ÿè°æ”¾çš„ï¼Ÿå®ƒçš„ç›®çš„æ˜¯ä»€ä¹ˆï¼Ÿå®ƒä¸æˆ‘ä»¬æ˜Ÿçƒä¸Šçš„ä»»ä½•å·¨çŸ³éƒ½æœ‰å…³ç³»å—ï¼Ÿ
 
 Another question is, can you tell us about Phobos monolith on the Mars moon? Was it put there? Who did it? What's its purpose? And does it have any relationship to any of the monoliths on our planet?
 
-°ÍÏÄ£º»ğÎÀÒ»ÉÏ¾ŞÊ¯µÄÏë·¨£¬»ğĞÇµÄÎÀĞÇÖ®Ò»£¬À´×ÔÊı°ÙÍòÄêÇ°Ôø¾­¾Ó×¡ÔÚÄÇÀïµÄ¹ÅÀÏÎÄÃ÷£¬×÷ÎªÒ»¸öÉÚ±ø£¬×÷Îª¸÷ÖÖÄÜÔ´ºÍ¿ÆÑ§Ä¿µÄµÄµÆËş¡£ËüÊÇ£¬ÔÚÄ³ÖÖ³Ì¶ÈÉÏ£¬ËüÓëµØÇòÉÏµÄÄ³Ğ©ÊÂÎïÓĞ×ÅÄÜÁ¿ÉÏµÄÁ¬½Ó£¬±ÈÈçÄ³Ğ©ÖÖÀàµÄ¹Å´ú·½¼â±®ºÍ½ğ×ÖËşµÈµÈ¡£ÄÇÀïÓĞÒ»ÖÖÄÜÁ¿Á¬½Ó¡£
+å·´å¤ï¼šç«å«ä¸€ä¸Šå·¨çŸ³çš„æƒ³æ³•ï¼Œç«æ˜Ÿçš„å«æ˜Ÿä¹‹ä¸€ï¼Œæ¥è‡ªæ•°ç™¾ä¸‡å¹´å‰æ›¾ç»å±…ä½åœ¨é‚£é‡Œçš„å¤è€æ–‡æ˜ï¼Œä½œä¸ºä¸€ä¸ªå“¨å…µï¼Œä½œä¸ºå„ç§èƒ½æºå’Œç§‘å­¦ç›®çš„çš„ç¯å¡”ã€‚å®ƒæ˜¯ï¼Œåœ¨æŸç§ç¨‹åº¦ä¸Šï¼Œå®ƒä¸åœ°çƒä¸Šçš„æŸäº›äº‹ç‰©æœ‰ç€èƒ½é‡ä¸Šçš„è¿æ¥ï¼Œæ¯”å¦‚æŸäº›ç§ç±»çš„å¤ä»£æ–¹å°–ç¢‘å’Œé‡‘å­—å¡”ç­‰ç­‰ã€‚é‚£é‡Œæœ‰ä¸€ç§èƒ½é‡è¿æ¥ã€‚
 
 The idea of monolith on Phobos, one of Mars' moons, comes from the ancient civilization that used to abide there millions of your years ago, as a sentinel, as a beacon for a variety of energetic and scientific purposes.It is, to some degree, energetically connected to certain things on Earth, such as certain kinds of ancient Obelisks and pyramids and so on and so forth. There is an energetic connection.
 
-µ«Õâ¸öÏë·¨ÊÇ£¬ËüÀ´×ÔºÜ¾ÃÒÔÇ°µÄÎÄÃ÷¡£ÔÚÄ³ÖÖ³Ì¶ÈÉÏ£¬ËüÈÔÈ»ÔÚÄÜÁ¿ÉÏÓĞÒ»Ğ©»î¶¯£¬µ«²¢²»ÊÇÕæÕı°´ÕÕÆä×î³õµÄÓÃÍ¾£¬ÒòÎªÄÇ¸öÎÄÃ÷²»ÔÙÏñÒÔÇ°ÄÇÑùÔÚ»ğĞÇÉÏÁË¡£
+ä½†è¿™ä¸ªæƒ³æ³•æ˜¯ï¼Œå®ƒæ¥è‡ªå¾ˆä¹…ä»¥å‰çš„æ–‡æ˜ã€‚åœ¨æŸç§ç¨‹åº¦ä¸Šï¼Œå®ƒä»ç„¶åœ¨èƒ½é‡ä¸Šæœ‰ä¸€äº›æ´»åŠ¨ï¼Œä½†å¹¶ä¸æ˜¯çœŸæ­£æŒ‰ç…§å…¶æœ€åˆçš„ç”¨é€”ï¼Œå› ä¸ºé‚£ä¸ªæ–‡æ˜ä¸å†åƒä»¥å‰é‚£æ ·åœ¨ç«æ˜Ÿä¸Šäº†ã€‚
 
 But the idea is that it is something from a long-ago civilization. It still has, to some degree, some activity within it energetically, but not really according to its original uses, since that civilization is no longer upon Mars in the same way that it used to be.
 
-Í¼Æ¬
+å›¾ç‰‡
 
-ÎÊ£º³öÏÖµÄÄÇ¸öÊ¯±®ÓĞÊ²Ã´ÖØÒªÒâÒåÂğ£¿ËüÊÇÔÚÑÇÀûÉ£ÄÇÖİ»¹ÊÇÓÌËûÖİ£¿
+é—®ï¼šå‡ºç°çš„é‚£ä¸ªçŸ³ç¢‘æœ‰ä»€ä¹ˆé‡è¦æ„ä¹‰å—ï¼Ÿå®ƒæ˜¯åœ¨äºšåˆ©æ¡‘é‚£å·è¿˜æ˜¯çŠ¹ä»–å·ï¼Ÿ
 
 Was there anything significant about the one that showed up? Was it in Arizona or Utah?
 
-°ÍÏÄ£ºàÅ£¬ÒâÒåÊÇÉñÃØµÄ¡£ÕâÖÖÒâÒåÊÇ¼¯ÌåÒâÊ¶µÄÒ»ÖÖ±íÏÖ£¬ÏÖÔÚ¼¯ÌåÒâÊ¶¶ÔÌ½Ë÷ÉñÃØ¡¢Ì½Ë÷ÃÅ»§¡¢Ì½Ë÷¿ÉÄÜÓëÆäËûÎ¬¶ÈºÍÆäËûÏÖÊµÏà¹ØµÄµØ·½µÄÏë·¨Ô½À´Ô½¿ª·Å¡£ÕâÑùÄãÃÇ¾Í»á¸ü¼ÓÒâÊ¶µ½£¬ÄãÃÇĞÇÇòÉÏµÄÉñÃØÒª±ÈÄãÃÇ¿ÉÄÜÈÏÎªµÄ¸ü¶à¡£ÒòÎªÄãÃÇĞÇÇòÉÏµÄĞí¶àÈËÈÏÎª£¬Å¶£¬ÎÒÃÇÒÑ¾­½â¾öÁËÕâÒ»ÇĞ£¬ÎÒÃÇÒÑ¾­¿´µ½ÁËÕâÒ»ÇĞ¡£ÒÑ¾­È¥¹ıÄÇÀï£¬×öµ½ÁËÕâ¸ö¡£
+å·´å¤ï¼šå—¯ï¼Œæ„ä¹‰æ˜¯ç¥ç§˜çš„ã€‚è¿™ç§æ„ä¹‰æ˜¯é›†ä½“æ„è¯†çš„ä¸€ç§è¡¨ç°ï¼Œç°åœ¨é›†ä½“æ„è¯†å¯¹æ¢ç´¢ç¥ç§˜ã€æ¢ç´¢é—¨æˆ·ã€æ¢ç´¢å¯èƒ½ä¸å…¶ä»–ç»´åº¦å’Œå…¶ä»–ç°å®ç›¸å…³çš„åœ°æ–¹çš„æƒ³æ³•è¶Šæ¥è¶Šå¼€æ”¾ã€‚è¿™æ ·ä½ ä»¬å°±ä¼šæ›´åŠ æ„è¯†åˆ°ï¼Œä½ ä»¬æ˜Ÿçƒä¸Šçš„ç¥ç§˜è¦æ¯”ä½ ä»¬å¯èƒ½è®¤ä¸ºçš„æ›´å¤šã€‚å› ä¸ºä½ ä»¬æ˜Ÿçƒä¸Šçš„è®¸å¤šäººè®¤ä¸ºï¼Œå“¦ï¼Œæˆ‘ä»¬å·²ç»è§£å†³äº†è¿™ä¸€åˆ‡ï¼Œæˆ‘ä»¬å·²ç»çœ‹åˆ°äº†è¿™ä¸€åˆ‡ã€‚å·²ç»å»è¿‡é‚£é‡Œï¼Œåšåˆ°äº†è¿™ä¸ªã€‚
 
 Well, the significance is mystery. The significance is a manifestation of the collective consciousness that now is becoming more open to the idea of exploring mystery, exploring portals, exploring places that might be connected to other dimensions and other realities.So that you become more aware that there is more mystery on your planet than you may think.Because many people on your planet think, oh, we've solved it all, we've seen it all. Been there, done that.
 
-ºÃ°É£¬Ã»ÓĞ¡£ÄãÖ»ÊÇ´¥¼°ÁË±íÃæ¡£ËùÒÔÕâ¸öÏë·¨ÊÇ£¬ÄãÃÇµÄ¼¯ÌåÒâÊ¶½«ÔÊĞí¸öÈË´´ÔìÄ³Ğ©¸üÉñÃØµÄÊÂÎïºÍ±íÏÖĞÎÊ½£¬¿ªÊ¼°ÑÄãÃÇÀ­ÏòÎ°´óµÄÉñÃØµÄ·½Ïò¡£ÕâÑùÄã¾Í¿ÉÒÔÔÚÌ½Ë÷ÍâÔÚÏÖÊµµÄÍ¬Ê±ÕæÕıÌ½Ë÷ÄÚÔÚÏÖÊµ£¬²¢ÎÊÄã×Ô¼ºÒ»Ğ©Äã±ØĞëÈ¥²»Í¬²ãÃæ²ÅÄÜ»Ø´ğµÄÎÊÌâ¡£
+å¥½å§ï¼Œæ²¡æœ‰ã€‚ä½ åªæ˜¯è§¦åŠäº†è¡¨é¢ã€‚æ‰€ä»¥è¿™ä¸ªæƒ³æ³•æ˜¯ï¼Œä½ ä»¬çš„é›†ä½“æ„è¯†å°†å…è®¸ä¸ªäººåˆ›é€ æŸäº›æ›´ç¥ç§˜çš„äº‹ç‰©å’Œè¡¨ç°å½¢å¼ï¼Œå¼€å§‹æŠŠä½ ä»¬æ‹‰å‘ä¼Ÿå¤§çš„ç¥ç§˜çš„æ–¹å‘ã€‚è¿™æ ·ä½ å°±å¯ä»¥åœ¨æ¢ç´¢å¤–åœ¨ç°å®çš„åŒæ—¶çœŸæ­£æ¢ç´¢å†…åœ¨ç°å®ï¼Œå¹¶é—®ä½ è‡ªå·±ä¸€äº›ä½ å¿…é¡»å»ä¸åŒå±‚é¢æ‰èƒ½å›ç­”çš„é—®é¢˜ã€‚
 
 Well, no. You've barely scratched the surface. So the idea is that your collective consciousness will allow individuals to create certain things and manifestations that will be more mysterious to start pulling you in the direction of the great mysteries.So that you can really explore both the inner realities as you explore the outer realities, and ask yourself questions that you have to go to a different level to answer.
 
-Í¼Æ¬
+å›¾ç‰‡
 
-ÎÊ£ºÄãÄÜºÍÎÒÃÇ·ÖÏíÒ»ÏÂÕâĞ©Ê¯Í·ÊÇÈçºÎ½¨Ôì¹Å´ú¾ŞÊ¯µÄÂğ£¿ÆäÖĞÒ»Ğ©¾ŞÊ¯ÖØ´ïÊı°Ù¶Ö£¬ÊÇÈçºÎ±»ÇĞ¸îºÍµõ×°µ½Î»µÄ£¿
+é—®ï¼šä½ èƒ½å’Œæˆ‘ä»¬åˆ†äº«ä¸€ä¸‹è¿™äº›çŸ³å¤´æ˜¯å¦‚ä½•å»ºé€ å¤ä»£å·¨çŸ³çš„å—ï¼Ÿå…¶ä¸­ä¸€äº›å·¨çŸ³é‡è¾¾æ•°ç™¾å¨ï¼Œæ˜¯å¦‚ä½•è¢«åˆ‡å‰²å’ŒåŠè£…åˆ°ä½çš„ï¼Ÿ
 
 And could you share with us how the stones used to build the ancient megaliths, some weighing hundreds of tons, were cut and lifted into place?
 
-°ÍÏÄ£ºàÅ£¬Ğí¶àµÄÕñ¶¯¹²Õñ£¬Éù²¨Õñ¶¯±»ÓÃÀ´Ïû³ıÄãÃÇ³ÆÖ®ÎªÖØÁ¦µÄÏë·¨£¬ÖØĞÂ¶¨Î»ÕâĞ©ÎïÌåÖĞµÄÎ»ÖÃ±äÁ¿¡£µ«ÊÇ¾¡¹ÜËûÃÇºÜ¾ÃÒÔÇ°¾ÍÓĞÄ³Ğ©¼¼Êõ¿ÉÒÔ×öÕâĞ©ÊÂÇé£¬µ«ºÜ¶àÊ¯Í·¶¼Ã»ÓĞ±»ÇĞ¸î¡£ËüÃÇÖ»ÊÇÔÚÈÜ½â»òÈí»¯ËüÃÇµÄÒâÒåÉÏĞÎ³ÉµÄ£¬²¢ÇÒ¸üÏñÊÇ°ÑËüÃÇµ±×÷Ë®Äà»òÕ³ÍÁµÄ¸ÅÄîÀ´´¦Àí¡£
+å·´å¤ï¼šå—¯ï¼Œè®¸å¤šçš„æŒ¯åŠ¨å…±æŒ¯ï¼Œå£°æ³¢æŒ¯åŠ¨è¢«ç”¨æ¥æ¶ˆé™¤ä½ ä»¬ç§°ä¹‹ä¸ºé‡åŠ›çš„æƒ³æ³•ï¼Œé‡æ–°å®šä½è¿™äº›ç‰©ä½“ä¸­çš„ä½ç½®å˜é‡ã€‚ä½†æ˜¯å°½ç®¡ä»–ä»¬å¾ˆä¹…ä»¥å‰å°±æœ‰æŸäº›æŠ€æœ¯å¯ä»¥åšè¿™äº›äº‹æƒ…ï¼Œä½†å¾ˆå¤šçŸ³å¤´éƒ½æ²¡æœ‰è¢«åˆ‡å‰²ã€‚å®ƒä»¬åªæ˜¯åœ¨æº¶è§£æˆ–è½¯åŒ–å®ƒä»¬çš„æ„ä¹‰ä¸Šå½¢æˆçš„ï¼Œå¹¶ä¸”æ›´åƒæ˜¯æŠŠå®ƒä»¬å½“ä½œæ°´æ³¥æˆ–ç²˜åœŸçš„æ¦‚å¿µæ¥å¤„ç†ã€‚
 
 Well, a lot of vibrational resonance, sonic vibrations were used to cancel the idea that you call gravity, to relocate the locational variable in those objects.But even though they also had certain kinds of technologies long ago that could do some of these things, a lot of the stones weren't cut.They were simply formed in the sense of dissolving them or softening them and sort of treating them more like the idea of cement or clay.
 
-ËùÒÔËüÃÇ¿ÉÒÔ±»·ÅÖÃµ½Î»£¬ĞÎ³Éµ½Î»£¬¶ø²»Ò»¶¨×ÜÊÇ±»ÔËËÍ¡£ÓĞÊ±ºîËüÃÇÊÇÍ¨¹ıÕñ¶¯¹²Õñ¶ø±£³ÖÔÚ¿ÕÖĞµÄ£¬ÓĞÊ±ËüÃÇÖ»ÊÇÔÚÔ­µØÖÆ×÷µÄ¡£È¡¾öÓÚÄãÊ¹ÓÃµÄÕâÏî¼¼Êõ¾àÀëËü¶ªÊ§¡¢±»ÒÅÍüÖ®Ç°ÓĞ¶àÔ¶¡£
+æ‰€ä»¥å®ƒä»¬å¯ä»¥è¢«æ”¾ç½®åˆ°ä½ï¼Œå½¢æˆåˆ°ä½ï¼Œè€Œä¸ä¸€å®šæ€»æ˜¯è¢«è¿é€ã€‚æœ‰æ—¶ä¾¯å®ƒä»¬æ˜¯é€šè¿‡æŒ¯åŠ¨å…±æŒ¯è€Œä¿æŒåœ¨ç©ºä¸­çš„ï¼Œæœ‰æ—¶å®ƒä»¬åªæ˜¯åœ¨åŸåœ°åˆ¶ä½œçš„ã€‚å–å†³äºä½ ä½¿ç”¨çš„è¿™é¡¹æŠ€æœ¯è·ç¦»å®ƒä¸¢å¤±ã€è¢«é—å¿˜ä¹‹å‰æœ‰å¤šè¿œã€‚
 
 So they could be put into place, formed in place, and not necessarily always carried.Sometimes they were held aloft by vibrational resonance, and sometimes they were simply formed in place.Depends on how far back you go with the technology before it was lost, before it was forgotten.

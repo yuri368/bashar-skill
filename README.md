@@ -8,6 +8,35 @@
 
 ---
 
+## 版本
+
+当前版本：`v0.2.0`
+
+版本规则采用轻量语义化版本：
+
+- `v0.1.0`：Bashar 资料库基础发布版。
+- `v0.2.0`：统一正文资料编码为 UTF-8，补充原文直搜优先规则，重建全文检索索引，并建立版本号记录。
+- 后续 `v0.2.x`：错字、路径、索引小修。
+- 后续 `v0.x.0`：检索规则、资料结构、回答协议等可感知能力升级。
+- `v1.0.0`：资料结构、索引、安装与回答行为进入稳定可复用状态。
+
+---
+
+## 包含什么
+
+- `SKILL.md`：skill 的主入口和行为规则。
+- `巴夏词汇定义.md`：只记录巴夏原文中的关键词定义。
+- `巴夏主题索引.md`：人工维护的主题入口，每个主题默认 3 篇以内，最多 5 篇。
+- `迭代历史.md`：记录本 skill 的长期迭代轨迹。
+- `sources/`：Bashar 资料库。
+- `sources/_meta/articles.jsonl`：资料元数据。
+- `sources/_meta/search_index.jsonl`：预计算全文检索索引。
+- `scripts/search_sources.py`：检索资料库。
+- `scripts/build_search_index.py`：重建预计算索引。
+- `agents/openai.yaml`：Codex UI 展示信息。
+
+---
+
 ## 项目定位
 
 `bashar-skill` 目前主要用于个人资料整理和 Codex Skill 使用，并顺带发布到 GitHub。
@@ -24,180 +53,124 @@
 
 ## Bashar 简介
 
-Bashar（巴夏）通常被介绍为通过传讯者 Darryl Anka 进行表达的 Essassani 文明意识。
+Bashar 是 Darryl Anka 传讯的一个意识体名称。Bashar 的资料常围绕信念系统、定义、兴奋、同步性、显化、恐惧、行动、关系和自我认知等主题展开。
 
-相关资料中，Bashar 的讯息常围绕以下主题展开：
-
-* 兴奋与行动
-* 信念与定义
-* 恐惧与限制性信念
-* 同步性
-* 显化
-* 臣服与允许
-* 平行实相
-* 个人责任
-* 星际文明与意识进化
-
-本项目不负责证明或反驳 Bashar 体系本身，而是专注于对已有文本资料的整理、检索和引用。
+本项目不负责证明或反驳 Bashar 信息的真实性，而是把相关文本整理成一个可被 AI 检索、引用和校准的本地资料库。
 
 ---
 
 ## 核心功能
 
-### 1. 原文优先检索
-
-当用户提出类似问题时：
-
-* “巴夏原文怎么说？”
-* “资料库里有没有关于恐惧的说法？”
-* “这句话和巴夏原文冲突吗？”
-* “按 Bashar 的说法回答这个问题。”
-
-Skill 会优先检索 `sources/` 中的原文资料，并尽量在回答中保留来源路径、上下文和概念边界。
-
----
-
-### 2. 可持续迭代机制
-
-这个 Skill 被设计为一个持续迭代的资料系统。
-
-当用户指出以下问题时，可以同步修改对应文件：
-
-* “这个回答不像 Bashar。”
-* “这和原文冲突。”
-* “以后不要这样说。”
-* “这个表达可以保留。”
-* “把这个加入 Skill。”
-* “继续优化这个 Skill。”
-
-实质性修改后，建议同步更新：
-
-```text
-迭代历史.md
-```
+- 根据用户问题检索 Bashar 资料库。
+- 优先使用原文和对话结构，而不是直接抽象成二手总结。
+- 对高频主题建立人工索引，例如兴奋、定义、恐惧、同步性、关系、显化等。
+- 用词汇定义文件约束核心概念，避免随意改写术语含义。
+- 通过脚本重建搜索索引，改善本地资料检索。
 
 ---
 
 ## 仓库结构
 
 ```text
-bashar-skill/
-├─ SKILL.md
-├─ README.md
-├─ 巴夏词汇定义.md
-├─ 巴夏主题索引.md
-├─ 迭代历史.md
-├─ agents/
-│  └─ openai.yaml
-├─ scripts/
-│  ├─ search_sources.py
-│  ├─ build_search_index.py
-│  └─ export_github_package.py
-└─ sources/
-   ├─ _meta/
-   │  ├─ articles.jsonl
-   │  └─ search_index.jsonl
-   ├─ _indexes/
-   └─ ...
+bashar/
+├── SKILL.md
+├── README.md
+├── VERSION
+├── 巴夏词汇定义.md
+├── 巴夏主题索引.md
+├── 迭代历史.md
+├── agents/
+│   └── openai.yaml
+├── scripts/
+│   ├── build_search_index.py
+│   ├── search_sources.py
+│   └── export_github_package.py
+└── sources/
+    ├── _indexes/
+    ├── _meta/
+    └── ...
 ```
 
 ---
 
 ## 安装方式
 
-### 方式一：让 AI 辅助安装
-
-可以将本项目地址发给 AI，并让 AI 根据你的 Agent skills 目录进行安装：
-
-```text
-https://github.com/yuri368/bashar-skill
-```
-
-### 方式二：手动克隆到 skills 目录
-
-将仓库克隆到 Codex skills 目录，或者其他什么Agent skills 目录。以Codex来说：
+如果你使用 Codex Skill，可以将本仓库放到本地 skills 目录中，例如：
 
 ```powershell
-git clone https://github.com/yuri368/bashar-skill.git $env:USERPROFILE\.codex\skills\bashar
+git clone https://github.com/yuri368/bashar-skill.git C:\Users\Yuri368\.codex\skills\bashar
+```
+
+或在已有 skill 目录中更新：
+
+```powershell
+git pull
 ```
 
 ---
 
 ## 触发方式
 
-在 Codex 中提到以下关键词时，更容易触发该 Skill：
+在 Codex 中，提到以下词汇时通常会触发本 skill：
 
-```text
-bashar
-巴夏
-跟随兴奋
-限制性信念
-核心信念
-恐惧
-同步性
-显化
-平行实相
-找原文
-资料库里有没有
-继续优化这个 skill
-```
-
-示例：
-
-```text
-用 bashar skill 回答：我现在很迷茫，不知道下一步该做什么。
-```
-
-```text
-用 bashar skill 查一下：巴夏关于“恐惧是信使”的原文在哪里？
-```
-
-```text
-继续优化 bashar skill：
-重新检查“恐惧与负面信念”的主题索引，
-如果有更合适的原文入口，就更新主题索引和迭代历史。
-```
+- 巴夏
+- Bashar
+- 跟随兴奋
+- 兴奋公式
+- 同步性
+- 定义
+- 显化
+- 恐惧
+- 传讯
 
 ---
 
-## Skill 回答原则
+## 常用检索
 
-更完整的行为规则见 `SKILL.md`。
+重建索引：
 
-简化原则如下：
+```powershell
+python scripts/build_search_index.py
+```
 
-1. 能查原文，就先查原文。
-2. 回答时尽量保留来源路径和上下文。
-3. 不把 Bashar 内容过度心理学化、管理学化或鸡汤化。
-4. 遇到关键词，优先查 `巴夏词汇定义.md`。
-5. 遇到主题问题，优先查 `巴夏主题索引.md`。
-6. 回答风格尽量保留 Bashar 式的短句、定义、追问和行动落地。
-7. 如果 Skill 规则与原文冲突，原文优先，并反向校准 Skill。
+搜索资料：
+
+```powershell
+python scripts/search_sources.py "跟随兴奋"
+```
+
+如果主题索引还不完善，应直接搜索 `sources/` 中的原文资料，并交叉使用多个关键词。
 
 ---
 
 ## 维护规则
 
-建议按以下方式维护：
+- 新增或修改资料后，优先重建搜索索引。
+- 修改 skill 行为后，在 `迭代历史.md` 记录原因和影响。
+- 主题索引只是入口，不是最终权威；回答应回到原文资料。
+- 不把自己的概括写成 Bashar 原文。
+- 不把所有内容混成泛灵性表达；尽量保留 Bashar 的原始术语和问答语境。
 
-1. 修改 `SKILL.md` 时，优先以原文为准。
-2. 新增词汇定义时，写入 `巴夏词汇定义.md`，并保留来源路径。
-3. 新增主题入口时，写入 `巴夏主题索引.md`。
-4. 修改资料库后，重建 `sources/_meta/search_index.jsonl`。
-5. 每次实质性修改后，更新 `迭代历史.md`。
-6. 不确定的总结不要写成定论，优先标记为待校准。
+---
+
+## 发布与导出
+
+这个 GitHub 发布包来自本地工作 skill。发布前应确认：
+
+- 正文资料可以用 UTF-8 正常读取。
+- `sources/_meta/search_index.jsonl` 已重建。
+- `README.md`、`VERSION`、`迭代历史.md` 已同步版本说明。
+- Git tag 与 `VERSION` 文件一致。
 
 ---
 
 ## 当前限制
 
-本项目仍处于早期版本，存在以下限制：
-
-* 主题索引仍需人工继续校准。
-* 词汇定义库还不完整。
-* 部分原文来源路径和元数据可能需要进一步清理。
-* 检索结果质量依赖于索引构建质量。
-* 当前主要面向个人使用和 Codex Skill 场景，并非完整公开资料站。
+- 主题索引仍需人工继续校准。
+- 词汇定义库还不完整。
+- 部分原文来源路径和元数据可能需要进一步清理。
+- 检索结果质量依赖于索引构建质量。
+- 当前主要面向个人使用和 Codex Skill 场景，并非完整公开资料站。
 
 ---
 

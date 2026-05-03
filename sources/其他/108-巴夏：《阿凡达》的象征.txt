@@ -1,53 +1,53 @@
-°ÍÏÄ£º¡¶°¢·²´ï¡·µÄÏóÕ÷
-Ô­´´ °¢¿üÑÇ °ÍÏÄËµ
- 2024Äê12ÔÂ14ÈÕ 06:01 ÁÉÄş
-Ç°ÑÔ
+å·´å¤ï¼šã€Šé˜¿å‡¡è¾¾ã€‹çš„è±¡å¾
+åŸåˆ› é˜¿å¥äºš å·´å¤è¯´
+ 2024å¹´12æœˆ14æ—¥ 06:01 è¾½å®
+å‰è¨€
 
-ÔÚÄ³ÖÖ³Ì¶ÈÉÏ£¬À¶ÈËµÄÏë·¨ÔÚ²»Öª²»¾õÖĞ»ìºÏÔÚÒ»Æğ£¬µ«Õâ¸öÏë·¨²¢²»ÏñÄãÏëÏóµÄÄÇÑù´ú±íÀ¶ÈË¡£
+åœ¨æŸç§ç¨‹åº¦ä¸Šï¼Œè“äººçš„æƒ³æ³•åœ¨ä¸çŸ¥ä¸è§‰ä¸­æ··åˆåœ¨ä¸€èµ·ï¼Œä½†è¿™ä¸ªæƒ³æ³•å¹¶ä¸åƒä½ æƒ³è±¡çš„é‚£æ ·ä»£è¡¨è“äººã€‚
 
-                  ÒëÕß£º°¢¿üÑÇ Aquia
+                  è¯‘è€…ï¼šé˜¿å¥äºš Aquia
 
-               ´«Ñ¶Ê±¼ä£º2021Äê4ÔÂ27ÈÕ
+               ä¼ è®¯æ—¶é—´ï¼š2021å¹´4æœˆ27æ—¥
 
-ÎÊ£ºÕâĞ©ÊÇÒ»Ğ©E.T.ÎÊÌâ¡£Ê·µÙÎÄ¡¤Ë¹Æ¤¶û²®¸ñÔÚ´´×÷µçÓ°¡¶°¢·²´ï¡·Ê±£¬ÊÇ·ñÇ±ÒâÊ¶µØÃèÊöÁËÍâĞÇ´æÓĞÀ¶ÈË£¿Õâ²¿µçÓ°ÓĞÄÄĞ©·½Ãæ×¼È·µØ·´Ó³ÁËÀ¶ÈËµÄÏÖÊµ£¿
+é—®ï¼šè¿™äº›æ˜¯ä¸€äº›E.T.é—®é¢˜ã€‚å²è’‚æ–‡Â·æ–¯çš®å°”ä¼¯æ ¼åœ¨åˆ›ä½œç”µå½±ã€Šé˜¿å‡¡è¾¾ã€‹æ—¶ï¼Œæ˜¯å¦æ½œæ„è¯†åœ°æè¿°äº†å¤–æ˜Ÿå­˜æœ‰è“äººï¼Ÿè¿™éƒ¨ç”µå½±æœ‰å“ªäº›æ–¹é¢å‡†ç¡®åœ°åæ˜ äº†è“äººçš„ç°å®ï¼Ÿ
 
 These are some E.T. questions. Was Steven Spielberg subconsciously describing the Blue Men E.T.'s when he created the movie Avatar?And are there aspects of the movie that accurately reflect the reality of the Blue Men?
 
-°ÍÏÄ£ºàÅÊ×ÏÈ£¬Ê·µÙÎÄ¡¤Ë¹Æ¤¶û²®¸ñÃ»ÓĞ´´×÷¡¶°¢·²´ï¡·¡£Õ²Ä·Ë¹¡¤¿¨Ã·Â¡´´×÷ÁË¡£
+å·´å¤ï¼šå—¯é¦–å…ˆï¼Œå²è’‚æ–‡Â·æ–¯çš®å°”ä¼¯æ ¼æ²¡æœ‰åˆ›ä½œã€Šé˜¿å‡¡è¾¾ã€‹ã€‚è©¹å§†æ–¯Â·å¡æ¢…éš†åˆ›ä½œäº†ã€‚
 
 Well, first of all, Steven Spielberg didn't create Avatar. James Cameron did. 
 
-ÎÊ£ººÃµÄ¡£
+é—®ï¼šå¥½çš„ã€‚
 
 Okay.
 
-°ÍÏÄ£ºÕâ¸öÏë·¨ÊÇ£¬²»£¬²»ÍêÈ«ÊÇ¡£ÕâÊÇÒ»ÖÖÓë×ÔÈ»Á¬½ÓÓĞ¹ØµÄ¸÷ÖÖÊÂÎïµÄ»ìºÏ¡£ÔÚÄ³ÖÖ³Ì¶ÈÉÏ£¬À¶ÈËµÄÏë·¨ÔÚ²»Öª²»¾õÖĞ»ìºÏÔÚÒ»Æğ£¬µ«Õâ¸öÏë·¨²¢²»ÏñÄãÏëÏóµÄÄÇÑù´ú±íÀ¶ÈË¡£
+å·´å¤ï¼šè¿™ä¸ªæƒ³æ³•æ˜¯ï¼Œä¸ï¼Œä¸å®Œå…¨æ˜¯ã€‚è¿™æ˜¯ä¸€ç§ä¸è‡ªç„¶è¿æ¥æœ‰å…³çš„å„ç§äº‹ç‰©çš„æ··åˆã€‚åœ¨æŸç§ç¨‹åº¦ä¸Šï¼Œè“äººçš„æƒ³æ³•åœ¨ä¸çŸ¥ä¸è§‰ä¸­æ··åˆåœ¨ä¸€èµ·ï¼Œä½†è¿™ä¸ªæƒ³æ³•å¹¶ä¸åƒä½ æƒ³è±¡çš„é‚£æ ·ä»£è¡¨è“äººã€‚
 
 The idea is, no, not exactly. It's kind of an amalgamation in those characters of a variety of things that have to do with connections to nature.The Blue Men idea is mixed in there to some degree unconsciously, but the idea really isn't as representative of the Blue Men as you might think.
 
-ËûÃÇÔÚºÜ¶à·½Ãæ¶¼ÓëÖ®½ØÈ»²»Í¬¡£µ«ÊÇ£¬Óë×ÔÈ»µÄÁ¬½ÓÊÇÒ»¸öÀàËÆµÄ½»²æ£¬µ«ÕâÓëÍâĞÇÒâÊ¶Ò²ÓĞĞí¶àÆäËûµÄ½âÊÍºÍÁªÏµ¡£ËùÒÔÕâÊÇĞí¶à²»Í¬ÊÂÎïµÄ½áºÏ»òÈÚºÏ¡£Õâ²»½ö½öÊÇ¹ØÓÚÀ¶ÈËµÄÏë·¨¡£
+ä»–ä»¬åœ¨å¾ˆå¤šæ–¹é¢éƒ½ä¸ä¹‹æˆªç„¶ä¸åŒã€‚ä½†æ˜¯ï¼Œä¸è‡ªç„¶çš„è¿æ¥æ˜¯ä¸€ä¸ªç±»ä¼¼çš„äº¤å‰ï¼Œä½†è¿™ä¸å¤–æ˜Ÿæ„è¯†ä¹Ÿæœ‰è®¸å¤šå…¶ä»–çš„è§£é‡Šå’Œè”ç³»ã€‚æ‰€ä»¥è¿™æ˜¯è®¸å¤šä¸åŒäº‹ç‰©çš„ç»“åˆæˆ–èåˆã€‚è¿™ä¸ä»…ä»…æ˜¯å…³äºè“äººçš„æƒ³æ³•ã€‚
 
 They're very different than that in a lot of ways. But where there is a similar crossover is the idea of the connection to nature, but that has many other interpretations and connections with regard to extraterrestrial consciouness as well.So it's kind of a synthesis or an amalgamation of many different kinds of things.It isn't really just about the idea of the Blue Men. 
 
-Í¼Æ¬
+å›¾ç‰‡
 
-ÎÊ£ºÄÇÃ´£¬Äã»áËµÀ¶ÈËÊÇµÚÆß¸ö»ìÑªÖÖ×åÂğ£¿
+é—®ï¼šé‚£ä¹ˆï¼Œä½ ä¼šè¯´è“äººæ˜¯ç¬¬ä¸ƒä¸ªæ··è¡€ç§æ—å—ï¼Ÿ
 
 Well, would you say that the Blue Men are the seventh hybrid race?
 
-°ÍÏÄ£º²»£¬ËûÃÇÊÇ·Ç³£²»Í¬µÄ¡£
+å·´å¤ï¼šä¸ï¼Œä»–ä»¬æ˜¯éå¸¸ä¸åŒçš„ã€‚
 
 No, they're very different. 
 
-ÎÊ£ººÃµÄ¡£´Ó×î³õÓëÖ±Á¢ÈËÔÓ½»¿ªÊ¼£¬µ½ÄãÃÇÏÖÔÚµÄÎÄÃ÷ÒÑ¾­¹ıÈ¥ÁË¶à³¤Ê±¼ä£¿
+é—®ï¼šå¥½çš„ã€‚ä»æœ€åˆä¸ç›´ç«‹äººæ‚äº¤å¼€å§‹ï¼Œåˆ°ä½ ä»¬ç°åœ¨çš„æ–‡æ˜å·²ç»è¿‡å»äº†å¤šé•¿æ—¶é—´ï¼Ÿ
 
 Okay. And from the time of the initial hybridization with Homo Erectus, how much time has passed until your career?
 
-°ÍÏÄ£º¸øÄãÒ»¸öÊ±¼äÏßÓĞµãÄÑ°ì¡£ÒòÎª£¬ÔÙ´Î£¬¼Ç×¡ÎÒÃÇµÄÎÄÃ÷´æÔÚÓÚÒ»¸öÓëÄãÃÇ²»Í¬ÆµÂÊµÄÆ½ĞĞÏÖÊµÖĞ¡£Òò´Ë£¬´ÓÎÒÃÇµÄ½Ç¶ÈÀ´¿´£¬ÎÒÃÇµÄÎÄÃ÷ÊÀ½ç¾­ÀúÁË´óÔ¼1ÍòÄêµÄÎÄÃ÷¡£
+å·´å¤ï¼šç»™ä½ ä¸€ä¸ªæ—¶é—´çº¿æœ‰ç‚¹éš¾åŠã€‚å› ä¸ºï¼Œå†æ¬¡ï¼Œè®°ä½æˆ‘ä»¬çš„æ–‡æ˜å­˜åœ¨äºä¸€ä¸ªä¸ä½ ä»¬ä¸åŒé¢‘ç‡çš„å¹³è¡Œç°å®ä¸­ã€‚å› æ­¤ï¼Œä»æˆ‘ä»¬çš„è§’åº¦æ¥çœ‹ï¼Œæˆ‘ä»¬çš„æ–‡æ˜ä¸–ç•Œç»å†äº†å¤§çº¦1ä¸‡å¹´çš„æ–‡æ˜ã€‚
 
 Giving you a timeline for that is a little bit tricky.Because, again, remember that our civilization exists in a parallel reality that's on a different frequency than yours.And therefore, let's say our civilization has experienced, from our perspective, about 10,000 years of civilization.
 
-²¢ÇÒ´Ó¼¼ÊõÉÏ½²£¬ÎÒÃÇ±ÈÄãÃÇÁìÏÈÁË´óÔ¼3000Äê¡£ËùÒÔ°¢Å¬ÄÉÆæÈËºÍÖÇÈËµÄ´´ÔìµÄÏë·¨£¬Äã¿´µ½µÄÊÇ´óÔ¼30ÍòÄêÇ°µÄÊÂÇé¡£ËùÒÔ´ÓÕâ¸öÒâÒåÉÏËµ£¬Í¨¹ı±È½ÏÕâÁ½¸öÊ±¼äÏß£¬ÎÒÃÇÊÇÏà¶Ô½Ï½üµÄ¡£µ«¾¡¹ÜÈç´Ë£¬ÕâÊÇÎÒÃÇÎªÄãÃÇÖØµşÊ±¼äÏßËùÄÜ×öµÄ×îÇ¡µ±µÄÊÂÇé¡£
+å¹¶ä¸”ä»æŠ€æœ¯ä¸Šè®²ï¼Œæˆ‘ä»¬æ¯”ä½ ä»¬é¢†å…ˆäº†å¤§çº¦3000å¹´ã€‚æ‰€ä»¥é˜¿åŠªçº³å¥‡äººå’Œæ™ºäººçš„åˆ›é€ çš„æƒ³æ³•ï¼Œä½ çœ‹åˆ°çš„æ˜¯å¤§çº¦30ä¸‡å¹´å‰çš„äº‹æƒ…ã€‚æ‰€ä»¥ä»è¿™ä¸ªæ„ä¹‰ä¸Šè¯´ï¼Œé€šè¿‡æ¯”è¾ƒè¿™ä¸¤ä¸ªæ—¶é—´çº¿ï¼Œæˆ‘ä»¬æ˜¯ç›¸å¯¹è¾ƒè¿‘çš„ã€‚ä½†å°½ç®¡å¦‚æ­¤ï¼Œè¿™æ˜¯æˆ‘ä»¬ä¸ºä½ ä»¬é‡å æ—¶é—´çº¿æ‰€èƒ½åšçš„æœ€æ°å½“çš„äº‹æƒ…ã€‚
 
 And we're about 3,000 years ahead of you, technologically speaking.So the idea of the Anunnaki and the creation of Homo sapiens, you're looking at something between or around about 300,000 of your years ago.So we are, in that sense, relatively recent by comparing the two timelines.But nevertheless, that's the best we can do in overlapping the timelines for you.
 

@@ -1,43 +1,43 @@
-°ÍÏÄ£ºÈçºÎÈÃ¶ùÍ¯²»³ÁÃÔµç×ÓÓÎÏ·
-Ô­´´ °¢¿üÑÇ °ÍÏÄËµ
- 2024Äê06ÔÂ02ÈÕ 18:32 ÁÉÄş
-Ç°ÑÔ
+å·´å¤ï¼šå¦‚ä½•è®©å„¿ç«¥ä¸æ²‰è¿·ç”µå­æ¸¸æˆ
+åŸåˆ› é˜¿å¥äºš å·´å¤è¯´
+ 2024å¹´06æœˆ02æ—¥ 18:32 è¾½å®
+å‰è¨€
 
-¡°Ã¿¸öÈËºÍÆäËûÈËÖ®¼äÒÔÄ³ÖÖ·½Ê½½øĞĞ¹µÍ¨µÄÄÜÁ¦¡¢ÒâÔ¸ºÍÒâÊ¶£¬½«Ê¹ËûÃÇÓĞ»ú»áÌåÑéµ½ÕâĞ©Á¬½ÓÖĞÕıÔÚ½øĞĞµÄ¹µÍ¨µÄ÷ÈÁ¦¡£¡±
+â€œæ¯ä¸ªäººå’Œå…¶ä»–äººä¹‹é—´ä»¥æŸç§æ–¹å¼è¿›è¡Œæ²Ÿé€šçš„èƒ½åŠ›ã€æ„æ„¿å’Œæ„è¯†ï¼Œå°†ä½¿ä»–ä»¬æœ‰æœºä¼šä½“éªŒåˆ°è¿™äº›è¿æ¥ä¸­æ­£åœ¨è¿›è¡Œçš„æ²Ÿé€šçš„é­…åŠ›ã€‚â€
 
-                   ÒëÕß£º°¢¿üÑÇ Aquia
+                   è¯‘è€…ï¼šé˜¿å¥äºš Aquia
 
-               ´«Ñ¶Ê±¼ä£º2024Äê5ÔÂ25ÈÕ
+               ä¼ è®¯æ—¶é—´ï¼š2024å¹´5æœˆ25æ—¥
 
-ÎÊ£ºÎÒµÄ×îºóÒ»¸öÎÊÌâÊÇ£¬¹ÜÀíº¢×ÓÃÇÓëÏÖ´ú¿Æ¼¼µÄ¹ØÏµµÄ×î¼Ñ·½Ê½ÊÇÊ²Ã´£¿
+é—®ï¼šæˆ‘çš„æœ€åä¸€ä¸ªé—®é¢˜æ˜¯ï¼Œç®¡ç†å­©å­ä»¬ä¸ç°ä»£ç§‘æŠ€çš„å…³ç³»çš„æœ€ä½³æ–¹å¼æ˜¯ä»€ä¹ˆï¼Ÿ
 
-°ÍÏÄ£ººÃµÄ£¬ÔÙÒ»´Î£¬Äã¿ÉÒÔÒıµ¼ËûÃÇ£¬ÈÃËûÃÇÖªµÀÓĞºÜ¶à·½·¨¿ÉÒÔÌåÑéËûÃÇĞèÒª½¨Á¢µÄÁ¬½Ó¡£Èç¹ûËûÃÇ±»ÔÊĞíÒÔÈÎºÎ·½Ê½¡¢ĞÎ×´»òĞÎÊ½¸Ğµ½¹ÂÁ¢£¬ÄÇÃ´ËûÃÇ¿ÉÄÜ»á¹ı¶ÈÓëÄ³Ğ©ÊÂÇéÁ¬½Ó¡£
+å·´å¤ï¼šå¥½çš„ï¼Œå†ä¸€æ¬¡ï¼Œä½ å¯ä»¥å¼•å¯¼ä»–ä»¬ï¼Œè®©ä»–ä»¬çŸ¥é“æœ‰å¾ˆå¤šæ–¹æ³•å¯ä»¥ä½“éªŒä»–ä»¬éœ€è¦å»ºç«‹çš„è¿æ¥ã€‚å¦‚æœä»–ä»¬è¢«å…è®¸ä»¥ä»»ä½•æ–¹å¼ã€å½¢çŠ¶æˆ–å½¢å¼æ„Ÿåˆ°å­¤ç«‹ï¼Œé‚£ä¹ˆä»–ä»¬å¯èƒ½ä¼šè¿‡åº¦ä¸æŸäº›äº‹æƒ…è¿æ¥ã€‚
 
 Well, again, you can guide them in ways that let them know there are many ways to experience the connections that they need to make.If they are allowed to feel isolated in any way, shape, or form, then they may overdo connections to certain things.
 
-´Ó¶øÊ¹ËûÃÇÂéÄ¾×Ô¼º»ò¶ã²ØÆğÀ´£¬»òÌî²¹ËûÃÇ¿ÉÄÜ»ùÓÚÍÑ½Ú¸Ğ¶ø¸Ğµ½µÄ¿Õ¶´»ò¿ÕĞé¡£ËùÒÔÈÃËûÃÇÒÔĞí¶à²»Í¬µÄ·½Ê½ÌåÑéÁ¬½ÓÊÇºÜÖØÒªµÄ£¬Õâ¾ÍÊÇËùÓĞÕâĞ©²»Í¬µÄÁ¬½Ó·½Ê½¡£
+ä»è€Œä½¿ä»–ä»¬éº»æœ¨è‡ªå·±æˆ–èº²è—èµ·æ¥ï¼Œæˆ–å¡«è¡¥ä»–ä»¬å¯èƒ½åŸºäºè„±èŠ‚æ„Ÿè€Œæ„Ÿåˆ°çš„ç©ºæ´æˆ–ç©ºè™šã€‚æ‰€ä»¥è®©ä»–ä»¬ä»¥è®¸å¤šä¸åŒçš„æ–¹å¼ä½“éªŒè¿æ¥æ˜¯å¾ˆé‡è¦çš„ï¼Œè¿™å°±æ˜¯æ‰€æœ‰è¿™äº›ä¸åŒçš„è¿æ¥æ–¹å¼ã€‚
 
 that allow them to either numb themselves or hide away or fill a hole or an emptiness that they may feel based on the idea of a feeling of disconnection.So it is important to allow them to experience connection in many different ways, and it is all those different ways of connection.
 
-Óë×ÔÈ»µÄÁ¬½Ó£¬Óë×ÔÉíµÄÁ¬½Ó£¬Ô´Í·µÄÁ¬½Ó£¬¶¯ÎïµÄÁ¬½Ó£¬ÆäËû´æÓĞµÄÁ¬½Ó£¬Áé»êµÄÁ¬½Ó£¬ÈºĞÇµÄÁ¬½Ó¡£Á¬½Ó£¬Á¬½Ó£¬ÁªÏµ£¬¹µÍ¨£¬¹µÍ¨£¬½»Á÷¡£
+ä¸è‡ªç„¶çš„è¿æ¥ï¼Œä¸è‡ªèº«çš„è¿æ¥ï¼Œæºå¤´çš„è¿æ¥ï¼ŒåŠ¨ç‰©çš„è¿æ¥ï¼Œå…¶ä»–å­˜æœ‰çš„è¿æ¥ï¼Œçµé­‚çš„è¿æ¥ï¼Œç¾¤æ˜Ÿçš„è¿æ¥ã€‚è¿æ¥ï¼Œè¿æ¥ï¼Œè”ç³»ï¼Œæ²Ÿé€šï¼Œæ²Ÿé€šï¼Œäº¤æµã€‚
 
-Connection to nature, connection to themselves, connection to source, connection to animals, connection to other beings, connection to spirit, connection to the stars.connection, connection,conection£¬ communication, communication, communication.
+Connection to nature, connection to themselves, connection to source, connection to animals, connection to other beings, connection to spirit, connection to the stars.connection, connection,conectionï¼Œ communication, communication, communication.
 
-Í¼Æ¬
+å›¾ç‰‡
 
-Ã¿¸öÈËºÍÆäËûÈËÖ®¼äÒÔÄ³ÖÖ·½Ê½½øĞĞ¹µÍ¨µÄÄÜÁ¦¡¢ÒâÔ¸ºÍÒâÊ¶£¬½«Ê¹ËûÃÇÓĞ»ú»áÌåÑéµ½ÕâĞ©Á¬½ÓÖĞÕıÔÚ½øĞĞµÄ¹µÍ¨µÄ÷ÈÁ¦¡£
+æ¯ä¸ªäººå’Œå…¶ä»–äººä¹‹é—´ä»¥æŸç§æ–¹å¼è¿›è¡Œæ²Ÿé€šçš„èƒ½åŠ›ã€æ„æ„¿å’Œæ„è¯†ï¼Œå°†ä½¿ä»–ä»¬æœ‰æœºä¼šä½“éªŒåˆ°è¿™äº›è¿æ¥ä¸­æ­£åœ¨è¿›è¡Œçš„æ²Ÿé€šçš„é­…åŠ›ã€‚
 
 The ability and the willingness and the awareness that there is communication going on between every being and every other being in certain ways will allow them the opportunity to experience the fascination of what kind of communications are going on in those connections
 
-¸ü¹ã·ºµØÌ½Ë÷ÕâĞ©Á¬½Ó£¬²»¸Ğµ½±»¸ô¾ø£¬²»¸Ğµ½¹ÂÁ¢£¬´Ó¶ø¿ªÊ¼¹ı¶àµØÒÀÀµÄÇĞ©ÈÃËûÃÇ¹Ø±Õ¡¢¹Øµô¡¢Ô¶ÀëÕâĞ©Á¬½ÓµÄ¶«Î÷¡£
+æ›´å¹¿æ³›åœ°æ¢ç´¢è¿™äº›è¿æ¥ï¼Œä¸æ„Ÿåˆ°è¢«éš”ç»ï¼Œä¸æ„Ÿåˆ°å­¤ç«‹ï¼Œä»è€Œå¼€å§‹è¿‡å¤šåœ°ä¾èµ–é‚£äº›è®©ä»–ä»¬å…³é—­ã€å…³æ‰ã€è¿œç¦»è¿™äº›è¿æ¥çš„ä¸œè¥¿ã€‚
 
 to explore them more broadly, to not feel cut off, to not feel isolated, so that they start relying too heavily on things that shut them down and shut them off and close them away from those connections.
 
-ÎÊ£ºÊÇµÄ£¬Õâ·Ç³£ÓĞµÀÀí
+é—®ï¼šæ˜¯çš„ï¼Œè¿™éå¸¸æœ‰é“ç†
 
 Right. That makes so much sense. 
 
-°ÍÏÄ£ºÎÒÖªµÀ£¬ËùÒÔÎÒ²ÅÕâÃ´Ëµ
+å·´å¤ï¼šæˆ‘çŸ¥é“ï¼Œæ‰€ä»¥æˆ‘æ‰è¿™ä¹ˆè¯´
 
 I know.That's why I said it.
 

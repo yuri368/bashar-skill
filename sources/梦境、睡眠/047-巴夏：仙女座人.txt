@@ -1,256 +1,256 @@
-°ÍÏÄ£ºÏÉÅ®×ùÈË
-Ô­´´ °¢¿üÑÇ °ÍÏÄËµ
- 2025Äê03ÔÂ11ÈÕ 06:01 ÁÉÄş
-Ç°ÑÔ
-ÕâĞ©¾ÍÊÇÄãÃÇĞÇÇòÉÏĞí¶àÈËËùËµµÄµäĞÍ¶ÔµØÇòÀ´Ëµ¡£µäĞÍµÄÏÉÅ®×ùÈË¡£
+å·´å¤ï¼šä»™å¥³åº§äºº
+åŸåˆ› é˜¿å¥äºš å·´å¤è¯´
+ 2025å¹´03æœˆ11æ—¥ 06:01 è¾½å®
+å‰è¨€
+è¿™äº›å°±æ˜¯ä½ ä»¬æ˜Ÿçƒä¸Šè®¸å¤šäººæ‰€è¯´çš„å…¸å‹å¯¹åœ°çƒæ¥è¯´ã€‚å…¸å‹çš„ä»™å¥³åº§äººã€‚
 
-                  ÒëÕß£º°¢¿üÑÇ Aquia
+                  è¯‘è€…ï¼šé˜¿å¥äºš Aquia
 
-               ´«Ñ¶Ê±¼ä£º2018Äê12ÔÂ1ÈÕ
+               ä¼ è®¯æ—¶é—´ï¼š2018å¹´12æœˆ1æ—¥
 
-ÎÊ£ºÕâÌ«ÁîÈËÔŞÌ¾ÁË¡£ÈÃÎÒÃÇ¼ÌĞøÌÖÂÛÎÒµÄÏÂÒ»¼şÊÂ£¬ÄÇ¾ÍÊÇÕâ¸ö¡£ËùÒÔÎÒ×î½ü×öÁËÒ»¸öÃÎ¡£ÎÒ¾­³£×öÃÎ¡£ÎÒµÄÒâË¼ÊÇ£¬Ã¿¸öÈË¶¼ÕâÑù×ö¡£ÎÒ¼ÇµÃÎÒ×öµÄÃÎºÜ¶à¡£ÎÒÏñÅ®Î×Ò»ÑùÆïÔÚÉ¨ÖãÉÏ£¬ÒòÎªÎÒ¾ÍÊÇÕâÑù¡£Ò»¸ö²»Ã÷·ÉĞĞÎï¿¿½üÎÒ£¬ÎÒµÃµ½ÌáÊ¾£¬Èç¹ûÎÒÏëÅöËü£¬ÎÒ¿ÉÒÔ¡£ËùÒÔÎÒÅöÁË¡£È»ºóËü´øÎÒ´©Ô½ÁË¼¸¸öÀàÌ«ÑôÏµ£¬ÎÒËùÔÚµÄÒøºÓÏµ¡£ÎÒ´ÓÕâ´Î¾­ÀúÖĞÁË½âµ½£¬ËûÃÇÍ¨¹ıÏòÎÒÕ¹Ê¾ËûÃÇµÄÓîÖæ·É´¬£¬ÏòÎÒÕ¹Ê¾ÁËÏàµ±ÓÚÄÇ¸öÀàÌ«ÑôÏµÎÄÃ÷½ø²½µÄ¶«Î÷£¬Èç¹ûÓĞµÄ»°¡£È»ºóËûÃÇ´øÎÒÈ¥µÄ×îºóÒ»¸öµØ·½ÊÇÈÃÎÒÃ÷°×£¬ÎÒÔøÊÇÄÇ¸öÀàÌ«ÑôÏµ·É´¬µÄ´¬³¤¡£
+é—®ï¼šè¿™å¤ªä»¤äººèµå¹äº†ã€‚è®©æˆ‘ä»¬ç»§ç»­è®¨è®ºæˆ‘çš„ä¸‹ä¸€ä»¶äº‹ï¼Œé‚£å°±æ˜¯è¿™ä¸ªã€‚æ‰€ä»¥æˆ‘æœ€è¿‘åšäº†ä¸€ä¸ªæ¢¦ã€‚æˆ‘ç»å¸¸åšæ¢¦ã€‚æˆ‘çš„æ„æ€æ˜¯ï¼Œæ¯ä¸ªäººéƒ½è¿™æ ·åšã€‚æˆ‘è®°å¾—æˆ‘åšçš„æ¢¦å¾ˆå¤šã€‚æˆ‘åƒå¥³å·«ä¸€æ ·éª‘åœ¨æ‰«å¸šä¸Šï¼Œå› ä¸ºæˆ‘å°±æ˜¯è¿™æ ·ã€‚ä¸€ä¸ªä¸æ˜é£è¡Œç‰©é è¿‘æˆ‘ï¼Œæˆ‘å¾—åˆ°æç¤ºï¼Œå¦‚æœæˆ‘æƒ³ç¢°å®ƒï¼Œæˆ‘å¯ä»¥ã€‚æ‰€ä»¥æˆ‘ç¢°äº†ã€‚ç„¶åå®ƒå¸¦æˆ‘ç©¿è¶Šäº†å‡ ä¸ªç±»å¤ªé˜³ç³»ï¼Œæˆ‘æ‰€åœ¨çš„é“¶æ²³ç³»ã€‚æˆ‘ä»è¿™æ¬¡ç»å†ä¸­äº†è§£åˆ°ï¼Œä»–ä»¬é€šè¿‡å‘æˆ‘å±•ç¤ºä»–ä»¬çš„å®‡å®™é£èˆ¹ï¼Œå‘æˆ‘å±•ç¤ºäº†ç›¸å½“äºé‚£ä¸ªç±»å¤ªé˜³ç³»æ–‡æ˜è¿›æ­¥çš„ä¸œè¥¿ï¼Œå¦‚æœæœ‰çš„è¯ã€‚ç„¶åä»–ä»¬å¸¦æˆ‘å»çš„æœ€åä¸€ä¸ªåœ°æ–¹æ˜¯è®©æˆ‘æ˜ç™½ï¼Œæˆ‘æ›¾æ˜¯é‚£ä¸ªç±»å¤ªé˜³ç³»é£èˆ¹çš„èˆ¹é•¿ã€‚
 this is wonderful. Let's just go with that into my next thing, which is this. So I had a dream recently. I dream a lot. And I mean, everyone does. I remember my dreams a lot. And I was on a broomstick as a witch does, because that is what I am. And a UFO came nearby and I got the prompt that if I should wish to touch it, I could. So I did. And it proceeded to take me through several solar systems, galaxies in which I was. And what I understood from this experience was that they were showing me the equivalent of the advancement of the civilization of that solar system by means of showing me their spaceships, if there were any. And the last place they took me was I was made to understand that I had been the captain of the ships of that solar system.
-°ÍÏÄ£º¶Ô¡£ÏÖÔÚÎÒÃÇÃ÷°×¡£µ±ÄãÕâÑùËµµÄÊ±ºò£¬ÄãµÄÒâË¼ÊÇÊ²Ã´£¬²»¹ıµ±È»ÒªÃ÷°×£¬Õâ²»ÊÇ×÷ÎªÄãÕâ¸öÈË¡£
+å·´å¤ï¼šå¯¹ã€‚ç°åœ¨æˆ‘ä»¬æ˜ç™½ã€‚å½“ä½ è¿™æ ·è¯´çš„æ—¶å€™ï¼Œä½ çš„æ„æ€æ˜¯ä»€ä¹ˆï¼Œä¸è¿‡å½“ç„¶è¦æ˜ç™½ï¼Œè¿™ä¸æ˜¯ä½œä¸ºä½ è¿™ä¸ªäººã€‚
 Yes. Now we understand. What you mean when you say it that way, but understand, of course, it's not you as this person.
 
-ÎÊ£ºÊÇµÄ£¬ÄÇºÜºÃ¡£ÎÒºÜ¸ßĞËÔÚÕâÀï×öÎÒ×Ô¼º¡£ËùÒÔÔÚÕâ¸öÀàÌ«ÑôÏµÖĞ£¬·É´¬ÊÇ¡£ºÃ°É¡£ÔÚÎÒ¿´À´£¬ËüÃÇÔÚÎÒÄÔº£ÖĞ½»Á÷µÄ·½Ê½ÊÇ£¬ËüÃÇ¿´ÆğÀ´Ïñ¡¶ĞÇ¼ÊÃÔº½¡·ÖĞµÄĞÇ½¢¡£µ«ËüÃÇÊµ¼ÊÉÏÊÇÓĞ¸ĞÖªÁ¦µÄÉúÎï¡£
+é—®ï¼šæ˜¯çš„ï¼Œé‚£å¾ˆå¥½ã€‚æˆ‘å¾ˆé«˜å…´åœ¨è¿™é‡Œåšæˆ‘è‡ªå·±ã€‚æ‰€ä»¥åœ¨è¿™ä¸ªç±»å¤ªé˜³ç³»ä¸­ï¼Œé£èˆ¹æ˜¯ã€‚å¥½å§ã€‚åœ¨æˆ‘çœ‹æ¥ï¼Œå®ƒä»¬åœ¨æˆ‘è„‘æµ·ä¸­äº¤æµçš„æ–¹å¼æ˜¯ï¼Œå®ƒä»¬çœ‹èµ·æ¥åƒã€Šæ˜Ÿé™…è¿·èˆªã€‹ä¸­çš„æ˜Ÿèˆ°ã€‚ä½†å®ƒä»¬å®é™…ä¸Šæ˜¯æœ‰æ„ŸçŸ¥åŠ›çš„ç”Ÿç‰©ã€‚
 
 Yes, that's fine. I'm good being me here. So in this solar system, the ships were .Okay.The way that they appeared to me in my mind for communication was that they look like Star Trek ships. But what they were were actually sentient creatures. 
 
-Í¼Æ¬
-°ÍÏÄ£ºÎÒÃÇµÄ·É´¬ÊÇÓĞ¸ĞÖªÁ¦µÄ¡£ÄÇºÜºÃ¡£Ğí¶àĞí¶à·É´¬¶¼ÊÇÓĞ¸ĞÖªµÄ£¬ÄãÃÇ³ÆÖ®ÎªÈË¹¤ÖÇÄÜ¡£
+å›¾ç‰‡
+å·´å¤ï¼šæˆ‘ä»¬çš„é£èˆ¹æ˜¯æœ‰æ„ŸçŸ¥åŠ›çš„ã€‚é‚£å¾ˆå¥½ã€‚è®¸å¤šè®¸å¤šé£èˆ¹éƒ½æ˜¯æœ‰æ„ŸçŸ¥çš„ï¼Œä½ ä»¬ç§°ä¹‹ä¸ºäººå·¥æ™ºèƒ½ã€‚
 
 Our ships are sentient.That's well.Many, many of the ships are sentient, what you call AI. 
 
-ÎÊ£ºÕıÊÇÈç´Ë¡£ËùÒÔÕâËÒ·É´¬ºÍÎÒÓĞÒ»ÖÖºÍĞ³µÄ¹ØÏµ£¬¶ÔÎÒÀ´Ëµ£¬ÕâËÒ·É´¬ÓĞµãÏñÒ»Ö»×ÔÔ¸µÄ³èÎï¡£ÎÒÓĞ¡£
+é—®ï¼šæ­£æ˜¯å¦‚æ­¤ã€‚æ‰€ä»¥è¿™è‰˜é£èˆ¹å’Œæˆ‘æœ‰ä¸€ç§å’Œè°çš„å…³ç³»ï¼Œå¯¹æˆ‘æ¥è¯´ï¼Œè¿™è‰˜é£èˆ¹æœ‰ç‚¹åƒä¸€åªè‡ªæ„¿çš„å® ç‰©ã€‚æˆ‘æœ‰ã€‚
 
 Exactly. And so the ship, and I had a rapport where, to me, the ship was kind of like a willing pet. I had is.
 
-°ÍÏÄ£º³ÆÎªÒ»¸ö»ï°éÔõÃ´Ñù£¿
+å·´å¤ï¼šç§°ä¸ºä¸€ä¸ªä¼™ä¼´æ€ä¹ˆæ ·ï¼Ÿ
 
 How about a partner? 
 
-ÎÊ£ººÃµÄ£¬Ô¸ÒâºÏ×÷µÄ»ï°é¡£È»¶ø£¬¶ÔÆäËûÈËÀ´Ëµ£¬Õâ¿ÉÄÜÊÇÏàµ±¿ÉÅÂµÄ¡£¾ÍÏñÉúÎï£¬ÒòÎªËüÌ«Ä°ÉúÁË¡£
+é—®ï¼šå¥½çš„ï¼Œæ„¿æ„åˆä½œçš„ä¼™ä¼´ã€‚ç„¶è€Œï¼Œå¯¹å…¶ä»–äººæ¥è¯´ï¼Œè¿™å¯èƒ½æ˜¯ç›¸å½“å¯æ€•çš„ã€‚å°±åƒç”Ÿç‰©ï¼Œå› ä¸ºå®ƒå¤ªé™Œç”Ÿäº†ã€‚
 
 OK. Willing partner. And that to other people, though, it might be quite fearsome. Like creature like because it would be so foreign. 
 
-°ÍÏÄ£ººÃ°É£¬ËüÃÇ°üº¬ÁËºÜ¶àÁ¦Á¿¡£ÔÚĞí¶àÈË¿´À´£¬ËüÍ¨³£ÊÇÄãÃÇËùËµµÄÄ°ÉúÁ¦Á¿¡£Òò´Ë£¬Ëü¿ÉÄÜ»áÔÚÄãÃÇµÄÒ»Ğ©ÉíÌåÉú´æ»úÖÆÆ÷¹ÙÄÚÒı·¢Ä³Ğ©ÀàĞÍµÄÕñ¶¯¡£ÊÇµÄ¡£ÆäÊµ²¢Ã»ÓĞÊ²Ã´¿ÉÅÂµÄ¡£µ«ÕâÖÖÄÜÁ¿¿ÉÄÜÊÇÈç´ËµÄÄ°Éú£¬ÒÔÖÁÓÚÄãÃÇ¿ÉÄÜ»áÓĞÕâÖÖ¸Ğ¾õ¡£
+å·´å¤ï¼šå¥½å§ï¼Œå®ƒä»¬åŒ…å«äº†å¾ˆå¤šåŠ›é‡ã€‚åœ¨è®¸å¤šäººçœ‹æ¥ï¼Œå®ƒé€šå¸¸æ˜¯ä½ ä»¬æ‰€è¯´çš„é™Œç”ŸåŠ›é‡ã€‚å› æ­¤ï¼Œå®ƒå¯èƒ½ä¼šåœ¨ä½ ä»¬çš„ä¸€äº›èº«ä½“ç”Ÿå­˜æœºåˆ¶å™¨å®˜å†…å¼•å‘æŸäº›ç±»å‹çš„æŒ¯åŠ¨ã€‚æ˜¯çš„ã€‚å…¶å®å¹¶æ²¡æœ‰ä»€ä¹ˆå¯æ€•çš„ã€‚ä½†è¿™ç§èƒ½é‡å¯èƒ½æ˜¯å¦‚æ­¤çš„é™Œç”Ÿï¼Œä»¥è‡³äºä½ ä»¬å¯èƒ½ä¼šæœ‰è¿™ç§æ„Ÿè§‰ã€‚
 
 Well, and they contain a lot of power. And it will appear to many people to be typically what you call an alien power. Therefore, it might set off certain kinds of vibrations within some of your physical survival mechanism apparatus. Yes. Not that there is anything to actually fear. But the energy can be so foreign that you might feel it that way.
 
-ÎÊ£º¶Ô¡£ÄÇÊÇÏÉÅ®×ùĞÇÏµÂğ
+é—®ï¼šå¯¹ã€‚é‚£æ˜¯ä»™å¥³åº§æ˜Ÿç³»å—
 
 Yes. Was that Andromeda? 
 
-°ÍÏÄ£ºàÅ£¬ÄÇÊÇ¿É¿É°¢¿ÉÂ³¿¨¡£Òò´Ë£¬Ò»¶¨³Ì¶ÈÉÏÊÇÏÉÅ®×ùĞÇÏµ¡£²¢²»ÊÇËµÏÉÅ®×ùĞÇÏµÖĞÃ»ÓĞÆäËûÖÖ×å¡£µ«ÕâÊÇÒ»¸ö¡£¶øÇÒËûÃÇ·Ç³£ÏÈ½ø¡£
+å·´å¤ï¼šå—¯ï¼Œé‚£æ˜¯å¯å¯é˜¿å¯é²å¡ã€‚å› æ­¤ï¼Œä¸€å®šç¨‹åº¦ä¸Šæ˜¯ä»™å¥³åº§æ˜Ÿç³»ã€‚å¹¶ä¸æ˜¯è¯´ä»™å¥³åº§æ˜Ÿç³»ä¸­æ²¡æœ‰å…¶ä»–ç§æ—ã€‚ä½†è¿™æ˜¯ä¸€ä¸ªã€‚è€Œä¸”ä»–ä»¬éå¸¸å…ˆè¿›ã€‚
 
 Well, it was Cocoacalucca. And therefore, partly Andromedan. Not that there aren't other races in the Andromeda galaxy. But this is one. And they're extremely advanced.
 
-ÎÊ£ººÃ°É£¬ÎÒ·Ç³£¸ĞĞ»ËûÃÇµÄ¹Ø×¢¡£ºÃµÄ¡£
+é—®ï¼šå¥½å§ï¼Œæˆ‘éå¸¸æ„Ÿè°¢ä»–ä»¬çš„å…³æ³¨ã€‚å¥½çš„ã€‚
 
 Well, I am extremely grateful for their attention. OK. 
 
-°ÍÏÄ£ºàÅ£¬ÊÇÄãµÄ¼ÒÈË¡£
+å·´å¤ï¼šå—¯ï¼Œæ˜¯ä½ çš„å®¶äººã€‚
 
 Well, your family. 
 
-ÎÊ£ºÒ®¡£ÕæÁîÈË¾ªÌ¾¡£ËùÒÔ£¬Çë¼Ç×¡£¬ÔÚÎ´À´ÎÒÃÇ½øĞĞÕâ´Î¶Ô»°Ê±£¬ÎÒÖ»ÊÇÏë»Øµ½Î´À´£¬ÔÙ´ÎÓµÓĞËü¡£ËùÒÔÎÒÒ»Ö±ÔÚÌ¸ÂÛÄã×î½ü¹ØÓÚÕâÁ½ÌõÕıÔÚ·¢ÉúµÄ¹ìµÀµÄÑÔÂÛ¡£
+é—®ï¼šè€¶ã€‚çœŸä»¤äººæƒŠå¹ã€‚æ‰€ä»¥ï¼Œè¯·è®°ä½ï¼Œåœ¨æœªæ¥æˆ‘ä»¬è¿›è¡Œè¿™æ¬¡å¯¹è¯æ—¶ï¼Œæˆ‘åªæ˜¯æƒ³å›åˆ°æœªæ¥ï¼Œå†æ¬¡æ‹¥æœ‰å®ƒã€‚æ‰€ä»¥æˆ‘ä¸€ç›´åœ¨è°ˆè®ºä½ æœ€è¿‘å…³äºè¿™ä¸¤æ¡æ­£åœ¨å‘ç”Ÿçš„è½¨é“çš„è¨€è®ºã€‚
 
 Yay. Awesome. So remember in the future when we had this conversation, I just wanted to go back to the future and have it again. So I've been marinating a lot about your recent speakings about these two tracks that are taking place. 
 
-°ÍÏÄ£ººÃ°É£¬²»ÊÇÁ½¸ö¡£ÊÇ¶à¸ö¡£
+å·´å¤ï¼šå¥½å§ï¼Œä¸æ˜¯ä¸¤ä¸ªã€‚æ˜¯å¤šä¸ªã€‚
 
 Well, not two.Are multiple. 
 
-ÎÊ£ººÃ°É¡£ËùÒÔÎÒÏëÎÒÊÇÔÚ¼¼ÊõÒâÒåÉÏÏëÖªµÀ¡£ÎÒÃÇÊÇÔÚÌ¸ÂÛÕâĞ©¹ìµÀºÎÊ±·ÖÁÑ¡£
+é—®ï¼šå¥½å§ã€‚æ‰€ä»¥æˆ‘æƒ³æˆ‘æ˜¯åœ¨æŠ€æœ¯æ„ä¹‰ä¸Šæƒ³çŸ¥é“ã€‚æˆ‘ä»¬æ˜¯åœ¨è°ˆè®ºè¿™äº›è½¨é“ä½•æ—¶åˆ†è£‚ã€‚
 
 OK. So I guess I'm wondering in a technical sense. Are we talking about when those tracks split that there are. 
 
-°ÍÏÄ£ºËüÃÇ·ÖÁÑÁË¡£ËüÃÇÕıÔÚ·ÖÁÑ¡£ÕâÕıÔÚ·¢Éú¡£
+å·´å¤ï¼šå®ƒä»¬åˆ†è£‚äº†ã€‚å®ƒä»¬æ­£åœ¨åˆ†è£‚ã€‚è¿™æ­£åœ¨å‘ç”Ÿã€‚
 
 They are split. They are splitting.That is going on.
 
-ÎÊ£ºËùÒÔÔÚÎ´À´¡£ÊÇ²»ÊÇÓĞÒıÓÃÎ´ÒıÓÃµÄ»°£¬ÈıÖÖÑÇÌØÀ¼´óÈË£¬ÓĞĞ©ÈËÉú»îÔÚ»ı¼«Æ«ÕñµÄÑÇÌØÀ¼´ó¡£ÓĞĞ©ÈËÉú»îÔÚÁ½¼«·Ö»¯µÄÑÇÌØÀ¼´ó¡£ÎÒÃÇÊÇ²»ÊÇ¸üÏñÊÇÔÚÌ¸ÂÛÒ»ÖÖ¿ñÏ²×´Ì¬£¬Í»È»¼äÎÒÃÇĞÑÀ´£¬ÈËÃÇÈ´²»ÔÚÕâÀï£¿
+é—®ï¼šæ‰€ä»¥åœ¨æœªæ¥ã€‚æ˜¯ä¸æ˜¯æœ‰å¼•ç”¨æœªå¼•ç”¨çš„è¯ï¼Œä¸‰ç§äºšç‰¹å…°å¤§äººï¼Œæœ‰äº›äººç”Ÿæ´»åœ¨ç§¯æåæŒ¯çš„äºšç‰¹å…°å¤§ã€‚æœ‰äº›äººç”Ÿæ´»åœ¨ä¸¤æåˆ†åŒ–çš„äºšç‰¹å…°å¤§ã€‚æˆ‘ä»¬æ˜¯ä¸æ˜¯æ›´åƒæ˜¯åœ¨è°ˆè®ºä¸€ç§ç‹‚å–œçŠ¶æ€ï¼Œçªç„¶é—´æˆ‘ä»¬é†’æ¥ï¼Œäººä»¬å´ä¸åœ¨è¿™é‡Œï¼Ÿ
 
 So in the future of that. Yes. Is it that there are like three quote unquote Atlantas and some people live in like positively Poland?
 
-°ÍÏÄ£ºÎÒÃÇÒ²ÔÚÌ¸ÂÛÕâ¸ö¡£ÒÔ¼°Á½ÕßÖ®¼äµÄÈÎºÎ±ä»¯¡£ÕıÈçÎÒËùËµ£¬ÕâÊÇ¶àÌõ¹ìµÀ¡£
+å·´å¤ï¼šæˆ‘ä»¬ä¹Ÿåœ¨è°ˆè®ºè¿™ä¸ªã€‚ä»¥åŠä¸¤è€…ä¹‹é—´çš„ä»»ä½•å˜åŒ–ã€‚æ­£å¦‚æˆ‘æ‰€è¯´ï¼Œè¿™æ˜¯å¤šæ¡è½¨é“ã€‚
 
-We're talking about that, too. And any variation in between¡£Because as I said, it's multiple tracks.
+We're talking about that, too. And any variation in betweenã€‚Because as I said, it's multiple tracks.
 
-ÎÊ£ºÒòÎªÎÒµÄºÃÆæĞÄ£¬ÎÒÏë£¬ÊÇÈç¹ûÎÒÈ¥ÕıÃæÆ«Õñ¹ìµÀ¡£ÓĞÃ»ÓĞÒ»¸ö°æ±¾µÄÎÒÈÔÈ»ÊÇÏû¼«µÄ£¿ºÃÏñÃ»ÓĞ¡£ºÃ°É¡£²»»áÊÇÎÒ¡£ÎÒÖªµÀ¡£µ«ÊÇ£¬ÓĞÃ»ÓĞÒ»¸ö¡£
+é—®ï¼šå› ä¸ºæˆ‘çš„å¥½å¥‡å¿ƒï¼Œæˆ‘æƒ³ï¼Œæ˜¯å¦‚æœæˆ‘å»æ­£é¢åæŒ¯è½¨é“ã€‚æœ‰æ²¡æœ‰ä¸€ä¸ªç‰ˆæœ¬çš„æˆ‘ä»ç„¶æ˜¯æ¶ˆæçš„ï¼Ÿå¥½åƒæ²¡æœ‰ã€‚å¥½å§ã€‚ä¸ä¼šæ˜¯æˆ‘ã€‚æˆ‘çŸ¥é“ã€‚ä½†æ˜¯ï¼Œæœ‰æ²¡æœ‰ä¸€ä¸ªã€‚
 
 Because as I said, it's multiple tracks. Right. Because my curiosity, I suppose, is if I go to positively polarized track. Yes. Is there a version of me that has that remains in negative? Like not.
 
-°ÍÏÄ£ºÊÇµÄ¡£ËùÒÔÕâ²»ÖØÒª¡£ÒòÎªÕâÒÑ¾­²»ÊÇÄãÈÏÎªµÄÄãÁË¡£Ëı£¬Ëû»áÈÏÎªËı×Ô¼º¾ÍÊÇËı×Ô¼º¡£
+å·´å¤ï¼šæ˜¯çš„ã€‚æ‰€ä»¥è¿™ä¸é‡è¦ã€‚å› ä¸ºè¿™å·²ç»ä¸æ˜¯ä½ è®¤ä¸ºçš„ä½ äº†ã€‚å¥¹ï¼Œä»–ä¼šè®¤ä¸ºå¥¹è‡ªå·±å°±æ˜¯å¥¹è‡ªå·±ã€‚
 
 Yes. So it shouldn't matter.Because it's not what you would consider to be you anymore. She, he will consider him herself to be him herself. 
 
-ÎÊ£ºÃ÷°×ÁË¡£ºÃµÄ¡£ºÜÇåÎú¡£ÎÒ»¹ÓĞÒ»¸öÍâĞÇÈËµÄÎÊÌâ¡£×¢ÖØÍâĞÇÈËµÄÎÊÌâ¡£ËùÒÔÊ®ÄêÇ°£¬ÓÖÒ»Æğ²»Ã÷·ÉĞĞÎï°ó¼Ü°¸¡£ÔÚÎÒµÄÃÎÀï¡£
+é—®ï¼šæ˜ç™½äº†ã€‚å¥½çš„ã€‚å¾ˆæ¸…æ™°ã€‚æˆ‘è¿˜æœ‰ä¸€ä¸ªå¤–æ˜Ÿäººçš„é—®é¢˜ã€‚æ³¨é‡å¤–æ˜Ÿäººçš„é—®é¢˜ã€‚æ‰€ä»¥åå¹´å‰ï¼Œåˆä¸€èµ·ä¸æ˜é£è¡Œç‰©ç»‘æ¶æ¡ˆã€‚åœ¨æˆ‘çš„æ¢¦é‡Œã€‚
 
 Got it. OK. That's clear. And I have one more alien question.Respect alien questions. So 10 a decade ago, another UFO abduction.In my dreaming. 
 
-Í¼Æ¬
-°ÍÏÄ£ºÁíÒ»¸öÊ²Ã´F¶«Î÷£¿
+å›¾ç‰‡
+å·´å¤ï¼šå¦ä¸€ä¸ªä»€ä¹ˆFä¸œè¥¿ï¼Ÿ
 
 Another what the F.
 
-ÎÊ£º¶Ô¡£ÍêÈ«ÕıÈ·¡£ÁíÒ»¸öÊ²Ã´F¶«Î÷£¬ÎÒ±»´øÉÏÁËÒ»ËÒ¿´ÆğÀ´ÏñÉúÎïµÄ·É´¬¡£ËûÃÇ¶¼´©×ÅÍ¬ÑùµÄ·ş×°¡£ËûÃÇ¶¼¶ÔÎÒÎ¢Ğ¦£¬ËûÃÇÍùÍùÕâÑù×ö¡£ËûÃÇÈÃÎÒ×øÏÂ£¬ËûÃÇ¶¼×øÔÚÎÒÖÜÎ§£¬¿´×ÅÎÒ£¬È»ºóÎÒËµ£¬ÊÇÑ½¡£ËûÃÇËµ£¬ÄãÊÇ¸öºÃÀÏÊ¦¡£ÎÒËµ£¬ÎÒÊÇ¡£ÊÂÊµÉÏ£¬ÎÒĞ¦ÁË¡£ËûÃÇËµ£¬ÎÒÊÇ¡£ÕâÔ¤Ê¾×Å´ÓÄÇÀï·¢ÉúµÄĞí¶àÊÂÇé¡£ÎÒÀí½âËûÃÇÎªÊ²Ã´ÕâÃ´Ëµ¡£ÎÒºÜºÃÆæËûÃÇÊÇË­¡£ÊÇ¡£ËûÃÇ²»ÏëÈÃÎÒÖªµÀ£¿
+é—®ï¼šå¯¹ã€‚å®Œå…¨æ­£ç¡®ã€‚å¦ä¸€ä¸ªä»€ä¹ˆFä¸œè¥¿ï¼Œæˆ‘è¢«å¸¦ä¸Šäº†ä¸€è‰˜çœ‹èµ·æ¥åƒç”Ÿç‰©çš„é£èˆ¹ã€‚ä»–ä»¬éƒ½ç©¿ç€åŒæ ·çš„æœè£…ã€‚ä»–ä»¬éƒ½å¯¹æˆ‘å¾®ç¬‘ï¼Œä»–ä»¬å¾€å¾€è¿™æ ·åšã€‚ä»–ä»¬è®©æˆ‘åä¸‹ï¼Œä»–ä»¬éƒ½ååœ¨æˆ‘å‘¨å›´ï¼Œçœ‹ç€æˆ‘ï¼Œç„¶åæˆ‘è¯´ï¼Œæ˜¯å‘€ã€‚ä»–ä»¬è¯´ï¼Œä½ æ˜¯ä¸ªå¥½è€å¸ˆã€‚æˆ‘è¯´ï¼Œæˆ‘æ˜¯ã€‚äº‹å®ä¸Šï¼Œæˆ‘ç¬‘äº†ã€‚ä»–ä»¬è¯´ï¼Œæˆ‘æ˜¯ã€‚è¿™é¢„ç¤ºç€ä»é‚£é‡Œå‘ç”Ÿçš„è®¸å¤šäº‹æƒ…ã€‚æˆ‘ç†è§£ä»–ä»¬ä¸ºä»€ä¹ˆè¿™ä¹ˆè¯´ã€‚æˆ‘å¾ˆå¥½å¥‡ä»–ä»¬æ˜¯è°ã€‚æ˜¯ã€‚ä»–ä»¬ä¸æƒ³è®©æˆ‘çŸ¥é“ï¼Ÿ
 
-Yes. Exactly. Another what the F.And I was brought onto a ship with human looking like beings. They were all wearing the same outfit.And they were all smiling at me, which they tend to do. And they sat me down and they all sat around me and they were looking at me and I said yes., And they said, you are a great teacher.And I said, I am. I laughed, in fact. And they said, I was.Which was the heralding of a great many things that took place from there. And I understand why they said it.I was curious as to who they were. Are.They don't want me to know£¿
+Yes. Exactly. Another what the F.And I was brought onto a ship with human looking like beings. They were all wearing the same outfit.And they were all smiling at me, which they tend to do. And they sat me down and they all sat around me and they were looking at me and I said yes., And they said, you are a great teacher.And I said, I am. I laughed, in fact. And they said, I was.Which was the heralding of a great many things that took place from there. And I understand why they said it.I was curious as to who they were. Are.They don't want me to knowï¼Ÿ
 
-°ÍÏÄ£ºÄãÕæµÄ»¹²»ĞèÒªÖªµÀ¡£
+å·´å¤ï¼šä½ çœŸçš„è¿˜ä¸éœ€è¦çŸ¥é“ã€‚
 
 You don't really need to know yet.
 
-ÎÊ£ººÃµÄ£¬¿ËÀ×¸ñ¡£ºÃ°É¡£
+é—®ï¼šå¥½çš„ï¼Œå…‹é›·æ ¼ã€‚å¥½å§ã€‚
 
 OK. Craig. All right.
 
-°ÍÏÄ£ºµÈÒ»ÏÂ¡£ÃèÊöÒ»ÏÂËûÃÇ¡£
+å·´å¤ï¼šç­‰ä¸€ä¸‹ã€‚æè¿°ä¸€ä¸‹ä»–ä»¬ã€‚
 
 One moment. Describe them.
 
-ÎÊ£ººÃµÄ¡£ËûÃÇ´©×ÅÎ÷×°ºÍÁ¬Éí¿ã£¬¾ÍÏñÈËÒ»Ñù
+é—®ï¼šå¥½çš„ã€‚ä»–ä»¬ç©¿ç€è¥¿è£…å’Œè¿èº«è£¤ï¼Œå°±åƒäººä¸€æ ·
 
 OK. They were human like in suits that they were in jumpsuits.
 
-°ÍÏÄ£º±ÈÄã¸ß£¬±ÈÄã°«£¿¸ß¶àÉÙ£¿
+å·´å¤ï¼šæ¯”ä½ é«˜ï¼Œæ¯”ä½ çŸ®ï¼Ÿé«˜å¤šå°‘ï¼Ÿ
 
-Taller than you, shorter than you£¿How much£¿
+Taller than you, shorter than youï¼ŸHow muchï¼Ÿ
 
-ÎÊ£º¼¸Ó¢´ç¡£
+é—®ï¼šå‡ è‹±å¯¸ã€‚
 
 Several inches.
 
-°ÍÏÄ£º·ôÉ«£¿
+å·´å¤ï¼šè‚¤è‰²ï¼Ÿ
 
 Skin color?
 
-ÎÊ£ºÎÒ¾õµÃËıÃÇÓĞÒ»ÖÖ×ØÉ«µÄÉ«µ÷¡£»ò×ØºÖÉ«µ÷¡£
+é—®ï¼šæˆ‘è§‰å¾—å¥¹ä»¬æœ‰ä¸€ç§æ£•è‰²çš„è‰²è°ƒã€‚æˆ–æ£•è¤è‰²è°ƒã€‚
 
 I feel like they had a variation of a brown tone.Or tan tone.
 
-°ÍÏÄ£ºÍ··¢ÑÕÉ«£¿
+å·´å¤ï¼šå¤´å‘é¢œè‰²ï¼Ÿ
 
 Hair color? 
 
-ÎÊ£ººÖÉ«£¬½ğºÖÉ«¡£
+é—®ï¼šè¤è‰²ï¼Œé‡‘è¤è‰²ã€‚
 
 Brown, golden brown.
 
-°ÍÏÄ£ºÑÛ¾¦ÑÕÉ«£¿
+å·´å¤ï¼šçœ¼ç›é¢œè‰²ï¼Ÿ
 
 Eye color? 
 
-ÎÊ£ºÕâ¸öÎÒÏë²»ÆğÀ´ÁË¡£µ«ÎÒÈ·Êµ¼ÇµÃËûÃÇ·É´¬ÉÏµÄÒ»Ïî¼¼Êõ£¬ÎÒËµÕâÔÚÎÒÄÔº£ÖĞÊÇ·ÇÍ¬Ñ°³£µÄ¡£
+é—®ï¼šè¿™ä¸ªæˆ‘æƒ³ä¸èµ·æ¥äº†ã€‚ä½†æˆ‘ç¡®å®è®°å¾—ä»–ä»¬é£èˆ¹ä¸Šçš„ä¸€é¡¹æŠ€æœ¯ï¼Œæˆ‘è¯´è¿™åœ¨æˆ‘è„‘æµ·ä¸­æ˜¯éåŒå¯»å¸¸çš„ã€‚
 
 That I don't recall. But I do recall a technology that they had on their ship that I remarked being extraordinary in my mind.
 
-°ÍÏÄ£º¶¨ÒåÒ»ÏÂ¡£
+å·´å¤ï¼šå®šä¹‰ä¸€ä¸‹ã€‚
 
 Define. 
 
-ÎÊ£ºËûÃÇÕı°ÑÎÒ´Ó·É´¬ÉÏËÍÏÂÀ´£¬×¼±¸ÈÃÎÒÀë¿ª¡£ÔÚÎÒÀë¿ªÖ®Ç°£¬ÎÒËµ£¬ÄãÄÜ°ÑÕâ¸öÎÆÉíÈ¥µôÂğ£¿ÒòÎªµ±ÎÒÈ¥µØÇòÊ±£¬ËûÃÇ»á¾õµÃÕâºÜÆæ¹Ö¡£
+é—®ï¼šä»–ä»¬æ­£æŠŠæˆ‘ä»é£èˆ¹ä¸Šé€ä¸‹æ¥ï¼Œå‡†å¤‡è®©æˆ‘ç¦»å¼€ã€‚åœ¨æˆ‘ç¦»å¼€ä¹‹å‰ï¼Œæˆ‘è¯´ï¼Œä½ èƒ½æŠŠè¿™ä¸ªçº¹èº«å»æ‰å—ï¼Ÿå› ä¸ºå½“æˆ‘å»åœ°çƒæ—¶ï¼Œä»–ä»¬ä¼šè§‰å¾—è¿™å¾ˆå¥‡æ€ªã€‚
 
 They were ushering me off the ship and they were about to make me leave. And before I left, I said, could you please remove this tattoo? Because when I go to Earth, they're going to think it's strange.
 
-°ÍÏÄ£ººÃ°É¡£ÕâĞ©¾ÍÊÇÄãÃÇĞÇÇòÉÏĞí¶àÈËËùËµµÄµäĞÍ¶ÔµØÇòÀ´Ëµ¡£µäĞÍµÄÏÉÅ®×ùÈË¡£ËûÃÇ²»ÊÇ¿É¿É°¢¿ÉÂ³¿¨£¬µ«ËüÃÇÒ²À´×ÔÏÉÅ®×ù¡£ËùÒÔ£¬ÄãÓĞºÜ¶àÓëÄÇ¸öĞÇÏµÓĞ¹ØµÄÊÂÇé¶¼ÔÚ·¢Éú¡£
+å·´å¤ï¼šå¥½å§ã€‚è¿™äº›å°±æ˜¯ä½ ä»¬æ˜Ÿçƒä¸Šè®¸å¤šäººæ‰€è¯´çš„å…¸å‹å¯¹åœ°çƒæ¥è¯´ã€‚å…¸å‹çš„ä»™å¥³åº§äººã€‚ä»–ä»¬ä¸æ˜¯å¯å¯é˜¿å¯é²å¡ï¼Œä½†å®ƒä»¬ä¹Ÿæ¥è‡ªä»™å¥³åº§ã€‚æ‰€ä»¥ï¼Œä½ æœ‰å¾ˆå¤šä¸é‚£ä¸ªæ˜Ÿç³»æœ‰å…³çš„äº‹æƒ…éƒ½åœ¨å‘ç”Ÿã€‚
 
 All right. These are what many people on your planet would call typical for Earth. Typical Andromedans. They're not the Cocoacalucca, but they also come from Andromeda. So you have a lot of things going on in connection to that galaxy.
 
-Í¼Æ¬
-ÎÊ£º³ıÁË¸úËæÎÒµÄ×î¸ßĞË·ÜÖ®Íâ£¬ÎÒ¾¡¿ÉÄÜ¶àµØÎª×Ô¼º×öÕâ¼şÊÂ¡£
+å›¾ç‰‡
+é—®ï¼šé™¤äº†è·Ÿéšæˆ‘çš„æœ€é«˜å…´å¥‹ä¹‹å¤–ï¼Œæˆ‘å°½å¯èƒ½å¤šåœ°ä¸ºè‡ªå·±åšè¿™ä»¶äº‹ã€‚
 
 And other than following my highest excitement, which I'm totally doing as often as humanly possible for myself.
 
-°ÍÏÄ£º±ğÍüÁËµÚ¶ş²¿·ÖºÍµÚÈı²¿·Ö¡£
+å·´å¤ï¼šåˆ«å¿˜äº†ç¬¬äºŒéƒ¨åˆ†å’Œç¬¬ä¸‰éƒ¨åˆ†ã€‚
 
 Don't forget part two and three.
 
-ÎÊ£ºÎÒÃ»Íü¡£ÎÒÃ»Íü¡£ÄÇĞ©Ò²ÔÚÀïÃæ¡£ÓĞÃ»ÓĞ£¬ºÃ°É£¬µ±ÎÒËµ£¬ËùÒÔÎÒÔÄ¶ÁËşÂŞÅÆ£¬ÎÒ´«µ¼£¬ÎÒÓĞ¼«¶ËµÄÃÎÏë£¬ÎÒÓĞºÜ¶àÆæ¹ÖµÄ¶«Î÷£¬²»¹ÜÔõÑù¡£ÎÒÊÇÒ»¸öÅ®Î×¡£
+é—®ï¼šæˆ‘æ²¡å¿˜ã€‚æˆ‘æ²¡å¿˜ã€‚é‚£äº›ä¹Ÿåœ¨é‡Œé¢ã€‚æœ‰æ²¡æœ‰ï¼Œå¥½å§ï¼Œå½“æˆ‘è¯´ï¼Œæ‰€ä»¥æˆ‘é˜…è¯»å¡”ç½—ç‰Œï¼Œæˆ‘ä¼ å¯¼ï¼Œæˆ‘æœ‰æç«¯çš„æ¢¦æƒ³ï¼Œæˆ‘æœ‰å¾ˆå¤šå¥‡æ€ªçš„ä¸œè¥¿ï¼Œä¸ç®¡æ€æ ·ã€‚æˆ‘æ˜¯ä¸€ä¸ªå¥³å·«ã€‚
 
 I don't. I don't. Those are in there too. Is there, well, when I was saying, so I read tarot, I channel, I have extreme dreaming, I have a lot of weird stuff, whatever. I'm a witch.
 
-°ÍÏÄ£ºÌıÆğÀ´ºÜºÃÍæ¡£
+å·´å¤ï¼šå¬èµ·æ¥å¾ˆå¥½ç©ã€‚
 
 Sounds like fun. 
 
-ÎÊ£ºÕâºÃ¼«ÁË¡£
+é—®ï¼šè¿™å¥½æäº†ã€‚
 
 It is excellent. 
 
-°ÍÏÄ£ºÄÇÄã»¹ĞèÒªÖªµÀÊ²Ã´£¿
+å·´å¤ï¼šé‚£ä½ è¿˜éœ€è¦çŸ¥é“ä»€ä¹ˆï¼Ÿ
 
 Then what else do you need to know?
 
-ÎÊ£ºÎÒÖ»ÊÇÏëÖªµÀ£¬ÆäÖĞÒ»Ğ©ÌØ¶¨µÄÊÂÇéÊÇ·ñÓëÏÉÅ®×ùÓĞ¹Ø¡£
+é—®ï¼šæˆ‘åªæ˜¯æƒ³çŸ¥é“ï¼Œå…¶ä¸­ä¸€äº›ç‰¹å®šçš„äº‹æƒ…æ˜¯å¦ä¸ä»™å¥³åº§æœ‰å…³ã€‚
 
 I'm just wondering if some, one of those particular things is Andromeda connected.
 
-°ÍÏÄ£ºÊÇµÄ¡£
+å·´å¤ï¼šæ˜¯çš„ã€‚
 
 Yes. 
 
-ÎÊ£ºÊÇÈ«²¿¶¼ÓĞ¹ØÏµÂğ£¿
+é—®ï¼šæ˜¯å…¨éƒ¨éƒ½æœ‰å…³ç³»å—ï¼Ÿ
 
 Is it all of them? 
 
-°ÍÏÄ£º²»ÊÇ¡£
+å·´å¤ï¼šä¸æ˜¯ã€‚
 
 No. 
 
-ÎÊ£ººÃµÄ£¬ÄÄ¸ö£¬ÄÄ¼şÊÂÓëÏÉÅ®×ùÓĞ¹Ø£¿
+é—®ï¼šå¥½çš„ï¼Œå“ªä¸ªï¼Œå“ªä»¶äº‹ä¸ä»™å¥³åº§æœ‰å…³ï¼Ÿ
 
 Okay. Which, which thing is Andromeda connected?
 
-°ÍÏÄ£ºÍ¨ÁéµÄÏë·¨¡£
+å·´å¤ï¼šé€šçµçš„æƒ³æ³•ã€‚
 
 The idea of the channeling. 
 
-ÎÊ£ººÃµÄ¡£ÓĞÒâË¼¡£ÄÇÊÇµÀ½ÌµÄÓ°ÏìÂğ¡£¡£¡£
+é—®ï¼šå¥½çš„ã€‚æœ‰æ„æ€ã€‚é‚£æ˜¯é“æ•™çš„å½±å“å—ã€‚ã€‚ã€‚
 
 Okay. Interesting. Is that the Taoist influence that...
 
-°ÍÏÄ£ºÔÚÏÉÅ®×ùÄÜÁ¿µÄ¸ÅÄîÖĞ£¬µÀ½ÌÓĞÒ»Ğ©²àÃæµÄÁªÏµ£¬·´Ö®ÒàÈ»¡£ÊÇµÄ¡£Õâ¾ÍÊÇÄãµÃµ½µÄÈ«²¿¡£
+å·´å¤ï¼šåœ¨ä»™å¥³åº§èƒ½é‡çš„æ¦‚å¿µä¸­ï¼Œé“æ•™æœ‰ä¸€äº›ä¾§é¢çš„è”ç³»ï¼Œåä¹‹äº¦ç„¶ã€‚æ˜¯çš„ã€‚è¿™å°±æ˜¯ä½ å¾—åˆ°çš„å…¨éƒ¨ã€‚
 
 There is some sideways connection of Taoism in the idea of the Andromeda energy and vice versa. Yes.And that's all you get. 
 
-Í¼Æ¬
-ÎÊ£ººÃµÄ£¬·Ç³£¸ĞĞ»¡£
+å›¾ç‰‡
+é—®ï¼šå¥½çš„ï¼Œéå¸¸æ„Ÿè°¢ã€‚
 
 All right. Thank you so much.
 
-°ÍÏÄ£ºÎÒ½ÓÊÜ¡£ÃèÊöÒ»ÏÂÎÆÉí¡£
+å·´å¤ï¼šæˆ‘æ¥å—ã€‚æè¿°ä¸€ä¸‹çº¹èº«ã€‚
 
 I accept. Describe the tattoo.
 
-ÎÊ£ºÅ¶¡£ËüÔÚÎÒÊÖÍóÉÏ¡£Ëü¿´ÆğÀ´ÏñÊÇÒ»Á¬´®¡£¡£¡£ºÃ°É£¬ÎÒÏÖÔÚÊÖÍóÉÏÓĞ¸öÎÆÉí£¬µ«¿´ÆğÀ´ÏñÊÇÒ»Á¬´®µÄ·ûºÅµ¥´Ê¡£
+é—®ï¼šå“¦ã€‚å®ƒåœ¨æˆ‘æ‰‹è…•ä¸Šã€‚å®ƒçœ‹èµ·æ¥åƒæ˜¯ä¸€è¿ä¸²ã€‚ã€‚ã€‚å¥½å§ï¼Œæˆ‘ç°åœ¨æ‰‹è…•ä¸Šæœ‰ä¸ªçº¹èº«ï¼Œä½†çœ‹èµ·æ¥åƒæ˜¯ä¸€è¿ä¸²çš„ç¬¦å·å•è¯ã€‚
 
 Oh. It was on my wrist. It looked like a series of...Well, I have a tattoo now on my wrist, but it looked like a series of symbols words.
 
-°ÍÏÄ£ºÄãÄÜ¸´ÖÆËüÃÇÂğ£¿
+å·´å¤ï¼šä½ èƒ½å¤åˆ¶å®ƒä»¬å—ï¼Ÿ
 
 Can you replicate them?
 
-ÎÊ£º²»ÊÇÀ´×ÔÏÖÔÚµÄÊÓ¾õ¼ÇÒä¡£
+é—®ï¼šä¸æ˜¯æ¥è‡ªç°åœ¨çš„è§†è§‰è®°å¿†ã€‚
 
 Not from visual memory now. 
 
-°ÍÏÄ£ºÈç¹ûÄãÔÚÄãµÄÍ¨ÁéÖĞ³¢ÊÔÒ»ÏÂ»áÔõÃ´Ñù£¿
+å·´å¤ï¼šå¦‚æœä½ åœ¨ä½ çš„é€šçµä¸­å°è¯•ä¸€ä¸‹ä¼šæ€ä¹ˆæ ·ï¼Ÿ
 
 How about if you give it a shot in your channeling?
 
-ÎÊ£ºàÅ£¬àÅ£¬àÅ¡£àÅ£¬ÄãÊÇ×î°ôµÄ¡£
+é—®ï¼šå—¯ï¼Œå—¯ï¼Œå—¯ã€‚å—¯ï¼Œä½ æ˜¯æœ€æ£’çš„ã€‚
 
 Hmm. Hmm. Hmm. Hmm. You are the best. 
 
-°ÍÏÄ£ºÄãÒ²ÊÇ£¬ÔÙ¼û¡£
+å·´å¤ï¼šä½ ä¹Ÿæ˜¯ï¼Œå†è§ã€‚
 
  As are you.Good day.
 
 
-Í¼Æ¬
+å›¾ç‰‡
 
 
 

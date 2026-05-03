@@ -45,7 +45,9 @@ description: |
 
 主题入口：
 
-- 先查 `巴夏主题索引.md`，看该主题是否已有优先来源。
+- 主题索引只是入口，不是权威；目前索引可能漏源或排序不准。
+- 先查 `巴夏主题索引.md`，看该主题是否已有优先来源；随后必须用关键词直接搜索 `sources/` 原文件补漏。
+- 对“兴奋 / 跟随兴奋 / 激情 / 同步性 / 定义”等大主题，至少直搜 2-4 个关键词或打开同主题目录下的高相关文件，不只依赖索引或预计算检索。
 - 主题索引每个主题最多 5 篇；没有明确必要时保持 3 篇以下。
 - 每条主题来源必须带 `[1]`/`[2]`/`[3]` 优先级和 `[+]`/`[-]` 迭代状态。
 - `[+]` 表示用户锁定；没有用户明确说明，不替换、不删除、不降级。
@@ -81,6 +83,13 @@ python scripts/search_sources.py 行动 祈祷 --content --limit 8
 python scripts/search_sources.py 允许 --tag Bashar --limit 8
 python scripts/search_sources.py 平行实相 --tag Bashar --limit 8
 python scripts/build_search_index.py
+```
+
+当索引不完善或主题很大时，直接搜文件优先：
+
+```powershell
+Get-ChildItem -Path .\sources -Recurse -File |
+  Select-String -Pattern '兴奋','最高兴奋','激情','热情','同步性','excitement','highest excitement'
 ```
 
 引用格式：

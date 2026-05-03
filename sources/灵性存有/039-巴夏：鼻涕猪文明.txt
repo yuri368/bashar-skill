@@ -1,110 +1,110 @@
-°ÍÏÄ£º±ÇÌéÖíÎÄÃ÷
+å·´å¤ï¼šé¼»æ¶•çŒªæ–‡æ˜
 2025.04.28
-ÄãÓĞËÄÌõÍÈ£¬¶ø²»ÊÇÁ½ÌõÍÈ£¬Äã»ù±¾ÉÏ¾ÍÊÇÄãÏÖÔÚÈÏÎªµÄÑù×Ó£¬µ¹Á¢Ïòºó£¬ÄãµÄÇû¸É´¹ÔÚÍÈÉÏ£¬¶ø²»ÊÇÕ¾ÔÚÍÈÉÏ¡£
+ä½ æœ‰å››æ¡è…¿ï¼Œè€Œä¸æ˜¯ä¸¤æ¡è…¿ï¼Œä½ åŸºæœ¬ä¸Šå°±æ˜¯ä½ ç°åœ¨è®¤ä¸ºçš„æ ·å­ï¼Œå€’ç«‹å‘åï¼Œä½ çš„èº¯å¹²å‚åœ¨è…¿ä¸Šï¼Œè€Œä¸æ˜¯ç«™åœ¨è…¿ä¸Šã€‚
 
-                ÒëÕß£º°¢¿üÑÇ Aquia
+                è¯‘è€…ï¼šé˜¿å¥äºš Aquia
 
-            ´«Ñ¶Ê±¼ä£º2006Äê9ÔÂ30ÈÕ
+            ä¼ è®¯æ—¶é—´ï¼š2006å¹´9æœˆ30æ—¥
 
-°ÍÏÄ£ºÏÖÔÚ£¬µÈÒ»ÏÂ¡£µÈÒ»ÏÂ¡£µÈÒ»ÏÂ¡£µÈÒ»ÏÂ¡£ÎÒÃÇÕıÔÚÉ¸Ñ¡ÇëÇó¡£µÈÒ»ÏÂ¡£ÏëÏóÒ»ÏÂ£¬Èç¹ûÄãÔ¸Òâ£¬»òÕßÈç¹ûÄãÄÜ¹»£¬ÄãÓĞËÄÌõÍÈ£¬¶ø²»ÊÇÁ½ÌõÍÈ£¬Äã»ù±¾ÉÏ¾ÍÊÇÄãÏÖÔÚÈÏÎªµÄÑù×Ó£¬µ¹Á¢Ïòºó£¬ÄãµÄÇû¸É´¹ÔÚÍÈÉÏ£¬¶ø²»ÊÇÕ¾ÔÚÍÈÉÏ¡£Äã¸úÉÏÎÒÁËÂğ£¿
+å·´å¤ï¼šç°åœ¨ï¼Œç­‰ä¸€ä¸‹ã€‚ç­‰ä¸€ä¸‹ã€‚ç­‰ä¸€ä¸‹ã€‚ç­‰ä¸€ä¸‹ã€‚æˆ‘ä»¬æ­£åœ¨ç­›é€‰è¯·æ±‚ã€‚ç­‰ä¸€ä¸‹ã€‚æƒ³è±¡ä¸€ä¸‹ï¼Œå¦‚æœä½ æ„¿æ„ï¼Œæˆ–è€…å¦‚æœä½ èƒ½å¤Ÿï¼Œä½ æœ‰å››æ¡è…¿ï¼Œè€Œä¸æ˜¯ä¸¤æ¡è…¿ï¼Œä½ åŸºæœ¬ä¸Šå°±æ˜¯ä½ ç°åœ¨è®¤ä¸ºçš„æ ·å­ï¼Œå€’ç«‹å‘åï¼Œä½ çš„èº¯å¹²å‚åœ¨è…¿ä¸Šï¼Œè€Œä¸æ˜¯ç«™åœ¨è…¿ä¸Šã€‚ä½ è·Ÿä¸Šæˆ‘äº†å—ï¼Ÿ
 
 Now, one moment, one moment, one moment, one moment.We are filtering requests. One moment.Imagine if you will, or if you can, that you have four legs, not two, and that you are basically to what you would consider to be now, upside down and backwards, in that your torso is hanging from the legs, not standing on top of them.You follow me?
 
-ÎÊ:ÊÇµÄ¡£
+é—®:æ˜¯çš„ã€‚
 
 Yes.
 
-°ÍÏÄ£ºÏÖÔÚ£¬ÏëÏóÒ»ÏÂ£¬Èç¹ûÄãÔ¸ÒâµÄ»°£¬Õâ¸öÉúÎï¿ÉÒÔ³¯ËüÏëÒªµÄÈÎºÎ·½ÏòÒÆ¶¯£¬ÒòÎªËüµÄÊÓÒ°ÊÇ360¶ÈµÄ¡£ÄãÃ÷°×ÁËÂğ£¿
+å·´å¤ï¼šç°åœ¨ï¼Œæƒ³è±¡ä¸€ä¸‹ï¼Œå¦‚æœä½ æ„¿æ„çš„è¯ï¼Œè¿™ä¸ªç”Ÿç‰©å¯ä»¥æœå®ƒæƒ³è¦çš„ä»»ä½•æ–¹å‘ç§»åŠ¨ï¼Œå› ä¸ºå®ƒçš„è§†é‡æ˜¯360åº¦çš„ã€‚ä½ æ˜ç™½äº†å—ï¼Ÿ
 
 Now, imagine if you will, that this being can move in any direction it wishes because its vision is 360 degrees.Do you understand?
 
-ÎÊ:ÊÇµÄ¡£
+é—®:æ˜¯çš„ã€‚
 
 Yeah.
 
-°ÍÏÄ£ºµÈÒ»ÏÂ¡£ÏëÏóÒ»ÏÂ£¬Èç¹ûÄãÔ¸Òâ£¬ËÄÌõÍÈÖĞµÄÃ¿Ò»ÌõÍÈÉÏ¶¼ÓĞÒ»¸öÑÓÉì²¿·Ö£¬ËüÃÇÊÇ²Ù×İÕß£¬»òÕßÄãÃÇ³ÆÖ®ÎªÊÖ£¬¾¡¹ÜËüÃÇ¿´ÆğÀ´Ò»µãÒ²²»ÏñÄãÃÇµÄÊÖ£¬ÕâÒâÎ¶×ÅÉúÎï¿ÉÒÔ³¯ËüÏëÒªµÄÈÎºÎ·½ÏòÒÆ¶¯£¬²¢ÇÒÔÚÏÖÊµÖĞÈÔÈ»¿ÉÒÔÊµÏÖÏàÍ¬³Ì¶ÈµÄ²Ù×İ¡£ÔÚÕâ¸öÒâÒåÉÏ¡£ÕâĞ©ÉúÎï´ÓÎ´·¢Õ¹³öÄãÃÇËùÈÏÎªµÄÏóÏŞ»òÄÏ±±¡¢¶«ºÍÎ÷µÄ¸ÅÄî¡£¶ÔËûÃÇÀ´Ëµ£¬Õâ¶¼ÊÇÒ»ÑùµÄ£¬²¢ÇÒ»ùÓÚÖ»¾ùÔÈÀ©Õ¹µÄ·ÅÉä×´Í¼°¸µÄÏë·¨¡£»òÕß¾ùÔÈÊÕËõ¡£ËûÃÇÃ»ÓĞºÍÄãÃÇÒ»ÑùµÄ·½Ïò¸Ğ¡£
+å·´å¤ï¼šç­‰ä¸€ä¸‹ã€‚æƒ³è±¡ä¸€ä¸‹ï¼Œå¦‚æœä½ æ„¿æ„ï¼Œå››æ¡è…¿ä¸­çš„æ¯ä¸€æ¡è…¿ä¸Šéƒ½æœ‰ä¸€ä¸ªå»¶ä¼¸éƒ¨åˆ†ï¼Œå®ƒä»¬æ˜¯æ“çºµè€…ï¼Œæˆ–è€…ä½ ä»¬ç§°ä¹‹ä¸ºæ‰‹ï¼Œå°½ç®¡å®ƒä»¬çœ‹èµ·æ¥ä¸€ç‚¹ä¹Ÿä¸åƒä½ ä»¬çš„æ‰‹ï¼Œè¿™æ„å‘³ç€ç”Ÿç‰©å¯ä»¥æœå®ƒæƒ³è¦çš„ä»»ä½•æ–¹å‘ç§»åŠ¨ï¼Œå¹¶ä¸”åœ¨ç°å®ä¸­ä»ç„¶å¯ä»¥å®ç°ç›¸åŒç¨‹åº¦çš„æ“çºµã€‚åœ¨è¿™ä¸ªæ„ä¹‰ä¸Šã€‚è¿™äº›ç”Ÿç‰©ä»æœªå‘å±•å‡ºä½ ä»¬æ‰€è®¤ä¸ºçš„è±¡é™æˆ–å—åŒ—ã€ä¸œå’Œè¥¿çš„æ¦‚å¿µã€‚å¯¹ä»–ä»¬æ¥è¯´ï¼Œè¿™éƒ½æ˜¯ä¸€æ ·çš„ï¼Œå¹¶ä¸”åŸºäºåªå‡åŒ€æ‰©å±•çš„æ”¾å°„çŠ¶å›¾æ¡ˆçš„æƒ³æ³•ã€‚æˆ–è€…å‡åŒ€æ”¶ç¼©ã€‚ä»–ä»¬æ²¡æœ‰å’Œä½ ä»¬ä¸€æ ·çš„æ–¹å‘æ„Ÿã€‚
 
 One moment. Imagine if you will, off of each of the four legs are also an extension that are manipulators, or what you would call hands, although they look nothing like yours, which means the being can move in any direction it wishes to and still achieve the same degree of manipulation in its reality.In that sense. These beings have never developed the concept exactly that you recognize as quadrants or north-south, east and west.To them, it's all the same and based on the idea of radial patterns that only expand uniformly.Or contract uniformly. They do not have the same kind of sense of direction that you do.
 
 
-ÎÊ:ÍÛÅ¶£¬ÎÒÃ÷°×ÁË¡£¿á¡£
+é—®:å“‡å“¦ï¼Œæˆ‘æ˜ç™½äº†ã€‚é…·ã€‚
 
 Wow, I get it. Cool.
 
-°ÍÏÄ£ºÒ»¸ö·Ç³£¡¢·Ç³£¡¢·Ç³£ÖØÒªµÄÎÊÌâ¡£Ò»¸ö·Ç³£·Ç³£²»¾«È·µÄÕñ¶¯·­Òë£¬ËûÃÇ³ÆËûÃÇ×Ô¼ºÎª¡°±ÇÌéÖí¡±¡£¡£¡£
+å·´å¤ï¼šä¸€ä¸ªéå¸¸ã€éå¸¸ã€éå¸¸é‡è¦çš„é—®é¢˜ã€‚ä¸€ä¸ªéå¸¸éå¸¸ä¸ç²¾ç¡®çš„æŒ¯åŠ¨ç¿»è¯‘ï¼Œä»–ä»¬ç§°ä»–ä»¬è‡ªå·±ä¸ºâ€œé¼»æ¶•çŒªâ€ã€‚ã€‚ã€‚
 
 A very, very, very important point. A very, very, very loose vibrational translation of what they call themselves would be the freen...
 
-ÎÊ:ÇëÔÙËµÒ»±é¡£
+é—®:è¯·å†è¯´ä¸€éã€‚
 
 Say that again.
 
-°ÍÏÄ£º±ÇÌéÖí¡£¡£¡£
+å·´å¤ï¼šé¼»æ¶•çŒªã€‚ã€‚ã€‚
 
 Freen... 
 
-ÎÊ:×£Äã½¡¿µ¡£
+é—®:ç¥ä½ å¥åº·ã€‚
 
 Gesundheit. 
 
-°ÍÏÄ£ºĞ»Ğ»¡£µÈÒ»ÏÂ¡£ÎÒÃÇ±ØĞëÏòËûÃÇ½âÊÍÄãµÄĞ¦»°¡£ËûÃÇ²»Ã÷°×¡£
+å·´å¤ï¼šè°¢è°¢ã€‚ç­‰ä¸€ä¸‹ã€‚æˆ‘ä»¬å¿…é¡»å‘ä»–ä»¬è§£é‡Šä½ çš„ç¬‘è¯ã€‚ä»–ä»¬ä¸æ˜ç™½ã€‚
 
 Thank you.One moment. We have to explain your joke to them.They don't get it.
 
-ÎÊ:ÎÒÃÇ»á¸æËßËûÃÇÎŞÒâÃ°·¸¡£
+é—®:æˆ‘ä»¬ä¼šå‘Šè¯‰ä»–ä»¬æ— æ„å†’çŠ¯ã€‚
 
 We'll tell them there's no offense.
 
-°ÍÏÄ£ºÃ»ÓĞ±»Ã°·¸¡£ËûÃÇ¾ÍÊÇ²»Ã÷°×¡£ËûÃÇÃ»ÓĞÄãÃÇ´òÅçÌçµÄ»úÖÆ¡£Ò»ÌìÒ»´Î¡¢Á½´Î»òÈı´Î£¬È¡¾öÓÚÉç»áËù³ÖµÄÕÜÑ§ÌåÏµ£¬ËüÃÇµÄËùÓĞÒºÅİ¶¼»á´ò¿ª£¬²¢²úÉúÒ»¹ÉÇ¿ÁÒµÄÇ¿·ç´µ¹ıËüÃÇ£¬ÒÔÇåÀíËüÃÇµÄÏµÍ³¡£ËüÃÇ²»»á´òÅçÌç£¬µ«Ã¿Ìì»á´µÒ»´Î¡¢Á½´Î»òÈı´ÎÇ¿·ç¡£ËüÃÇÔÚÒ»¶¨³Ì¶ÈÉÏÀí½âÁËÕâÒ»µã£¬µ«²¢²»Àí½âÆä±¬·¢ĞÔ£¬ÒòÎªËüÃÇÍêÈ«¿ØÖÆ×Å¿ÕÆøÍ¨¹ıÕâĞ©ÒºÅİºÍ¼¡Èâ¸ôÄ¤ÏµÍ³µÄÍ¨µÀ¡£
+å·´å¤ï¼šæ²¡æœ‰è¢«å†’çŠ¯ã€‚ä»–ä»¬å°±æ˜¯ä¸æ˜ç™½ã€‚ä»–ä»¬æ²¡æœ‰ä½ ä»¬æ‰“å–·åšçš„æœºåˆ¶ã€‚ä¸€å¤©ä¸€æ¬¡ã€ä¸¤æ¬¡æˆ–ä¸‰æ¬¡ï¼Œå–å†³äºç¤¾ä¼šæ‰€æŒçš„å“²å­¦ä½“ç³»ï¼Œå®ƒä»¬çš„æ‰€æœ‰æ¶²æ³¡éƒ½ä¼šæ‰“å¼€ï¼Œå¹¶äº§ç”Ÿä¸€è‚¡å¼ºçƒˆçš„å¼ºé£å¹è¿‡å®ƒä»¬ï¼Œä»¥æ¸…ç†å®ƒä»¬çš„ç³»ç»Ÿã€‚å®ƒä»¬ä¸ä¼šæ‰“å–·åšï¼Œä½†æ¯å¤©ä¼šå¹ä¸€æ¬¡ã€ä¸¤æ¬¡æˆ–ä¸‰æ¬¡å¼ºé£ã€‚å®ƒä»¬åœ¨ä¸€å®šç¨‹åº¦ä¸Šç†è§£äº†è¿™ä¸€ç‚¹ï¼Œä½†å¹¶ä¸ç†è§£å…¶çˆ†å‘æ€§ï¼Œå› ä¸ºå®ƒä»¬å®Œå…¨æ§åˆ¶ç€ç©ºæ°”é€šè¿‡è¿™äº›æ¶²æ³¡å’Œè‚Œè‚‰éš”è†œç³»ç»Ÿçš„é€šé“ã€‚
 
 No offense taken. They just don't get it. They do not have the mechanisms that you have that cause sneezing.Once, twice, or three times a day, depending upon the philosophy that is held in the society, all of their vacuoles open and a strong, stiff breeze is created to blow through them to clean their systems out.They do not sneeze as such, but they have one, two, or three blows a day.They understand it to that degree, but not the explosive nature, since they completely control the passage of the air through those vacuoles, through a system of muscular diaphragms.
 
 
-ÎÊ:Äã¿´£¬ÎÒÒ»Ö±ÔÚÊÔ×Å×Ô¼ºÕâÑù×ö£¬µ«ÎÒÎŞ·¨¿ØÖÆ×Ô¼ºµÄºôÎü¡£ÕâÊÇÒ»¸öÌôÕ½¡£
+é—®:ä½ çœ‹ï¼Œæˆ‘ä¸€ç›´åœ¨è¯•ç€è‡ªå·±è¿™æ ·åšï¼Œä½†æˆ‘æ— æ³•æ§åˆ¶è‡ªå·±çš„å‘¼å¸ã€‚è¿™æ˜¯ä¸€ä¸ªæŒ‘æˆ˜ã€‚
 
 See, I've been trying to do that myself, and I can't get any control of passing my air. It's a challenge.
 
-°ÍÏÄ£ººÃ°É¡£µÈÒ»ÏÂ¡£
+å·´å¤ï¼šå¥½å§ã€‚ç­‰ä¸€ä¸‹ã€‚
 
 All right. One moment.
 
-ÎÊ:ÎÒ»áÊÔ×ÅÏòËûÃÇ½âÊÍÒ»ÏÂ¡£
+é—®:æˆ‘ä¼šè¯•ç€å‘ä»–ä»¬è§£é‡Šä¸€ä¸‹ã€‚
 
 I'm going to try to explain that one to them.
 
-°ÍÏÄ£ºÎÒÉõÖÁ²»´òËã³¢ÊÔ¡£
+å·´å¤ï¼šæˆ‘ç”šè‡³ä¸æ‰“ç®—å°è¯•ã€‚
 
 I'm not even going to attempt it. 
 
-ÎÊ:ÎÒÖ»ÊÇÔÚÍæ¡£ÎÒÖ»ÊÇËæ±ãÍæÍæ¡£
+é—®:æˆ‘åªæ˜¯åœ¨ç©ã€‚æˆ‘åªæ˜¯éšä¾¿ç©ç©ã€‚
 
 I'm not even going to attempt it. I'm just playing.
 
-°ÍÏÄ£ºÎÒÖªµÀ¡£ËûÃÇÓĞµãÀ§»ó£¬µ«Ã»¹ØÏµ¡£ËûÃÇÖ»ÊÇÃ÷°×£¬ËûÃÇ±ØĞë°ÑÕâ¹é½áÎªÎÒÃÇÖ®¼äµÄ²îÒì£¬²¢ÔÚÒ»¶¨³Ì¶ÈÉÏ¼«¸ĞĞËÈ¤£¬ÒòÎªËûÃÇ¿ÉÒÔÍ¨¹ıÄãËµµÄ»°À´Àí½â¡£²¢Í¨¹ıÎÒÃÇÒÔĞÄÁé¸ĞÓ¦µÄ·½Ê½´«´ï¸øËûÃÇµÄÍ¼Ïñ£¬ÈÏÊ¶µ½ÄãÃÇ¿´ÆğÀ´ÊÇÊ²Ã´Ñù£¬µ±È»£¬ÄãÃÇ¿´ÆğÀ´ºÍËûÃÇ·Ç³£²»Í¬¡£¶øÇÒ£¬ÊÂÊµÉÏ£¬ËûÃÇºÜ¾ªÑÈÄãÃÇÔõÃ´ÄÜÕ¾ÆğÀ´¡£
+å·´å¤ï¼šæˆ‘çŸ¥é“ã€‚ä»–ä»¬æœ‰ç‚¹å›°æƒ‘ï¼Œä½†æ²¡å…³ç³»ã€‚ä»–ä»¬åªæ˜¯æ˜ç™½ï¼Œä»–ä»¬å¿…é¡»æŠŠè¿™å½’ç»“ä¸ºæˆ‘ä»¬ä¹‹é—´çš„å·®å¼‚ï¼Œå¹¶åœ¨ä¸€å®šç¨‹åº¦ä¸Šææ„Ÿå…´è¶£ï¼Œå› ä¸ºä»–ä»¬å¯ä»¥é€šè¿‡ä½ è¯´çš„è¯æ¥ç†è§£ã€‚å¹¶é€šè¿‡æˆ‘ä»¬ä»¥å¿ƒçµæ„Ÿåº”çš„æ–¹å¼ä¼ è¾¾ç»™ä»–ä»¬çš„å›¾åƒï¼Œè®¤è¯†åˆ°ä½ ä»¬çœ‹èµ·æ¥æ˜¯ä»€ä¹ˆæ ·ï¼Œå½“ç„¶ï¼Œä½ ä»¬çœ‹èµ·æ¥å’Œä»–ä»¬éå¸¸ä¸åŒã€‚è€Œä¸”ï¼Œäº‹å®ä¸Šï¼Œä»–ä»¬å¾ˆæƒŠè®¶ä½ ä»¬æ€ä¹ˆèƒ½ç«™èµ·æ¥ã€‚
 
 I know that. They are a little bit confused, but that's all right.They simply understand that they have to chalk it up to the differences between us, and are fascinated to some degree as they can understand it by what you are saying.And realize through the images we are imparting to them telepathically that you look, of course, very different than they do.And, actually, they are wondering how you can even stand up.
 
-ÎÊ:ÎÒ×Ô¼ºÒ²ºÜ¾ªÑÈ¡£
+é—®:æˆ‘è‡ªå·±ä¹Ÿå¾ˆæƒŠè®¶ã€‚
 
 I wonder that myself.
 
-°ÍÏÄ£ºÕâ²¢²»ÊÇËµËûÃÇÃ»ÓĞÓöµ½¹ıÆäËûÁ½×ã¶¯Îï£¬¶øÊÇÒòÎªËüÃÇÌìÉú¾ÍÊÇËÄ×ã¶¯Îï£¬ËùÒÔ¶ÔËûÃÇÀ´Ëµ£¬ÓĞĞ©¶«Î÷Êµ¼ÊÉÏ¿ÉÒÔÔÚÁ½ÌõÍÈÉÏÈ¡µÃÆ½ºâ£¬Õâ¶ÔËûÃÇÀ´Ëµ×ÜÊÇÓĞµãÉñÃØºÍºÃÆæ¡£ËùÒÔËûÃÇ¶Ô´Ë¸Ğµ½¾ªÑÈ£¬ÕâÊÇËûÃÇ¶Ô²îÒìµÄĞÀÉÍµÄÒ»²¿·Ö¡£
+å·´å¤ï¼šè¿™å¹¶ä¸æ˜¯è¯´ä»–ä»¬æ²¡æœ‰é‡åˆ°è¿‡å…¶ä»–ä¸¤è¶³åŠ¨ç‰©ï¼Œè€Œæ˜¯å› ä¸ºå®ƒä»¬å¤©ç”Ÿå°±æ˜¯å››è¶³åŠ¨ç‰©ï¼Œæ‰€ä»¥å¯¹ä»–ä»¬æ¥è¯´ï¼Œæœ‰äº›ä¸œè¥¿å®é™…ä¸Šå¯ä»¥åœ¨ä¸¤æ¡è…¿ä¸Šå–å¾—å¹³è¡¡ï¼Œè¿™å¯¹ä»–ä»¬æ¥è¯´æ€»æ˜¯æœ‰ç‚¹ç¥ç§˜å’Œå¥½å¥‡ã€‚æ‰€ä»¥ä»–ä»¬å¯¹æ­¤æ„Ÿåˆ°æƒŠè®¶ï¼Œè¿™æ˜¯ä»–ä»¬å¯¹å·®å¼‚çš„æ¬£èµçš„ä¸€éƒ¨åˆ†ã€‚
 
 It's not that they have not encountered other bipedal forms, but because they are so innately four-legged, it always seems a little bit mysterious to them and curious to them that something can actually balance on two.And so they wonder at that, and it as part of their appreciation of the differences.
 
-ÎÊ:ÏÖÔÚ¸æËßÎÒ¡£¶ÔÓÚÄÇÖÖÉúÎïÀ´Ëµ£¬Ëü±ØĞëÊ×ÏÈ´ÓÄ³ÖÖ³Ì¶ÈµÄÒâÊ¶¿ªÊ¼£¬¶Ô°É£¿¾ÍÏñÎÒÃÇ´ÓÒ»¸öÒâÊ¶²ãÃæ¿ªÊ¼£¬È»ºó²úÉúÁËÒ»¸öÁ½×ã¶¯Îï¡£
+é—®:ç°åœ¨å‘Šè¯‰æˆ‘ã€‚å¯¹äºé‚£ç§ç”Ÿç‰©æ¥è¯´ï¼Œå®ƒå¿…é¡»é¦–å…ˆä»æŸç§ç¨‹åº¦çš„æ„è¯†å¼€å§‹ï¼Œå¯¹å§ï¼Ÿå°±åƒæˆ‘ä»¬ä»ä¸€ä¸ªæ„è¯†å±‚é¢å¼€å§‹ï¼Œç„¶åäº§ç”Ÿäº†ä¸€ä¸ªä¸¤è¶³åŠ¨ç‰©ã€‚
 
 Now tell me this. For that creature to be that type of creature, it had to start from some level of consciousness first, right?Just like we started from a level of consciousness that then produced a bipedal being.
 
 
-°ÍÏÄ£ººÃ£¬Èç¹ûÄãÊÇÕâ¸öÒâË¼£¬ÊÇµÄ¡£¾¡¹ÜÇë¼Ç×¡£¬ÔÚÁé»ê²ãÃæÉÏ£¬ÎÒÃÇ¶¼ÊÇÍ¬Ò»ÖÖÒâÊ¶£¬Ñ¡ÔñÒÔ¸÷ÖÖĞÎÊ½ÌåÑé»¯Éí¡£µ«ÊÇ£¬µ±ÄãÖ¸µÄÊÇÎïÖÊ½ø»¯ÊÀ½ç±¾ÉíµÄÒâÊ¶Ê±£¬ÊÇµÄ£¬ÔÚÏÖÔÚ´æÔÚµÄĞÎÊ½Ö®Ç°£¬Äã»á³ÆÖ®ÎªÖ÷ÒªĞÎÊ½¡£
+å·´å¤ï¼šå¥½ï¼Œå¦‚æœä½ æ˜¯è¿™ä¸ªæ„æ€ï¼Œæ˜¯çš„ã€‚å°½ç®¡è¯·è®°ä½ï¼Œåœ¨çµé­‚å±‚é¢ä¸Šï¼Œæˆ‘ä»¬éƒ½æ˜¯åŒä¸€ç§æ„è¯†ï¼Œé€‰æ‹©ä»¥å„ç§å½¢å¼ä½“éªŒåŒ–èº«ã€‚ä½†æ˜¯ï¼Œå½“ä½ æŒ‡çš„æ˜¯ç‰©è´¨è¿›åŒ–ä¸–ç•Œæœ¬èº«çš„æ„è¯†æ—¶ï¼Œæ˜¯çš„ï¼Œåœ¨ç°åœ¨å­˜åœ¨çš„å½¢å¼ä¹‹å‰ï¼Œä½ ä¼šç§°ä¹‹ä¸ºä¸»è¦å½¢å¼ã€‚
 
 Well, if you mean it that way, yes. Although remember that on the spirit level we're all the same kind of consciousness choosing to experience incarnations in a variety of forms.But as you mean the consciousness of the material evolutionary world itself, yes, there were what you would call primary forms before the form that is now in existence.
 
-ÎÊ:ÎÒÃ÷°×ÁË¡£ºÃµÄ£¬Õû¸öÓîÖæÖĞËùÓĞÎïÖÖµÄÖ÷ÒªĞÎÊ½¶¼ÊÇÒ»ÑùµÄÂğ£¿
+é—®:æˆ‘æ˜ç™½äº†ã€‚å¥½çš„ï¼Œæ•´ä¸ªå®‡å®™ä¸­æ‰€æœ‰ç‰©ç§çš„ä¸»è¦å½¢å¼éƒ½æ˜¯ä¸€æ ·çš„å—ï¼Ÿ
 
 I see. Okay, and that primary form is the same for all species throughout the entire universe?
 
-°ÍÏÄ£º²»£¬²»£¬²»²»£¬²»¡£ÎÒÊÇËµ£¬ÔÚËûÃÇµÄ»·¾³ÖĞ£¬×î³õÓĞÒ»ÖÖĞÎÊ½Êµ¼ÊÉÏÓĞ°ËÌõÍÈ¡£Ëæ×ÅÊ±¼äµÄÍÆÒÆ£¬ËüÑİ±ä³ÉÁËÒ»ÖÖÓĞËÄÌõÍÈµÄĞÎÊ½£¬ÔÚËüµÄÁìÓòÀï±äµÃÔ½À´Ô½´ó£¬ÓÃÄãÃÇµÄ»°Ëµ£¬ËüÒÑ¾­ÄÜ¹»Ö§³Ö»¯ÉíÁé»ê£¬²¢ÒÔÒ»ÖÖÄãÃÇÈÏÎªÊÇÎÄÃ÷µÄ·½Ê½±í´ïÖÇÁ¦¡£
+å·´å¤ï¼šä¸ï¼Œä¸ï¼Œä¸ä¸ï¼Œä¸ã€‚æˆ‘æ˜¯è¯´ï¼Œåœ¨ä»–ä»¬çš„ç¯å¢ƒä¸­ï¼Œæœ€åˆæœ‰ä¸€ç§å½¢å¼å®é™…ä¸Šæœ‰å…«æ¡è…¿ã€‚éšç€æ—¶é—´çš„æ¨ç§»ï¼Œå®ƒæ¼”å˜æˆäº†ä¸€ç§æœ‰å››æ¡è…¿çš„å½¢å¼ï¼Œåœ¨å®ƒçš„é¢†åŸŸé‡Œå˜å¾—è¶Šæ¥è¶Šå¤§ï¼Œç”¨ä½ ä»¬çš„è¯è¯´ï¼Œå®ƒå·²ç»èƒ½å¤Ÿæ”¯æŒåŒ–èº«çµé­‚ï¼Œå¹¶ä»¥ä¸€ç§ä½ ä»¬è®¤ä¸ºæ˜¯æ–‡æ˜çš„æ–¹å¼è¡¨è¾¾æ™ºåŠ›ã€‚
 
 No, no, no, no, no.I am saying that in their environment there was an initial form that actually had eight legs.And over time evolved into that which has four and has grown larger in its domain and has become, in your term, capable of supportingincarnational spirit and expressing intelligence in a way that you would recognize as a civilization.

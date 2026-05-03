@@ -1,33 +1,33 @@
-°ÍÏÄ£º°²×¡µ±ÏÂ»áÈÃÄã³¯×Å×Ô¼ºÏ²»¶µÄ·½ÏòÇ°½ø
-Ô­´´ °¢¿üÑÇ °ÍÏÄËµ
- 2024Äê05ÔÂ31ÈÕ 21:39 ÁÉÄş
-Ç°ÑÔ
+å·´å¤ï¼šå®‰ä½å½“ä¸‹ä¼šè®©ä½ æœç€è‡ªå·±å–œæ¬¢çš„æ–¹å‘å‰è¿›
+åŸåˆ› é˜¿å¥äºš å·´å¤è¯´
+ 2024å¹´05æœˆ31æ—¥ 21:39 è¾½å®
+å‰è¨€
 
-¡°ÎŞÂÛÄãÏÖÔÚËù¾­ÀúµÄÊÇÊ²Ã´£¬¶¼±ØĞë±»ÍêÈ«½ÓÊÜºÍÀí½âÎªÄãËùÄÜ¾­ÀúµÄ×îÖØÒªµÄÊÂÇé¡±
+â€œæ— è®ºä½ ç°åœ¨æ‰€ç»å†çš„æ˜¯ä»€ä¹ˆï¼Œéƒ½å¿…é¡»è¢«å®Œå…¨æ¥å—å’Œç†è§£ä¸ºä½ æ‰€èƒ½ç»å†çš„æœ€é‡è¦çš„äº‹æƒ…â€
 
-                        ÒëÕß£º°¢¿üÑÇ Aquia
+                        è¯‘è€…ï¼šé˜¿å¥äºš Aquia
 
-                  ´«Ñ¶Ê±¼ä£º2024Äê5ÔÂ25ÈÕ
+                  ä¼ è®¯æ—¶é—´ï¼š2024å¹´5æœˆ25æ—¥
 
-ÎÊ£ºÄãºÃ£¬°ÍÏÄ¡£ÎÒµÄÃû×Ö½ĞÃ·¡£ÎÒÓĞÒ»¸ö¹ØÓÚĞÅÄîµÄÎÊÌâ¡£Í¨¹ıÎÒ¹ıÈ¥¼¸ÄêµÄ¾«Éñ³É³¤¡£ÎÒ»ñµÃÁËÒ»Ğ©ÖÇ»Û¡£ÎÒÒÑ¾­³ÉÎªÒ»¸ö·Ç³£¿ìÀÖµÄÈË¡£ÎÒÏÖÔÚÄÜ¹»¿´´©±ğÈËµÄĞĞÎª£¬¿´µ½ËûÃÇµÄĞÅÄîÊÇÊ²Ã´£¬¿´µ½ËûÃÇÊÇÈçºÎÔì¾Í×Ô¼ºµÄ¡£ÎÒËÆºõÎŞ·¨¿´Í¸×Ô¼ºµÄĞĞÎª¡£ÎÒËÆºõ²»Ã÷°×ÎÒµÄĞÅÄîÊÇÊ²Ã´¡£ÕâĞ©ĞÅÄîÈÃÎÒµÄÉú»î±äµÃ²»¾¡ÈËÒâ¡£ËùÒÔÎÒÏëÖªµÀÄãÊÇ·ñÄÜ°ïÖúÎÒÃ÷°×ÎÒÔõÑùÄÜÕÒµ½×Ô¼ºµÄĞÅÄî¡£Ğ»Ğ»¡£
+é—®ï¼šä½ å¥½ï¼Œå·´å¤ã€‚æˆ‘çš„åå­—å«æ¢…ã€‚æˆ‘æœ‰ä¸€ä¸ªå…³äºä¿¡å¿µçš„é—®é¢˜ã€‚é€šè¿‡æˆ‘è¿‡å»å‡ å¹´çš„ç²¾ç¥æˆé•¿ã€‚æˆ‘è·å¾—äº†ä¸€äº›æ™ºæ…§ã€‚æˆ‘å·²ç»æˆä¸ºä¸€ä¸ªéå¸¸å¿«ä¹çš„äººã€‚æˆ‘ç°åœ¨èƒ½å¤Ÿçœ‹ç©¿åˆ«äººçš„è¡Œä¸ºï¼Œçœ‹åˆ°ä»–ä»¬çš„ä¿¡å¿µæ˜¯ä»€ä¹ˆï¼Œçœ‹åˆ°ä»–ä»¬æ˜¯å¦‚ä½•é€ å°±è‡ªå·±çš„ã€‚æˆ‘ä¼¼ä¹æ— æ³•çœ‹é€è‡ªå·±çš„è¡Œä¸ºã€‚æˆ‘ä¼¼ä¹ä¸æ˜ç™½æˆ‘çš„ä¿¡å¿µæ˜¯ä»€ä¹ˆã€‚è¿™äº›ä¿¡å¿µè®©æˆ‘çš„ç”Ÿæ´»å˜å¾—ä¸å°½äººæ„ã€‚æ‰€ä»¥æˆ‘æƒ³çŸ¥é“ä½ æ˜¯å¦èƒ½å¸®åŠ©æˆ‘æ˜ç™½æˆ‘æ€æ ·èƒ½æ‰¾åˆ°è‡ªå·±çš„ä¿¡å¿µã€‚è°¢è°¢ã€‚
 
 Q:Hi, Bashar. My name is Mei. I have a question about beliefs.Through my last few years spiritual growth.I have gained a few wisdoms. I have become a much happy person.I am now able to see through other people's behaviors to see what their beliefs are, to see how their beliefs have made who they are.I can't seem to see through my own behaviors.I can't seem to understand what my beliefs are.those beliefs that make my life not as ideal as I want it to be. So I was wondering if you could help me understand how I can find my own beliefs.Thank you.
 
-Í¼Æ¬
+å›¾ç‰‡
 
-°ÍÏÄ£ºÊ×ÏÈ£¬Ò²ÊÇ×îÖØÒªµÄÒ»µã£¬Äã¿ÉÄÜÕıÔÚÇÖÊ´ÎÒÉú»îÓ¦¸ÃÊÇÊ²Ã´Ñù×ÓµÄ±ß½ç£¬Õâ¿ÉÄÜ»áÈÃÄãÀë¿ªµ±Ç°µÄÉú»î¡£ËùÒÔÕÒµ½×èÖ¹ÄãÌåÑéÄãÏ²»¶µÄ¶«Î÷µÄĞÅÄîµÄ¸ÅÄîÊÇÕæÕıÍêÈ«½ÓÊÜÄãÏÖÔÚµÄ´¦¾³¡£
+å·´å¤ï¼šé¦–å…ˆï¼Œä¹Ÿæ˜¯æœ€é‡è¦çš„ä¸€ç‚¹ï¼Œä½ å¯èƒ½æ­£åœ¨ä¾µèš€æˆ‘ç”Ÿæ´»åº”è¯¥æ˜¯ä»€ä¹ˆæ ·å­çš„è¾¹ç•Œï¼Œè¿™å¯èƒ½ä¼šè®©ä½ ç¦»å¼€å½“å‰çš„ç”Ÿæ´»ã€‚æ‰€ä»¥æ‰¾åˆ°é˜»æ­¢ä½ ä½“éªŒä½ å–œæ¬¢çš„ä¸œè¥¿çš„ä¿¡å¿µçš„æ¦‚å¿µæ˜¯çœŸæ­£å®Œå…¨æ¥å—ä½ ç°åœ¨çš„å¤„å¢ƒã€‚
 
-Bashar£ºFirst and for most, you may be encroaching on the borderline of what my life should be and that can take you out of the present. So the idea to find the beliefs that are keeping you from experiencing what you prefer is to actually fully accept where you are now.
+Basharï¼šFirst and for most, you may be encroaching on the borderline of what my life should be and that can take you out of the present. So the idea to find the beliefs that are keeping you from experiencing what you prefer is to actually fully accept where you are now.
 
-¼´Ê¹Õâ²»ÊÇÄãÈÏÎªµÄÀíÏë´¦¾³¡£ÒòÎªÃ¿¼şÊÂµÄ·¢Éú¶¼ÓĞÒ»¸öÀíÓÉ£¬ÈÃÄãÓĞ»ú»áÀûÓÃËüÊ¹×Ô¼ºÊÜÒæ¡£ËùÒÔÎŞÂÛÄãÏÖÔÚËù¾­ÀúµÄÊÇÊ²Ã´£¬¶¼±ØĞë±»ÍêÈ«½ÓÊÜºÍÀí½âÎªÄãËùÄÜ¾­ÀúµÄ×îÖØÒªµÄÊÂÇé¡£
+å³ä½¿è¿™ä¸æ˜¯ä½ è®¤ä¸ºçš„ç†æƒ³å¤„å¢ƒã€‚å› ä¸ºæ¯ä»¶äº‹çš„å‘ç”Ÿéƒ½æœ‰ä¸€ä¸ªç†ç”±ï¼Œè®©ä½ æœ‰æœºä¼šåˆ©ç”¨å®ƒä½¿è‡ªå·±å—ç›Šã€‚æ‰€ä»¥æ— è®ºä½ ç°åœ¨æ‰€ç»å†çš„æ˜¯ä»€ä¹ˆï¼Œéƒ½å¿…é¡»è¢«å®Œå…¨æ¥å—å’Œç†è§£ä¸ºä½ æ‰€èƒ½ç»å†çš„æœ€é‡è¦çš„äº‹æƒ…ã€‚
 
 even if it's not what you deem to be the ideal situation.Because everything happens for a reason to give you the opportunity to use it to your advantage.So whatever it is you're experiencing now has to be fully accepted and fully understood as being the most important thing you can be experiencing.
 
-Äã²»±ØËµ¡°ÎÒÓ¦¸Ã¾­ÀúÒ»Ğ©²»Í¬µÄÊÂÇé¡±¡£ÒòÎªÕâÊÇ¶Ôµ±Ç°ÕıÔÚ·¢ÉúµÄÊÂÇéµÄÎŞĞ§Ğû¸æ£¬Ëü»áÈÃÄãÀë¿ªµ±ÏÂ¡£ÕâÈÃÄãÎŞ·¨¸ù¾İµ±ÏÂ³ÊÏÖÔÚÄãÃæÇ°µÄ¶«Î÷£¬ÒÔÊ¹ÓÃÀñÎïµÄ·½Ê½À´ÀûÓÃÀñÎï¡£
+ä½ ä¸å¿…è¯´â€œæˆ‘åº”è¯¥ç»å†ä¸€äº›ä¸åŒçš„äº‹æƒ…â€ã€‚å› ä¸ºè¿™æ˜¯å¯¹å½“å‰æ­£åœ¨å‘ç”Ÿçš„äº‹æƒ…çš„æ— æ•ˆå®£å‘Šï¼Œå®ƒä¼šè®©ä½ ç¦»å¼€å½“ä¸‹ã€‚è¿™è®©ä½ æ— æ³•æ ¹æ®å½“ä¸‹å‘ˆç°åœ¨ä½ é¢å‰çš„ä¸œè¥¿ï¼Œä»¥ä½¿ç”¨ç¤¼ç‰©çš„æ–¹å¼æ¥åˆ©ç”¨ç¤¼ç‰©ã€‚
 
 and you don't have to go into "I should be experiencing something different" because that's an invalidation of what's going on in the present which takes you out of the present.which doesn't allow you to use the present to your advantage in the way that you could be using it based on what's being presented to you in the present.
 
-ËùÒÔÃ¬¶ÜµÄÊÇ£¬°²×¡µ±ÏÂ»áÈÃÄã³¯×Å×Ô¼ºÏ²»¶µÄ·½ÏòÇ°½ø¡£µ«Äã²»ÄÜÈÏÎªÄãÓ¦¸ÃÈ¥Ò»¸ö±ÈÏÖÔÚ¸üºÃµÄµØ·½¡£ÄãÏÖÔÚËùÔÚµÄµØ·½Ò»¶¨ÊÇ¾¡¿ÉÄÜºÃµÄ×îºÃµÄµØ·½¡£ÒòÎªËü°üº¬ÁËÄãĞèÒª±äµÃ¸ü¶àµÄÒ»ÇĞ£¬µ«Äã±ØĞë½ÓÊÜÄãÏÖÔÚµÄ´¦¾³¡£
+æ‰€ä»¥çŸ›ç›¾çš„æ˜¯ï¼Œå®‰ä½å½“ä¸‹ä¼šè®©ä½ æœç€è‡ªå·±å–œæ¬¢çš„æ–¹å‘å‰è¿›ã€‚ä½†ä½ ä¸èƒ½è®¤ä¸ºä½ åº”è¯¥å»ä¸€ä¸ªæ¯”ç°åœ¨æ›´å¥½çš„åœ°æ–¹ã€‚ä½ ç°åœ¨æ‰€åœ¨çš„åœ°æ–¹ä¸€å®šæ˜¯å°½å¯èƒ½å¥½çš„æœ€å¥½çš„åœ°æ–¹ã€‚å› ä¸ºå®ƒåŒ…å«äº†ä½ éœ€è¦å˜å¾—æ›´å¤šçš„ä¸€åˆ‡ï¼Œä½†ä½ å¿…é¡»æ¥å—ä½ ç°åœ¨çš„å¤„å¢ƒã€‚
 
 So staying in the present with what is is what will allow you paradoxically to move forward toward what you prefer.but you can't think that you should be somewhere better than where you are now. Where you are now has to be the best possible thing it could possibly be where you are now. because it contains everything you need to become more, but you have to accept yourself for where you are in the moment.
 

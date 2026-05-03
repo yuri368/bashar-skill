@@ -1,825 +1,825 @@
-°ÍÏÄ¹ØÓÚµØÇòµÄĞÇ¼ÊÎÄÃ÷À´Ô´µÄ½âÊÍ£¬ÒÔ9´óÀ´Ô´ÎªÖ÷¡£ËäÈ»¼òÂÔ£¬È´Ëã´óÖÂ¿ò¼ÜÍêÕû¡£
+å·´å¤å…³äºåœ°çƒçš„æ˜Ÿé™…æ–‡æ˜æ¥æºçš„è§£é‡Šï¼Œä»¥9å¤§æ¥æºä¸ºä¸»ã€‚è™½ç„¶ç®€ç•¥ï¼Œå´ç®—å¤§è‡´æ¡†æ¶å®Œæ•´ã€‚
 
 
 
-±¾ÊÓÆµ¹²Èı¼¯£¬´ËÎªµÚÒ»¼¯£¬Ì¸¼°ÁËAnnanuki¡¢ÁÔ»§×ùºÍĞ¡»ÒÈË¡£
+æœ¬è§†é¢‘å…±ä¸‰é›†ï¼Œæ­¤ä¸ºç¬¬ä¸€é›†ï¼Œè°ˆåŠäº†Annanukiã€çŒæˆ·åº§å’Œå°ç°äººã€‚
 
 
 
-ÓĞĞí¶àÅóÓÑ¾õµÃ£¬ÕâĞ©×ÊÑ¶ºÍÍøÂçÉÏÁÖÁÖ×Ü×ÜµÄ×ÊÁÏ£¬ÓĞÏàËÆÓĞ²»Í¬£¬²»ÖªÈçºÎÈ¡Éá¡£¸öÈËÓŞ¼û£¬Ñ§Ï°ÈÎºÎ×ÊÁÏ¶¼ĞèÒªÄÚÔÚµÄ¾õ²ì£¬È¡ÄÇĞ©¼¤·¢ÁËÎÒÃÇÄÚĞÄ°®¡¢ÃÀºÃ£¬»ı¼«Á¼ÉÆ¡¢°üÈİ³¨¿ªĞÄÌ¬µÄÑ¶Ï¢¡ª¡ªÒòÎªÕâĞ©²ÅÊÇÓëÓîÖæ´ó°®Í¬ÆµµÄ£¬ÆäËü·ÅÏÂ¼´¿É¡£
+æœ‰è®¸å¤šæœ‹å‹è§‰å¾—ï¼Œè¿™äº›èµ„è®¯å’Œç½‘ç»œä¸Šæ—æ—æ€»æ€»çš„èµ„æ–™ï¼Œæœ‰ç›¸ä¼¼æœ‰ä¸åŒï¼Œä¸çŸ¥å¦‚ä½•å–èˆã€‚ä¸ªäººæ„šè§ï¼Œå­¦ä¹ ä»»ä½•èµ„æ–™éƒ½éœ€è¦å†…åœ¨çš„è§‰å¯Ÿï¼Œå–é‚£äº›æ¿€å‘äº†æˆ‘ä»¬å†…å¿ƒçˆ±ã€ç¾å¥½ï¼Œç§¯æè‰¯å–„ã€åŒ…å®¹æ•å¼€å¿ƒæ€çš„è®¯æ¯â€”â€”å› ä¸ºè¿™äº›æ‰æ˜¯ä¸å®‡å®™å¤§çˆ±åŒé¢‘çš„ï¼Œå…¶å®ƒæ”¾ä¸‹å³å¯ã€‚
 
 
 
 
-°ÍÏÄ171 ĞÇ¼Ê¾Å¹¬¸ñ(1/3)¡ª¡ª°¢Å«ÄÉÆæ£¬ÁÔ»§×ù£¬»ÒÈËÁª°î,µØÇò
+å·´å¤171 æ˜Ÿé™…ä¹å®«æ ¼(1/3)â€”â€”é˜¿å¥´çº³å¥‡ï¼ŒçŒæˆ·åº§ï¼Œç°äººè”é‚¦,åœ°çƒ
 
 
 
-·­Òë£º¿ÂÎ¬/ ÕûÀí£ºÎÂÁá
+ç¿»è¯‘ï¼šæŸ¯ç»´/ æ•´ç†ï¼šæ¸©ç²
 
 
 
-£¨A£ºAprilÖ÷³ÖÈË D£ºDarrlyá·ÂŞ B£ºbashar°ÍÏÄ£©
+ï¼ˆAï¼šAprilä¸»æŒäºº Dï¼šDarrlyå²±ç½— Bï¼šbasharå·´å¤ï¼‰
 
-A£ººÃÁË£¬·Ç³£ÈÙĞÒ½«ÎèÌ¨½»¸øÊÀ½çÉÏ×îÁîÈË¾ªÆæµÄÁéÃ½--á·ÂŞ¡¤°²¿¨
+Aï¼šå¥½äº†ï¼Œéå¸¸è£å¹¸å°†èˆå°äº¤ç»™ä¸–ç•Œä¸Šæœ€ä»¤äººæƒŠå¥‡çš„çµåª’--å²±ç½—Â·å®‰å¡
 So,it is my great pleasure to bring to thestage the most amazing channel in the world Darryl Anka
 
-ÎÒÏëËµÇëºÍÎÒÒ»Æğ¸ĞĞ»á·ÂŞºÍ°ÍÏÄ´øÀ´µÄÕâĞ©ÁîÈË¾ªÏ²µÄĞÅÏ¢
+æˆ‘æƒ³è¯´è¯·å’Œæˆ‘ä¸€èµ·æ„Ÿè°¢å²±ç½—å’Œå·´å¤å¸¦æ¥çš„è¿™äº›ä»¤äººæƒŠå–œçš„ä¿¡æ¯
 So,I would just like to say please join meand thanking Darryl and Bashar for bringing through this amazing information
 
-·ÖÏí¸øÎÒÃÇ¹ØÓÚÎÒÃÇµÄ¿çÎ¬¶ÈµÄÓëÍâĞÇÈË´ÓÏÖÔÚµ½¹ıÈ¥£¬ÔÙµ½Î´À´µÄ¹ØÏµµÄĞÂµÄ¿´·¨
+åˆ†äº«ç»™æˆ‘ä»¬å…³äºæˆ‘ä»¬çš„è·¨ç»´åº¦çš„ä¸å¤–æ˜Ÿäººä»ç°åœ¨åˆ°è¿‡å»ï¼Œå†åˆ°æœªæ¥çš„å…³ç³»çš„æ–°çš„çœ‹æ³•
 and sharing with us this new perspective onour interdimensional and extraterrestrial relationships from now until the pastand then into the future.
 
-Ğ»Ğ»Äãá·ÂŞºÍ°ÍÏÄ¡£ 
+è°¢è°¢ä½ å²±ç½—å’Œå·´å¤ã€‚ 
 thank you Darryl and Bashar.
 
-D£ºĞ»Ğ»¡£
+Dï¼šè°¢è°¢ã€‚
 thank you.
 
-àË£¬´ó¼ÒºÃ¡£·Ç³£¸ĞĞ»ÄãÃÇ½ñÍíµÄµ½À´¡£
+å—¨ï¼Œå¤§å®¶å¥½ã€‚éå¸¸æ„Ÿè°¢ä½ ä»¬ä»Šæ™šçš„åˆ°æ¥ã€‚
 Hi,everyone thank you very much for beinghere tonight
 
-ÎÒ»á¾¡¿ì½øÈëÍ¨Áé×´Ì¬¡£×£ÄãÃÇÓä¿ì£¬ÎÒÒ»»á¶ù¼ûÁË¡£
+æˆ‘ä¼šå°½å¿«è¿›å…¥é€šçµçŠ¶æ€ã€‚ç¥ä½ ä»¬æ„‰å¿«ï¼Œæˆ‘ä¸€ä¼šå„¿è§äº†ã€‚
 I'm just gonna go right into it. so pleasehave a good time and I'll see you later
 
-Ò²Ğí°É¡­¡­£¨¹ÛÖÚ´óĞ¦£©
+ä¹Ÿè®¸å§â€¦â€¦ï¼ˆè§‚ä¼—å¤§ç¬‘ï¼‰
 maybe
 
-B£ººÃµÄ£¬ÎÒÔÚÄãÃÇµÄÕâÒ»ÌìµÄÕâ¸öÊ±¼ä×£ÄãÃÇÈÕ°²
+Bï¼šå¥½çš„ï¼Œæˆ‘åœ¨ä½ ä»¬çš„è¿™ä¸€å¤©çš„è¿™ä¸ªæ—¶é—´ç¥ä½ ä»¬æ—¥å®‰
 all right,i'll say good day to you this dayof your time.
 
-ÄãÃÇ¶¼ºÃÂğ£¿
+ä½ ä»¬éƒ½å¥½å—ï¼Ÿ
 how are you all?
 
-ºÃµÄ£¬Ğ»Ğ»
+å¥½çš„ï¼Œè°¢è°¢
 alright, thank you
 
-ÔÙ´ÎµÄ£¬ÎÒÃÇ¶ÔºÍÄãÃÇ¹²Í¬´´ÔìµÄÕâ³¡»¥¶¯ÒÔ¼°ÔÊĞíÕâ³¡´«Ñ¶±íÊ¾¸ĞĞ»
+å†æ¬¡çš„ï¼Œæˆ‘ä»¬å¯¹å’Œä½ ä»¬å…±åŒåˆ›é€ çš„è¿™åœºäº’åŠ¨ä»¥åŠå…è®¸è¿™åœºä¼ è®¯è¡¨ç¤ºæ„Ÿè°¢
 Once again, we thank you for the co-creationof this interaction and allowance this transmission
 
-ÔÚÄãÃÇ½ñÌìµÄÕâ¸öÊ±¼äÀï£¬ÎÒÃÇÒÑ¾­½«Õâ³¡´«Ñ¶µÄ±êÌâ¶¨Îª¡¶ĞÇ¼Ê¾Å¹¬¸ñ¡·
+åœ¨ä½ ä»¬ä»Šå¤©çš„è¿™ä¸ªæ—¶é—´é‡Œï¼Œæˆ‘ä»¬å·²ç»å°†è¿™åœºä¼ è®¯çš„æ ‡é¢˜å®šä¸ºã€Šæ˜Ÿé™…ä¹å®«æ ¼ã€‹
 this day of your time we have been titledthis transmission the Interstellar Enneagram
 
-¾Å¹¬¸ñÕâ¸ö´ÊÔÚÄãÃÇµÄÓïÑÔÖĞ´óÖÂÃèÊöµÄÒâË¼ÊÇÊı×Ö¾Å
+ä¹å®«æ ¼è¿™ä¸ªè¯åœ¨ä½ ä»¬çš„è¯­è¨€ä¸­å¤§è‡´æè¿°çš„æ„æ€æ˜¯æ•°å­—ä¹
 Enneagram generally being a word in yourlanguage that represents the number nine.
 
-µ«ÊÇÕâ´ÎÊ¹ÓÃÕâ¸ö´ÊµÄÒâË¼²»ÊÇÄãÃÇĞí¶àÈËÔÚÄãÃÇµÄĞÇÇòÉÏÊìÏ¤Ê¹ÓÃµÄ¡°¾Å¹¬¸ñ¡±ÄÇ¸ö´ÊµÄÒâË¼
+ä½†æ˜¯è¿™æ¬¡ä½¿ç”¨è¿™ä¸ªè¯çš„æ„æ€ä¸æ˜¯ä½ ä»¬è®¸å¤šäººåœ¨ä½ ä»¬çš„æ˜Ÿçƒä¸Šç†Ÿæ‚‰ä½¿ç”¨çš„â€œä¹å®«æ ¼â€é‚£ä¸ªè¯çš„æ„æ€
 but this is not arranged exactly in the waythat many of you are familiar with the Enneagram that you use on our planet.
 
-Õâ½ö½öÊÇÒ»¸öÈıĞĞÈıÁĞµÄ¾Å¸öĞ¡·½¿éÔÚÒ»¸ö´ó·½¿éµ±ÖĞµÄ¾ØÕó
+è¿™ä»…ä»…æ˜¯ä¸€ä¸ªä¸‰è¡Œä¸‰åˆ—çš„ä¹ä¸ªå°æ–¹å—åœ¨ä¸€ä¸ªå¤§æ–¹å—å½“ä¸­çš„çŸ©é˜µ
 this is really just a matrix of ninesquares in a square, three rows of three
 
-Ã¿Ò»¸ö·½¿é¸ñ×Ó´ú±íÁËÎÒÃÇÒÔÇ°Ëµµ½µÄÒ»ÖÖÒâÊ¶Ğí¿É
+æ¯ä¸€ä¸ªæ–¹å—æ ¼å­ä»£è¡¨äº†æˆ‘ä»¬ä»¥å‰è¯´åˆ°çš„ä¸€ç§æ„è¯†è®¸å¯
 and they are each box representative ofwhat we have talked about before generally speaking a permission slip
 
-ÊÓ¾õÉÏ´ú±íÁË²»Í¬µÄÄÜÁ¿µÄÆµÂÊ
+è§†è§‰ä¸Šä»£è¡¨äº†ä¸åŒçš„èƒ½é‡çš„é¢‘ç‡
 visual representation of differetfrequencies of energy
 
-ËüÃÇÃè»æÁË²»Í¬µÄÎÄÃ÷
+å®ƒä»¬æç»˜äº†ä¸åŒçš„æ–‡æ˜
 they are representative differentcivilizations
 
-±¾ÖÊÉÏ£¬Äã¿ÉÒÔËµËüÃÇ¾ÍÏñÊÇÒ»ÖÖµç»°ºÅÂë
+æœ¬è´¨ä¸Šï¼Œä½ å¯ä»¥è¯´å®ƒä»¬å°±åƒæ˜¯ä¸€ç§ç”µè¯å·ç 
 in essence you could say like a phonenumber
 
-Á¬½áµ½Ä³¸öÌØ¶¨µÄÎ¬¶ÈÁìÓò£¬ÌØ¶¨µÄÎÄÃ÷¡£
+è¿ç»“åˆ°æŸä¸ªç‰¹å®šçš„ç»´åº¦é¢†åŸŸï¼Œç‰¹å®šçš„æ–‡æ˜ã€‚
 for that particular dimensional realm, thatparticular civilization.
 
-ÄÇÊÇÒ»ÖÖÆµÂÊ£¬Èç¹ûÄã×¨×¢ÆäÉÏ£¬¶Ô×ÅËüÚ¤Ïë£¬¿´×ÅËü£¬Óë´ú±íÁËÄÇÖÖÄÜÁ¿Á÷£¬ÄÇÖÖÒâÊ¶·¶Î§µÄÍ¼Ïñ±£³ÖÒ»ÖÂ
+é‚£æ˜¯ä¸€ç§é¢‘ç‡ï¼Œå¦‚æœä½ ä¸“æ³¨å…¶ä¸Šï¼Œå¯¹ç€å®ƒå†¥æƒ³ï¼Œçœ‹ç€å®ƒï¼Œä¸ä»£è¡¨äº†é‚£ç§èƒ½é‡æµï¼Œé‚£ç§æ„è¯†èŒƒå›´çš„å›¾åƒä¿æŒä¸€è‡´
 A frequency that if you focus on it,meditate on it, look at it, get in alignment with that visual that isrepresentative about energy stream, that domain of consciousness
 
-¾Í»á×÷ÎªÒ»ÖÖÒâÊ¶Ğí¿É£¬Ğ­ÖúÄã¸ü¼ÓÎÈ¶¨µÄÁ¬½áµ½ÄÇÖÖÌØ±ğµÄÏÖÊµµÄÆµÂÊÖĞ
+å°±ä¼šä½œä¸ºä¸€ç§æ„è¯†è®¸å¯ï¼ŒååŠ©ä½ æ›´åŠ ç¨³å®šçš„è¿ç»“åˆ°é‚£ç§ç‰¹åˆ«çš„ç°å®çš„é¢‘ç‡ä¸­
 will aid and assist you in connecting morereadily as a permission slip to that particular frequency of reality
 
-²¢ÇÒÈÃÄãÄÜ¸üÈİÒ×Ò»µã¶ùµÄÁ¬½á£¬ÁªºÏ£¬½ÓÊÕÀ´×Ô´æÔÚÓÚÕâ¸öÌØÊâµÄ9¸ö¸ñ×ÓµÄ¾ØÕó»ò¾Å¹¬¸ñÖĞµÄĞÅÏ¢¡£
+å¹¶ä¸”è®©ä½ èƒ½æ›´å®¹æ˜“ä¸€ç‚¹å„¿çš„è¿ç»“ï¼Œè”åˆï¼Œæ¥æ”¶æ¥è‡ªå­˜åœ¨äºè¿™ä¸ªç‰¹æ®Šçš„9ä¸ªæ ¼å­çš„çŸ©é˜µæˆ–ä¹å®«æ ¼ä¸­çš„ä¿¡æ¯ã€‚
 and make it a little bit easier for you toconnect and allying with and receive information from the representativedomains that exist within this particular 9 box matrix or Enneagram.
 
-ÄÇÃ´¾ÍÈçÄã¿ÉÒÔ¿´µ½µÄ£¬ÔÚÕâ¸öÊ¾ÒâÍ¼µÄÖĞ¼äÓĞ9¸ö²ÊÉ«µÄ¸ñ×Ó
+é‚£ä¹ˆå°±å¦‚ä½ å¯ä»¥çœ‹åˆ°çš„ï¼Œåœ¨è¿™ä¸ªç¤ºæ„å›¾çš„ä¸­é—´æœ‰9ä¸ªå½©è‰²çš„æ ¼å­
 now as you can see, there are 9 coloredboxes in the center of this diagram.
 
-Í¼Æ¬
+å›¾ç‰‡
 
-´Óµ×²¿Ò»ĞĞ¿ªÊ¼Ëµ´óÌåÉÏÃè»æµÄÊÇ£¬¹Å´úÁÔ»§×ùĞÇÏµ£¬°¢Å«ÄÉÆæÄÜÁ¿£¬»ÒÈËÁª°î
+ä»åº•éƒ¨ä¸€è¡Œå¼€å§‹è¯´å¤§ä½“ä¸Šæç»˜çš„æ˜¯ï¼Œå¤ä»£çŒæˆ·åº§æ˜Ÿç³»ï¼Œé˜¿å¥´çº³å¥‡èƒ½é‡ï¼Œç°äººè”é‚¦
 generally representing on the bottom rowthe idea of the ancient Orion systems,The Annunaki energy, the Gray Federation
 
-ÖĞ¼äÒ»ĞĞ£¬´Ó×óµ½ÓÒÒÀ´ÎÊÇ£ºÎÒÃÇ°¬É¯É¯ÄáÎÄÃ÷£¬»òÎÒÃÇÉı¼¶ºóµÄ°¬É¯ßÇÄá×´Ì¬
+ä¸­é—´ä¸€è¡Œï¼Œä»å·¦åˆ°å³ä¾æ¬¡æ˜¯ï¼šæˆ‘ä»¬è‰¾èèå°¼æ–‡æ˜ï¼Œæˆ–æˆ‘ä»¬å‡çº§åçš„è‰¾èå’”å°¼çŠ¶æ€
 and in the middle row left to right: theidea of our civilization of Essassani or in our upgraded state Eshakani
 
-ÖĞ¼äµÄ¸ñ×Ó´ú±íÁËÄãÃÇ--µØÇò
+ä¸­é—´çš„æ ¼å­ä»£è¡¨äº†ä½ ä»¬--åœ°çƒ
 the middle box is representative ofyou -- Earth
 
-ÓÒÊÖ±ßµÄÊÇÑÅÒ®°Â(ÎÄÃ÷)»òÎÒÃÇ¹Å´úÓïÑÔÖĞµÄÉ¯À­ÄÈÑÅ(ÎÄÃ÷)µÄÏóÕ÷·ûºÅ
+å³æ‰‹è¾¹çš„æ˜¯é›…è€¶å¥¥(æ–‡æ˜)æˆ–æˆ‘ä»¬å¤ä»£è¯­è¨€ä¸­çš„èæ‹‰å¨œé›…(æ–‡æ˜)çš„è±¡å¾ç¬¦å·
 the idea on the right hand side will be therepresentational symbol for the Yahyel or in our ancient language the Shalinaya
 
-¶¥²¿Ò»ĞĞ£¬Äã¿´µ½µÄÊÇÍ¼°¸´ú±íµÄ·ûºÅÊÇÌìÀÇĞÇĞÇÏµµÄÕñ¶¯
+é¡¶éƒ¨ä¸€è¡Œï¼Œä½ çœ‹åˆ°çš„æ˜¯å›¾æ¡ˆä»£è¡¨çš„ç¬¦å·æ˜¯å¤©ç‹¼æ˜Ÿæ˜Ÿç³»çš„æŒ¯åŠ¨
 On the top row you will see therepresentation of the diagram the symbol for the vibration of the Sirius starsystem
 
-ÖĞ¼äµÄÊÇ:´ó½ÇĞÇÕñ¶¯
+ä¸­é—´çš„æ˜¯:å¤§è§’æ˜ŸæŒ¯åŠ¨
 in the center :the Arcturus vibration
 
-ÓÒ±ßµÄÊÇ:êÄËŞĞÇÏµ
+å³è¾¹çš„æ˜¯:æ˜´å®¿æ˜Ÿç³»
 and on the right: the Pleiadian systems
 
-ÏÖÔÚ£¬Äã»¹»á×¢Òâµ½ÔÚÍ¼°¸µÄÖÜÎ§ÓĞÒ»Ğ©¿ª·ÅµÄ¸ñ×Ó£¬°üº¬ÁËÒ»Ğ©²»Í¬µÄµ¥´Ê
+ç°åœ¨ï¼Œä½ è¿˜ä¼šæ³¨æ„åˆ°åœ¨å›¾æ¡ˆçš„å‘¨å›´æœ‰ä¸€äº›å¼€æ”¾çš„æ ¼å­ï¼ŒåŒ…å«äº†ä¸€äº›ä¸åŒçš„å•è¯
 now you will also notice that there aresome open boxes around the edges that contain different words
 
-¶ÔÓÚÄÇĞ©Ã»ÓĞÔÚÌØÊâµÄÎŞÖØÁ¦Çé¿öÏÂ²ÎÓëÎÒÃÇÕâ´Î´«Ñ¶µÄÈËÀ´Ëµ£¬¶¥²¿µÄÄÇ¸öµ¥´ÊÊÇ"³¬¼¶ÖÇÈË"(Hypersapien)
+å¯¹äºé‚£äº›æ²¡æœ‰åœ¨ç‰¹æ®Šçš„æ— é‡åŠ›æƒ…å†µä¸‹å‚ä¸æˆ‘ä»¬è¿™æ¬¡ä¼ è®¯çš„äººæ¥è¯´ï¼Œé¡¶éƒ¨çš„é‚£ä¸ªå•è¯æ˜¯"è¶…çº§æ™ºäºº"(Hypersapien)
 now for those of you who may be joining usin zero gravity with no particular or Ian tation the word hypersapien should beat the top
 
-Ö»ÊÇÒÔ·ÀÍòÒ»£¬Èç¹ûÄãÃÇ¾õµÃÆæ¹Ö
+åªæ˜¯ä»¥é˜²ä¸‡ä¸€ï¼Œå¦‚æœä½ ä»¬è§‰å¾—å¥‡æ€ª
 justin case you were wondering
 
-ÎÒÃÇ»áÔÚÕâ³¡´«Ñ¶µÄÁíÒ»²¿·Ö×¼È·µÄÃèÊöÄÇĞ©¶¼ÒâÎ¶×ÅÊ²Ã´
+æˆ‘ä»¬ä¼šåœ¨è¿™åœºä¼ è®¯çš„å¦ä¸€éƒ¨åˆ†å‡†ç¡®çš„æè¿°é‚£äº›éƒ½æ„å‘³ç€ä»€ä¹ˆ
 wewill get to describing exactly what those mean in another part of thistransmission
 
-µ«ÊÇÔÙ´ÎµÄ±ê×¢Ò»ÏÂÕû¸ö¸ñ×Ó£¬ÔÚÕâ¸ö¿ª·ÅµÄ9¸ö¸ñ×ÓµÄ¾ØÕóµÄµ×²¿Ğ´µÄÊÇ"Ô­³õÖÇÈË"(Protosapien)
+ä½†æ˜¯å†æ¬¡çš„æ ‡æ³¨ä¸€ä¸‹æ•´ä¸ªæ ¼å­ï¼Œåœ¨è¿™ä¸ªå¼€æ”¾çš„9ä¸ªæ ¼å­çš„çŸ©é˜µçš„åº•éƒ¨å†™çš„æ˜¯"åŸåˆæ™ºäºº"(Protosapien)
 but for now again the labeling of thebox,the open box at the bottom underneath the matrix of 9 says Protosapien
 
-¶¥²¿ÊÇ¡°³¬¼¶ÖÇÈË¡±£¬×ó²àÊÇ¡°ÅÀ³æÈË¡±£¬ÓÒ²àÊÇ¡°ĞÂ»ìÑª¡±¡£
+é¡¶éƒ¨æ˜¯â€œè¶…çº§æ™ºäººâ€ï¼Œå·¦ä¾§æ˜¯â€œçˆ¬è™«äººâ€ï¼Œå³ä¾§æ˜¯â€œæ–°æ··è¡€â€ã€‚
 at the top it says Hypersapian, to the leftit says reptilian and to the right it is the New Hybrids
 
-ÏÖÔÚÄãÃÇ¿´ÍêÁËÕâ¸ö»ù±¾µÄÍ¼±í£¬Õâ¸ö»ù±¾µÄ¾Å¹¬¸ñ
+ç°åœ¨ä½ ä»¬çœ‹å®Œäº†è¿™ä¸ªåŸºæœ¬çš„å›¾è¡¨ï¼Œè¿™ä¸ªåŸºæœ¬çš„ä¹å®«æ ¼
 now that you have this basic diagram, thisbasic Enneagram
 
-ÎÒÃÇÏÖÔÚ´øÄãÃÇÉÔÉÔ¿´¿´ÕâĞ©Õñ¶¯µÄÀúÊ·£¬²¢ÇÒÒ»´ÎÒ»¸öµÄËµËµÔÚµ×²¿µÄÃ¿Ò»¸öÍ¼°¸ÓëÄãÃÇµÄÊÀ½çµÄ¹ØÏµ
+æˆ‘ä»¬ç°åœ¨å¸¦ä½ ä»¬ç¨ç¨çœ‹çœ‹è¿™äº›æŒ¯åŠ¨çš„å†å²ï¼Œå¹¶ä¸”ä¸€æ¬¡ä¸€ä¸ªçš„è¯´è¯´åœ¨åº•éƒ¨çš„æ¯ä¸€ä¸ªå›¾æ¡ˆä¸ä½ ä»¬çš„ä¸–ç•Œçš„å…³ç³»
 we will now take you through a little bitof the vibrational history and relationship of each, one at a time on thebottom row to your world
 
-»¹ÓĞÄãÃÇÊÇÔõÃ´·ÖÏíËûÃÇµÄÕñ¶¯£¬ÔõÃ´·ÖÏíËûÃÇµÄÀúÊ·ÖĞºÍÄãÃÇÓĞ¹ØµÄ²¿·ÖÀ´Àí½âÕâĞ©µÄ
-and how you share their vibration£¬ how youshare their history what is relevant for you to understand at this time
+è¿˜æœ‰ä½ ä»¬æ˜¯æ€ä¹ˆåˆ†äº«ä»–ä»¬çš„æŒ¯åŠ¨ï¼Œæ€ä¹ˆåˆ†äº«ä»–ä»¬çš„å†å²ä¸­å’Œä½ ä»¬æœ‰å…³çš„éƒ¨åˆ†æ¥ç†è§£è¿™äº›çš„
+and how you share their vibrationï¼Œ how youshare their history what is relevant for you to understand at this time
 
-Ã÷Ìì´«Ñ¶µÄÕâ¸öÊ±¼ä£¬ÎÒÃÇ»áÌÖÂÛÖĞ¼äµÄÒ»ĞĞ
+æ˜å¤©ä¼ è®¯çš„è¿™ä¸ªæ—¶é—´ï¼Œæˆ‘ä»¬ä¼šè®¨è®ºä¸­é—´çš„ä¸€è¡Œ
 Tomorrow of your time in that transmissionwe will deal with the middle row
 
-ÄãÃÇÖÜÈÕµÄ´«Ñ¶£¬ÎÒÃÇ»áÌÖÂÛ¶¥²¿µÄÒ»ĞĞ
+ä½ ä»¬å‘¨æ—¥çš„ä¼ è®¯ï¼Œæˆ‘ä»¬ä¼šè®¨è®ºé¡¶éƒ¨çš„ä¸€è¡Œ
 and on your Sunday transmission we willdeal with the top row
 
-´ËÍâ£¬ÔÚËüÃÇÖÜÎ§µÄ¿ª·ÅµÄ¸ñ×Ó¸øÁËÄãÃÇÒ»·ù¸ü¼ÓÍêÕûµÄÍ¼»­£¬Ò»ÖÖÈÃÄãÃÇ²»¶Ï·¢Õ¹µÄ£¬ÔÚ¸÷ÖÖ¸÷ÑùµÄ²ãÃæµÄÎÄÃ÷ºÍÒâÊ¶µÄÎ¬¶ÈµÄÕñ¶¯¹ØÏµ
+æ­¤å¤–ï¼Œåœ¨å®ƒä»¬å‘¨å›´çš„å¼€æ”¾çš„æ ¼å­ç»™äº†ä½ ä»¬ä¸€å¹…æ›´åŠ å®Œæ•´çš„å›¾ç”»ï¼Œä¸€ç§è®©ä½ ä»¬ä¸æ–­å‘å±•çš„ï¼Œåœ¨å„ç§å„æ ·çš„å±‚é¢çš„æ–‡æ˜å’Œæ„è¯†çš„ç»´åº¦çš„æŒ¯åŠ¨å…³ç³»
 and also the open boxes that surround themto give you a more complete picture a vibrational relationships that you haveongoing on a variety of levels with the civilizations and dimensions ofconsciousness
 
-ÈÃÎÒÃÇ¿ªÊ¼°É
+è®©æˆ‘ä»¬å¼€å§‹å§
 So let's begin.
 
  
 
-Í¼Æ¬
+å›¾ç‰‡
 
-ÎÒÃÇ´ÓÏÂÃæÒ»ĞĞµÄÖĞ¼äµÄÕâ¸ö·ûºÅ¿ªÊ¼£¬Ëü´ú±íµÄÊÇ°¢Å«ÄÉÆæ
+æˆ‘ä»¬ä»ä¸‹é¢ä¸€è¡Œçš„ä¸­é—´çš„è¿™ä¸ªç¬¦å·å¼€å§‹ï¼Œå®ƒä»£è¡¨çš„æ˜¯é˜¿å¥´çº³å¥‡
 we will actually on the bottom row begin inthe center with the symbol for the Annunaki
 
-ËüÓÉÒ»¸öÓĞ³á°òµÄ½ğ»ÆÉ«£¬ºìÉ«¼°À¶É«µÄÔ²È¦´ú±í£¬Ó³ÍĞÔÚºÚÉ«µÄ±³¾°ÏÂ
+å®ƒç”±ä¸€ä¸ªæœ‰ç¿…è†€çš„é‡‘é»„è‰²ï¼Œçº¢è‰²åŠè“è‰²çš„åœ†åœˆä»£è¡¨ï¼Œæ˜ æ‰˜åœ¨é»‘è‰²çš„èƒŒæ™¯ä¸‹
 which is represented by a winged circlethat contains the colors of gold and red and blue against a black backdrop
 
-µ±È»ÄãÃÇÊ×ÏÈ»á×¢Òâµ½ÄÇË«³á°ò²¢²»°üº¬ÔÚ¸ñ×ÓÒÔÄÚ
+å½“ç„¶ä½ ä»¬é¦–å…ˆä¼šæ³¨æ„åˆ°é‚£åŒç¿…è†€å¹¶ä¸åŒ…å«åœ¨æ ¼å­ä»¥å†…
 now you will notice of course first of allthat the wings are not contained within the box
 
-ÎÒÃÇÏëÒªÏòÄãÃÇËµÃ÷Õû¸ö·ûºÅ
+æˆ‘ä»¬æƒ³è¦å‘ä½ ä»¬è¯´æ˜æ•´ä¸ªç¬¦å·
 we want to represent the entire symbol toyou
 
-ÓÖÒòÎª´ú±í×ó²àºÍÓÒ²àµÄÁÔ»§×ùºÍ»ÒÈËÁª°îµÄÍ¼°¸Ö»ÊÇ¼òµ¥µÄÈı¸öºáÌõµÄ·ûºÅ
+åˆå› ä¸ºä»£è¡¨å·¦ä¾§å’Œå³ä¾§çš„çŒæˆ·åº§å’Œç°äººè”é‚¦çš„å›¾æ¡ˆåªæ˜¯ç®€å•çš„ä¸‰ä¸ªæ¨ªæ¡çš„ç¬¦å·
 and so because the diagrams for Orion andthe Grey Federation to the left and the right were relatively simple three barsymbols
 
-ÎÒÃÇ¾ÍÈÃÄÇË«³á°òÖØµşÔÚÉÏÃæÁË£¬ÒªÃ÷°×ÕâÊÇÒ»ÖÖÖØµş
-we simply allow the wings to overlap each£¬understandingthat this is an overlap
+æˆ‘ä»¬å°±è®©é‚£åŒç¿…è†€é‡å åœ¨ä¸Šé¢äº†ï¼Œè¦æ˜ç™½è¿™æ˜¯ä¸€ç§é‡å 
+we simply allow the wings to overlap eachï¼Œunderstandingthat this is an overlap
 
-ÄÇË«³á°ò²¢·Ç×ó²àºÍÓÒ²àµÄÍ¼°¸µÄÒ»²¿·Ö
+é‚£åŒç¿…è†€å¹¶éå·¦ä¾§å’Œå³ä¾§çš„å›¾æ¡ˆçš„ä¸€éƒ¨åˆ†
 the wings are not part up the left andright diagrams
 
-ËüÃÇÎ»ÓÚÉÏÃæÊÇÎªÁË±ãÓÚ¹Û¿´
+å®ƒä»¬ä½äºä¸Šé¢æ˜¯ä¸ºäº†ä¾¿äºè§‚çœ‹
 they simply rest on top for convenience avisualization
 
-°¢Å«ÄÉÆæµÄ·ûºÅÓÉÕâ¸ö½ğ»ÆÉ«µÄ·ÉµúËù´ú±í£¬ÖĞĞÄÓĞÒ»¸öºìµã£¬´ú±íÁËÄÇÆäÖĞµÄÉúÃü
+é˜¿å¥´çº³å¥‡çš„ç¬¦å·ç”±è¿™ä¸ªé‡‘é»„è‰²çš„é£ç¢Ÿæ‰€ä»£è¡¨ï¼Œä¸­å¿ƒæœ‰ä¸€ä¸ªçº¢ç‚¹ï¼Œä»£è¡¨äº†é‚£å…¶ä¸­çš„ç”Ÿå‘½
 now the idea of Annunaki symbol representative of this golden flying discthat has at its heart a red dot which represents the life with in
 
-½ğ»ÆÉ«µÄµú×ÓÖÜÎ§ÊÇÀ¶É«µÄÄÜÁ¿³¡
+é‡‘é»„è‰²çš„ç¢Ÿå­å‘¨å›´æ˜¯è“è‰²çš„èƒ½é‡åœº
 and around the gold disc the idea of a blueenergy field
 
-ÕâÔÚÒ»¶¨³Ì¶ÈÉÏ´ú±íÁËÀ´×Ô°¢Å«ÄÉÆæµÄ¹ÅÀÏµÄÓÃÓÚ·ÃÎÊÄãÃÇµÄĞÇÇòµÄ·É´¬
+è¿™åœ¨ä¸€å®šç¨‹åº¦ä¸Šä»£è¡¨äº†æ¥è‡ªé˜¿å¥´çº³å¥‡çš„å¤è€çš„ç”¨äºè®¿é—®ä½ ä»¬çš„æ˜Ÿçƒçš„é£èˆ¹
 this is actually to some degree representedof the ancient ships that use to visit your planet from the Annunaki
 
-ÄãÃÇÈÔÈ»¿ÉÒÔÔÚÄãÃÇĞÇÇòµÄĞí¶àÎÄ»¯ÖĞ¿´µ½ÄÇÖÖ·ÉµúÏóÕ÷·ûºÅ
+ä½ ä»¬ä»ç„¶å¯ä»¥åœ¨ä½ ä»¬æ˜Ÿçƒçš„è®¸å¤šæ–‡åŒ–ä¸­çœ‹åˆ°é‚£ç§é£ç¢Ÿè±¡å¾ç¬¦å·
 and is representative of the symbols thatyou still see in many of the cultures on your planet the flying disc
 
-µ±È»ÓĞĞí¶àÖÖ²»Í¬µÄÏóÕ÷·½Ê½
+å½“ç„¶æœ‰è®¸å¤šç§ä¸åŒçš„è±¡å¾æ–¹å¼
 represented in many different ways of course
 
-ÄÇ²»×ãÒÔ´ú±íËûÃÇµÄ·É´¬£¬µ«ÊÇÔÚÄ³ÖÖÒâÒåÉÏ×ã¹»½Ó½ü´ú±íÁËÄÇÖÖÔÚÖĞĞÄÓÌÈçÔ²ÅÌĞÎ×´µÄ·É´¬
+é‚£ä¸è¶³ä»¥ä»£è¡¨ä»–ä»¬çš„é£èˆ¹ï¼Œä½†æ˜¯åœ¨æŸç§æ„ä¹‰ä¸Šè¶³å¤Ÿæ¥è¿‘ä»£è¡¨äº†é‚£ç§åœ¨ä¸­å¿ƒçŠ¹å¦‚åœ†ç›˜å½¢çŠ¶çš„é£èˆ¹
 not a literal representation of their shipsbut close enough in the sense that the ships were basically disc like in thecenter
 
-È·ÊµÊÇÓµÓĞÄ³ÖÖÀàĞÍµÄË«³áºÍ×ªÏò×°ÖÃ£¬µ±ËûÃÇ»¬¹ıÄãÃÇµÄ´óÆø²ãµÄÊ±ºò
+ç¡®å®æ˜¯æ‹¥æœ‰æŸç§ç±»å‹çš„åŒç¿…å’Œè½¬å‘è£…ç½®ï¼Œå½“ä»–ä»¬æ»‘è¿‡ä½ ä»¬çš„å¤§æ°”å±‚çš„æ—¶å€™
 and did possess a certain type of wings andsteering mechanisms as they glided through your atmosphere
 
-¼´Ê¹ËûÃÇÔÚÌ«¿ÕÖĞ²¢²»ĞèÒªÄÇË«³á°ò
+å³ä½¿ä»–ä»¬åœ¨å¤ªç©ºä¸­å¹¶ä¸éœ€è¦é‚£åŒç¿…è†€
 even though they didn't necessarily requirethem in space
 
-ËûÃÇÈ·ÊµÓĞÄÜÁ¦ÊÕËõ»òÕßÕ¹¿ªÄÇË«³á°ò£¬´Ó¶øÊ¹µÃ·É´¬¸ü¼ÓµÄ¾ßÓĞÁ÷ÏßĞÍ
+ä»–ä»¬ç¡®å®æœ‰èƒ½åŠ›æ”¶ç¼©æˆ–è€…å±•å¼€é‚£åŒç¿…è†€ï¼Œä»è€Œä½¿å¾—é£èˆ¹æ›´åŠ çš„å…·æœ‰æµçº¿å‹
 they were capable of retracting unfoldingin a way that allowed the ship's to be more streamlined
 
-µ±·É´¬½øÈëÕæ¿ÕµÄÓîÖæÖĞ£¬ÕâĞ©¸½ÊôÎï¾ÍÏÔµÃÃ»ÓĞ±ØÒªÁË
+å½“é£èˆ¹è¿›å…¥çœŸç©ºçš„å®‡å®™ä¸­ï¼Œè¿™äº›é™„å±ç‰©å°±æ˜¾å¾—æ²¡æœ‰å¿…è¦äº†
 when these appendages were unnecessary inthe vacuum of space
 
-µ«ÊÇËûÃÇÒ»µ©½øÈëµ½ÄãÃÇµÄ´óÆø²ãÖĞ£¬ËûÃÇÔÚºÜ¶à²»Í¬µÄ·½Ãæ¿´ÉÏÈ¥¾ÍÏñÊÇ·Éµú
+ä½†æ˜¯ä»–ä»¬ä¸€æ—¦è¿›å…¥åˆ°ä½ ä»¬çš„å¤§æ°”å±‚ä¸­ï¼Œä»–ä»¬åœ¨å¾ˆå¤šä¸åŒçš„æ–¹é¢çœ‹ä¸Šå»å°±åƒæ˜¯é£ç¢Ÿ
 butonce they entered your atmosphere they did look like flying discs in a varietyof ways
 
-ËûÃÇ¾Í¿ÉÒÔÔÚ´©¹ıÄãÃÇµÄ´óÆø²ãÊ±ÀûÓÃÒıÁ¦³¡Õ¹¿ª³á°ò£¬Òıµ¼ËûÃÇ°²È«µÄ½µÂäÔÚÄãÃÇµÄĞÇÇòÉÏ
+ä»–ä»¬å°±å¯ä»¥åœ¨ç©¿è¿‡ä½ ä»¬çš„å¤§æ°”å±‚æ—¶åˆ©ç”¨å¼•åŠ›åœºå±•å¼€ç¿…è†€ï¼Œå¼•å¯¼ä»–ä»¬å®‰å…¨çš„é™è½åœ¨ä½ ä»¬çš„æ˜Ÿçƒä¸Š
 sothey could steer at your atmosphere use the gravitational fields by extendingthese wings to guide them and land them safely upon your planet
 
-¾ÍÈçÄãÃÇĞí¶àÈËÒÑ¾­ÖªµÀµÄÄÇÑù£¬
+å°±å¦‚ä½ ä»¬è®¸å¤šäººå·²ç»çŸ¥é“çš„é‚£æ ·ï¼Œ
 As many of you already understand
 
-»ù±¾ÉÏ£¬°¢Å«ÄÉÆæÕıÊÇÒªÎª¸Ä±äÁËÄãÃÇµÄ»ùÒò½á¹¹¶ø¸ºÔğµÄµØÍâÎÄÃ÷
+åŸºæœ¬ä¸Šï¼Œé˜¿å¥´çº³å¥‡æ­£æ˜¯è¦ä¸ºæ”¹å˜äº†ä½ ä»¬çš„åŸºå› ç»“æ„è€Œè´Ÿè´£çš„åœ°å¤–æ–‡æ˜
 The Annunaki are the extraterrestrialcivilization generally responsible for the alteration of your genetic structure
 
-°ÑÄãÃÇ´Ó×ÔÈ»µÄ´æÔÚÓÚÄãÃÇĞÇÇòÉÏµÄ½Ğ×öÖ±Á¢Ô³ÈËµÄÔ­Ê¼ÈËÀà£¬¸ÄÔì³ÉÁËÏÖÔÚÄãÃÇËùËµµÄÖÇÈË¡£
+æŠŠä½ ä»¬ä»è‡ªç„¶çš„å­˜åœ¨äºä½ ä»¬æ˜Ÿçƒä¸Šçš„å«åšç›´ç«‹çŒ¿äººçš„åŸå§‹äººç±»ï¼Œæ”¹é€ æˆäº†ç°åœ¨ä½ ä»¬æ‰€è¯´çš„æ™ºäººã€‚
 from what you would call the naturalhominid that existed on your planet called Homo Erectus to the idea of now whatyou call yourselves to be Homosapiens
 
-ÔÚ¸Ä±ä»ùÒò½á¹¹µÄ¹ı³ÌÖĞ£¬ËûÃÇÊ¹ÓÃÁËÒ»Ğ©°¢Å«ÄÉÆæÈËµÄDNA,
+åœ¨æ”¹å˜åŸºå› ç»“æ„çš„è¿‡ç¨‹ä¸­ï¼Œä»–ä»¬ä½¿ç”¨äº†ä¸€äº›é˜¿å¥´çº³å¥‡äººçš„DNA,
 in altering the genetic structure byincluding some of the Annunaki DNA
 
-Ê¹µÃÄãÃÇ³ÉÎªÁËÏÖÔÚÕâÑùµÄÉúÃüĞÎÊ½£¬¼´ÄãÃÇ³ÆºôÄãÃÇ×Ô¼º--ÈËÀà
+ä½¿å¾—ä½ ä»¬æˆä¸ºäº†ç°åœ¨è¿™æ ·çš„ç”Ÿå‘½å½¢å¼ï¼Œå³ä½ ä»¬ç§°å‘¼ä½ ä»¬è‡ªå·±--äººç±»
 they allow you to create or exist in theits present form--the human being as you call yourselves
 
-ÕâÑùÒ»À´£¬ÄÇĞ©±»¸ÄÔìµÄÔ­Ê¼ÈËÔÚĞí¶à·½Ãæ¾ÍºÍ°¢Å«ÄÉÆæÈËĞÎ³ÉÁËÍ¬ÊÂ¡¢Í¬°éµÄ¹ØÏµ
+è¿™æ ·ä¸€æ¥ï¼Œé‚£äº›è¢«æ”¹é€ çš„åŸå§‹äººåœ¨è®¸å¤šæ–¹é¢å°±å’Œé˜¿å¥´çº³å¥‡äººå½¢æˆäº†åŒäº‹ã€åŒä¼´çš„å…³ç³»
 so that they would have a relationship tothe Annunaki to be utilized in a variety of ways in that relationship asworkers as companions in a variety of ways
 
-ÒòÎªËûÃÇ·ÃÎÊÄãÃÇµÄÊÀ½çµÄ×î¸ù±¾µÄÄ¿µÄ¾ÍÊÇ½èÓÉÄãÃÇÀ´Ğ­ÖúËûÃÇ²É¼¯¿ó²ú£¬ÓÈÆäÊÇ»Æ½ğ
+å› ä¸ºä»–ä»¬è®¿é—®ä½ ä»¬çš„ä¸–ç•Œçš„æœ€æ ¹æœ¬çš„ç›®çš„å°±æ˜¯å€Ÿç”±ä½ ä»¬æ¥ååŠ©ä»–ä»¬é‡‡é›†çŸ¿äº§ï¼Œå°¤å…¶æ˜¯é»„é‡‘
 for their purpose of visiting your worldwhich fundamentally was to aid and assist them in mining minerals gold inparticular
 
-»Æ½ğ¿ÉÒÔÊ¹°¢Å«ÄÉÆæÈË¸Ä±äËûÃÇĞÇÇòÉÏµÄÆøºòÄ£Ê½£¬µ÷½ÚËûÃÇµÄÄÜÁ¿³¡
+é»„é‡‘å¯ä»¥ä½¿é˜¿å¥´çº³å¥‡äººæ”¹å˜ä»–ä»¬æ˜Ÿçƒä¸Šçš„æ°”å€™æ¨¡å¼ï¼Œè°ƒèŠ‚ä»–ä»¬çš„èƒ½é‡åœº
 that would allow them to alter the weatherpatterns of their own planet and make adjustments in that way to their energyfields
 
-·ÃÎÊÄãÃÇÊÀ½çµÄÄÇ¸ö°¢Å«ÄÉÆæÈËÍÅ¶Ó×î³õµÄÈÎÎñÊÇÑ°ÕÒÄÇĞ©¿ó²ú£¬²¢ÓÉËûÃÇ×Ô¼º¶ÀÁ¢µØ°Ñ¿óÎï×ÊÔ´´ø»Øµ½ËûÃÇµÄ¼ÒÔ°
+è®¿é—®ä½ ä»¬ä¸–ç•Œçš„é‚£ä¸ªé˜¿å¥´çº³å¥‡äººå›¢é˜Ÿæœ€åˆçš„ä»»åŠ¡æ˜¯å¯»æ‰¾é‚£äº›çŸ¿äº§ï¼Œå¹¶ç”±ä»–ä»¬è‡ªå·±ç‹¬ç«‹åœ°æŠŠçŸ¿ç‰©èµ„æºå¸¦å›åˆ°ä»–ä»¬çš„å®¶å›­
 now the group of Annunaki that actuallyvisited your world that was originally consigned to find those minerals andbring them back to the homeworld were actually to begin with assigned to simplydo this task themselves
 
-×îÖÕËûÃÇ·¢ÏÖÈ«¿¿ËûÃÇ×Ô¼ºÀ´Íê³ÉÕâ¸öÈÎÎñÊÇÏàµ±À§ÄÑµÄ¡£
+æœ€ç»ˆä»–ä»¬å‘ç°å…¨é ä»–ä»¬è‡ªå·±æ¥å®Œæˆè¿™ä¸ªä»»åŠ¡æ˜¯ç›¸å½“å›°éš¾çš„ã€‚
 eventually they found that this was somethingthat was relatively difficult for them to do on their own
 
-ËùÒÔËûÃÇÏàĞÅËûÃÇĞèÒªÒ»Ö§ÄãÃÇËùËµµÄÀÍ¶¯´ó¾üÀ´Ğ­ÖúËûÃÇ
+æ‰€ä»¥ä»–ä»¬ç›¸ä¿¡ä»–ä»¬éœ€è¦ä¸€æ”¯ä½ ä»¬æ‰€è¯´çš„åŠ³åŠ¨å¤§å†›æ¥ååŠ©ä»–ä»¬
 and so they believe they needed what youwould call a workforce in order to aid and assist them
 
-ÔÚµÃÖªÁËÄãÃÇĞÇÇòÉÏÓĞÒ»ÖÖÍÁÉúÍÁ³¤µÄÎïÖÖÔÚÍâĞÍÉÏºÍËûÃÇºÜÏàËÆÖ®ºó£¬
+åœ¨å¾—çŸ¥äº†ä½ ä»¬æ˜Ÿçƒä¸Šæœ‰ä¸€ç§åœŸç”ŸåœŸé•¿çš„ç‰©ç§åœ¨å¤–å‹ä¸Šå’Œä»–ä»¬å¾ˆç›¸ä¼¼ä¹‹åï¼Œ
 knowing that there was a natural indigenousbeing up on the planet that was similar in form to them
 
-ËûÃÇÃ÷°×¿ÉÒÔ»ùÒò¸ÄÔìËü
+ä»–ä»¬æ˜ç™½å¯ä»¥åŸºå› æ”¹é€ å®ƒ
 they understood that they could geneticalalter it
 
-Í¨¹ı¸øÕâ¸öÎïÖÖÉı¼¶£¬¸ÄÔì³ÉºÍËûÃÇ×Ô¼º¸üÏàËÆµÄĞÎÌ¬À´Ğ­ÖúËûÃÇ
+é€šè¿‡ç»™è¿™ä¸ªç‰©ç§å‡çº§ï¼Œæ”¹é€ æˆå’Œä»–ä»¬è‡ªå·±æ›´ç›¸ä¼¼çš„å½¢æ€æ¥ååŠ©ä»–ä»¬
 to aid and assist them in this way byupgrading it so to speak to something more similar to their own form
 
-Òò´Ë´´Ôì³öÁËÄÇÖ§ÀÍ¶¯Á¦£¬ÈÃÄÇÖ§ÀÍ¶¯Á¦À´²É¼¯ËûÃÇĞèÒªµÄ»Æ½ğºÍÆäËû¿óÎï
+å› æ­¤åˆ›é€ å‡ºäº†é‚£æ”¯åŠ³åŠ¨åŠ›ï¼Œè®©é‚£æ”¯åŠ³åŠ¨åŠ›æ¥é‡‡é›†ä»–ä»¬éœ€è¦çš„é»„é‡‘å’Œå…¶ä»–çŸ¿ç‰©
 and thus by thus creating that force,allowthat force to work in the mines to extract the gold and other minerals thatthey require
 
-×îÖÕºÍËûÃÇÔÚºÜ¶à·½Ãæ·¢Õ¹³ÉÁËÒ»ÖÖ³¤¾ÃµÄ¹ØÏµ
+æœ€ç»ˆå’Œä»–ä»¬åœ¨å¾ˆå¤šæ–¹é¢å‘å±•æˆäº†ä¸€ç§é•¿ä¹…çš„å…³ç³»
 eventually also developing a long-term relationshipwith them in a variety of ways
 
-ÄÇ·İÓÑÒêÔÚ²É¿óÈÎÎñ½áÊøºó»¹ÑÓĞøÁËºÜ¶àºÜ¶àÄê
+é‚£ä»½å‹è°Šåœ¨é‡‡çŸ¿ä»»åŠ¡ç»“æŸåè¿˜å»¶ç»­äº†å¾ˆå¤šå¾ˆå¤šå¹´
 even to the point of companionship manymany years after that
 
-ÕâÒ»ÇĞ´óÔ¼¿ªÊ¼ÓÚÄãÃÇµÄ50ÍòÄêÇ°
+è¿™ä¸€åˆ‡å¤§çº¦å¼€å§‹äºä½ ä»¬çš„50ä¸‡å¹´å‰
 Now this began somewhere around 500,000 ofyour years ago
 
-´óÖÂ·¶Î§ÊÇÄãÃÇ½ñÌìµÄÖĞ¶«µØÇøºÍ·ÇÖŞ´óÂ½
+å¤§è‡´èŒƒå›´æ˜¯ä½ ä»¬ä»Šå¤©çš„ä¸­ä¸œåœ°åŒºå’Œéæ´²å¤§é™†
 in the general area is that you call theMiddle East and the African continent
 
-ÄÇĞ©Ã»ÓĞ±»°¢Å«ÄÉÆæÈË»ùÒò¸ÄÔìµÄÔ­Ê¼ÈËÀàµÄ·ÖÖ§£¬ÔòÒÔËûÃÇ×Ô¼ºµÄ·½Ê½ÔÚÄãÃÇµÄĞÇÇòÉÏ½øĞĞ×ÅÆ½ĞĞÓÚÈËÀàµÄÑİ»¯
+é‚£äº›æ²¡æœ‰è¢«é˜¿å¥´çº³å¥‡äººåŸºå› æ”¹é€ çš„åŸå§‹äººç±»çš„åˆ†æ”¯ï¼Œåˆ™ä»¥ä»–ä»¬è‡ªå·±çš„æ–¹å¼åœ¨ä½ ä»¬çš„æ˜Ÿçƒä¸Šè¿›è¡Œç€å¹³è¡Œäºäººç±»çš„æ¼”åŒ–
 and those branches of the hominid speciesthat were not altered genetically by the Annunaki evolved on their own inparallel to the human beings on your planet that the Annunaki had created
 
-ÄÇĞ©Ã»ÓĞ±»¸ÄÔìµÄÔ­Ê¼ÈËÀà×îÖÕÑİ»¯³ÉÁËÄãÃÇÏÖÔÚËùËµµÄ´ó½ÅÒ°ÈË
+é‚£äº›æ²¡æœ‰è¢«æ”¹é€ çš„åŸå§‹äººç±»æœ€ç»ˆæ¼”åŒ–æˆäº†ä½ ä»¬ç°åœ¨æ‰€è¯´çš„å¤§è„šé‡äºº
 and those that were not altered eventuallyevolved into the form you now call Sasquatch
 
-ËùÒÔËµ£¬Èç¹ûÄãÃÇÃ»ÓĞ±»»ùÒò¸ÄÔìµÄ»°£¬½ñÌìÄãÃÇËùÓĞÈË¶¼»áÊÇ´ó½ÅÒ°ÈË
+æ‰€ä»¥è¯´ï¼Œå¦‚æœä½ ä»¬æ²¡æœ‰è¢«åŸºå› æ”¹é€ çš„è¯ï¼Œä»Šå¤©ä½ ä»¬æ‰€æœ‰äººéƒ½ä¼šæ˜¯å¤§è„šé‡äºº
 so the idea is that if you had not beenaltered at all today you would all be sasquatch
 
-µ«ÊÇÒòÎªÄãÃÇ±»¸ÄÔìÁË£¬ÒòÎªÄãÃÇ³¯ÄÇ¸ö·½ÏòÑİ»¯ÁË£¬ÄãÃÇ³ÉÎªÁËÈËÀà
-but because you were altered, because youwere evolved in that way£¬you became human beings.
+ä½†æ˜¯å› ä¸ºä½ ä»¬è¢«æ”¹é€ äº†ï¼Œå› ä¸ºä½ ä»¬æœé‚£ä¸ªæ–¹å‘æ¼”åŒ–äº†ï¼Œä½ ä»¬æˆä¸ºäº†äººç±»
+but because you were altered, because youwere evolved in that wayï¼Œyou became human beings.
 
-ÕâÒ»¸ÄÔì»¹Ê¹µÃÄãÃÇµÄÄ³Ğ©ÀàĞÍµÄ×ªÊÀÌåÑé·Ç³£²»Í¬ÓÚ´ó½ÅÒ°ÈËµÄ×ªÊÀÌåÑé£¬»òÕß½ĞÑ©ÈË£¬»òÕß½Ğ´ó½Å¹Ö£¬ÎŞÂÛÄãÃÇÏëÔõÃ´³ÆºôÄãÃÇµÄ±íÇ×¶¼ºÃ
-this also allowed for certain kinds of incarnationexperience as the happen that would be very different than the incarnationexperiences of Sasquatch£¬or yeti or bigfoot, whatever you wish to call that branch of yourcousins
+è¿™ä¸€æ”¹é€ è¿˜ä½¿å¾—ä½ ä»¬çš„æŸäº›ç±»å‹çš„è½¬ä¸–ä½“éªŒéå¸¸ä¸åŒäºå¤§è„šé‡äººçš„è½¬ä¸–ä½“éªŒï¼Œæˆ–è€…å«é›ªäººï¼Œæˆ–è€…å«å¤§è„šæ€ªï¼Œæ— è®ºä½ ä»¬æƒ³æ€ä¹ˆç§°å‘¼ä½ ä»¬çš„è¡¨äº²éƒ½å¥½
+this also allowed for certain kinds of incarnationexperience as the happen that would be very different than the incarnationexperiences of Sasquatchï¼Œor yeti or bigfoot, whatever you wish to call that branch of yourcousins
 
-ËûÃÇÒÔÒ»ÖÖ·Ç³£×ÔÈ»µÄ·½Ê½Ñİ»¯£¬Ê¹µÃËûÃÇÄÜ¹»ÔÚĞí¶à·½Ãæ¶¼¸ü¼Ó½Ó½üÓÚ×ÔÈ»
+ä»–ä»¬ä»¥ä¸€ç§éå¸¸è‡ªç„¶çš„æ–¹å¼æ¼”åŒ–ï¼Œä½¿å¾—ä»–ä»¬èƒ½å¤Ÿåœ¨è®¸å¤šæ–¹é¢éƒ½æ›´åŠ æ¥è¿‘äºè‡ªç„¶
 now they evolved in a very natural waywhich allow them to have a much closer connection in many ways to the idea ofnature
 
-Ê¹µÃËûÃÇ·¢Õ¹ÁËÄ³Ğ©ÄÜÁ¦ºÍ¼¼ÇÉ£¬µ±È»ÄãÃÇÒ²ÓĞ£¬µ«ÊÇÒòÎª»ùÒò¸ÄÔì¶øÒÅÍüÁË
+ä½¿å¾—ä»–ä»¬å‘å±•äº†æŸäº›èƒ½åŠ›å’ŒæŠ€å·§ï¼Œå½“ç„¶ä½ ä»¬ä¹Ÿæœ‰ï¼Œä½†æ˜¯å› ä¸ºåŸºå› æ”¹é€ è€Œé—å¿˜äº†
 and allow them to develop abilities andskills that you do contain,but in a sense have forgotten that you have becauseof the alteration
 
-ËûÃÇ×÷Îª´ó½ÅÒ°ÈËµÄÄÜÁ¦ºÍ¼¼ÇÉÊ¹µÃËûÃÇÄÜ¹»½øÈë¿çÎ¬¶ÈµÄ×´Ì¬
+ä»–ä»¬ä½œä¸ºå¤§è„šé‡äººçš„èƒ½åŠ›å’ŒæŠ€å·§ä½¿å¾—ä»–ä»¬èƒ½å¤Ÿè¿›å…¥è·¨ç»´åº¦çš„çŠ¶æ€
 their abilities and skills as Sasquatchallow them to actually enter interdimensional States
 
-´ÓÒ»¸öÆ½ĞĞÏÖÊµ´©Ô½µ½ÁíÒ»¸öÆ½ĞĞÏÖÊµ£¬´ÓÒ»¸ö²»Í¬µÄÎ¬¶È¿çÔ½µ½ÁíÒ»¸ö²»Í¬µÄÎ¬¶È
+ä»ä¸€ä¸ªå¹³è¡Œç°å®ç©¿è¶Šåˆ°å¦ä¸€ä¸ªå¹³è¡Œç°å®ï¼Œä»ä¸€ä¸ªä¸åŒçš„ç»´åº¦è·¨è¶Šåˆ°å¦ä¸€ä¸ªä¸åŒçš„ç»´åº¦
 passing from parallel reality to parallelreality different dimension to different dimensions
 
-Õâ¾ÍÊÇÎªÊ²Ã´µ±ËûÃÇ²»Ïë±»·¢ÏÖµÄÊ±ºòÊÇÈç´ËµÄÄÑÒÔÑ°ÃÙÆä×ÙÓ°
+è¿™å°±æ˜¯ä¸ºä»€ä¹ˆå½“ä»–ä»¬ä¸æƒ³è¢«å‘ç°çš„æ—¶å€™æ˜¯å¦‚æ­¤çš„éš¾ä»¥å¯»è§…å…¶è¸ªå½±
 which is why they are so difficult to findon your planet when they don't want to be found
 
-²»¹ÜÔõÑù£¬»¹ÊÇ»Øµ½ÄãÃÇµÄ¹ÊÊÂÉÏ£¬
+ä¸ç®¡æ€æ ·ï¼Œè¿˜æ˜¯å›åˆ°ä½ ä»¬çš„æ•…äº‹ä¸Šï¼Œ
 nevertheless getting back to your story
 
-ÄãÃÇÕâÒ»Ö§ÈËÖÖÔÚµ±Ê±»¹»ìºÏÁËÒ»Ğ©ÈËÀàºÍ°¢Å«ÄÉÆæÈËµÄºó´ú
+ä½ ä»¬è¿™ä¸€æ”¯äººç§åœ¨å½“æ—¶è¿˜æ··åˆäº†ä¸€äº›äººç±»å’Œé˜¿å¥´çº³å¥‡äººçš„åä»£
 the branch that you became eventually therewere also intermingling between some of the humans of the time and the Annunakion the world
 
-ÕâĞ©×ÔÈ»³öÉúµÄ»ìÑªºó´úÔÚÄãÃÇµÄ´«ËµÖĞ½Ğ×öËùÎ½µÄ¡°°ëÉñ¡±µÈµÈ
+è¿™äº›è‡ªç„¶å‡ºç”Ÿçš„æ··è¡€åä»£åœ¨ä½ ä»¬çš„ä¼ è¯´ä¸­å«åšæ‰€è°“çš„â€œåŠç¥â€ç­‰ç­‰
 and these created births natural births ofbeings that you have in your legends come to call the so-called Demi-Gods andso forth
 
  
 
-×ÜÌåÉÏÀ´Ëµ£¬°¢Å«ÄÉÆæÈËÔÚ»ùÒòÉÏÒª±ÈÄãÃÇ¸ßµÄ¶à
+æ€»ä½“ä¸Šæ¥è¯´ï¼Œé˜¿å¥´çº³å¥‡äººåœ¨åŸºå› ä¸Šè¦æ¯”ä½ ä»¬é«˜çš„å¤š
 now the Annunaki were much taller ingeneral than you are
 
-ÄãÃÇĞÇÇòÉÏÔçÆÚµÄÒ»Ğ©ÈËÀàÒ²ÒªÄãÃÇ¸ß³öºÜ¶à£¬¾¡¹ÜÄãÃÇ²»Ö¹ÔÚ»Ö¸´ÄãÃÇµÄÉí¸ß£¬»¹ÓĞÄãÃÇµÄÊÙÃü
+ä½ ä»¬æ˜Ÿçƒä¸Šæ—©æœŸçš„ä¸€äº›äººç±»ä¹Ÿè¦ä½ ä»¬é«˜å‡ºå¾ˆå¤šï¼Œå°½ç®¡ä½ ä»¬ä¸æ­¢åœ¨æ¢å¤ä½ ä»¬çš„èº«é«˜ï¼Œè¿˜æœ‰ä½ ä»¬çš„å¯¿å‘½
 and some of the earlier races on yourplanet of humanity were also much taller than most you although you are regainingnot only your height again but also your longevity
 
-ÒòÎªÔÚ¹ıÈ¥µÄÊ±ºò£¬Ğí¶àµÄ»ùÒò´«µİ¸øÁË±»´´Ôì³öÀ´µÄÈËÀà£¬Ê¹ËûÃÇÄÜ¹»´æ»îÊıÒÔ°ÙÄê
+å› ä¸ºåœ¨è¿‡å»çš„æ—¶å€™ï¼Œè®¸å¤šçš„åŸºå› ä¼ é€’ç»™äº†è¢«åˆ›é€ å‡ºæ¥çš„äººç±»ï¼Œä½¿ä»–ä»¬èƒ½å¤Ÿå­˜æ´»æ•°ä»¥ç™¾å¹´
 because in times past a lot of the genesare passed along to the human beings that were genetically created that allowthem to live for hundreds of years
 
-ÒòÎª°¢Å«ÄÉÆæÈË¿ÉÒÔ´æ»îÊıÒÔÇ§Äê
+å› ä¸ºé˜¿å¥´çº³å¥‡äººå¯ä»¥å­˜æ´»æ•°ä»¥åƒå¹´
 because the Annunaki live for thousands ofyears
 
-ÄãÃÇÕıÔÙ´ÎµÄ»Ö¸´ÕâÒ»ÄÜÁ¦£¬ÄÇĞ©»ùÒò²ÄÁÏÔÙ´ÎµÄ±»´ò¿ªÁË
+ä½ ä»¬æ­£å†æ¬¡çš„æ¢å¤è¿™ä¸€èƒ½åŠ›ï¼Œé‚£äº›åŸºå› ææ–™å†æ¬¡çš„è¢«æ‰“å¼€äº†
 the idea is that you are regaining thisability to again the genetic material is being opened up again
 
-ÒòÎªÈç½ñÔÚÄãÃÇµÄĞÇÇòÉÏ´æÔÚµÄĞÂµÄÕñ¶¯Ê¹ÄãÃÇÓĞ¸ü³¤µÄÊÙÃü£¬¸ü¸ßµÄÉí¸ß£¬¸üºÃµÄ½¡¿µ£¬¸ü¸»ÓĞ»îÁ¦¡£
+å› ä¸ºå¦‚ä»Šåœ¨ä½ ä»¬çš„æ˜Ÿçƒä¸Šå­˜åœ¨çš„æ–°çš„æŒ¯åŠ¨ä½¿ä½ ä»¬æœ‰æ›´é•¿çš„å¯¿å‘½ï¼Œæ›´é«˜çš„èº«é«˜ï¼Œæ›´å¥½çš„å¥åº·ï¼Œæ›´å¯Œæœ‰æ´»åŠ›ã€‚
 because of new vibrations that are nowexisting in this present day on your planet allowing you more longevity,allowing you greater height, greater health ,greater vitality
 
-ÄãÃÇÕıÔÚÄÜÁ¿ÉÏ´ò¿ªÓë°¢Å«ÄÉÆæÈËµÄÁ¬½áºÍÄÇĞ©ÄãÃÇÌåÄÚ°üÀ¨µÄ»ùÒò²ÄÁÏ
+ä½ ä»¬æ­£åœ¨èƒ½é‡ä¸Šæ‰“å¼€ä¸é˜¿å¥´çº³å¥‡äººçš„è¿ç»“å’Œé‚£äº›ä½ ä»¬ä½“å†…åŒ…æ‹¬çš„åŸºå› ææ–™
 and you are opening up those connectionsenergetically to the Annunaki and those genetic materials that you contain
 
-µ±È»£¬°¢Å«ÄÉÆæÈËËûÃÇ±¾ÉíÒ²ÓµÓĞÀ´×Ô²»Í¬ÖÖ×åµÄ²»Í¬µÄ»ùÒò
+å½“ç„¶ï¼Œé˜¿å¥´çº³å¥‡äººä»–ä»¬æœ¬èº«ä¹Ÿæ‹¥æœ‰æ¥è‡ªä¸åŒç§æ—çš„ä¸åŒçš„åŸºå› 
 now of course the Annunaki themselves alsocontained a mixture of different genetics from different races
 
-ÎÒÃÇÏÖÔÚ¶ÔÓÚÄÇĞ©»¹²»»áÌ¸ÂÛÄÇÃ´¶à
+æˆ‘ä»¬ç°åœ¨å¯¹äºé‚£äº›è¿˜ä¸ä¼šè°ˆè®ºé‚£ä¹ˆå¤š
 we will not get into that so much right now
 
-¾¡¹ÜÄãÃÇµ±È»¿ÉÒÔÀí½â£¬ÎÒÃÇ»á¸øÄãÃÇÉÙĞíÏÈ¶ÃÎª¿ìµÄ»ú»á£¬
+å°½ç®¡ä½ ä»¬å½“ç„¶å¯ä»¥ç†è§£ï¼Œæˆ‘ä»¬ä¼šç»™ä½ ä»¬å°‘è®¸å…ˆç¹ä¸ºå¿«çš„æœºä¼šï¼Œ
 although you can certainly understand wewill give you a little bit of sneak preview,
 
-ÄÇĞ©ÖÖ×åµÄÆäÖĞÖ®Ò»¾ÍÊÇÕâ¸öÍ¼±íÉÏµÄ¡°Ô­³õÖÇÈË¡±
+é‚£äº›ç§æ—çš„å…¶ä¸­ä¹‹ä¸€å°±æ˜¯è¿™ä¸ªå›¾è¡¨ä¸Šçš„â€œåŸåˆæ™ºäººâ€
 that one of these was what is called onthat diagram the Protosapien
 
-ÎÒÃÇ»áÔÙÏÂ´ÎµÄ´«Ñ¶ÖĞÌÖÂÛËûÃÇ
+æˆ‘ä»¬ä¼šå†ä¸‹æ¬¡çš„ä¼ è®¯ä¸­è®¨è®ºä»–ä»¬
 we will get into them another time
 
-µ«ÊÇ×ÜÌåÉÏ¿ÉÒÔËµ£¬¡°Ô­³õÖÇÈË¡±ÊÇÄãÃÇÕâ¸öÒøºÓÏµµÄËùÓĞÈËÀàĞÎÊ½µÄÉúÃüµÄÏÈÇı
+ä½†æ˜¯æ€»ä½“ä¸Šå¯ä»¥è¯´ï¼Œâ€œåŸåˆæ™ºäººâ€æ˜¯ä½ ä»¬è¿™ä¸ªé“¶æ²³ç³»çš„æ‰€æœ‰äººç±»å½¢å¼çš„ç”Ÿå‘½çš„å…ˆé©±
 but you could say that in general theProtosapiens are the precursors of all the human forms in your Galaxy
 
-¶ø°¢Å«ÄÉÆæÈË£¬À´µ½ÁËÄãÃÇµÄĞÇÇò²¢´´ÔìÁËÖÇÈËµÄÄÇĞ©°¢Å«ÄÉÆæÈËÊµ¼ÊÉÏÒ²½ö½öÊÇËûÃÇÖÖ×åµÄÒ»¸ö·ÖÖ§
+è€Œé˜¿å¥´çº³å¥‡äººï¼Œæ¥åˆ°äº†ä½ ä»¬çš„æ˜Ÿçƒå¹¶åˆ›é€ äº†æ™ºäººçš„é‚£äº›é˜¿å¥´çº³å¥‡äººå®é™…ä¸Šä¹Ÿä»…ä»…æ˜¯ä»–ä»¬ç§æ—çš„ä¸€ä¸ªåˆ†æ”¯
 now the Annunaki,the branch that was onyour planet and creating the idea of the Homosapien Groupings were actuallyjust a branch
 
-ÔÚËûÃÇ×î³õµÄÈÎÎñµ±ÖĞÕæµÄÃ»ÓĞÏëµ½»áµ÷ÕûÄãÃÇĞÇÇòÉÏµÄÉúÃüµÄ»ùÒò
+åœ¨ä»–ä»¬æœ€åˆçš„ä»»åŠ¡å½“ä¸­çœŸçš„æ²¡æœ‰æƒ³åˆ°ä¼šè°ƒæ•´ä½ ä»¬æ˜Ÿçƒä¸Šçš„ç”Ÿå‘½çš„åŸºå› 
 and in their original assignment were notreally supposed to tinker with the genetics of the planet
 
-µ±×îÖ÷ÒªµÄ°¢Å«ÄÉÆæÈËÎ¯Ô±»á·¢ÏÖÁËËûÃÇµÄ×ö·¨£¬´´ÔìÁËÒ»¸öĞÂµÄÖÇ»ÛÖÖ×åÖ®ºó
+å½“æœ€ä¸»è¦çš„é˜¿å¥´çº³å¥‡äººå§”å‘˜ä¼šå‘ç°äº†ä»–ä»¬çš„åšæ³•ï¼Œåˆ›é€ äº†ä¸€ä¸ªæ–°çš„æ™ºæ…§ç§æ—ä¹‹å
 when the main Council of Annunakidiscovered that they had done so and created a new intelligent race beings
 
-Å¶£¬ÈÃÎÒÃÇÕâÃ´Ëµ°É£¬ËûÃÇºÜ²»¸ßĞË
+å“¦ï¼Œè®©æˆ‘ä»¬è¿™ä¹ˆè¯´å§ï¼Œä»–ä»¬å¾ˆä¸é«˜å…´
 well, let's just say they weren't veryhappy about it
 
-ËûÃÇÕÙ»ØÁËµØÇòÉÏµÄÄÇÖ§°¢Å«ÄÉÆæÈËµÄ·ÖÇ²¶Ó£¬ÁôÏÂÄãÃÇ×ÔĞĞ·¢Õ¹
+ä»–ä»¬å¬å›äº†åœ°çƒä¸Šçš„é‚£æ”¯é˜¿å¥´çº³å¥‡äººçš„åˆ†é£é˜Ÿï¼Œç•™ä¸‹ä½ ä»¬è‡ªè¡Œå‘å±•
 They actually recalled that Annunakicontingent from the earth and in many ways left you to your own devices
 
-ÈÃÄãÃÇ×Ô¼º³É³¤£¬ÈÃÄãÃÇ×Ô¼ºÑİ»¯£¬²¢ÔÚÕâ¸ö¹ı³ÌÖĞ¸øÓèÒ»¶¨µÄÖ¸µ¼
+è®©ä½ ä»¬è‡ªå·±æˆé•¿ï¼Œè®©ä½ ä»¬è‡ªå·±æ¼”åŒ–ï¼Œå¹¶åœ¨è¿™ä¸ªè¿‡ç¨‹ä¸­ç»™äºˆä¸€å®šçš„æŒ‡å¯¼
 allowing you to grow on your own,to evolveon your own with some degree guidance from them
 
-ÒòÎªËûÃÇ¾õµÃ¼ÈÈ»ÄÇÖ§°¢Å«ÄÉÆæÈËµÄ·ÖÇ²¶Ó´´ÔìÁËÄãÃÇ£¬¾ÍÓĞÔğÈÎÀ´Ö¸µ¼ÄãÃÇ
+å› ä¸ºä»–ä»¬è§‰å¾—æ—¢ç„¶é‚£æ”¯é˜¿å¥´çº³å¥‡äººçš„åˆ†é£é˜Ÿåˆ›é€ äº†ä½ ä»¬ï¼Œå°±æœ‰è´£ä»»æ¥æŒ‡å¯¼ä½ ä»¬
 because they felt responsible in allowingthat contingent of Annunaki to create you they felt responsible to guide you tosome degree
 
-¾¡¹ÜÄÇ²»ÊÇ×î³õµÄ¼Æ»®
+å°½ç®¡é‚£ä¸æ˜¯æœ€åˆçš„è®¡åˆ’
 although it was not the original plan
 
-ËùÒÔÀ´×ÔÌì¿ÕµÄÌìÊ¹ÓëÉñÃ÷µÄÔì·ÃµÄ¹ÊÊÂ²»¶ÏÔÚÄãÃÇµÄ¸÷¸öÊ±´úÖĞÁ÷´«¿ªÀ´
+æ‰€ä»¥æ¥è‡ªå¤©ç©ºçš„å¤©ä½¿ä¸ç¥æ˜çš„é€ è®¿çš„æ•…äº‹ä¸æ–­åœ¨ä½ ä»¬çš„å„ä¸ªæ—¶ä»£ä¸­æµä¼ å¼€æ¥
 and so again the stories of visitationsovertime again from the ideas of angels and gods from the sky
 
-ÒÔ¸÷ÖÖ¸÷ÑùµÄ·½Ê½ÒıÁì£¬Ö¸µ¼£¬½Ì»åÄãÃÇ£¬ÈÃÄãÃÇÔÚ×Ô¼ºµÄÎÄÃ÷ÖĞ³É³¤
+ä»¥å„ç§å„æ ·çš„æ–¹å¼å¼•é¢†ï¼ŒæŒ‡å¯¼ï¼Œæ•™è¯²ä½ ä»¬ï¼Œè®©ä½ ä»¬åœ¨è‡ªå·±çš„æ–‡æ˜ä¸­æˆé•¿
 leading and guiding teaching in a varietyof ways to allow you to grow into your own civilization
 
-ÈÃÄãÃÇÕÆ¹ÜÒ»Ğ©±»´´Ôì³öÀ´µÄ³Ç³Ø£¬²¢ÇÒÓÉ°¢Å«ÄÉÆæÈËµÄÑªÂöµÄºóÒá³ÉÎª¹úÍõ
+è®©ä½ ä»¬æŒç®¡ä¸€äº›è¢«åˆ›é€ å‡ºæ¥çš„åŸæ± ï¼Œå¹¶ä¸”ç”±é˜¿å¥´çº³å¥‡äººçš„è¡€è„‰çš„åè£”æˆä¸ºå›½ç‹
 and allow you to take over some of thecities that have been created and become the actual kings of whole although theAnnunaki bloodlines still course strongly in their veins
 
-ÄãÃÇ¿ÉÒÔÔÚ¹ÅÀÏµÄÑÇÌØÀ¼µÙË¹µÄÊ®Î»¹úÍõ£¬ÒÔ¼°ÀûÄÂÀïÑÇÊ±´ú¿´µ½ÕâĞ©ÃèÊö
+ä½ ä»¬å¯ä»¥åœ¨å¤è€çš„äºšç‰¹å…°è’‚æ–¯çš„åä½å›½ç‹ï¼Œä»¥åŠåˆ©ç©†é‡Œäºšæ—¶ä»£çœ‹åˆ°è¿™äº›æè¿°
 you see this in the representation of theancient ten kings of atlantis, in Lemuria times
 
-ÉõÖÁÊÇÔÚÄãÃÇÏà¶ÔµÄÏÖ´úÊ±ÆÚµÄ°£¼°£¬ÄÇĞ©¹úÍõÒ²¾ÍÊÇºóÀ´µÄ·¨ÀÏ
+ç”šè‡³æ˜¯åœ¨ä½ ä»¬ç›¸å¯¹çš„ç°ä»£æ—¶æœŸçš„åŸƒåŠï¼Œé‚£äº›å›½ç‹ä¹Ÿå°±æ˜¯åæ¥çš„æ³•è€
 and even into relative modern times as youstill remember Egypt having kings and then eventually the idea of Pharaohs
 
-ÕâÒ»ÇĞ¶¼¿ÉÒÔ×·Ëİµ½À¶É«µÄÑªÂö¡¢»ÊÊÒÑªÂöÒÔ¼°ÄãÃÇĞÇÇòÉÏÒ»ÇĞÓĞ¹ØÍõÈ¨µÄ¸ÅÄî
+è¿™ä¸€åˆ‡éƒ½å¯ä»¥è¿½æº¯åˆ°è“è‰²çš„è¡€è„‰ã€çš‡å®¤è¡€è„‰ä»¥åŠä½ ä»¬æ˜Ÿçƒä¸Šä¸€åˆ‡æœ‰å…³ç‹æƒçš„æ¦‚å¿µ
 but all this goes back to the concept ofthe Blue Bloods,the Royal lines and everything that created the concept ofroyalty on your planet
 
-ÒòÎª×·Ëİ»ØÈ¥µÄ»°£¬°¢Å«ÄÉÆæÈËÊµ¼ÊÉÏÊÇĞ©Î¢µØ£¬Ğ©Î¢µØ´øÓĞĞ©À¶É«µÄÍâ±í
+å› ä¸ºè¿½æº¯å›å»çš„è¯ï¼Œé˜¿å¥´çº³å¥‡äººå®é™…ä¸Šæ˜¯äº›å¾®åœ°ï¼Œäº›å¾®åœ°å¸¦æœ‰äº›è“è‰²çš„å¤–è¡¨
 because it is traced all the way back tothe idea of the Annunaki who actuallywere slightly slightly blueishly tinged
 
-ËùÒÔÀ¶É«µÄÑªÂö±»¿´×÷ÊÇ×îÎª´¿´âµÄÑªÂö£¬¾¡¹ÜÄãÃÇ¶¼ÓĞ°¢Å«ÄÉÆæÈËµÄ»ùÒò
+æ‰€ä»¥è“è‰²çš„è¡€è„‰è¢«çœ‹ä½œæ˜¯æœ€ä¸ºçº¯ç²¹çš„è¡€è„‰ï¼Œå°½ç®¡ä½ ä»¬éƒ½æœ‰é˜¿å¥´çº³å¥‡äººçš„åŸºå› 
 so the blue blood line was looked upon asthe purest line in that way although of course you all contain Annunakigenetics
 
-µ«ÊÇ»ò¶à»òÉÙµÄ¶¼ÓĞÒ»Ğ©¹ÅÀÏµÄ»ùÒò£¬Ö±½Ó»ò¼ä½ÓµÄÊÇÄÇÒ»ÑªÍ³µÄºóÒá
+ä½†æ˜¯æˆ–å¤šæˆ–å°‘çš„éƒ½æœ‰ä¸€äº›å¤è€çš„åŸºå› ï¼Œç›´æ¥æˆ–é—´æ¥çš„æ˜¯é‚£ä¸€è¡€ç»Ÿçš„åè£”
 but there might be here and there are somethat are more directly related indirect lineages to some of those ancient genes
 
-Ò»µ©ÄÇÖÖÇéĞÎ¿ªÊ¼·¢ÉúÁË£¬
+ä¸€æ—¦é‚£ç§æƒ…å½¢å¼€å§‹å‘ç”Ÿäº†ï¼Œ
 now once that began happen
 
-ÄãÃÇ¾ÍÔÚÄãÃÇµÄĞÇÇòÉÏÒÀ¾İ¸÷×ÔµÄÇé¿ö´´Ôì³ö×Ô¼ºµÄÎÄÃ÷ÁË
+ä½ ä»¬å°±åœ¨ä½ ä»¬çš„æ˜Ÿçƒä¸Šä¾æ®å„è‡ªçš„æƒ…å†µåˆ›é€ å‡ºè‡ªå·±çš„æ–‡æ˜äº†
 and you had on your planet contingents ofhumans were creating their own civilizations
 
-´ó²¿·Ö¶¼µÃµ½ÁËÓÉÀ´×ÔÍâĞÇÉúÃü£¬ÍâÎ¬¶ÈµÄÉúÃüµÄ»ò¶à»òÉÙµÄÖ¸µ¼
+å¤§éƒ¨åˆ†éƒ½å¾—åˆ°äº†ç”±æ¥è‡ªå¤–æ˜Ÿç”Ÿå‘½ï¼Œå¤–ç»´åº¦çš„ç”Ÿå‘½çš„æˆ–å¤šæˆ–å°‘çš„æŒ‡å¯¼
 mostly guiding themselves with a little bitinput here and there from extraterrestrial beings ,extra-dimensional beings
 
-½Ìµ¼ËûÃÇÔõÑù³¨¿ªËûÃÇµÄÒâÊ¶£¬³ä·ÖÀûÓÃÔ´Í·£¬ÏÂÔØÀ´×Ô¸÷¸ö·½ÃæµÄĞÅÏ¢
+æ•™å¯¼ä»–ä»¬æ€æ ·æ•å¼€ä»–ä»¬çš„æ„è¯†ï¼Œå……åˆ†åˆ©ç”¨æºå¤´ï¼Œä¸‹è½½æ¥è‡ªå„ä¸ªæ–¹é¢çš„ä¿¡æ¯
 teaching them how to open up theirconsciousness to tap into source to draw down and download information from avariety of sources
 
-×îÖÕÈËÀàÔÚÏàµ±³Ì¶ÈÉÏ±»ÁôÏÂÀ´×Ô¼ºÕÆÎÕÃüÔË
+æœ€ç»ˆäººç±»åœ¨ç›¸å½“ç¨‹åº¦ä¸Šè¢«ç•™ä¸‹æ¥è‡ªå·±æŒæ¡å‘½è¿
 then eventually humanity was pretty muchleft on its own
 
-¿´¿´ËûÃÇÄÜ·ñÑİ»¯µ½ÖØĞÂÁ¬½á»ØÍâĞÇÉúÃü£¬ÍâÎ¬¶ÈµÄÉúÃüÕ¹ÏÖ¸øËûÃÇµÄ½ø»¯µÄ×ªÕÛµãÉÏ
+çœ‹çœ‹ä»–ä»¬èƒ½å¦æ¼”åŒ–åˆ°é‡æ–°è¿ç»“å›å¤–æ˜Ÿç”Ÿå‘½ï¼Œå¤–ç»´åº¦çš„ç”Ÿå‘½å±•ç°ç»™ä»–ä»¬çš„è¿›åŒ–çš„è½¬æŠ˜ç‚¹ä¸Š
 in that way to evolve to a certain point tosee if they would arrive at a point where they could then reconnect with theidea of extraterrestrial beings extra dimensional beings which would show thatthey've evolved to a point
 
-ÄÇ¾ÍÊÇ½ø»¯µÄÏÂÒ»¸ö½×¶ÎËùÒª·¢ÉúµÄÊÂÇé
+é‚£å°±æ˜¯è¿›åŒ–çš„ä¸‹ä¸€ä¸ªé˜¶æ®µæ‰€è¦å‘ç”Ÿçš„äº‹æƒ…
 where the next stage evolution could occur
 
-ÎÒÃÇÏÈ°ÑÄÇ¸ö¹ÊÊÂ·ÅÔÚÒ»±ß
+æˆ‘ä»¬å…ˆæŠŠé‚£ä¸ªæ•…äº‹æ”¾åœ¨ä¸€è¾¹
 we will leave that story for the moment
 
-Í¼Æ¬
+å›¾ç‰‡
 
-À´Ì¸Ì¸¹ÅÀÏµÄÁÔ»§×ùĞÇÏµ£¬ÒÔ¼°ËûÃÇÊÇÈçºÎ½øÈëµ½ÄãÃÇµÄÏÖÊµÖĞµÄ
+æ¥è°ˆè°ˆå¤è€çš„çŒæˆ·åº§æ˜Ÿç³»ï¼Œä»¥åŠä»–ä»¬æ˜¯å¦‚ä½•è¿›å…¥åˆ°ä½ ä»¬çš„ç°å®ä¸­çš„
 and shift over to the idea of the ancientOrion systems and how they come into play in your reality
 
-Õâ¸ö¹ÊÊÂÒ²ÊÇ¿ªÊ¼ÓÚºÜ¾Ã£¬ºÜ¾ÃÒÔÇ°£¬ÊÂÊµÉÏÊÇÔÚÊı°ÙÍòÄêÖ®Ç°
+è¿™ä¸ªæ•…äº‹ä¹Ÿæ˜¯å¼€å§‹äºå¾ˆä¹…ï¼Œå¾ˆä¹…ä»¥å‰ï¼Œäº‹å®ä¸Šæ˜¯åœ¨æ•°ç™¾ä¸‡å¹´ä¹‹å‰
 this story begins also long long ago infact actually millions of your years ago
 
-ÔÚ¹ÅÀÏµÄÁÔ»§×ùĞÇÏµÀï£¬
+åœ¨å¤è€çš„çŒæˆ·åº§æ˜Ÿç³»é‡Œï¼Œ
 In the ancient systems of Orion
 
-´æÔÚ¹ıÒ»¸ö¼«¶ÈÑ¹ÖÆ£¬¼«¶ÈÑ¹ÆÈ£¬¼«¶È¸ºÃæ£¬¼«¶ÈÀ§¿à£¬¼«¶È¼èÄÑµÄÉç»á
+å­˜åœ¨è¿‡ä¸€ä¸ªæåº¦å‹åˆ¶ï¼Œæåº¦å‹è¿«ï¼Œæåº¦è´Ÿé¢ï¼Œæåº¦å›°è‹¦ï¼Œæåº¦è‰°éš¾çš„ç¤¾ä¼š
 there was in that system a society undergreat suppression, great oppression, great negativity ,great hardship, greatdifficulty
 
-ÓÈÆäÊÇÆäÖĞµÄÒ»¸öÔÚËûÃÇµÄ¹Å´úÓïÑÔÖĞ½Ğ×ö¡°Hoova¡±£¨·¢ÒôÀàËÆÓÚºúÍİ£©µÄÊÀ½ç
+å°¤å…¶æ˜¯å…¶ä¸­çš„ä¸€ä¸ªåœ¨ä»–ä»¬çš„å¤ä»£è¯­è¨€ä¸­å«åšâ€œHoovaâ€ï¼ˆå‘éŸ³ç±»ä¼¼äºèƒ¡æ´¼ï¼‰çš„ä¸–ç•Œ
 in particular on one of the worlds of theOrion systems that in the ancient language was called "Hoova"
 
-HoovaÊÇÁÔ»§×ùÕş¸®µÄÖĞĞÄËùÔÚµØ£¬ÔÙ´ÎµÄÄÇÀïÊÇ·Ç³£µÄÑ¹ÆÈ
+Hoovaæ˜¯çŒæˆ·åº§æ”¿åºœçš„ä¸­å¿ƒæ‰€åœ¨åœ°ï¼Œå†æ¬¡çš„é‚£é‡Œæ˜¯éå¸¸çš„å‹è¿«
 Hoova in that sense was the central seat ofOrion government which again was very oppressive
 
-ÄãÃÇ¿ÉÒÔ´Óµ×²¿Ò»ĞĞ×ó²àµÄÈıÌõºá¸Ü¿´µ½£¬ÄÇ¸ö·ûºÅ´ú±íÁËÊı¸öÊ±´úÀï·¢ÉúÔÚÁÔ»§×ùµÄÕñ¶¯µÄ×ª±ä
+ä½ ä»¬å¯ä»¥ä»åº•éƒ¨ä¸€è¡Œå·¦ä¾§çš„ä¸‰æ¡æ¨ªæ çœ‹åˆ°ï¼Œé‚£ä¸ªç¬¦å·ä»£è¡¨äº†æ•°ä¸ªæ—¶ä»£é‡Œå‘ç”Ÿåœ¨çŒæˆ·åº§çš„æŒ¯åŠ¨çš„è½¬å˜
 you can see the representation of the ideathe symbol of the vibration of transformation that over time took place in theOrion systems by looking at the three bar banner on the lower left
 
-ÄÇ¸ö·ûºÅÓÉµ×²¿µÄºÚÉ«ºáÌõ£¬ÖĞ¼äµÄºìÉ«ºáÌõ£¬ÒÔ¼°¶¥²¿µÄ°×É«ºáÌõËù´ú±í
+é‚£ä¸ªç¬¦å·ç”±åº•éƒ¨çš„é»‘è‰²æ¨ªæ¡ï¼Œä¸­é—´çš„çº¢è‰²æ¨ªæ¡ï¼Œä»¥åŠé¡¶éƒ¨çš„ç™½è‰²æ¨ªæ¡æ‰€ä»£è¡¨
 that is represented at the bottom by ablack bar in the middle by a red bar at the top by a white bar
 
-Õ¹Ê¾ÁËÔÚÁÔ»§×ù·¢ÉúµÄ´Ó¸ºÃæµ½ÕıÃæµÄ×ª±ä
+å±•ç¤ºäº†åœ¨çŒæˆ·åº§å‘ç”Ÿçš„ä»è´Ÿé¢åˆ°æ­£é¢çš„è½¬å˜
 showing that the transformation fromnegative to positive has occurred in the Orion systems
 
-µ«ÊÇÄÇÖÖ×ª±äµÄ·¢ÉúÊÇÍ¨¹ıÖĞ¼äµÄºìÉ«ºáÌõËù´ú±íµÄÈËÃÇµÄÏÊÑª£¬ÒÔ¼°ÄÇÒ»Ê±ÆÚµÄÈËÃÇµÄ¼èÄÑ£¬Í´¿àµÈµÈµÄ¿àÄÑµÄÉúÃüÌåÑéËùµÃÀ´µÄ
+ä½†æ˜¯é‚£ç§è½¬å˜çš„å‘ç”Ÿæ˜¯é€šè¿‡ä¸­é—´çš„çº¢è‰²æ¨ªæ¡æ‰€ä»£è¡¨çš„äººä»¬çš„é²œè¡€ï¼Œä»¥åŠé‚£ä¸€æ—¶æœŸçš„äººä»¬çš„è‰°éš¾ï¼Œç—›è‹¦ç­‰ç­‰çš„è‹¦éš¾çš„ç”Ÿå‘½ä½“éªŒæ‰€å¾—æ¥çš„
 but it occurred through the middle bar ofred, through the experiences of life, through the pain and difficulty andsuffering of the beings in that time,through the blood of the people
 
 
 
-Õâ¸ö¹ØÓÚÁÔ»§×ùµÄ¹ÊÊÂ¾­ÀúÁËºÜ¾ÃµÄÒ»¶ÎÊ±¼ä
+è¿™ä¸ªå…³äºçŒæˆ·åº§çš„æ•…äº‹ç»å†äº†å¾ˆä¹…çš„ä¸€æ®µæ—¶é—´
 now this story of the Orion systems took along time to work itself through
 
-ÔÚÁÔ»§×ùĞÇÏµÖĞ´æÔÚ×ÅÒ»¸öÄãÃÇ½Ğ×öµØÏÂÔË¶¯µÄµÖ¿¹Á¦Á¿£¬·´¿¹ÕòÑ¹£¬·´¿¹Ñ¹ÆÈ£¬Óë¸ºÃæÊÆÁ¦½øĞĞ¿¹Õù
+åœ¨çŒæˆ·åº§æ˜Ÿç³»ä¸­å­˜åœ¨ç€ä¸€ä¸ªä½ ä»¬å«åšåœ°ä¸‹è¿åŠ¨çš„æŠµæŠ—åŠ›é‡ï¼ŒåæŠ—é•‡å‹ï¼ŒåæŠ—å‹è¿«ï¼Œä¸è´Ÿé¢åŠ¿åŠ›è¿›è¡ŒæŠ—äº‰
 there were resistance what you would callunderground movements in the Orion systems fighting against the suppression,fighting against the oppression, fighting against the negativity
 
-ÄÇĞ©·´¿¹µÄ¶·Ê¿·­Òë³ÉÄãÃÇµÄÓïÑÔ½Ğ×öºÚÉ«ÁªÃË
+é‚£äº›åæŠ—çš„æ–—å£«ç¿»è¯‘æˆä½ ä»¬çš„è¯­è¨€å«åšé»‘è‰²è”ç›Ÿ
 the translation of those resistancefighters in your language would be the black League
 
-Ñ¡ÔñºÚÉ«ÁªÃËÕâ¸öÃû×ÖµÄÒâË¼ÊÇ¿´²»¼ûµÄ£¬Éí´¦°µ´¦µÄ£¬ÒşÄäµÄ£¬°µÖĞ½øĞĞµÄ¡£
+é€‰æ‹©é»‘è‰²è”ç›Ÿè¿™ä¸ªåå­—çš„æ„æ€æ˜¯çœ‹ä¸è§çš„ï¼Œèº«å¤„æš—å¤„çš„ï¼ŒéšåŒ¿çš„ï¼Œæš—ä¸­è¿›è¡Œçš„ã€‚
 The black League took their name as theidea of being invisible, being in the dark, being hidden ,being surreptitious
 
-ËûÃÇ¾Í¿ÉÒÔÓë±©Å°µÄÁÔ»§×ùÕş¸®Õ¹¿ªËûÃÇËù¼áĞÅµÄ²»µÃ²»½øĞĞµÄ¶·Õù
+ä»–ä»¬å°±å¯ä»¥ä¸æš´è™çš„çŒæˆ·åº§æ”¿åºœå±•å¼€ä»–ä»¬æ‰€åšä¿¡çš„ä¸å¾—ä¸è¿›è¡Œçš„æ–—äº‰
 so they could fight the fight they believethey had to fight against the oppressive governments of the Orion systems
 
-È»¶ø£¬ËûÃÇÔÚÄÇ¸öÊ±´úÑ§Ï°µ½µÄ×îÖØÒªµÄ¹¦¿Î¾ÍÊÇ£ºÈç¹ûÄãÓÃ»ğÈ¥Ãğ»ğ£¬½á¹ûÖ»»áµ¼ÖÂ¸ü´óµÄ»ğ
+ç„¶è€Œï¼Œä»–ä»¬åœ¨é‚£ä¸ªæ—¶ä»£å­¦ä¹ åˆ°çš„æœ€é‡è¦çš„åŠŸè¯¾å°±æ˜¯ï¼šå¦‚æœä½ ç”¨ç«å»ç­ç«ï¼Œç»“æœåªä¼šå¯¼è‡´æ›´å¤§çš„ç«
 however one of the very great lessons theylearned in that time was the idea that if you fight fire with fire you just getmore fire
 
-Ê¹ÓÃÓëÕş¸®Ñ¹ÆÈËûÃÇµÄ±©Á¦ÊÖ¶ÎÏàÍ¬µÄ·½Ê½À´¶Ô¿¹Õş¸®£¬¶ÔÓÚµÖ¿¹ÔË¶¯¶øÑÔ²¢Ã»ÓĞºÃµÄĞ§¹û
+ä½¿ç”¨ä¸æ”¿åºœå‹è¿«ä»–ä»¬çš„æš´åŠ›æ‰‹æ®µç›¸åŒçš„æ–¹å¼æ¥å¯¹æŠ—æ”¿åºœï¼Œå¯¹äºæŠµæŠ—è¿åŠ¨è€Œè¨€å¹¶æ²¡æœ‰å¥½çš„æ•ˆæœ
 and the idea of using the same violenttactics against the government the government was using against them did notreally work out very well for that resistance movement
 
-·´¶ø¼Ó¾çÁËÕòÑ¹£¬¼Ó¾çÁË¸ºÃæĞÔ
+åè€ŒåŠ å‰§äº†é•‡å‹ï¼ŒåŠ å‰§äº†è´Ÿé¢æ€§
 and it created an increase in thesuppression, an increase in the negativity
 
-Òò´Ë£¬ËûÃÇÑ§Ï°µ½Ò»¶¨»áÓĞÁíÒ»Ìõ³öÂ·¡£
+å› æ­¤ï¼Œä»–ä»¬å­¦ä¹ åˆ°ä¸€å®šä¼šæœ‰å¦ä¸€æ¡å‡ºè·¯ã€‚
 and thus they learned that there must beanother way
 
-ÔÚÑ§Ï°µ½Ò»¶¨»¹ÓĞÁíÒ»Ìõ³öÂ·µÄ¹ı³ÌÖĞ£¬
+åœ¨å­¦ä¹ åˆ°ä¸€å®šè¿˜æœ‰å¦ä¸€æ¡å‡ºè·¯çš„è¿‡ç¨‹ä¸­ï¼Œ
 and in learning that there must be anotherway
 
-ËûÃÇ¿ªÊ¼ÓÃÕıÃæµÄÄÜÁ¿£¬ÕıÃæµÄÕñ¶¯À´»¯½â¸ºÃæĞÔ
+ä»–ä»¬å¼€å§‹ç”¨æ­£é¢çš„èƒ½é‡ï¼Œæ­£é¢çš„æŒ¯åŠ¨æ¥åŒ–è§£è´Ÿé¢æ€§
 they began to approach the idea of thenegativity with positive energy, positive vibrations
 
-Ëæ×ÅÊ±¼äÂıÂıµÄÁ÷ÊÅ£¬ËûÃÇÀú¾­ÁËÎŞÊıµÄÎşÉü£¬¿àÄÑÓëÏÊÑª£¬ÖÕÓÚ½«ÁÔ»§×ùĞÇÏµÓÉºÚ°µ×ªÏò¹âÃ÷£¬ÓÉ¸ºÃæ×ªÏòÕıÃæ£¬
+éšç€æ—¶é—´æ…¢æ…¢çš„æµé€ï¼Œä»–ä»¬å†ç»äº†æ— æ•°çš„ç‰ºç‰²ï¼Œè‹¦éš¾ä¸é²œè¡€ï¼Œç»ˆäºå°†çŒæˆ·åº§æ˜Ÿç³»ç”±é»‘æš—è½¬å‘å…‰æ˜ï¼Œç”±è´Ÿé¢è½¬å‘æ­£é¢ï¼Œ
 and over time slowly transform the Orionsystems from darkness into light, from negative into the positive through theirsacrifice,through their pain, through their blood
 
-µ«ÊÇĞí¶àĞí¶àµÄ¹Å´úµÄÁÔ»§×ù¾ÓÃñÒ²ÏëÒªÔÚĞí¶à²»Í¬µÄ¿çÎ¬¶ÈµÄ²ãÃæ½â¾öºÃÕâ¸öÎÊÌâ
+ä½†æ˜¯è®¸å¤šè®¸å¤šçš„å¤ä»£çš„çŒæˆ·åº§å±…æ°‘ä¹Ÿæƒ³è¦åœ¨è®¸å¤šä¸åŒçš„è·¨ç»´åº¦çš„å±‚é¢è§£å†³å¥½è¿™ä¸ªé—®é¢˜
 but the idea is that many many of theancient Orions also made a connection to the idea wanting to work this out onmany different levels interdimensionally
 
-ËùÒÔËûÃÇ¾Í×ªÊÀµ½ÆäËûĞÇÏµµ±ÖĞ
+æ‰€ä»¥ä»–ä»¬å°±è½¬ä¸–åˆ°å…¶ä»–æ˜Ÿç³»å½“ä¸­
 and so created for themselves incarnationalconnections to other star systems
 
-ÔÚÕñ¶¯µÄÄÜÁ¿ÉÏÈÃËûÃÇÄÜ¹»¾­ÀúÕâ³¡ÓÉ¸ºÃæÄÜÁ¿µ½ÕıÃæÄÜÁ¿µÄ×ª»¯
+åœ¨æŒ¯åŠ¨çš„èƒ½é‡ä¸Šè®©ä»–ä»¬èƒ½å¤Ÿç»å†è¿™åœºç”±è´Ÿé¢èƒ½é‡åˆ°æ­£é¢èƒ½é‡çš„è½¬åŒ–
 that had the vibrational energy that wouldallow them to go through a process transmuting this negative energy in thepositive energy
 
-ÆäÖĞµÄÕâÑùµÄÒ»¸öĞÇÏµ¾ÍÊÇÄãÃÇµÄÌ«ÑôÏµ
+å…¶ä¸­çš„è¿™æ ·çš„ä¸€ä¸ªæ˜Ÿç³»å°±æ˜¯ä½ ä»¬çš„å¤ªé˜³ç³»
 one of these systems was your Solar system
 
-ÔÙ´ÎµÄËµÃ÷£¬ÕâÒ»ÇĞ·¢ÉúÔÚÊı°ÙÍòÄêÒÔÇ°
+å†æ¬¡çš„è¯´æ˜ï¼Œè¿™ä¸€åˆ‡å‘ç”Ÿåœ¨æ•°ç™¾ä¸‡å¹´ä»¥å‰
 now this again was millions a few years ago
 
-À´×ÔÁÔ»§×ùÄÜÁ¿µÄµÚÒ»Åú×ªÊÀ·¢ÉúÔÚÄãÃÇÏÖÔÚ½Ğ×öĞ¡ĞĞĞÇ´øµÄÔçÒÑ²»¸´´æÔÚµÄÄÇ¿ÅĞÇÇòÉÏ
+æ¥è‡ªçŒæˆ·åº§èƒ½é‡çš„ç¬¬ä¸€æ‰¹è½¬ä¸–å‘ç”Ÿåœ¨ä½ ä»¬ç°åœ¨å«åšå°è¡Œæ˜Ÿå¸¦çš„æ—©å·²ä¸å¤å­˜åœ¨çš„é‚£é¢—æ˜Ÿçƒä¸Š
 but from the first incarnations of ancientOrion Energy occurred on a planet that is now what you call your asteroid beltit no longer exists as a planet
 
-ÄÇ¿ÅĞĞĞÇÓĞ¹ıºÜ¶àÃû×Ö£¬ÎÒÃÇÑ¡ÔñÂí¶û´÷¿ËĞÇ(´«ËµÖĞ»ÙÃğÁËµÄĞÇÇò£¬Èç½ñµÄĞ¡ĞĞĞÇ´ø)×÷Îª´ú±í
+é‚£é¢—è¡Œæ˜Ÿæœ‰è¿‡å¾ˆå¤šåå­—ï¼Œæˆ‘ä»¬é€‰æ‹©é©¬å°”æˆ´å…‹æ˜Ÿ(ä¼ è¯´ä¸­æ¯ç­äº†çš„æ˜Ÿçƒï¼Œå¦‚ä»Šçš„å°è¡Œæ˜Ÿå¸¦)ä½œä¸ºä»£è¡¨
 and it was known by many names but we willchoose the idea of Maldek to represented
 
-Ğí¶àÁÔ»§×ùµÄÁé»êÖğ²½×ªÊÀµ½ÁËÄÇÀï
+è®¸å¤šçŒæˆ·åº§çš„çµé­‚é€æ­¥è½¬ä¸–åˆ°äº†é‚£é‡Œ
 many incarnations were played out there
 
-Ğí¶à¹ÅÀÏµÄÁÔ»§×ùµÄ¸ºÃæĞÔÒ²ÔÚÄÇÀïÕ¹Â¶³öÀ´
+è®¸å¤šå¤è€çš„çŒæˆ·åº§çš„è´Ÿé¢æ€§ä¹Ÿåœ¨é‚£é‡Œå±•éœ²å‡ºæ¥
 much of the ancient Orion negativity wasplayed out there
 
-×îÖÕÓÉÓÚÌ«¶àµÄ¸ºÃæµÄÕñ¶¯¶øÎŞ·¨¿ØÖÆ
+æœ€ç»ˆç”±äºå¤ªå¤šçš„è´Ÿé¢çš„æŒ¯åŠ¨è€Œæ— æ³•æ§åˆ¶
 and eventually the vibrational that negativitywas too much to handle
 
-ÎüÒıÁËÄÇ¿ÅĞĞĞÇÓëÌ«ÑôÏµµÄÆäËûĞÇÌåµÄÅö×²¶ø³¹µ×µÄ»ÙÃğÁË£¬µ±ÄÇ¿ÅĞĞĞÇ»¹´¦ÓÚÔçÆÚµÄÊ±ºò
+å¸å¼•äº†é‚£é¢—è¡Œæ˜Ÿä¸å¤ªé˜³ç³»çš„å…¶ä»–æ˜Ÿä½“çš„ç¢°æ’è€Œå½»åº•çš„æ¯ç­äº†ï¼Œå½“é‚£é¢—è¡Œæ˜Ÿè¿˜å¤„äºæ—©æœŸçš„æ—¶å€™
 and created circumstances and situationsthat ultimately destroy the planet from collisions with other planetary bodies inthe system when it was young
 
-ÁÔ»§×ùµÄÁé»êËæ¼´¾Í×ªÊÀµ½ÁËÁíÒ»¿Å¿ÉÒÔ¾Ó×¡µÄĞÇÇòÉÏ£¬ÄÇ¿ÅĞĞĞÇÏÖÔÚ½Ğ×ö»ğĞÇ
+çŒæˆ·åº§çš„çµé­‚éšå³å°±è½¬ä¸–åˆ°äº†å¦ä¸€é¢—å¯ä»¥å±…ä½çš„æ˜Ÿçƒä¸Šï¼Œé‚£é¢—è¡Œæ˜Ÿç°åœ¨å«åšç«æ˜Ÿ
 the incarnations then move to the nexthabitable planet which are now called Mars
 
-ÔÚÄÇ¸öÊ±ÆÚ»ğĞÇÊÇ¿ÉÒÔ¾Ó×¡µÄ£¬¶øÇÒ¹ÅÀÏµÄÁÔ»§×ùÁé»êÃÇÔÚÒ»¶¨³Ì¶ÈÉÏ½â¾öÁËËûÃÇµÄ¸ºÃæĞÔ
+åœ¨é‚£ä¸ªæ—¶æœŸç«æ˜Ÿæ˜¯å¯ä»¥å±…ä½çš„ï¼Œè€Œä¸”å¤è€çš„çŒæˆ·åº§çµé­‚ä»¬åœ¨ä¸€å®šç¨‹åº¦ä¸Šè§£å†³äº†ä»–ä»¬çš„è´Ÿé¢æ€§
 at the time it was inhabited again theancient Orion systems work themselves out to some degree
 
-µ«ÊÇÈÔÈ»ÓĞ´óÁ¿µÄ¸ºÃæÄÜÁ¿ĞèÒª×ª»¯
+ä½†æ˜¯ä»ç„¶æœ‰å¤§é‡çš„è´Ÿé¢èƒ½é‡éœ€è¦è½¬åŒ–
 but there was still a lot of negativity tobe worked out
 
-¶øÕâ¸ö¹ı³ÌĞèÒªÒÚÍòÄê£¬ÒÚÍòÄêµÄÊ±¼ä
+è€Œè¿™ä¸ªè¿‡ç¨‹éœ€è¦äº¿ä¸‡å¹´ï¼Œäº¿ä¸‡å¹´çš„æ—¶é—´
 as this process took eons and eons to gothrough.
 
-»ğĞÇÒ²Í¬ÑùÒıÀ´ÁËËü×ÔÉíµÄ¸ºÃæÌåÑé£¬À´×ÔĞ¡ĞĞĞÇ´øµÄºä»÷´İ»ÙÁËËüµÄ´óÆø²ã£¬½«Æä±ä³ÉÁËÏÖÔÚÄãÃÇËùÖªµÄ»ÄÄ®ĞĞĞÇ
+ç«æ˜Ÿä¹ŸåŒæ ·å¼•æ¥äº†å®ƒè‡ªèº«çš„è´Ÿé¢ä½“éªŒï¼Œæ¥è‡ªå°è¡Œæ˜Ÿå¸¦çš„è½°å‡»æ‘§æ¯äº†å®ƒçš„å¤§æ°”å±‚ï¼Œå°†å…¶å˜æˆäº†ç°åœ¨ä½ ä»¬æ‰€çŸ¥çš„è’æ¼ è¡Œæ˜Ÿ
 when Mars also attracted to itself the ideaof negative experience from destruction through the bombardment asteroids thatripped away its atmosphere and turned it into the relatively desolate planetthat you now understand Mars to be
 
-ËæºóÕâĞ©Áé»êÔÚ6Ç§ÄêÇ°×ªÊÀµ½ÁËµØÇò
+éšåè¿™äº›çµé­‚åœ¨6åƒå¹´å‰è½¬ä¸–åˆ°äº†åœ°çƒ
 then the incarnation shifted about 6,000your years ago to the earth plane
 
-Õâ²¢²»ÒâÎ¶×Å»ğĞÇµÄ»ÙÃğ·¢ÉúÔÚ6Ç§ÄêÇ°
+è¿™å¹¶ä¸æ„å‘³ç€ç«æ˜Ÿçš„æ¯ç­å‘ç”Ÿåœ¨6åƒå¹´å‰
 now this does not mean that the destructiontook the place on Mars happened 6,000 years ago
 
-ÁÔ»§×ùÄÜÁ¿ÔÚÆäËûµÄÎ¬¶ÈÖĞ¾­¹ıÁËĞí¶àµÄ¹ı¶ÉÊ±¼äºÍ²»Í¬µÄ¹ı³Ì²ÅÖğ½¥µÄ½«Ëü×ÔÉíÕ¹¿ª
+çŒæˆ·åº§èƒ½é‡åœ¨å…¶ä»–çš„ç»´åº¦ä¸­ç»è¿‡äº†è®¸å¤šçš„è¿‡æ¸¡æ—¶é—´å’Œä¸åŒçš„è¿‡ç¨‹æ‰é€æ¸çš„å°†å®ƒè‡ªèº«å±•å¼€
 there was a lot of interim time in which inother dimensions the Orion energy was playing itself out on going throughdifferent processes
 
-Ö±µ½Ëü×¼±¸ºÃ²Å½øÈëµ½µØÇòµÄÕñ¶¯µ±ÖĞ
+ç›´åˆ°å®ƒå‡†å¤‡å¥½æ‰è¿›å…¥åˆ°åœ°çƒçš„æŒ¯åŠ¨å½“ä¸­
 until it was ready to come into the Earthvibration
 
-ÒıÈë¹ÅÀÏµÄÁÔ»§×ùÄÜÁ¿£¬ÒÔ¼°ËüÓÉ¸ºÃæ×ª±äÎªÕıÃæµÄ¹ı³Ì
+å¼•å…¥å¤è€çš„çŒæˆ·åº§èƒ½é‡ï¼Œä»¥åŠå®ƒç”±è´Ÿé¢è½¬å˜ä¸ºæ­£é¢çš„è¿‡ç¨‹
 the idea of the introduction of the ancientOrion energies and that process of going from the negative to the positive
 
-¿ªÊ¼ÓÚÄãÃÇĞÇÇòÉÏµÄÖĞ¶«µØÇø
+å¼€å§‹äºä½ ä»¬æ˜Ÿçƒä¸Šçš„ä¸­ä¸œåœ°åŒº
 began the play itself out upon its arrivalin the area on your planet you call the Middle East
 
-ÕâÑùÒ»À´£¬ÄÇÀïµ¼ÈëÁË´óÁ¿µÄ¹ÅÀÏµÄ¸ºÃæÄÜÁ¿£¬ÈÔÈ»ÔÚÄãÃÇµÄĞÇÇòÉÏÂûÑÓ¿ªÀ´£¬¾¡¹ÜËüÔÚ½ñÌìÕâ¸öÊ±´úÒ²ÔÚ½øĞĞ×ª»¯
+è¿™æ ·ä¸€æ¥ï¼Œé‚£é‡Œå¯¼å…¥äº†å¤§é‡çš„å¤è€çš„è´Ÿé¢èƒ½é‡ï¼Œä»ç„¶åœ¨ä½ ä»¬çš„æ˜Ÿçƒä¸Šè”“å»¶å¼€æ¥ï¼Œå°½ç®¡å®ƒåœ¨ä»Šå¤©è¿™ä¸ªæ—¶ä»£ä¹Ÿåœ¨è¿›è¡Œè½¬åŒ–
 and in this way it introduced a lot of thatancient negative energy that has still to play itself out on your planetalthough it is transforming in this day and age
 
-Í¼Æ¬
+å›¾ç‰‡
 
-µ«ÊÇµ±ÄãÃÇÓÉºìÉ«£¬ºÚÉ«£¬°×É«×é³ÉµÄ´ú±íÁÔ»§×ùĞÇÏµµÄÌõ·ùÊ±£¬
+ä½†æ˜¯å½“ä½ ä»¬ç”±çº¢è‰²ï¼Œé»‘è‰²ï¼Œç™½è‰²ç»„æˆçš„ä»£è¡¨çŒæˆ·åº§æ˜Ÿç³»çš„æ¡å¹…æ—¶ï¼Œ
 but as you can see by the banner of the Orion ancient systems of thered and the black and the white
 
-ÄãÃÇ¾Í»áÏëµ½ÄãÃÇÀúÊ·ÉÏÄÇĞ©¼«¶ÈÑ¹ÆÈµÄÉç»á£¬ÓÈÆäÊÇÄãÃÇËùËµµÄÄÉ´â
+ä½ ä»¬å°±ä¼šæƒ³åˆ°ä½ ä»¬å†å²ä¸Šé‚£äº›æåº¦å‹è¿«çš„ç¤¾ä¼šï¼Œå°¤å…¶æ˜¯ä½ ä»¬æ‰€è¯´çš„çº³ç²¹
 you will see this throughout your historyin oppressive societies especially what you would call the Nazis
 
-ºìºÚ°×Ò²ÊÇÄÉ´âÆìÖÄµÄÑÕÉ«
+çº¢é»‘ç™½ä¹Ÿæ˜¯çº³ç²¹æ——å¸œçš„é¢œè‰²
 in that that was their colors as well
 
-ÄãÃÇ¾Í¿ÉÒÔÈÏ³öÕâÒ»¹ÅÀÏµÄÁÔ»§×ù¸ºÃæÄÜÁ¿£¬ÕıÒÔ¸÷ÖÖ¸÷ÑùµÄ·½Ê½ÔÚÄãÃÇµÄÊÀ½çÖĞÂûÑÓ
+ä½ ä»¬å°±å¯ä»¥è®¤å‡ºè¿™ä¸€å¤è€çš„çŒæˆ·åº§è´Ÿé¢èƒ½é‡ï¼Œæ­£ä»¥å„ç§å„æ ·çš„æ–¹å¼åœ¨ä½ ä»¬çš„ä¸–ç•Œä¸­è”“å»¶
 so you'll recognize that this ancientnegative Orion energy is playing itself out in a variety of ways
 
-Í¨¹ıÄãÃÇĞÇÇòÉÏµÄÕıÔÚ½øĞĞµÄĞí¶àÊÂÇé£¬±ÈÈç¿Ö²ÀÖ÷Òå£¬±ÈÈçÕ½Õù³åÍ»£¬µÈµÈÖîÈç´ËÀàµÄÄÜÁ¿Í³Í³½«ËüÃÇ°ÚÔÚ×ÀÃæÉÏ£¬ÖÃÓÚÄãÃÇÃæÇ°
+é€šè¿‡ä½ ä»¬æ˜Ÿçƒä¸Šçš„æ­£åœ¨è¿›è¡Œçš„è®¸å¤šäº‹æƒ…ï¼Œæ¯”å¦‚ææ€–ä¸»ä¹‰ï¼Œæ¯”å¦‚æˆ˜äº‰å†²çªï¼Œç­‰ç­‰è¯¸å¦‚æ­¤ç±»çš„èƒ½é‡ç»Ÿç»Ÿå°†å®ƒä»¬æ‘†åœ¨æ¡Œé¢ä¸Šï¼Œç½®äºä½ ä»¬é¢å‰
 through many of the things that are goingon now in your planet with respect to terrorism, with respect to warfare, withrespect to all these kinds of energies that are now getting themselves out onthe table ,out in front of all your face
 
-Òò´ËÄãÃÇÄÜ¹»×îÖÕ¾ö¶¨£¬ÊÇ·ñÕæÕıµÄ¿ÉÒÔ½â¾öºÃÕâ¸ö×ª±ä£¬½«ËùÓĞµÄ¸ºÃæĞÔÒÔ»ı¼«ÕıÃæµÄ·½Ê½×ª»¯Îª¹âÃ÷
+å› æ­¤ä½ ä»¬èƒ½å¤Ÿæœ€ç»ˆå†³å®šï¼Œæ˜¯å¦çœŸæ­£çš„å¯ä»¥è§£å†³å¥½è¿™ä¸ªè½¬å˜ï¼Œå°†æ‰€æœ‰çš„è´Ÿé¢æ€§ä»¥ç§¯ææ­£é¢çš„æ–¹å¼è½¬åŒ–ä¸ºå…‰æ˜
 so you can finally decide if you are trulydone with this process and transmit all this negativity in a positive way intolight
 
-¶ø²»±ØÔÙ¾­ÀúÓÉÕâ¸öÏµÍ³ÖĞµÄºìÉ«ºáÌõËù´ú±íµÄ¡ª¡ª¿àÄÑ£¬´ò»÷£¬¶·Õù£¬Í´¿àºÍÁ÷Ñª
+è€Œä¸å¿…å†ç»å†ç”±è¿™ä¸ªç³»ç»Ÿä¸­çš„çº¢è‰²æ¨ªæ¡æ‰€ä»£è¡¨çš„â€”â€”è‹¦éš¾ï¼Œæ‰“å‡»ï¼Œæ–—äº‰ï¼Œç—›è‹¦å’Œæµè¡€
 without the idea of having to go throughthe suffering, the strike, the struggle and the pain and the shedding of blood that is represented by the red band in thissystem
 
-ÄãÃÇÏÖÔÚÒÑ¾­Ñİ»¯µ½ÁËÕâÑùÒ»¸ö¹Ø¼üµã£¬ÏÖÔÚµÄÕñ¶¯ÄÜÁ¿ÒÑ¾­ÈÃÄãÃÇ³ÉÊìÆğÀ´£¬
+ä½ ä»¬ç°åœ¨å·²ç»æ¼”åŒ–åˆ°äº†è¿™æ ·ä¸€ä¸ªå…³é”®ç‚¹ï¼Œç°åœ¨çš„æŒ¯åŠ¨èƒ½é‡å·²ç»è®©ä½ ä»¬æˆç†Ÿèµ·æ¥ï¼Œ
 you have arrived now at this point and inrecent times where the vibrational energy allowed you to be ripe
 
-ÈÃÎÒÃÇËµ£¬×ãÒÔÔÚÄÚÔÚÁ¬½áµ½ÎÒÃÇ´ÖÂÔµÄËµÊÇ»ÒÈËÁª°îµÄÊ±ºòÁË
-shall we say£¬to interconnect withwhat we are loosely calling the Gray Federation
+è®©æˆ‘ä»¬è¯´ï¼Œè¶³ä»¥åœ¨å†…åœ¨è¿ç»“åˆ°æˆ‘ä»¬ç²—ç•¥çš„è¯´æ˜¯ç°äººè”é‚¦çš„æ—¶å€™äº†
+shall we sayï¼Œto interconnect withwhat we are loosely calling the Gray Federation
 
 
 
-Í¼Æ¬
+å›¾ç‰‡
 
-µkÓÉµ×²¿Ò»ĞĞÓÒ²àµÄºÚÉ«£¬»ÒÉ«ºÍ°×É«ÈıÉ«ºáÌõËù´ú±í
+ç¥‚ç”±åº•éƒ¨ä¸€è¡Œå³ä¾§çš„é»‘è‰²ï¼Œç°è‰²å’Œç™½è‰²ä¸‰è‰²æ¨ªæ¡æ‰€ä»£è¡¨
 which is represented by the banner on thelower right in the three strikes a black grey and white
 
-¾ÍÈçÎÒÃÇ½²ËßµÄÕâ¸ö¹ÊÊÂ£¬´óÌåÉÏÀ´Ëµ£¬»ÒÈËÊÇÒ»ÏµÁĞ²»Í¬µÄÊÂÎï
+å°±å¦‚æˆ‘ä»¬è®²è¯‰çš„è¿™ä¸ªæ•…äº‹ï¼Œå¤§ä½“ä¸Šæ¥è¯´ï¼Œç°äººæ˜¯ä¸€ç³»åˆ—ä¸åŒçš„äº‹ç‰©
 now as we have told the story in generalthe gray beings are a number of different things
 
-ËûÃÇÊÇÒ»ÏµÁĞµÄ²»Í¬ÊÂÎï»ìºÏ¶ø³ÉµÄÁª°î
+ä»–ä»¬æ˜¯ä¸€ç³»åˆ—çš„ä¸åŒäº‹ç‰©æ··åˆè€Œæˆçš„è”é‚¦
 they are amalgamation of a federation anumber of different things
 
-ËûÃÇ²»ÄÜÕæÕıµÄ¹éÀàÎªÒ»ÀàÊÂÎï£¬¾¡¹ÜËûÃÇÓĞºÜ¶àÁªÏµ
+ä»–ä»¬ä¸èƒ½çœŸæ­£çš„å½’ç±»ä¸ºä¸€ç±»äº‹ç‰©ï¼Œå°½ç®¡ä»–ä»¬æœ‰å¾ˆå¤šè”ç³»
 they're not really all lumped into onething although there are connections
 
-ÄÇ¾ÍÊÇÎªÊ²Ã´ÎÒÃÇÊ¹ÓÃÁª°îÕâ¸öÊõÓïÀ´´ú±í²»Í¬µÄÅÉÏµµÄÄãÃÇÈÏÖªÉÏµÄ»ÒÈË
+é‚£å°±æ˜¯ä¸ºä»€ä¹ˆæˆ‘ä»¬ä½¿ç”¨è”é‚¦è¿™ä¸ªæœ¯è¯­æ¥ä»£è¡¨ä¸åŒçš„æ´¾ç³»çš„ä½ ä»¬è®¤çŸ¥ä¸Šçš„ç°äºº
 which is why we are utilizing the termFederation to represent the connections between the different factions ofbeings that you might recognize in general as Greys
 
-ÒÔ¼°ËûÃÇ¸÷ÖÖ¸÷Ñù²»Í¬µÄÀ´Ô´
+ä»¥åŠä»–ä»¬å„ç§å„æ ·ä¸åŒçš„æ¥æº
 and all the different varieties in whichthey come
 
-È»¶ø£¬Îñ±ØÒªÃ÷°×µÄÊÇ£¬ÎÒÃÇÒÑ¾­ÏòÄãÃÇËµÃ÷¹ıµÄ£¬»ÒÈË²¢·ÇÕæÕıµÄÍâĞÇÈË
+ç„¶è€Œï¼ŒåŠ¡å¿…è¦æ˜ç™½çš„æ˜¯ï¼Œæˆ‘ä»¬å·²ç»å‘ä½ ä»¬è¯´æ˜è¿‡çš„ï¼Œç°äººå¹¶éçœŸæ­£çš„å¤–æ˜Ÿäºº
 however do understand that as we havealready layout for you the Grays are not really alien beings
 
-ÄãÃÇÔÚÄãÃÇĞÇÇòÉÏÓöµ½µÄ´ó²¿·Ö»ÒÈË¶¼ÊÇÀ´×ÔÁíÒ»¸öÆ½ĞĞÊµÏàÖĞµÄ¡¢×ÔÎÒ»ÙÃğÁËµÄµØÇòÉÏµÄ±äÒìÈËÀà
+ä½ ä»¬åœ¨ä½ ä»¬æ˜Ÿçƒä¸Šé‡åˆ°çš„å¤§éƒ¨åˆ†ç°äººéƒ½æ˜¯æ¥è‡ªå¦ä¸€ä¸ªå¹³è¡Œå®ç›¸ä¸­çš„ã€è‡ªæˆ‘æ¯ç­äº†çš„åœ°çƒä¸Šçš„å˜å¼‚äººç±»
 most of them the ones that you are dealingwith on your planet are a race of mutated humans from a parallel earth thatdestroyed itself
 
-ËûÃÇÔø¾­ÔÚÄÇ¸öÆ½ĞĞÊµÏàµÄµØÇòÉÏ´´Ôì³öÁË¸ß¶È·¢´ïµÄ¿Æ¼¼
+ä»–ä»¬æ›¾ç»åœ¨é‚£ä¸ªå¹³è¡Œå®ç›¸çš„åœ°çƒä¸Šåˆ›é€ å‡ºäº†é«˜åº¦å‘è¾¾çš„ç§‘æŠ€
 once they have that created a very highlevel of technology on that parallel version of Earth
 
-¼«¶È£¬¼«¶ÈµÄ¸ß¶Ë£¬Ô¶Ô¶µÄ³¬Ô½ÄãÃÇÏÖÔÚµÄ¿Æ¼¼Ë®Æ½
+æåº¦ï¼Œæåº¦çš„é«˜ç«¯ï¼Œè¿œè¿œçš„è¶…è¶Šä½ ä»¬ç°åœ¨çš„ç§‘æŠ€æ°´å¹³
 much much higher much far beyond where yourtechnology is now
 
-µ«ÊÇÒòÎªËûÃÇÊÇÈç´ËµÄ×¨×¢ÓÚ·¢Õ¹¿Æ¼¼ºÍÖÇÄÜ
+ä½†æ˜¯å› ä¸ºä»–ä»¬æ˜¯å¦‚æ­¤çš„ä¸“æ³¨äºå‘å±•ç§‘æŠ€å’Œæ™ºèƒ½
 but because they were so focused on theidea of technology and intellectuality
 
-×îÖÕËûÃÇÎşÉüÁËÇé¸ĞµÄÄÜÁ¦£¬²¢½«ÆäÊÓÎªÏÂµÈµÄÉú´æ×´Ì¬
+æœ€ç»ˆä»–ä»¬ç‰ºç‰²äº†æƒ…æ„Ÿçš„èƒ½åŠ›ï¼Œå¹¶å°†å…¶è§†ä¸ºä¸‹ç­‰çš„ç”Ÿå­˜çŠ¶æ€
 eventually they sacrificed the concept ofthe emotionality and looked upon this as an inferior state of being
 
  
 
-ËûÃÇ¿ªÊ¼Ê§È¥ÁËÓë×ÔÈ»µÄÁªÏµ£¬×¨×¢ÔÚ¸÷ÖÖ¸÷ÑùÁîËûÃÇµÄĞÇÇò×ßÏòË¥°ÜµÄµÀÂ·Ö®ÉÏ
+ä»–ä»¬å¼€å§‹å¤±å»äº†ä¸è‡ªç„¶çš„è”ç³»ï¼Œä¸“æ³¨åœ¨å„ç§å„æ ·ä»¤ä»–ä»¬çš„æ˜Ÿçƒèµ°å‘è¡°è´¥çš„é“è·¯ä¹‹ä¸Š
 they began to become very disconnected fromnature, began to focus on these ideas in a variety of ways that allow them tolet their planet in a sense go to seed
 
-ËûÃÇÔÙÒ²²»¹ØĞÄ×ÔÈ»£¬ËÁÒâµÄÂ¶Ìì²É¿ó£¬ÎŞ¾¡µÄÀÄ¿³ÀÄ·¥£¬¿ñ°ÁµÄ¸Ä±äÆøºò£¬Ò»ÇĞ¶¼ÒÔ¿Æ¼¼µÄÃûÒå
+ä»–ä»¬å†ä¹Ÿä¸å…³å¿ƒè‡ªç„¶ï¼Œè‚†æ„çš„éœ²å¤©é‡‡çŸ¿ï¼Œæ— å°½çš„æ»¥ç æ»¥ä¼ï¼Œç‹‚å‚²çš„æ”¹å˜æ°”å€™ï¼Œä¸€åˆ‡éƒ½ä»¥ç§‘æŠ€çš„åä¹‰
 They no longer really took care of thenature, they allow themselves to strip mine,allow themselves to deforest, allowthemselves to change the climate in such a way all in the name of theirtechnology
 
-×îÖÕËûÃÇ²ÅÈÏÊ¶µ½ËûÃÇµÄĞÇÇò¿ìËÙµÄ±äµÃÎŞ·¨¾Ó×¡ÁË£¬¼´Ê¹ËûÃÇÒıÒÔÎª°ÁµÄ¿Æ¼¼Ò²ÎŞÄÜÎªÁ¦
+æœ€ç»ˆä»–ä»¬æ‰è®¤è¯†åˆ°ä»–ä»¬çš„æ˜Ÿçƒå¿«é€Ÿçš„å˜å¾—æ— æ³•å±…ä½äº†ï¼Œå³ä½¿ä»–ä»¬å¼•ä»¥ä¸ºå‚²çš„ç§‘æŠ€ä¹Ÿæ— èƒ½ä¸ºåŠ›
 so, that they ultimately looked up andrealized that their planet that was fast becoming uninhabitable to such adegree that even their technology could now no longer really do anything aboutit
 
-µ½ÁËÕâÒ»²½£¬ËûÃÇ»¹Í¨¹ı¿Æ¼¼ÃÍÁÒµÄ¸Ä±äÁË×Ô¼ºµÄ»ùÒòºÍÉúÎïĞÔ
+åˆ°äº†è¿™ä¸€æ­¥ï¼Œä»–ä»¬è¿˜é€šè¿‡ç§‘æŠ€çŒ›çƒˆçš„æ”¹å˜äº†è‡ªå·±çš„åŸºå› å’Œç”Ÿç‰©æ€§
 and at this point they also takenthemselves so far altered themselves in such drastic ways in terms of theirgenetics their technology their biology
 
-ËûÃÇÕæµÄ²î²»¶à³ÉÁË°ëÈËÀà£¬°ë»úÆ÷
+ä»–ä»¬çœŸçš„å·®ä¸å¤šæˆäº†åŠäººç±»ï¼ŒåŠæœºå™¨
 that they really were almost part human andpart machine
 
-Òò´ËÔÚĞí¶à·½Ãæ¶¼ÔÙÒ²ÎŞ·¨ºÍ×ÔÈ»È¡µÃÁªÏµ
+å› æ­¤åœ¨è®¸å¤šæ–¹é¢éƒ½å†ä¹Ÿæ— æ³•å’Œè‡ªç„¶å–å¾—è”ç³»
 and thus no longer relate to the idea ofnature in a variety of ways
 
-×îÖÕËûÃÇ²ÅÈÏÊ¶µ½ËûÃÇµÄËù×÷ËùÎª»áÊ¹Õû¸öÖÖ×åÍêÈ«µÄÃğ¾ø
+æœ€ç»ˆä»–ä»¬æ‰è®¤è¯†åˆ°ä»–ä»¬çš„æ‰€ä½œæ‰€ä¸ºä¼šä½¿æ•´ä¸ªç§æ—å®Œå…¨çš„ç­ç»
 but realize that what they have done wasgoing to create a situation where their race would completely eventually dieout
 
-ËûÃÇÔÙÒ²Ã»ÓĞÄÜÁ¦ÉúÖ³
+ä»–ä»¬å†ä¹Ÿæ²¡æœ‰èƒ½åŠ›ç”Ÿæ®–
 they no longer have the ability to reproduce
 
-ËùÒÔËûÃÇÈÏÊ¶µ½ÎªÁËÑÓĞøËûÃÇÕâ¸öÎïÖÖ£¬ËûÃÇ¿ªÊ¼ÁËÒ»ÏµÁĞµÄÊµÑé
+æ‰€ä»¥ä»–ä»¬è®¤è¯†åˆ°ä¸ºäº†å»¶ç»­ä»–ä»¬è¿™ä¸ªç‰©ç§ï¼Œä»–ä»¬å¼€å§‹äº†ä¸€ç³»åˆ—çš„å®éªŒ
 and so they realized that in order toperpetuate their species they began experimenting with the number of things
 
-Ê×ÏÈ£¬ÓÉÓÚËûÃÇµÄ»·¾³ÒÑ¾­±äµÃÔ½À´Ô½ÎŞ·¨¾Ó×¡
+é¦–å…ˆï¼Œç”±äºä»–ä»¬çš„ç¯å¢ƒå·²ç»å˜å¾—è¶Šæ¥è¶Šæ— æ³•å±…ä½
 first because their environment wasbecoming less and less and less habitable
 
-ËûÃÇÒÆ¾Óµ½µØÏÂµÄ³ÇÊĞÖĞ
+ä»–ä»¬ç§»å±…åˆ°åœ°ä¸‹çš„åŸå¸‚ä¸­
 they move themselves into undergroundcities
 
-ÔÚÕâĞ©µØÏÂ³ÇÖĞ£¬ËûÃÇÓÃ×Ô¼ºµÄ»ùÒò×öÊµÑé£¬¿ªÊ¼Ò»´ÎÓÖÒ»´ÎµÄ×ÔÎÒ¿ËÂ¡
+åœ¨è¿™äº›åœ°ä¸‹åŸä¸­ï¼Œä»–ä»¬ç”¨è‡ªå·±çš„åŸºå› åšå®éªŒï¼Œå¼€å§‹ä¸€æ¬¡åˆä¸€æ¬¡çš„è‡ªæˆ‘å…‹éš†
 and in those underground cities theyexperimented with their genetics and began the clone themselves over and overand over again
 
-µ±È»£¬ËûÃÇ×îºóÈÏÊ¶µ½ÕâÊÇËÀÂ·Ò»Ìõ
+å½“ç„¶ï¼Œä»–ä»¬æœ€åè®¤è¯†åˆ°è¿™æ˜¯æ­»è·¯ä¸€æ¡
 eventually of course realizing that thiswas a dead end
 
-ËûÃÇ¼´Ê¹ÔËÓÃËûÃÇ¸ß³¬µÄ¿Æ¼¼Ò²ÎŞ·¨ÔÙ¸´ÖÆ³ö×î³õµÄÈËÀàµÄDNA
+ä»–ä»¬å³ä½¿è¿ç”¨ä»–ä»¬é«˜è¶…çš„ç§‘æŠ€ä¹Ÿæ— æ³•å†å¤åˆ¶å‡ºæœ€åˆçš„äººç±»çš„DNA
 they even with their technology could notreplicate the original human DNA
 
-ËûÃÇÖªµÀËûÃÇĞèÒªÄÜ·¢ÓıµÄ£¬³äÂú»îÁ¦µÄ£¬×ÔÈ»µÄ£¬×î³õµÄÈËÀàDNAµ¼Èë»ØËûÃÇµÄ»ùÒò½á¹¹µ±ÖĞ
+ä»–ä»¬çŸ¥é“ä»–ä»¬éœ€è¦èƒ½å‘è‚²çš„ï¼Œå……æ»¡æ´»åŠ›çš„ï¼Œè‡ªç„¶çš„ï¼Œæœ€åˆçš„äººç±»DNAå¯¼å…¥å›ä»–ä»¬çš„åŸºå› ç»“æ„å½“ä¸­
 they knew they needed viable vibrantnatural original human DNA to introduce it back into their genetic structure
 
-Èç¹ûËûÃÇÓĞÈÎºÎÒ»Ë¿µÄ»ú»áÀ´ÑÓĞøËûÃÇµÄÎÄ»¯µÄ»°£¬
+å¦‚æœä»–ä»¬æœ‰ä»»ä½•ä¸€ä¸çš„æœºä¼šæ¥å»¶ç»­ä»–ä»¬çš„æ–‡åŒ–çš„è¯ï¼Œ
 if they're going to have any chance at allof perpetuating their culture
 
-ÄÇ¸öÎ¨Ò»µÄ°ì·¨¾ÍÊÇÊ¹ÓÃËûÃÇµÄ¿Æ¼¼´©Ô½µ½Ä³¸öÈËÀàÒ»¶¨ÈÔÈ»´æÔÚµÄÆ½ĞĞÏÖÊµÖĞ£¬ÀıÈçÄãÃÇµÄÊÀ½ç
+é‚£ä¸ªå”¯ä¸€çš„åŠæ³•å°±æ˜¯ä½¿ç”¨ä»–ä»¬çš„ç§‘æŠ€ç©¿è¶Šåˆ°æŸä¸ªäººç±»ä¸€å®šä»ç„¶å­˜åœ¨çš„å¹³è¡Œç°å®ä¸­ï¼Œä¾‹å¦‚ä½ ä»¬çš„ä¸–ç•Œ
 and so they realize that the only wayto extract that would be to use theirtechnology to tunnel into parallel realities where they knew humans must stillexist,such as yours
 
-ÕÒµ½ËûÃÇĞèÒªµÄDNAÀ´´´Ôì³öÒ»¸ö»ìÑªÖÖ×å
+æ‰¾åˆ°ä»–ä»¬éœ€è¦çš„DNAæ¥åˆ›é€ å‡ºä¸€ä¸ªæ··è¡€ç§æ—
 and find the DNA that they require tocreate a hybrid race
 
-ÎÒÃÇÕıÊÇÕâÑùµÄ±³¾°ÏÂ²úÉúµÄÎÄÃ÷£¬ÈÃËûÃÇµÄÎÄ»¯ÄÜ¹»µÃÒÔÑÓĞø
+æˆ‘ä»¬æ­£æ˜¯è¿™æ ·çš„èƒŒæ™¯ä¸‹äº§ç”Ÿçš„æ–‡æ˜ï¼Œè®©ä»–ä»¬çš„æ–‡åŒ–èƒ½å¤Ÿå¾—ä»¥å»¶ç»­
 one civilization which we are to allowtheir culture to perpetuate itself
 
-ËùÒÔËûÃÇ¾ÍÕâÃ´×öÁË£¬¶øÇÒ´´Ôì³öÁËĞí¶à²»Í¬µÄ»ìÑªÎÄÃ÷£¬Ã÷ÌìµÄÕâ¸öÊ±¼äÎÒÃÇ»áÒ»Ò»Ìáµ½
+æ‰€ä»¥ä»–ä»¬å°±è¿™ä¹ˆåšäº†ï¼Œè€Œä¸”åˆ›é€ å‡ºäº†è®¸å¤šä¸åŒçš„æ··è¡€æ–‡æ˜ï¼Œæ˜å¤©çš„è¿™ä¸ªæ—¶é—´æˆ‘ä»¬ä¼šä¸€ä¸€æåˆ°
 so this they did and created many differenthybrid civilizations which will get into again tomorrow of your time
 
-²»¹ÜÔõÑù£¬ÕâĞ©ÄãÃÇ³ÆÖ®Îª»ÒÈËµÄ±äÒìÈËÀà½øÈëµ½Æ½ĞĞÏÖÊµÖĞÊ±£¬
+ä¸ç®¡æ€æ ·ï¼Œè¿™äº›ä½ ä»¬ç§°ä¹‹ä¸ºç°äººçš„å˜å¼‚äººç±»è¿›å…¥åˆ°å¹³è¡Œç°å®ä¸­æ—¶ï¼Œ
 nevertheless in expanding into parallelrealities as these mutated humans you now called the Grays
 
-ËûÃÇ×îÖÕ´´Ôì³öÁË¸÷ÖÖ¸÷ÑùµÄ²»Í¬µÄ×Ô¼º£¬Í¬Ê±Ò²ÔÚÄÇĞ©Æ½ĞĞÏÖÊµÖĞÓöµ½ÁËÄÇĞ©²»Í¬µÄ×Ô¼º
+ä»–ä»¬æœ€ç»ˆåˆ›é€ å‡ºäº†å„ç§å„æ ·çš„ä¸åŒçš„è‡ªå·±ï¼ŒåŒæ—¶ä¹Ÿåœ¨é‚£äº›å¹³è¡Œç°å®ä¸­é‡åˆ°äº†é‚£äº›ä¸åŒçš„è‡ªå·±
 they eventually created a variety ofdifferent versions of themselves and also encountered in those parallelrealities, different varieties and different versions of themselves
 
-ÆäÖĞ¾Í°üÀ¨Ò»Ö§ÄãÃÇÈÏÊ¶µÄÆëËşÍø×´ĞÇÏµµÄ±¾ÍÁ¾ÓÃñ
+å…¶ä¸­å°±åŒ…æ‹¬ä¸€æ”¯ä½ ä»¬è®¤è¯†çš„é½å¡”ç½‘çŠ¶æ˜Ÿç³»çš„æœ¬åœŸå±…æ°‘
 including one that was actually native tothe Star system you recognize as ZetaReticuli 
 
-Í¨¹ıÓëÄÇÀïµÄ¾ÓÃñ½¨Á¢ÁËÄ³ÖÖ¹ØÏµ£¬ 
+é€šè¿‡ä¸é‚£é‡Œçš„å±…æ°‘å»ºç«‹äº†æŸç§å…³ç³»ï¼Œ 
 By making in a sense a relationship withthe beings there
 
-ËûÃÇ´´Ôì³öÁËÄ³ÖÖ£¬ÒòÎªÊÇËûÃÇ¾ø¶ÔĞèÒªµÄÄ³ÖÖÊÂÎï¶ø´ï³ÉÁËÄ³ÖÖĞ­Òé
+ä»–ä»¬åˆ›é€ å‡ºäº†æŸç§ï¼Œå› ä¸ºæ˜¯ä»–ä»¬ç»å¯¹éœ€è¦çš„æŸç§äº‹ç‰©è€Œè¾¾æˆäº†æŸç§åè®®
 they created something they formed arelationship an agreement with something that they desperately needed
 
-ÊÇÄ³ÖÖ²»Í¬µÄÖ¸µ¼£¬²»½ö½öÊÇ³¬Ô½ÁËÖÇÁ¦²ãÃæ£¬ÔÚÄÇÖÖ²ãÃæÉÏ¿ÉÒÔ¿´µ½²»Í¬µÄÎ¬¶È£¬ÕæÕıµÄ°ïÖúËûÃÇÊµÏÖ´´Ôì³ö»ìÑªÎÄÃ÷µÄ¼Æ»®
-which was a different kind of guidance£¬ on adifferent kind of level beyond just intellectually on a level that could seeinto different dimensions could really help them plan out the idea of how tocreate these hybrid civilization
+æ˜¯æŸç§ä¸åŒçš„æŒ‡å¯¼ï¼Œä¸ä»…ä»…æ˜¯è¶…è¶Šäº†æ™ºåŠ›å±‚é¢ï¼Œåœ¨é‚£ç§å±‚é¢ä¸Šå¯ä»¥çœ‹åˆ°ä¸åŒçš„ç»´åº¦ï¼ŒçœŸæ­£çš„å¸®åŠ©ä»–ä»¬å®ç°åˆ›é€ å‡ºæ··è¡€æ–‡æ˜çš„è®¡åˆ’
+which was a different kind of guidanceï¼Œ on adifferent kind of level beyond just intellectually on a level that could seeinto different dimensions could really help them plan out the idea of how tocreate these hybrid civilization
 
-ÆëËşÈËÄÜ¹»¼à¶½Õû¸öÕâ¸ö¾Ş´óµÄĞèÒªÒÚÍòÄêµÄÊ±¼äÀ´ÏÔ»¯µÄ»ìÑª¹¤³Ì
+é½å¡”äººèƒ½å¤Ÿç›‘ç£æ•´ä¸ªè¿™ä¸ªå·¨å¤§çš„éœ€è¦äº¿ä¸‡å¹´çš„æ—¶é—´æ¥æ˜¾åŒ–çš„æ··è¡€å·¥ç¨‹
 who could oversee such a vast project thatwould take eons of time to manifest
 
-Ò»µ©ÕâĞ©±äÒìÈËÀàÓöµ½ÁËÕâĞ©ÆëËşÍø×´ĞÇÏµµÄ±¾ÍÁ¾ÓÃñ
+ä¸€æ—¦è¿™äº›å˜å¼‚äººç±»é‡åˆ°äº†è¿™äº›é½å¡”ç½‘çŠ¶æ˜Ÿç³»çš„æœ¬åœŸå±…æ°‘
 once they encountered these beings in theZeta Reticuli system
 
  
 
-ËûÃÇ¾ÍÈÃÆëËşÈË³ÉÎªÁËËùÓĞÕâÒ»¼Æ»®£¬ËùÓĞÕâÒ»Òé³ÌµÄ¼à¶½Õß
+ä»–ä»¬å°±è®©é½å¡”äººæˆä¸ºäº†æ‰€æœ‰è¿™ä¸€è®¡åˆ’ï¼Œæ‰€æœ‰è¿™ä¸€è®®ç¨‹çš„ç›‘ç£è€…
 they formed and developed a relationshipwith them to allow them to become the overseers of all of this plan all of thisagenda
 
-ÎªÁËÈÃÄÇĞ©¼à¶½ÕßÄÜ¹»²ÎÓëµ½Õâ¸öÑÓĞøËûÃÇÖÖ×åµÄ»ìÑªÒé³Ìµ±ÖĞÀ´£¬
+ä¸ºäº†è®©é‚£äº›ç›‘ç£è€…èƒ½å¤Ÿå‚ä¸åˆ°è¿™ä¸ªå»¶ç»­ä»–ä»¬ç§æ—çš„æ··è¡€è®®ç¨‹å½“ä¸­æ¥ï¼Œ
 and in allowing those overseers toparticipate in that hybridization agenda that would perpetuate their species
 
-±äÒìÈËÀàÔÚÒ»Ğ©·½Ãæ¾Í¿ªÊ¼Ë³´ÓÆëËşÈË£¬²¢ÈÃÆëËşÈËÀ´×÷ÎªËûÃÇÎÄÃ÷µÄÕæÕıµÄÖ÷Òª×éÖ¯Õß
+å˜å¼‚äººç±»åœ¨ä¸€äº›æ–¹é¢å°±å¼€å§‹é¡ºä»é½å¡”äººï¼Œå¹¶è®©é½å¡”äººæ¥ä½œä¸ºä»–ä»¬æ–‡æ˜çš„çœŸæ­£çš„ä¸»è¦ç»„ç»‡è€…
 in some ways they actually started deferringto them and allow them to really become the primary organizers of theircivilization
 
-ÕâĞ©¼à¶½ÕßÔÚÄãÃÇµÄĞí¶à°ó¼ÜÏÖÏóÖĞ±»ÈÏ×÷ÊÇ·Ç³£¸ß´óµÄÏñÊÇÀ¥³æ°ãµÄó«òëÈË
+è¿™äº›ç›‘ç£è€…åœ¨ä½ ä»¬çš„è®¸å¤šç»‘æ¶ç°è±¡ä¸­è¢«è®¤ä½œæ˜¯éå¸¸é«˜å¤§çš„åƒæ˜¯æ˜†è™«èˆ¬çš„è³è‚äºº
 these overseers are what many of you in theabduction phenomenology have come torecognize as the insect like mantis beings that are very tall
 
-ËûÃÇ×÷Îª¼à¶½Õß³ÉÎªÁË»ÒÈËÁª°îµÄÒ»·İ×Ó
+ä»–ä»¬ä½œä¸ºç›‘ç£è€…æˆä¸ºäº†ç°äººè”é‚¦çš„ä¸€ä»½å­
 they became part in that sense of the GrayFederation as the overseers
 
-ÔÚÈÏÊ¶µ½ÁËĞí¶à»ÒÈË½øÈë¹ıµÄÆ½ĞĞÏÖÊµÖĞµÄµØÇòÒ²Í¬Ñù×ßÏòÁËºÍËûÃÇÏàËÆµÄ×ÔÎÒ»ÙÃğ£¬ÎŞ·¨ÉúÓı£¬ÎŞ·¨¾ßÓĞÇé¸ĞÄÜÁ¦µÄÃğÍöÖ®Â·ÒÔºó
+åœ¨è®¤è¯†åˆ°äº†è®¸å¤šç°äººè¿›å…¥è¿‡çš„å¹³è¡Œç°å®ä¸­çš„åœ°çƒä¹ŸåŒæ ·èµ°å‘äº†å’Œä»–ä»¬ç›¸ä¼¼çš„è‡ªæˆ‘æ¯ç­ï¼Œæ— æ³•ç”Ÿè‚²ï¼Œæ— æ³•å…·æœ‰æƒ…æ„Ÿèƒ½åŠ›çš„ç­äº¡ä¹‹è·¯ä»¥å
 now upon recognizing that many of theparallel reality versions of Earth that the Grays had tunneled into were alsogoing down similar vibrational paths to the path they had taken that destroyedtheir world and prevented them from being able to reproduce prevented them fromhaving emotionality.
 
-»ÒÈËÈÏÊ¶µ½Í¨¹ı´´Ôì³öÕâĞ©»ìÑª£¬±ÈÈçÎÒÃÇ×Ô¼º£¨Ö¸°¬É¯É¯ÄáÎÄÃ÷£©£¬ËûÃÇÒ²¿ÉÒÔ»ØÀ¡¸øÄÇĞ©Æ½ĞĞÊÀ½çÒ»¸öÀñÎï£¬ÈÃÕâĞ©»ìÑª°ïÖúÄÇĞ©Æ½ĞĞÏÖÊµÖĞµÄµØÇò±ÜÃâ×ßÏòÍ¬ÑùµÄÃüÔË£¬Í¬ÑùµÄ»ÙÃğ¾­Àú
+ç°äººè®¤è¯†åˆ°é€šè¿‡åˆ›é€ å‡ºè¿™äº›æ··è¡€ï¼Œæ¯”å¦‚æˆ‘ä»¬è‡ªå·±ï¼ˆæŒ‡è‰¾èèå°¼æ–‡æ˜ï¼‰ï¼Œä»–ä»¬ä¹Ÿå¯ä»¥å›é¦ˆç»™é‚£äº›å¹³è¡Œä¸–ç•Œä¸€ä¸ªç¤¼ç‰©ï¼Œè®©è¿™äº›æ··è¡€å¸®åŠ©é‚£äº›å¹³è¡Œç°å®ä¸­çš„åœ°çƒé¿å…èµ°å‘åŒæ ·çš„å‘½è¿ï¼ŒåŒæ ·çš„æ¯ç­ç»å†
 they recognize that by creating thesehybrid being such as ourselves they can also give back a gift to those parallelworlds by allowing these hybrid beings to stave off the same fate, the sameexperience that many of the parallel versions of earth were also going down.
 
-ËùÒÔËûÃÇ¾Í²»±ØÔÙ¾­Àú»ÒÈËÔÚËûÃÇµÄÊÀ½ç¾­Àú¹ıµÄÍ¬Ñù³Ì¶ÈµÄÏŞÖÆ
+æ‰€ä»¥ä»–ä»¬å°±ä¸å¿…å†ç»å†ç°äººåœ¨ä»–ä»¬çš„ä¸–ç•Œç»å†è¿‡çš„åŒæ ·ç¨‹åº¦çš„é™åˆ¶
 so that they would not have to experiencethe same degree limitation that the Grays experienced on their world
 
-Õâ¾ÍÊÇÎÒÃÇÎªÊ²Ã´ÒªÔÚÄãÃÇ½ñÌìµÄÕâ¸öÊ±¼äÍ¬ÄãÃÇ·ÖÏíÕâĞ©ĞÅÏ¢µÄÔ­ÒòÖ®Ò»
+è¿™å°±æ˜¯æˆ‘ä»¬ä¸ºä»€ä¹ˆè¦åœ¨ä½ ä»¬ä»Šå¤©çš„è¿™ä¸ªæ—¶é—´åŒä½ ä»¬åˆ†äº«è¿™äº›ä¿¡æ¯çš„åŸå› ä¹‹ä¸€
 and so this is one of the reasons why weare sharing information with you this day of your time
 
-ÒÔ¼°ÔÚ¹ıÈ¥µÄ30Äê¼ä£¬ÎÒÃÇÍ¨¹ı¸÷ÖÖ¸÷ÑùµÄ·½Ê½À´ÈÃÄãÃÇÃ÷°×£¬ÄãÃÇ²»±ØÔÙ×ßÏòÍ¬ÑùµÄ¸ºÃæ»ÙÃğÖ®Â·
+ä»¥åŠåœ¨è¿‡å»çš„30å¹´é—´ï¼Œæˆ‘ä»¬é€šè¿‡å„ç§å„æ ·çš„æ–¹å¼æ¥è®©ä½ ä»¬æ˜ç™½ï¼Œä½ ä»¬ä¸å¿…å†èµ°å‘åŒæ ·çš„è´Ÿé¢æ¯ç­ä¹‹è·¯
 and for the past 30 years and in a varietyof ways to allow you to understand that you don't have to take the samenegative path
 
-ÄãÃÇÄÜ¹»¸Ä±äÄãÃÇµÄÃüÔË£¬ÄãÃÇÄÜ¹»ĞÑÎò¹ıÀ´Àí½âÒâÊ¶£¬ÄãÃÇÄÜ¹»´´Ôì³öÒ»¸öÓë»ÒÈËËù´´Ôì³öµÄÏÖÊµÏà±È½ØÈ»²»Í¬µÄÊÀ½ç
+ä½ ä»¬èƒ½å¤Ÿæ”¹å˜ä½ ä»¬çš„å‘½è¿ï¼Œä½ ä»¬èƒ½å¤Ÿé†’æ‚Ÿè¿‡æ¥ç†è§£æ„è¯†ï¼Œä½ ä»¬èƒ½å¤Ÿåˆ›é€ å‡ºä¸€ä¸ªä¸ç°äººæ‰€åˆ›é€ å‡ºçš„ç°å®ç›¸æ¯”æˆªç„¶ä¸åŒçš„ä¸–ç•Œ
 that you can change your destiny, that youcan awaken to your understanding of consciousness in such a way that you cancreate a reality for yourself that is quite different than the reality paththat they took
 
-ÕâÒ»ÇĞ¶ÔÄãÃÇÀ´ËµÓĞÒâÒåÂğ? ÊÇµÄ
+è¿™ä¸€åˆ‡å¯¹ä½ ä»¬æ¥è¯´æœ‰æ„ä¹‰å—? æ˜¯çš„
 Does all this make some sense to you? Yes
 
-ºÃµÄ£¬Õâ¾ÍÊÇÎÒÃÇ·ÖÏíµÄ¾Å¹¬¸ñµ×²¿Ò»ĞĞµÄÎÄÃ÷µÄÀúÊ·
-alright£¬ this will be thehistory for now that we will share of the bottom row of the Enneagram
+å¥½çš„ï¼Œè¿™å°±æ˜¯æˆ‘ä»¬åˆ†äº«çš„ä¹å®«æ ¼åº•éƒ¨ä¸€è¡Œçš„æ–‡æ˜çš„å†å²
+alrightï¼Œ this will be thehistory for now that we will share of the bottom row of the Enneagram
 
-µ±ÎÒÃÇÔÚ¼´½«µ½À´µÄÄãÃÇÖÜÄ©µÄ´«Ñ¶ÖĞ£¬ÎÒÃÇ»á×ÅÖØÌ¸Ì¸ÎÒÃÇÔÚÕâÀïÒÑ¾­Ëµ¹ıµÄÓëµØÇòÓĞ¹ØµÄÊÂÇé
+å½“æˆ‘ä»¬åœ¨å³å°†åˆ°æ¥çš„ä½ ä»¬å‘¨æœ«çš„ä¼ è®¯ä¸­ï¼Œæˆ‘ä»¬ä¼šç€é‡è°ˆè°ˆæˆ‘ä»¬åœ¨è¿™é‡Œå·²ç»è¯´è¿‡çš„ä¸åœ°çƒæœ‰å…³çš„äº‹æƒ…
 and as we in the forthcoming transmissionsthis weekend of your time include the other levels we will also magnify andenhance what we have already said here as it relates to the idea of the earth
 
-Í¼Æ¬
+å›¾ç‰‡
 
-×¢Òâ¿´¿´Õâ¸ö×îÖĞĞÄµÄ·ûºÅ£¬Õâ¸öÕñ¶¯µÄµç»°ºÅÂë£¬¼´ÄãÃÇµÄĞÇÇò
-notice that in the center the symbol£¬ the vibrationaltelephone number £¬if you will £¬of your planet
+æ³¨æ„çœ‹çœ‹è¿™ä¸ªæœ€ä¸­å¿ƒçš„ç¬¦å·ï¼Œè¿™ä¸ªæŒ¯åŠ¨çš„ç”µè¯å·ç ï¼Œå³ä½ ä»¬çš„æ˜Ÿçƒ
+notice that in the center the symbolï¼Œ the vibrationaltelephone number ï¼Œif you will ï¼Œof your planet
 
-¿ªÊ¼ÊÇºÚÉ«µÄ·½¿é£¬È»ºóÄÚÔÚÊÇÒ»¸öĞı×ªÁË45¶ÈµÄÀ¶É«·½¿é
+å¼€å§‹æ˜¯é»‘è‰²çš„æ–¹å—ï¼Œç„¶åå†…åœ¨æ˜¯ä¸€ä¸ªæ—‹è½¬äº†45åº¦çš„è“è‰²æ–¹å—
 starts with the black square, then there isa square within that that is tilted forty-five degrees that is blue
 
-ËæºóÀï±ßÓÖÊÇÒ»¸öÂÌÉ«µÄÖ±Á¢µÄ·½¿é
+éšåé‡Œè¾¹åˆæ˜¯ä¸€ä¸ªç»¿è‰²çš„ç›´ç«‹çš„æ–¹å—
 then a square within that that is againststraight that is green
 
-ÔÙÈ»ºóÀïÃæÊÇÒ»¸öĞ¡Ò»µãµÄĞı×ªÁË45¶ÈµÄ°×É«·½¿é
+å†ç„¶åé‡Œé¢æ˜¯ä¸€ä¸ªå°ä¸€ç‚¹çš„æ—‹è½¬äº†45åº¦çš„ç™½è‰²æ–¹å—
 and then the square within that that asmaller again tilted 45 degrees that is white
 
-Õâ´ú±íÁËÄãÃÇĞÇÇòÖÜÎ§µÄ¿Õ¼ä
+è¿™ä»£è¡¨äº†ä½ ä»¬æ˜Ÿçƒå‘¨å›´çš„ç©ºé—´
 this of course represents the space aroundyour planet.
 
-À¶É«´ú±íË®Óò£¬ÂÌÉ«´ú±íÂ½µØ£¬°×É«´ú±íÌì¿Õ£¬´óÆøºÍÄãÃÇÊÀ½çµÄÔÆ¶ä
+è“è‰²ä»£è¡¨æ°´åŸŸï¼Œç»¿è‰²ä»£è¡¨é™†åœ°ï¼Œç™½è‰²ä»£è¡¨å¤©ç©ºï¼Œå¤§æ°”å’Œä½ ä»¬ä¸–ç•Œçš„äº‘æœµ
 the Blue is the water, the green is theland, the white is the air, the atmosphere and the clouds of your world
 
-·½¿éÓÈÆä´ú±íµÄÊÇÄãÃÇÊÀ½çµÄËÄ¸ö½ÇÂä
+æ–¹å—å°¤å…¶ä»£è¡¨çš„æ˜¯ä½ ä»¬ä¸–ç•Œçš„å››ä¸ªè§’è½
 the square represents what you typicallyreferred to as the four corners of your world
 
-Ëü¸øÄãÃÇ»ú»áÁ¬½áµ½¾Å¹¬¸ñÖĞµÄÆäËû·ûºÅ
+å®ƒç»™ä½ ä»¬æœºä¼šè¿ç»“åˆ°ä¹å®«æ ¼ä¸­çš„å…¶ä»–ç¬¦å·
 and it allows you the opportunity toconnect to these other diagrams these other symbols in the Enneagram in a way
 
-ÄãÃÇ¿ÉÒÔ²ÉÓÃËûÃÇµÄÄÜÁ¿£¬²ÉÓÃËûÃÇµÄĞÅÏ¢À´ÒÔ×îºÃµÄ·½Ê½·şÎñÄãÃÇÍê³ÉÕâ´ÎÔÚÄãÃÇÉúÃüÖĞ²Å×ª±ä
+ä½ ä»¬å¯ä»¥é‡‡ç”¨ä»–ä»¬çš„èƒ½é‡ï¼Œé‡‡ç”¨ä»–ä»¬çš„ä¿¡æ¯æ¥ä»¥æœ€å¥½çš„æ–¹å¼æœåŠ¡ä½ ä»¬å®Œæˆè¿™æ¬¡åœ¨ä½ ä»¬ç”Ÿå‘½ä¸­æ‰è½¬å˜
 where you can draw upon their energy, drawupon their information in the way that serves you best in the way that isrepresentative of the transformations you're making in your life at this time
 
-Í¼Æ¬
+å›¾ç‰‡
 
-½«×¢ÒâÁ¦¼¯ÖĞÔÚÕâĞ©Èçµç»°ºÅÂë°ãµÄÕñ¶¯·ûºÅÉÏ£¬
+å°†æ³¨æ„åŠ›é›†ä¸­åœ¨è¿™äº›å¦‚ç”µè¯å·ç èˆ¬çš„æŒ¯åŠ¨ç¬¦å·ä¸Šï¼Œ
 and again by focusing on these vibrationalsymbols as telephone numbers
 
-Á¬½Óµ½ËûÃÇµÄÌØÊâµÄÎ¬¶ÈµÄÕñ¶¯µ±ÖĞ
+è¿æ¥åˆ°ä»–ä»¬çš„ç‰¹æ®Šçš„ç»´åº¦çš„æŒ¯åŠ¨å½“ä¸­
 and linking and connecting aligning withthe vibrations of their particular dimensions
 
-ÄãÃÇ¾Í¿ÉÒÔ×Ô¼ºÏÂÔØËùĞèµÄĞÅÏ¢ºÍÄÜÁ¿£¬À´Ğ­ÖúÄãÃÇ¼¯ÖĞ×¢ÒâÁ¦£¬
+ä½ ä»¬å°±å¯ä»¥è‡ªå·±ä¸‹è½½æ‰€éœ€çš„ä¿¡æ¯å’Œèƒ½é‡ï¼Œæ¥ååŠ©ä½ ä»¬é›†ä¸­æ³¨æ„åŠ›ï¼Œ
 you can take advantage of downloadinginformation and energy to yourself that will aid and assist you in centeringyour being in such a way
 
-ÄãÃÇ¿ÉÒÔÊ¹ÓÃÕâÒ»ÇĞ£¬Ó¦ÓÃËùÓĞÕâĞ©ÆµÂÊ£¬²ÉÓÃËùÓĞÕâĞ©Î¬¶È£¬ÔËÓÃËùÓĞÕâĞ©»ùÒòÉÏµÄÁªÏµ£¬ÀûÓÃËùÓĞÕâĞ©¹ØÏµÀ´ÕıÈ·µÄ£¬Ö±½Ó¶øÓÖÕæÕıµÄ£¬ÏñÖ¸ÄÏÕëÒ»ÑùÖ¸µ¼ÄãÃÇ×ßÏò×îÃÀºÃµÄÃüÔË
+ä½ ä»¬å¯ä»¥ä½¿ç”¨è¿™ä¸€åˆ‡ï¼Œåº”ç”¨æ‰€æœ‰è¿™äº›é¢‘ç‡ï¼Œé‡‡ç”¨æ‰€æœ‰è¿™äº›ç»´åº¦ï¼Œè¿ç”¨æ‰€æœ‰è¿™äº›åŸºå› ä¸Šçš„è”ç³»ï¼Œåˆ©ç”¨æ‰€æœ‰è¿™äº›å…³ç³»æ¥æ­£ç¡®çš„ï¼Œç›´æ¥è€ŒåˆçœŸæ­£çš„ï¼ŒåƒæŒ‡å—é’ˆä¸€æ ·æŒ‡å¯¼ä½ ä»¬èµ°å‘æœ€ç¾å¥½çš„å‘½è¿
 that you can use all of this, use all ofthese frequencies ,use all these dimensions, use all these geneticconnections,use all these relationships to guide yourself unerringly , straightand true, like a compass needle to your best destiny
 
-ÎÒÃÇ»áÔÚÃ÷ÌìµÄ´«Ñ¶ÖĞ¼ÌĞø½²½âÕâ¸ö¾Å¹¬¸ñºÍÓëÖ®ÓĞ¹ØµÄÀúÊ·
+æˆ‘ä»¬ä¼šåœ¨æ˜å¤©çš„ä¼ è®¯ä¸­ç»§ç»­è®²è§£è¿™ä¸ªä¹å®«æ ¼å’Œä¸ä¹‹æœ‰å…³çš„å†å²
 we will continue with this Enneagram transmission and expand upon this history intomorrow's transmission
 
-µ«ÊÇÏÖÔÚÎªÁË»Ø±¨ÄãÃÇ¸øÓèÎÒÃÇµÄÀñÎï£¬ÈÃÎÒÃÇÌåÑéÄãÃÇµÄÊ±¼ä£¬²¢ÇÒÒÔ¼ÒÈËµÄ·½Ê½·ÖÏíÕâĞ©ĞÅÏ¢
+ä½†æ˜¯ç°åœ¨ä¸ºäº†å›æŠ¥ä½ ä»¬ç»™äºˆæˆ‘ä»¬çš„ç¤¼ç‰©ï¼Œè®©æˆ‘ä»¬ä½“éªŒä½ ä»¬çš„æ—¶é—´ï¼Œå¹¶ä¸”ä»¥å®¶äººçš„æ–¹å¼åˆ†äº«è¿™äº›ä¿¡æ¯
 but for now in return for the gift you'regiving us in allowing us to experience you at this time and share with you in afamily way
 
-ÎÒÑûÇëÄãÃÇÌá³öÄãÃÇµÄÎÊÌâ¡£
+æˆ‘é‚€è¯·ä½ ä»¬æå‡ºä½ ä»¬çš„é—®é¢˜ã€‚
 I ask in what way may we now be of serviceto you with your questions

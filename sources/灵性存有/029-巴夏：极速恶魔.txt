@@ -1,123 +1,123 @@
-°ÍÏÄ£º¼«ËÙ¶ñÄ§
+å·´å¤ï¼šæé€Ÿæ¶é­”
 2025.03.17
 
-ÓĞÒ»¸öÎÄÃ÷ÒÔ·Ç³£¿ìµÄÊ±¼äÆµÂÊÔË×÷¡£´ÓÄ³ÖÖÒâÒåÉÏËµ£¬ËûÃÇµÄËÙ¶ÈÈç´ËÖ®¿ì£¬Òò´ËËûÃÇ»áÔÚ×Ô¼ºµÄÄÚĞÄÌåÑéµ½Ê±¼äÅòÕÍ¡£
-Ê±¼äÅòÕÍ
-Ê±¼äÅòÕÍ£¬ÔÚÏÁÒåÏà¶ÔÂÛÖĞ£¬ÓÉÏà¶ÔÓÚ¸ÃÊ±ÖÓ´¦ÓÚÏà¶ÔÔË¶¯×´Ì¬µÄ¹Û²ìÕßÈ·¶¨µÄÊ±ÖÓµÄ¡°¼õÂı¡±¡£ÔÚÏÁÒåÏà¶ÔÂÛÖĞ£¬¹ßĞÔ£¨¼´·Ç¼ÓËÙ£©ÔË¶¯ÖĞµÄ¹Û²ìÕß¾ßÓĞÈ·¶¨ÄÄĞ©ÊÂ¼şÓë¸ø¶¨ÊÂ¼şÍ¬Ê±·¢ÉúµÄÃ÷È··½·¨¡£È»¶ø£¬µÚ¶ş¸ö¹ßĞÔ¹Û²ìÕßÏà¶ÔÓÚµÚÒ»¸ö¹ßĞÔ¹Û²ìÕß´¦ÓÚÏà¶ÔÔË¶¯×´Ì¬£¬Ëû½«ÓëµÚÒ»¸ö¹Û²ìÕßÔÚÄÄĞ©ÊÂ¼şÓë¸Ã¸ø¶¨ÊÂ¼şÍ¬Ê±·¢ÉúµÄÎÊÌâÉÏ´æÔÚ·ÖÆç¡££¨Á½¸ö¹Û²ìÕß¶¼Ã»ÓĞ´í£¬Ïà·´£¬ËûÃÇµÄ·ÖÆçÖ»ÊÇ·´Ó³ÁËÕâÑùÒ»¸öÊÂÊµ£¬¼´Í¬Ê±ĞÔÔÚÏÁÒåÏà¶ÔÂÛÖĞÊÇÒ»¸öÒÀÀµÓÚ¹Û²ìÕßµÄ¸ÅÄî¡£ÎªÁË±È½ÏÁ½¸ö¹Û²ìÕßĞ¯´øµÄÊ±ÖÓËÙÂÊ£¬ĞèÒªÒ»¸öÍ¬Ê±ĞÔµÄ¸ÅÄî¡£Èç¹ûÊ¹ÓÃµÚÒ»¸ö¹Û²ìÕßµÄÍ¬Ê±ĞÔ¸ÅÄî£¬Ôò»á·¢ÏÖµÚ¶ş¸ö¹Û²ìÕßµÄÊ±ÖÓ±ÈµÚÒ»¸ö¹Û²ìÕßµÄÊ±ÖÓÂıµÄÆ½·½¸ù¡Ì£¨1 ? µÚ2 ½Ú2£©£¬ÆäÖĞ v ÊÇ¹Û²ìÕßµÄÏà¶ÔËÙ¶È£¬c µÈÓÚÃ¿Ãë 299,792 ¹«Àï£¨186,282 Ó¢Àï£©£¬¼´¹âËÙ¡£Í¬Ñù£¬Ê¹ÓÃµÚ¶ş¸ö¹Û²ìÕßµÄÍ¬Ê±ĞÔ¸ÅÄî£¬·¢ÏÖµÚÒ»¸ö¹Û²ìÕßµÄÊ±ÖÓÔËĞĞËÙ¶ÈÂıÁËÏàÍ¬µÄÒò×Ó¡£Òò´Ë£¬Ã¿¸ö¹ßĞÔ¹Û²ìÕßÈ·¶¨Ïà¶ÔÓÚ¸Ã¹Û²ìÕßµÄËùÓĞÔË¶¯ÖĞµÄÊ±ÖÓÔËĞĞËÙ¶È¶¼±È¸Ã¹Û²ìÕß×Ô¼ºµÄÖÓÂı¡£
-time dilation, in the theory of special relativity, the ¡°slowing down¡± of a clock as determined by an observer who is in relative motion with respect to that clock. In special relativity, an observer in inertial (i.e., nonaccelerating) motion has a well-defined means of determining which events occur simultaneously with a given event. A second inertial observer, who is in relative motion with respect to the first, however, will disagree with the first observer regarding which events are simultaneous with that given event. (Neither observer is wrong in this determination; rather, their disagreement merely reflects the fact that simultaneity is an observer-dependent notion in special relativity.) A notion of simultaneity is required in order to make a comparison of the rates of clocks carried by the two observers. If the first observer¡¯s notion of simultaneity is used, it is found that the second observer¡¯s clock runs slower than the first observer¡¯s by a factor of Square root of¡Ì(1 ? v2/c2), where v is the relative velocity of the observers and c equals 299,792 km (186,282 miles) per second¡ªi.e., the speed of light. Similarly, using the second observer¡¯s notion of simultaneity, it is found that the first observer¡¯s clock runs slower by the same factor. Thus, each inertial observer determines that all clocks in motion relative to that observer run slower than that observer¡¯s own clock.
+æœ‰ä¸€ä¸ªæ–‡æ˜ä»¥éå¸¸å¿«çš„æ—¶é—´é¢‘ç‡è¿ä½œã€‚ä»æŸç§æ„ä¹‰ä¸Šè¯´ï¼Œä»–ä»¬çš„é€Ÿåº¦å¦‚æ­¤ä¹‹å¿«ï¼Œå› æ­¤ä»–ä»¬ä¼šåœ¨è‡ªå·±çš„å†…å¿ƒä½“éªŒåˆ°æ—¶é—´è†¨èƒ€ã€‚
+æ—¶é—´è†¨èƒ€
+æ—¶é—´è†¨èƒ€ï¼Œåœ¨ç‹­ä¹‰ç›¸å¯¹è®ºä¸­ï¼Œç”±ç›¸å¯¹äºè¯¥æ—¶é’Ÿå¤„äºç›¸å¯¹è¿åŠ¨çŠ¶æ€çš„è§‚å¯Ÿè€…ç¡®å®šçš„æ—¶é’Ÿçš„â€œå‡æ…¢â€ã€‚åœ¨ç‹­ä¹‰ç›¸å¯¹è®ºä¸­ï¼Œæƒ¯æ€§ï¼ˆå³éåŠ é€Ÿï¼‰è¿åŠ¨ä¸­çš„è§‚å¯Ÿè€…å…·æœ‰ç¡®å®šå“ªäº›äº‹ä»¶ä¸ç»™å®šäº‹ä»¶åŒæ—¶å‘ç”Ÿçš„æ˜ç¡®æ–¹æ³•ã€‚ç„¶è€Œï¼Œç¬¬äºŒä¸ªæƒ¯æ€§è§‚å¯Ÿè€…ç›¸å¯¹äºç¬¬ä¸€ä¸ªæƒ¯æ€§è§‚å¯Ÿè€…å¤„äºç›¸å¯¹è¿åŠ¨çŠ¶æ€ï¼Œä»–å°†ä¸ç¬¬ä¸€ä¸ªè§‚å¯Ÿè€…åœ¨å“ªäº›äº‹ä»¶ä¸è¯¥ç»™å®šäº‹ä»¶åŒæ—¶å‘ç”Ÿçš„é—®é¢˜ä¸Šå­˜åœ¨åˆ†æ­§ã€‚ï¼ˆä¸¤ä¸ªè§‚å¯Ÿè€…éƒ½æ²¡æœ‰é”™ï¼Œç›¸åï¼Œä»–ä»¬çš„åˆ†æ­§åªæ˜¯åæ˜ äº†è¿™æ ·ä¸€ä¸ªäº‹å®ï¼Œå³åŒæ—¶æ€§åœ¨ç‹­ä¹‰ç›¸å¯¹è®ºä¸­æ˜¯ä¸€ä¸ªä¾èµ–äºè§‚å¯Ÿè€…çš„æ¦‚å¿µã€‚ä¸ºäº†æ¯”è¾ƒä¸¤ä¸ªè§‚å¯Ÿè€…æºå¸¦çš„æ—¶é’Ÿé€Ÿç‡ï¼Œéœ€è¦ä¸€ä¸ªåŒæ—¶æ€§çš„æ¦‚å¿µã€‚å¦‚æœä½¿ç”¨ç¬¬ä¸€ä¸ªè§‚å¯Ÿè€…çš„åŒæ—¶æ€§æ¦‚å¿µï¼Œåˆ™ä¼šå‘ç°ç¬¬äºŒä¸ªè§‚å¯Ÿè€…çš„æ—¶é’Ÿæ¯”ç¬¬ä¸€ä¸ªè§‚å¯Ÿè€…çš„æ—¶é’Ÿæ…¢çš„å¹³æ–¹æ ¹âˆšï¼ˆ1 ? ç¬¬2 èŠ‚2ï¼‰ï¼Œå…¶ä¸­ v æ˜¯è§‚å¯Ÿè€…çš„ç›¸å¯¹é€Ÿåº¦ï¼Œc ç­‰äºæ¯ç§’ 299,792 å…¬é‡Œï¼ˆ186,282 è‹±é‡Œï¼‰ï¼Œå³å…‰é€Ÿã€‚åŒæ ·ï¼Œä½¿ç”¨ç¬¬äºŒä¸ªè§‚å¯Ÿè€…çš„åŒæ—¶æ€§æ¦‚å¿µï¼Œå‘ç°ç¬¬ä¸€ä¸ªè§‚å¯Ÿè€…çš„æ—¶é’Ÿè¿è¡Œé€Ÿåº¦æ…¢äº†ç›¸åŒçš„å› å­ã€‚å› æ­¤ï¼Œæ¯ä¸ªæƒ¯æ€§è§‚å¯Ÿè€…ç¡®å®šç›¸å¯¹äºè¯¥è§‚å¯Ÿè€…çš„æ‰€æœ‰è¿åŠ¨ä¸­çš„æ—¶é’Ÿè¿è¡Œé€Ÿåº¦éƒ½æ¯”è¯¥è§‚å¯Ÿè€…è‡ªå·±çš„é’Ÿæ…¢ã€‚
+time dilation, in the theory of special relativity, the â€œslowing downâ€ of a clock as determined by an observer who is in relative motion with respect to that clock. In special relativity, an observer in inertial (i.e., nonaccelerating) motion has a well-defined means of determining which events occur simultaneously with a given event. A second inertial observer, who is in relative motion with respect to the first, however, will disagree with the first observer regarding which events are simultaneous with that given event. (Neither observer is wrong in this determination; rather, their disagreement merely reflects the fact that simultaneity is an observer-dependent notion in special relativity.) A notion of simultaneity is required in order to make a comparison of the rates of clocks carried by the two observers. If the first observerâ€™s notion of simultaneity is used, it is found that the second observerâ€™s clock runs slower than the first observerâ€™s by a factor of Square root ofâˆš(1 ? v2/c2), where v is the relative velocity of the observers and c equals 299,792 km (186,282 miles) per secondâ€”i.e., the speed of light. Similarly, using the second observerâ€™s notion of simultaneity, it is found that the first observerâ€™s clock runs slower by the same factor. Thus, each inertial observer determines that all clocks in motion relative to that observer run slower than that observerâ€™s own clock.
 
-Í¼Æ¬
-
-
+å›¾ç‰‡
 
 
-               ÒëÕß£º°¢¿üÑÇ Aquia
-            ´«Ñ¶Ê±¼ä£º2017Äê12ÔÂ3ÈÕ
-ÎÊ£º´ËÍâ£¬µ±ÄãÌ¸ÂÛÆäËûÎÄÃ÷Ê±£¬ÎÒ¸Ğµ½·Ç³£ĞË·Ü¡£
+
+
+               è¯‘è€…ï¼šé˜¿å¥äºš Aquia
+            ä¼ è®¯æ—¶é—´ï¼š2017å¹´12æœˆ3æ—¥
+é—®ï¼šæ­¤å¤–ï¼Œå½“ä½ è°ˆè®ºå…¶ä»–æ–‡æ˜æ—¶ï¼Œæˆ‘æ„Ÿåˆ°éå¸¸å…´å¥‹ã€‚
 Also, I find it very exciting when you speak about other civilizations.
-°ÍÏÄ£º¶Ô¡£
+å·´å¤ï¼šå¯¹ã€‚
 Yes.
-ÎÊ£ºÎÒÏëÖªµÀÄãÊÇ·ñ¿ÉÒÔÓëÎÒÃÇ·ÖÏí£¬±ÈÈç£¬ÁíÒ»¸öÎÄÃ÷£¬ËûÃÇµÄÓïÑÔ»ò½»Á÷·½Ê½¿ÉÄÜÊÇÊ²Ã´ÑùµÄ¡£
+é—®ï¼šæˆ‘æƒ³çŸ¥é“ä½ æ˜¯å¦å¯ä»¥ä¸æˆ‘ä»¬åˆ†äº«ï¼Œæ¯”å¦‚ï¼Œå¦ä¸€ä¸ªæ–‡æ˜ï¼Œä»–ä»¬çš„è¯­è¨€æˆ–äº¤æµæ–¹å¼å¯èƒ½æ˜¯ä»€ä¹ˆæ ·çš„ã€‚
 And I was wondering if you can share with us, like, another civilization, how their language or communication might be.
 
-°ÍÏÄ£º³ıÁËÎÒÃÇÒÑ¾­ÓëÄãÃÇ·ÖÏíµÄÄÚÈİÖ®Íâ£¬Ö»ÊÇÒ»¸öĞÂµÄÎÄÃ÷£¿
+å·´å¤ï¼šé™¤äº†æˆ‘ä»¬å·²ç»ä¸ä½ ä»¬åˆ†äº«çš„å†…å®¹ä¹‹å¤–ï¼Œåªæ˜¯ä¸€ä¸ªæ–°çš„æ–‡æ˜ï¼Ÿ
 
-Other than ones we've already shared with you£¬just a new one£¿
+Other than ones we've already shared with youï¼Œjust a new oneï¼Ÿ
 
-ÎÊ£ºÒ»¸öĞÂµÄÎÄÃ÷¡£
+é—®ï¼šä¸€ä¸ªæ–°çš„æ–‡æ˜ã€‚
 
 A new one. 
 
-°ÍÏÄ£ºÅ¶£¬ºÃµÄ¡£µÈÒ»ÏÂ¡£ÎÒÃÇ»á¿´¿´ÎÒÃÇµÄÎÄÃ÷ÏÖÔÚÕıÔÚÌ½Ë÷Ê²Ã´£¬ÒÔÑ¡ÔñÒ»¸öËÆºõÊÊºÏ½éÉÜ¸øÄãµÄÎÄÃ÷¡£ºÃµÄ£¬ÎÒÏëÄã¿ÉÒÔ°ÑËûÃÇ½Ğ×ö£¬¸ù¾İÄã×Ô¼ºµÄÀí½â£¬½Ğ×ö¼«ËÙ¶ñÄ§¡£ÓĞÒ»¸öÎÄÃ÷ÒÔ·Ç³£¿ìµÄÊ±¼äÆµÂÊÔË×÷¡£´ÓÄ³ÖÖÒâÒåÉÏËµ£¬ËûÃÇµÄËÙ¶ÈÈç´ËÖ®¿ì£¬Òò´ËËûÃÇ»áÔÚ×Ô¼ºµÄÄÚĞÄÌåÑéµ½Ê±¼äÅòÕÍ¡£ÄãÃ÷°×Ê±¼äÅòÕÍÂğ£¿
+å·´å¤ï¼šå“¦ï¼Œå¥½çš„ã€‚ç­‰ä¸€ä¸‹ã€‚æˆ‘ä»¬ä¼šçœ‹çœ‹æˆ‘ä»¬çš„æ–‡æ˜ç°åœ¨æ­£åœ¨æ¢ç´¢ä»€ä¹ˆï¼Œä»¥é€‰æ‹©ä¸€ä¸ªä¼¼ä¹é€‚åˆä»‹ç»ç»™ä½ çš„æ–‡æ˜ã€‚å¥½çš„ï¼Œæˆ‘æƒ³ä½ å¯ä»¥æŠŠä»–ä»¬å«åšï¼Œæ ¹æ®ä½ è‡ªå·±çš„ç†è§£ï¼Œå«åšæé€Ÿæ¶é­”ã€‚æœ‰ä¸€ä¸ªæ–‡æ˜ä»¥éå¸¸å¿«çš„æ—¶é—´é¢‘ç‡è¿ä½œã€‚ä»æŸç§æ„ä¹‰ä¸Šè¯´ï¼Œä»–ä»¬çš„é€Ÿåº¦å¦‚æ­¤ä¹‹å¿«ï¼Œå› æ­¤ä»–ä»¬ä¼šåœ¨è‡ªå·±çš„å†…å¿ƒä½“éªŒåˆ°æ—¶é—´è†¨èƒ€ã€‚ä½ æ˜ç™½æ—¶é—´è†¨èƒ€å—ï¼Ÿ
 
 Oh, all right.One moment. We will see what is being explored now by our civilization to pick one that seems appropriate for you.All right, I suppose you could call them, in your own understanding, the speed demons.There is a civilization that operates on a very rapid frequency of time.And in the sense that they speed up so greatly, then they experience within themselves, time dilation.You understand time dilation? 
 
-ÎÊ£º²»Ì«Ã÷°×¡£
+é—®ï¼šä¸å¤ªæ˜ç™½ã€‚
 
 Not exactly. 
 
-°ÍÏÄ£ºÄãÃÇ×Ô¼ºµÄ°®ÒòË¹Ì¹Ïà¶ÔÂÛÈÏÎª£¬ÄãÒÆ¶¯µÃÔ½¿ì£¬¾ÍÔ½½Ó½ü¹âËÙ£¬¶ÔÄãÀ´Ëµ£¬Ê±¼äËÆºõ¾ÍÔ½Âı¡£¶ÔÂğ£¿ËùÒÔ£¬ÄãÃÇÓÃÀ´ËµÃ÷ÕâÒ»¸ÅÄîµÄËùÎ½Ë«°ûÌ¥ã£ÂÛÊÇ£¬Èç¹ûÓĞÒ»¶ÔË«°ûÌ¥ÁôÔÚµØÇòÉÏ£¬Ò»¶ÔË«°ûÌ¥½øÈëÒ»ËÒ¿ÉÒÔ½Ó½ü¹âËÙÂÃĞĞµÄÓîÖæ·É´¬£¬È»ºóÕâ¶ÔË«°ûÌ¥½øÈëÌ«¿Õ£¬ÒÔ¹âËÙÂÃĞĞ£¬È»ºó»ØÀ´£¬È»ºó»Øµ½µØÇò£¬ÄÇÃ´Õâ¶ÔË«°ûÌ¥ÔÚ»ğ¼ıÉÏµÄÀÏ»¯³Ì¶È²»»áÏñÔÚµØÇòÉÏµÄË«°ûÌ¥ÄÇÃ´´ó¡£
+å·´å¤ï¼šä½ ä»¬è‡ªå·±çš„çˆ±å› æ–¯å¦ç›¸å¯¹è®ºè®¤ä¸ºï¼Œä½ ç§»åŠ¨å¾—è¶Šå¿«ï¼Œå°±è¶Šæ¥è¿‘å…‰é€Ÿï¼Œå¯¹ä½ æ¥è¯´ï¼Œæ—¶é—´ä¼¼ä¹å°±è¶Šæ…¢ã€‚å¯¹å—ï¼Ÿæ‰€ä»¥ï¼Œä½ ä»¬ç”¨æ¥è¯´æ˜è¿™ä¸€æ¦‚å¿µçš„æ‰€è°“åŒèƒèƒæ‚–è®ºæ˜¯ï¼Œå¦‚æœæœ‰ä¸€å¯¹åŒèƒèƒç•™åœ¨åœ°çƒä¸Šï¼Œä¸€å¯¹åŒèƒèƒè¿›å…¥ä¸€è‰˜å¯ä»¥æ¥è¿‘å…‰é€Ÿæ—…è¡Œçš„å®‡å®™é£èˆ¹ï¼Œç„¶åè¿™å¯¹åŒèƒèƒè¿›å…¥å¤ªç©ºï¼Œä»¥å…‰é€Ÿæ—…è¡Œï¼Œç„¶åå›æ¥ï¼Œç„¶åå›åˆ°åœ°çƒï¼Œé‚£ä¹ˆè¿™å¯¹åŒèƒèƒåœ¨ç«ç®­ä¸Šçš„è€åŒ–ç¨‹åº¦ä¸ä¼šåƒåœ¨åœ°çƒä¸Šçš„åŒèƒèƒé‚£ä¹ˆå¤§ã€‚
 
 Your own Einstein's theories of relativity talk about the idea that the faster you go, the closer you approach the speed of light, the more time seems to slow down for you.Yes? So the supposed twin paradox that you've used as an illustration of this concept is that if there is a twin that stays on Earth, and a twin that gets into a spaceship that can travel close to the speed of light, and the twin goes out into space and travels at the speed of light, and then comes back, and then comes back to Earth, the twin will not have aged on the rocket as much as the twin on the Earth.
 
-Í¼Æ¬
-ËûÃÇÊµ¼ÊÉÏ»á¼õ»ºËûÃÇµÄÉúÎïÖÓ£¬¼õ»ºËûÃÇµÄÕû¸öĞÂ³Â´úĞ»£¬ËûÃÇ¿´ÆğÀ´»á±ÈËûÃÇÁôÏÂµÄË«°ûÌ¥ÄêÇáºÜ¶à¡¢ºÜ¶à¡¢ºÜ¶àËê¡£ËùÒÔÕâ¸öÏë·¨ÊÇ£¬Õâ¸öÎÄÃ÷Êµ¼ÊÉÏ¿ÉÒÔÓÃÕâÑùµÄ·½Ê½¿ìËÙ¼ÓËÙËüÃÇµÄÕñ¶¯£¬´Ó¶ø¼õ»ºËûÃÇ¶ÔÊ±¼äµÄÌåÑé£¬²¢Ïà¶ÔÓÚÄãÃÇ¸ĞÖªËûÃÇµÄ·½Ê½»îµÃ·Ç³£¡¢·Ç³£³¤¡£
+å›¾ç‰‡
+ä»–ä»¬å®é™…ä¸Šä¼šå‡ç¼“ä»–ä»¬çš„ç”Ÿç‰©é’Ÿï¼Œå‡ç¼“ä»–ä»¬çš„æ•´ä¸ªæ–°é™ˆä»£è°¢ï¼Œä»–ä»¬çœ‹èµ·æ¥ä¼šæ¯”ä»–ä»¬ç•™ä¸‹çš„åŒèƒèƒå¹´è½»å¾ˆå¤šã€å¾ˆå¤šã€å¾ˆå¤šå²ã€‚æ‰€ä»¥è¿™ä¸ªæƒ³æ³•æ˜¯ï¼Œè¿™ä¸ªæ–‡æ˜å®é™…ä¸Šå¯ä»¥ç”¨è¿™æ ·çš„æ–¹å¼å¿«é€ŸåŠ é€Ÿå®ƒä»¬çš„æŒ¯åŠ¨ï¼Œä»è€Œå‡ç¼“ä»–ä»¬å¯¹æ—¶é—´çš„ä½“éªŒï¼Œå¹¶ç›¸å¯¹äºä½ ä»¬æ„ŸçŸ¥ä»–ä»¬çš„æ–¹å¼æ´»å¾—éå¸¸ã€éå¸¸é•¿ã€‚
 
 They will have actually slowed down their clock, their entire metabolism, and they will appear to be many, many, many years younger than the twin they left behind.So the idea is that this civilization actually can rapidly speed up their vibration in such a way that they actually slow down their experience of time and live very, very long lives relative to the way you would perceive them.
 
-»îÁË´óÔ¼Ò»ÍòÄê£¬¼´Ê¹¶ÔËûÃÇ×Ô¼ºÀ´Ëµ£¬Ïà±ÈÖ®ÏÂ£¬ËûÃÇ¿ÉÄÜ¾õµÃ×Ô¼ºÖ»»îÁË¼¸°ÙÄê£¬µ«ËûÃÇÓĞÒ»ÖÖ·½·¨ºÍÒ»ÖÖÊ¹ÓÃÕâÖÖÄÜÁ¦µÄ·½·¨£¬ÕâÖÖ·½·¨Êµ¼ÊÉÏÔÊĞíËûÃÇÒÔÒ»ÖÖ·Ç³£¶ÀÌØµÄ·½Ê½·ÃÎÊ´æÔÚµÄĞÅÏ¢£¬ÕâÑùËûÃÇ¾Í¿ÉÒÔÒÔÒ»ÖÖÓëÄãÃÇ½ØÈ»²»Í¬µÄ·½Ê½·ÃÎÊ´óÁ¿ĞÅÏ¢ºÍÌåÑé¿Õ¼ä¡£ËùÒÔ£¬Èç¹ûÄãÏë³ÆËûÃÇÎª¼«ËÙ¶ñÄ§£¬Äã¿ÉÒÔ¡£ËûÃÇÕæµÄÓÃ×Ô¼ºµÄÓïÑÔ±í´ïÁËÒ»ÖÖ¼¸ºõÎŞ·¨·­ÒëµÄÕñ¶¯¡£ËùÒÔËûÃÇÊÇÎÒÃÇ×î½üÓöµ½µÄÒ»¸öÃÔÈËµÄÎÄÃ÷£¬ËûÃÇÀûÓÃÊ±¼äÅòÕÍÀ´ÌåÑéÒÔÒ»ÖÖ·Ç³£¶ÀÌØµÄ·½Ê½´ÓÊ±¿ÕÖĞ»ñÈ¡ĞÅÏ¢¡£
+æ´»äº†å¤§çº¦ä¸€ä¸‡å¹´ï¼Œå³ä½¿å¯¹ä»–ä»¬è‡ªå·±æ¥è¯´ï¼Œç›¸æ¯”ä¹‹ä¸‹ï¼Œä»–ä»¬å¯èƒ½è§‰å¾—è‡ªå·±åªæ´»äº†å‡ ç™¾å¹´ï¼Œä½†ä»–ä»¬æœ‰ä¸€ç§æ–¹æ³•å’Œä¸€ç§ä½¿ç”¨è¿™ç§èƒ½åŠ›çš„æ–¹æ³•ï¼Œè¿™ç§æ–¹æ³•å®é™…ä¸Šå…è®¸ä»–ä»¬ä»¥ä¸€ç§éå¸¸ç‹¬ç‰¹çš„æ–¹å¼è®¿é—®å­˜åœ¨çš„ä¿¡æ¯ï¼Œè¿™æ ·ä»–ä»¬å°±å¯ä»¥ä»¥ä¸€ç§ä¸ä½ ä»¬æˆªç„¶ä¸åŒçš„æ–¹å¼è®¿é—®å¤§é‡ä¿¡æ¯å’Œä½“éªŒç©ºé—´ã€‚æ‰€ä»¥ï¼Œå¦‚æœä½ æƒ³ç§°ä»–ä»¬ä¸ºæé€Ÿæ¶é­”ï¼Œä½ å¯ä»¥ã€‚ä»–ä»¬çœŸçš„ç”¨è‡ªå·±çš„è¯­è¨€è¡¨è¾¾äº†ä¸€ç§å‡ ä¹æ— æ³•ç¿»è¯‘çš„æŒ¯åŠ¨ã€‚æ‰€ä»¥ä»–ä»¬æ˜¯æˆ‘ä»¬æœ€è¿‘é‡åˆ°çš„ä¸€ä¸ªè¿·äººçš„æ–‡æ˜ï¼Œä»–ä»¬åˆ©ç”¨æ—¶é—´è†¨èƒ€æ¥ä½“éªŒä»¥ä¸€ç§éå¸¸ç‹¬ç‰¹çš„æ–¹å¼ä»æ—¶ç©ºä¸­è·å–ä¿¡æ¯ã€‚
 
 On the order of 10,000 years, even though to themselves they may feel like they're only living hundreds of years by comparison, but they have a way of doing that and a way of using that ability that actually allows them to access information that exists in a very unique way so that they can access a lot of information and experience space in a very different way than you do.So if you want to call them the speed demons, you can. They are really represented in their own language by a vibration that is hardly translatable to you.So they are a fascinating civilization that we have recently come across that uses time dilation to experience accessing information from space-time in a very unique way.
 
-ÎÊ£ºËùÒÔËûÃÇÊÇ·ñÒÔÒ»ÖÖ·Ç³£½ôÃÜµÄ·½Ê½½ÓÊÕĞÅÏ¢£¬È»ºó¡£¡£¡£
+é—®ï¼šæ‰€ä»¥ä»–ä»¬æ˜¯å¦ä»¥ä¸€ç§éå¸¸ç´§å¯†çš„æ–¹å¼æ¥æ”¶ä¿¡æ¯ï¼Œç„¶åã€‚ã€‚ã€‚
 
 So do they receive the information like in a very compact way and then...
 
-°ÍÏÄ£ºÊÇµÄ¡£
+å·´å¤ï¼šæ˜¯çš„ã€‚
 
 Yes. 
 
-ÎÊ£ºÈ»ºóËûÃÇÄÜ¹»½â¿ªËü»¹ÊÇÊ²Ã´£¿
+é—®ï¼šç„¶åä»–ä»¬èƒ½å¤Ÿè§£å¼€å®ƒè¿˜æ˜¯ä»€ä¹ˆï¼Ÿ
 
 And they're able to like unravel it or something? 
 
-°ÍÏÄ£ºÊÇµÄ¡£ËùÒÔÕâÑù¿´´ıÕâ¸öÏë·¨¡£¼ÙÉèÊ±¿ÕÊÇ100%µÄ¶«Î÷¡£¶ÔÂğ£¿²»¶àÒ²²»ÉÙ¡£Ëü×ÜÊÇÓĞÒ»Ğ©±ä»¯£¬Ê±¿ÕÔÚ100%Ë®Æ½ÉÏµÄÄ³ÖÖ×éºÏ¡£ËùÒÔÕâ¸öÏë·¨ÊÇ£¬Èç¹ûÄãÕ¾×Å²»¶¯£¬ÄãÕæµÄÃ»ÓĞÏûºÄÌ«¶àµÄ¿Õ¼ä£¬Òò´ËÄãÌåÑéµ½ÁË¸ü¶àµÄÊ±¼ä¡£
+å·´å¤ï¼šæ˜¯çš„ã€‚æ‰€ä»¥è¿™æ ·çœ‹å¾…è¿™ä¸ªæƒ³æ³•ã€‚å‡è®¾æ—¶ç©ºæ˜¯100%çš„ä¸œè¥¿ã€‚å¯¹å—ï¼Ÿä¸å¤šä¹Ÿä¸å°‘ã€‚å®ƒæ€»æ˜¯æœ‰ä¸€äº›å˜åŒ–ï¼Œæ—¶ç©ºåœ¨100%æ°´å¹³ä¸Šçš„æŸç§ç»„åˆã€‚æ‰€ä»¥è¿™ä¸ªæƒ³æ³•æ˜¯ï¼Œå¦‚æœä½ ç«™ç€ä¸åŠ¨ï¼Œä½ çœŸçš„æ²¡æœ‰æ¶ˆè€—å¤ªå¤šçš„ç©ºé—´ï¼Œå› æ­¤ä½ ä½“éªŒåˆ°äº†æ›´å¤šçš„æ—¶é—´ã€‚
 
 Yes.So look at the idea this way.Let's say space-time is a 100% thing. Yes? No more, no less.It's always got to be some variation, some combination of that space-time at its 100% level.So the idea then is that if you are standing still, you are really not using up much space and therefore you experience more time.
 
-Í¼Æ¬
-µ«ÊÇ£¬Èç¹ûÄã¿ªÊ¼ÔÚ¿Õ¼äÖĞ¸ü¿ìµØÒÆ¶¯£¬¼ÙÉèÄãÔÚ¿Õ¼äÖĞÒÆ¶¯ÁË50%£¬ÄÇÃ´ÄãÖ»ÓĞ50%µÄÊ±¼äÌåÑé¡£Ëü¿ªÊ¼±äÂıÁË¡£µ±ÄãÕæÕı½Ó½ü¹âËÙÊ±£¬ÕâÊÇÄãÃÇÎïÖÊÓîÖæµÄËÙ¶È¼«ÏŞ£¬²¢²»ÊÇËµÄã²»ÄÜÒÔ²»Í¬µÄ·½Ê½Ìø¹ıËü²¢ÈÆ¹ıËü¡£µ«¾ÍÄãÃÇµÄÎïÖÊÓîÖæ¶øÑÔ£¬²»±È¹âËÙ¿ì£¬ÄÇÃ´ÎÒËµÎÒÏûºÄÁË99%µÄ¿Õ¼ä£¬Ö»Ê£ÏÂ1%µÄÊ±¼äÀ´±»ÌåÑé¡£
+å›¾ç‰‡
+ä½†æ˜¯ï¼Œå¦‚æœä½ å¼€å§‹åœ¨ç©ºé—´ä¸­æ›´å¿«åœ°ç§»åŠ¨ï¼Œå‡è®¾ä½ åœ¨ç©ºé—´ä¸­ç§»åŠ¨äº†50%ï¼Œé‚£ä¹ˆä½ åªæœ‰50%çš„æ—¶é—´ä½“éªŒã€‚å®ƒå¼€å§‹å˜æ…¢äº†ã€‚å½“ä½ çœŸæ­£æ¥è¿‘å…‰é€Ÿæ—¶ï¼Œè¿™æ˜¯ä½ ä»¬ç‰©è´¨å®‡å®™çš„é€Ÿåº¦æé™ï¼Œå¹¶ä¸æ˜¯è¯´ä½ ä¸èƒ½ä»¥ä¸åŒçš„æ–¹å¼è·³è¿‡å®ƒå¹¶ç»•è¿‡å®ƒã€‚ä½†å°±ä½ ä»¬çš„ç‰©è´¨å®‡å®™è€Œè¨€ï¼Œä¸æ¯”å…‰é€Ÿå¿«ï¼Œé‚£ä¹ˆæˆ‘è¯´æˆ‘æ¶ˆè€—äº†99%çš„ç©ºé—´ï¼Œåªå‰©ä¸‹1%çš„æ—¶é—´æ¥è¢«ä½“éªŒã€‚
 
 But if you start moving through space faster, let's say you get to moving 50% through space, then you only have 50% of an experience of time.It starts to slow down. When you really get close to the speed of light, which is the speed limit of your physical universe, not that you can't jump over it in a different way and go around that.But in terms of within your physical universe, not going faster than light, then by saying I'm using up 99% of space, which only leaves 1% of time to be experienced.
 
-ËùÒÔÄã½«ÆäÌåÑéÎªÊ±¼äµÄÏÔÖø¼õÂı£¬»òÕßÄãÃÇµÄ°®ÒòË¹Ì¹ËùËµµÄÊ±¼äÅòÕÍ¡£ÏÖÔÚ£¬ÄãÕıÔÚÌåÑé¿Õ¼äÅòÕÍ£¬ÒòÎªÄã¼¸ºõ²»¶¯¡£
+æ‰€ä»¥ä½ å°†å…¶ä½“éªŒä¸ºæ—¶é—´çš„æ˜¾è‘—å‡æ…¢ï¼Œæˆ–è€…ä½ ä»¬çš„çˆ±å› æ–¯å¦æ‰€è¯´çš„æ—¶é—´è†¨èƒ€ã€‚ç°åœ¨ï¼Œä½ æ­£åœ¨ä½“éªŒç©ºé—´è†¨èƒ€ï¼Œå› ä¸ºä½ å‡ ä¹ä¸åŠ¨ã€‚
 
 So you experience that as a great slowing down of time or what your Einstein referred to as time dilation.Right now, you're experiencing space dilation because you're barely moving. 
 
-ÎÊ£ºËûÃÇ¾ÍÏñËûÃÇ´´ÔìµÄËÙ¶È²¨¶¯Ò»ÑùÂğ£¿
+é—®ï¼šä»–ä»¬å°±åƒä»–ä»¬åˆ›é€ çš„é€Ÿåº¦æ³¢åŠ¨ä¸€æ ·å—ï¼Ÿ
 
 And do they like fluctuate that speed that they create?
 
-°ÍÏÄ£ºËûÃÇ¿ÉÒÔ£¬ÕâÎªËûÃÇÖĞµÄĞí¶àÈË´´ÔìÁËÒ»¸ö·Ç³£ÓĞÈ¤µÄÇé¿ö£¬ÒòÎªËûÃÇ×÷ÎªÒ»ÖÖ½á¹¹±Ë´ËÁªÏµµÄ·½Ê½·Ç³£²»Í¬¡£ÒòÎªËûÃÇÖĞµÄĞí¶àÈË¶¼ÒÔ±Ë´Ë²»Í¬µÄÊ±¿Õ±ÈÔË×÷£¬µ«ËûÃÇÈÔÈ»Éè·¨´´ÔìÁËÒ»¸öÁ¬¹áµÄÎÄÃ÷¡£ËûÃÇµÄÒâÊ¶ÊÇÈçºÎÔË×÷µÄ£¬ÒÔ¼°ËûÃÇÈçºÎ²¹³¥Ã¿¸öÈË¿ÉÄÜÒÔ²»Í¬ÓÚÆäËûÈËµÄ·½Ê½ÌåÑéµÄÊ±¿ÕÅòÕÍ£¬Õâ·Ç³£ÃÔÈË¡£
+å·´å¤ï¼šä»–ä»¬å¯ä»¥ï¼Œè¿™ä¸ºä»–ä»¬ä¸­çš„è®¸å¤šäººåˆ›é€ äº†ä¸€ä¸ªéå¸¸æœ‰è¶£çš„æƒ…å†µï¼Œå› ä¸ºä»–ä»¬ä½œä¸ºä¸€ç§ç»“æ„å½¼æ­¤è”ç³»çš„æ–¹å¼éå¸¸ä¸åŒã€‚å› ä¸ºä»–ä»¬ä¸­çš„è®¸å¤šäººéƒ½ä»¥å½¼æ­¤ä¸åŒçš„æ—¶ç©ºæ¯”è¿ä½œï¼Œä½†ä»–ä»¬ä»ç„¶è®¾æ³•åˆ›é€ äº†ä¸€ä¸ªè¿è´¯çš„æ–‡æ˜ã€‚ä»–ä»¬çš„æ„è¯†æ˜¯å¦‚ä½•è¿ä½œçš„ï¼Œä»¥åŠä»–ä»¬å¦‚ä½•è¡¥å¿æ¯ä¸ªäººå¯èƒ½ä»¥ä¸åŒäºå…¶ä»–äººçš„æ–¹å¼ä½“éªŒçš„æ—¶ç©ºè†¨èƒ€ï¼Œè¿™éå¸¸è¿·äººã€‚
 
 They can, which creates a very interesting situation for a lot of them because their way of relating to one another is very very different as a structure.Because so many of them are operating at different space-time ratios from one another, and yet they still manage to actually create a coherent civilization.It's very fascinating how their consciousness works and how they can sort of compensate for the space-time dilation that each individual may experience in a different way from other individuals.
 
-ÕâÊÇÒ»ÏîÒıÈËÈëÊ¤µÄÑĞ¾¿¡£ÕæÕıµØ£¬ÕæÊµµØÕ¹Ê¾ÁËÒâÊ¶ÊÇ¶àÃ´£¬ÒâÊ¶ÊÇ¶àÃ´Áé»î£¬²¢ÇÒÈÔÈ»ÄÜÌåÑéµ½Á¬¹áĞÔ¡£ÊÇµÄ£¬ËùÒÔÕâ¾ÍÊÇ¼«ËÙ¶ñÄ§¡£
+è¿™æ˜¯ä¸€é¡¹å¼•äººå…¥èƒœçš„ç ”ç©¶ã€‚çœŸæ­£åœ°ï¼ŒçœŸå®åœ°å±•ç¤ºäº†æ„è¯†æ˜¯å¤šä¹ˆï¼Œæ„è¯†æ˜¯å¤šä¹ˆçµæ´»ï¼Œå¹¶ä¸”ä»ç„¶èƒ½ä½“éªŒåˆ°è¿è´¯æ€§ã€‚æ˜¯çš„ï¼Œæ‰€ä»¥è¿™å°±æ˜¯æé€Ÿæ¶é­”ã€‚
 
 They are a fascinating study. And really, really showing how consciousness, how flexible consciousness can be and still experience coherence.Yes. So that's the speed demons. 
 
-Í¼Æ¬
-ÎÊ£º¿á¡£ÄÇÃ´ËûÃÇµÄ¼¯ÌåÒâÊ¶£¬ËûÃÇµÄ¼¯ÌåÒâÊ¶ÊÇ·ñÏñ¸ü´óµÄÊ±¿ÕÆµÂÊ·¶Î§Ò»Ñù£¿
+å›¾ç‰‡
+é—®ï¼šé…·ã€‚é‚£ä¹ˆä»–ä»¬çš„é›†ä½“æ„è¯†ï¼Œä»–ä»¬çš„é›†ä½“æ„è¯†æ˜¯å¦åƒæ›´å¤§çš„æ—¶ç©ºé¢‘ç‡èŒƒå›´ä¸€æ ·ï¼Ÿ
 
 Cool.So their collective consciousness, does their collective hold like a bigger range of frequency of space-time?
 
-°ÍÏÄ£ºÈ·ÊµÈç´Ë¡£ÊÇµÄ£¬È·ÊµÈç´Ë¡£´ÓÄ³ÖÖÒâÒåÉÏËµ£¬Äã¿ÉÒÔËµ£¬ÎÒ»á¸ù¾İÎÒÃÇÒÑ¾­Ì¸ÂÛ¹ıµÄĞÅÏ¢ÕâÑù¶ÔÄãËµ¡£Õâ¾ÍÏñÎÄÃ÷ÕæÕıÁË½âÈçºÎ³Á½şÔÚ¸ü´óµÄ³¬ÁéµÄ²ÎÊıÖĞ²¢Éú»î¡£
+å·´å¤ï¼šç¡®å®å¦‚æ­¤ã€‚æ˜¯çš„ï¼Œç¡®å®å¦‚æ­¤ã€‚ä»æŸç§æ„ä¹‰ä¸Šè¯´ï¼Œä½ å¯ä»¥è¯´ï¼Œæˆ‘ä¼šæ ¹æ®æˆ‘ä»¬å·²ç»è°ˆè®ºè¿‡çš„ä¿¡æ¯è¿™æ ·å¯¹ä½ è¯´ã€‚è¿™å°±åƒæ–‡æ˜çœŸæ­£äº†è§£å¦‚ä½•æ²‰æµ¸åœ¨æ›´å¤§çš„è¶…çµçš„å‚æ•°ä¸­å¹¶ç”Ÿæ´»ã€‚
 
 It does. Yes, it does. In a sense, you could say, I'll put it this way to you based on information we've already discussed.It's like the civilization really understands how to immerse themselves and lives within the parameters of the greater oversoul.
 
-ÎÊ£ºÅ¶£¬ºÃµÄ¡£ÕâÌ«°ôÁË¡£ÎÒÏ²»¶³¬Áé¡£ºÃµÄ¡£
+é—®ï¼šå“¦ï¼Œå¥½çš„ã€‚è¿™å¤ªæ£’äº†ã€‚æˆ‘å–œæ¬¢è¶…çµã€‚å¥½çš„ã€‚
 
 Oh, okay.That's awesome. I love the oversoul. Okay.
 
-°ÍÏÄ£ºÕâ¾ÍÊÇÎªÊ²Ã´ËûÃÇÊÇÈç´ËÃÔÈËµÄ¡£ÕâÊÇÒ»ÖÖÎÄÃ÷£¬Ò»ÖÖÎïÖÊ»¯µÄÎÄÃ÷£¬ÒÔÒ»ÖÖÔÊĞíËûÃÇÔÚÎïÀíÏÖÊµÖĞ×÷Îª³¬ÁéÊµ¼ÊÔË×÷µÄ·½Ê½ÀûÓÃÊ±¿Õ¡£
+å·´å¤ï¼šè¿™å°±æ˜¯ä¸ºä»€ä¹ˆä»–ä»¬æ˜¯å¦‚æ­¤è¿·äººçš„ã€‚è¿™æ˜¯ä¸€ç§æ–‡æ˜ï¼Œä¸€ç§ç‰©è´¨åŒ–çš„æ–‡æ˜ï¼Œä»¥ä¸€ç§å…è®¸ä»–ä»¬åœ¨ç‰©ç†ç°å®ä¸­ä½œä¸ºè¶…çµå®é™…è¿ä½œçš„æ–¹å¼åˆ©ç”¨æ—¶ç©ºã€‚
 
 This is why they're so fascinating. It's a civilization, a physicalized civilization using space-time in a way that allows them to actually operate as an oversoul in physical reality.
 
-ÎÊ£ººÃµÄ¡£
+é—®ï¼šå¥½çš„ã€‚
 
 Okay. 
 
-°ÍÏÄ£ºËùÒÔËûÃÇ½»Á÷µÄÁ¬¹áĞÔÊÇÍ¨¹ı³¬Áé²ãÃæÀ´ÊµÏÖµÄ¡£Õâ¾ÍÊÇÈÃËûÃÇ±£³ÖÁªÏµµÄÔ­Òò¡£
+å·´å¤ï¼šæ‰€ä»¥ä»–ä»¬äº¤æµçš„è¿è´¯æ€§æ˜¯é€šè¿‡è¶…çµå±‚é¢æ¥å®ç°çš„ã€‚è¿™å°±æ˜¯è®©ä»–ä»¬ä¿æŒè”ç³»çš„åŸå› ã€‚
 
 So their coherence of communication comes through the oversoul level.That's what keeps them connected.
 
-ÎÊ£ºĞ»Ğ»ÄãµÄ·ÖÏí¡£
+é—®ï¼šè°¢è°¢ä½ çš„åˆ†äº«ã€‚
 
 Thank you for that.
 
-°ÍÏÄ£º²»¿ÍÆø¡£Ğ»Ğ»ÄãµÄÌáÎÊ¡£
+å·´å¤ï¼šä¸å®¢æ°”ã€‚è°¢è°¢ä½ çš„æé—®ã€‚
 
 You're welcome. Thank you for asking.
 
 
-Í¼Æ¬
+å›¾ç‰‡

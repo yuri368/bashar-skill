@@ -1,222 +1,222 @@
-°ÍÏÄ£ºÇÃÏì±´¶ûÑÒ
-Í¼Æ¬                                             
+å·´å¤ï¼šæ•²å“è´å°”å²©
+å›¾ç‰‡                                             
 
-Ç°ÑÔ
+å‰è¨€
 
-¡°µ±ÎÒÃÇÌ¸ÂÛÇÃÏì±´¶ûÑÒµÄÏë·¨Ê±£¬ÎÒÃÇ¸Õ¸ÕÃèÊöµÄÊÇ·¢³öÊÊµ±µÄÆµÂÊ²¢»ñµÃ·´À¡£¬ÊÕµ½ÏìÉù¡£ÈÃ±´¶ûÑÒÏìÆğ£¬ÃÅ»§ÏìÆğ£¬ÕâÑùÄã¾ÍÖªµÀËüÊÇ¿ª·ÅµÄ£¬²¢ÈÃÄã½øÈëÆäËûÒâÊ¶²ãÃæ£¬ÆäËûÏÖÊµÎ¬¶È¡£¡±
+â€œå½“æˆ‘ä»¬è°ˆè®ºæ•²å“è´å°”å²©çš„æƒ³æ³•æ—¶ï¼Œæˆ‘ä»¬åˆšåˆšæè¿°çš„æ˜¯å‘å‡ºé€‚å½“çš„é¢‘ç‡å¹¶è·å¾—åé¦ˆï¼Œæ”¶åˆ°å“å£°ã€‚è®©è´å°”å²©å“èµ·ï¼Œé—¨æˆ·å“èµ·ï¼Œè¿™æ ·ä½ å°±çŸ¥é“å®ƒæ˜¯å¼€æ”¾çš„ï¼Œå¹¶è®©ä½ è¿›å…¥å…¶ä»–æ„è¯†å±‚é¢ï¼Œå…¶ä»–ç°å®ç»´åº¦ã€‚â€
 
-¹ØÓÚ¿ËÆæÄÇKachina
+å…³äºå…‹å¥‡é‚£Kachina
 
-¿ËÆæÄÇÉñ£¬ÕâÊÇ±±ÃÀ»ôÆ¤×åÓ¡µØ°²ÈËËù³ç°İµÄÓêÉñ£¬Ïà´«Ò²ÊÇËûÃÇµÄ×æÏÈ£¬Ã¿Ã¿ÔÚ·áÊÕ¡¢á÷ÁÔ¡¢Çì×£µÈµÈÊ±½Ú£¬¾Í»áÓĞ×åÈË´©ÉÏ¿ËÆæÄÇÉñµÄ×°°ç£¬ÇëÈ«×åµÄÈËÒ»ÆğÀ´³ª¸èÌøÎèÇì×£¡£¿ËÆæÄÇÉñ£¬Ò²×÷Katcinas £¬Ò²ÓĞÒë×÷¿¨ÆæÄÇÉñ¡£
+å…‹å¥‡é‚£ç¥ï¼Œè¿™æ˜¯åŒ—ç¾éœçš®æ—å°åœ°å®‰äººæ‰€å´‡æ‹œçš„é›¨ç¥ï¼Œç›¸ä¼ ä¹Ÿæ˜¯ä»–ä»¬çš„ç¥–å…ˆï¼Œæ¯æ¯åœ¨ä¸°æ”¶ã€ç‹©çŒã€åº†ç¥ç­‰ç­‰æ—¶èŠ‚ï¼Œå°±ä¼šæœ‰æ—äººç©¿ä¸Šå…‹å¥‡é‚£ç¥çš„è£…æ‰®ï¼Œè¯·å…¨æ—çš„äººä¸€èµ·æ¥å”±æ­Œè·³èˆåº†ç¥ã€‚å…‹å¥‡é‚£ç¥ï¼Œä¹Ÿä½œKatcinas ï¼Œä¹Ÿæœ‰è¯‘ä½œå¡å¥‡é‚£ç¥ã€‚
 
 
-Í¼Æ¬
-        ½ÓÏÂÀ´ÊÇ¾«²ÊÊÓÆµ
-                      ÒëÕß£º°¢¿üÑÇ Aquia
+å›¾ç‰‡
+        æ¥ä¸‹æ¥æ˜¯ç²¾å½©è§†é¢‘
+                      è¯‘è€…ï¼šé˜¿å¥äºš Aquia
 
-                  ´«Ñ¶Ê±¼ä£º2023Äê9ÔÂ10ÈÕ
+                  ä¼ è®¯æ—¶é—´ï¼š2023å¹´9æœˆ10æ—¥
 
-°ÍÏÄ£ººÃµÄ£¬ÎÒÒªÔÚÄãÃÇµÄÕâÒ»ÌìÏòÄãÃÇÎÊºÃ£¬ÄãÃÇ¶¼ºÃÂğ£¿ºÃµÄ¡£ºÃµÄ¡£ÈÃÎÒÃÇ¼ÌĞø´«Ñ¶¡£ÕâÒ»´Î£¬Õâ¸ö²¿·ÖÃûÎª¡°ÇÃÏì±´¶ûÑÒ¡±¡£
+å·´å¤ï¼šå¥½çš„ï¼Œæˆ‘è¦åœ¨ä½ ä»¬çš„è¿™ä¸€å¤©å‘ä½ ä»¬é—®å¥½ï¼Œä½ ä»¬éƒ½å¥½å—ï¼Ÿå¥½çš„ã€‚å¥½çš„ã€‚è®©æˆ‘ä»¬ç»§ç»­ä¼ è®¯ã€‚è¿™ä¸€æ¬¡ï¼Œè¿™ä¸ªéƒ¨åˆ†åä¸ºâ€œæ•²å“è´å°”å²©â€ã€‚
 
-alright.I'll say good day to this day of your time.How are you all? alright£¬alright.Let us continue the transmission. This time, this segment titled Ringing the Bell.
+alright.I'll say good day to this day of your time.How are you all? alrightï¼Œalright.Let us continue the transmission. This time, this segment titled Ringing the Bell.
 
-ÎÒÃÇÕıÔÚÌÖÂÛäöÎĞÖĞĞÄ±´¶ûÑÒµÄ¸ÅÄî£¬ÒÔ¼°ÎªÊ²Ã´ÎÒÃÇµÄ·É´¬Î»ÓÚÆäÉÏ·½¡£Õâ¸öäöÎĞÓëĞí¶àÆäËûäöÎĞÏàÁ¬£¬ÕâĞ©äöÎĞÔÚËüÖÜÎ§ĞÎ³ÉÁËÒ»¸ö°ëÔ²£¬·Ö²¼ÔÚÎ÷ÄÏ²¿ºÍ±±ÃÀ´óÂ½µÄÎ÷²¿¡£
+æˆ‘ä»¬æ­£åœ¨è®¨è®ºæ¼©æ¶¡ä¸­å¿ƒè´å°”å²©çš„æ¦‚å¿µï¼Œä»¥åŠä¸ºä»€ä¹ˆæˆ‘ä»¬çš„é£èˆ¹ä½äºå…¶ä¸Šæ–¹ã€‚è¿™ä¸ªæ¼©æ¶¡ä¸è®¸å¤šå…¶ä»–æ¼©æ¶¡ç›¸è¿ï¼Œè¿™äº›æ¼©æ¶¡åœ¨å®ƒå‘¨å›´å½¢æˆäº†ä¸€ä¸ªåŠåœ†ï¼Œåˆ†å¸ƒåœ¨è¥¿å—éƒ¨å’ŒåŒ—ç¾å¤§é™†çš„è¥¿éƒ¨ã€‚
 
 We are talking about the idea of Bell Rock, the center of the vortex, and why our ship is positioned above that.This vortex is connected to many others that form kind of a semicircle around it, spreading out across the lower southwest and to the west of your North American continent.
 
-µ«Èû¶àÄÉäöÎĞÊÇÎÒÃÇÕıÔÚÌí¼ÓÄÜÁ¿µÄäöÎĞ£¬ÒÔ°ïÖúÆ½ºâ×ª»¯µÄÄÜÁ¿£¬Ê¹ÄãÃÇÔÚäöÎĞÖĞ¸üÆ½»¬¡¢¸üÈİÒ×µØ×ª»¯£¬ÒÔ¸ü»ı¼«µÄ·½Ê½Ê¹ÓÃäöÎĞ¡£
+ä½†å¡å¤šçº³æ¼©æ¶¡æ˜¯æˆ‘ä»¬æ­£åœ¨æ·»åŠ èƒ½é‡çš„æ¼©æ¶¡ï¼Œä»¥å¸®åŠ©å¹³è¡¡è½¬åŒ–çš„èƒ½é‡ï¼Œä½¿ä½ ä»¬åœ¨æ¼©æ¶¡ä¸­æ›´å¹³æ»‘ã€æ›´å®¹æ˜“åœ°è½¬åŒ–ï¼Œä»¥æ›´ç§¯æçš„æ–¹å¼ä½¿ç”¨æ¼©æ¶¡ã€‚
 
 But the Sedona Vortex being the one that we are adding our energy to, to help balance out the energy of transformation, to make it smoother and easier for you to transform within the vortex, to use the vortex in more positive ways
 
-´¦Àíµ±Äã´ø½øäöÎĞÊ±·¢ÉúµÄ·Å´óºÍÀ©´ó£¬ÎŞÂÛÊÇÕıÃæµÄ»¹ÊÇ¸ºÃæµÄ£¬ÕâÑùÄã¾Í¿ÉÒÔ·ÅÏÂÄÇĞ©²»Ò»ÖÂµÄ¶«Î÷£¬ÈÚÈë¸ü¶àÓëÄãÏ²»¶³ÉÎªµÄÈËÒ»ÖÂµÄ¶«Î÷¡£
+å¤„ç†å½“ä½ å¸¦è¿›æ¼©æ¶¡æ—¶å‘ç”Ÿçš„æ”¾å¤§å’Œæ‰©å¤§ï¼Œæ— è®ºæ˜¯æ­£é¢çš„è¿˜æ˜¯è´Ÿé¢çš„ï¼Œè¿™æ ·ä½ å°±å¯ä»¥æ”¾ä¸‹é‚£äº›ä¸ä¸€è‡´çš„ä¸œè¥¿ï¼Œèå…¥æ›´å¤šä¸ä½ å–œæ¬¢æˆä¸ºçš„äººä¸€è‡´çš„ä¸œè¥¿ã€‚
 
 to deal with the magnification and amplification that happens when you bring into that vortex whatever it is, positive or negative, that you bring in with you, so that you can let go of those things that are out of alignment and incorporate more of the things that are in alignment with who you prefer to be.
 
-ÏÖÔÚ£¬Èû¶àÄÉäöÎĞÁ¬½Óµ½ÓÌËûÖİÒ»¸ö·Ç³£Ç¿´óµÄÃÅ»§£¬¸ÃµØÇø±»³ÆÎª¡°Â¡ÆğÔ²Çğ¡±¡£
+ç°åœ¨ï¼Œå¡å¤šçº³æ¼©æ¶¡è¿æ¥åˆ°çŠ¹ä»–å·ä¸€ä¸ªéå¸¸å¼ºå¤§çš„é—¨æˆ·ï¼Œè¯¥åœ°åŒºè¢«ç§°ä¸ºâ€œéš†èµ·åœ†ä¸˜â€ã€‚
 
 Now the Sedona Vortex connects to a very powerful portal in the area known as Upheaval Dome in Utah.
 
-Í¼Æ¬
-ÕâÊÇÒ»¸ö·Ç³£´óµÄÇ¿´óÃÅ»§£¬ÔÊĞíÎÒÃÇ¿ÉÄÜ³ÆÖ®ÎªÀ´×ÔÆäËûÎ¬¶È¡¢ÆäËûÏÖÊµµÄ´óÁ¿ĞÅÏ¢Á÷Á¿Í¨¹ı»òµ½´ïÄãÃÇµÄÏÖÊµ¡£
+å›¾ç‰‡
+è¿™æ˜¯ä¸€ä¸ªéå¸¸å¤§çš„å¼ºå¤§é—¨æˆ·ï¼Œå…è®¸æˆ‘ä»¬å¯èƒ½ç§°ä¹‹ä¸ºæ¥è‡ªå…¶ä»–ç»´åº¦ã€å…¶ä»–ç°å®çš„å¤§é‡ä¿¡æ¯æµé‡é€šè¿‡æˆ–åˆ°è¾¾ä½ ä»¬çš„ç°å®ã€‚
 
 This is a powerful portal that is very large, that allows for what we might call a lot of traffic from other dimensions, other realities, to pass through or arrive in to your reality.
 
-Õâ¾ÍÊÇÎªÊ²Ã´ËüÉæ¼°ÁË×î½ü±»ÄãÃÇ³ÆÎª°şÆ¤ĞĞÕßÄÁ³¡µÄµØÇø£¬Ò²ÊÇÎªÊ²Ã´ÄÇÀï·¢ÉúÁËºÜ¶àÊÂÇé£¬ÏÖÔÚ¶¼ÔÚ±»ÄãÃÇ·¢ÏÖ¡£
+è¿™å°±æ˜¯ä¸ºä»€ä¹ˆå®ƒæ¶‰åŠäº†æœ€è¿‘è¢«ä½ ä»¬ç§°ä¸ºå‰¥çš®è¡Œè€…ç‰§åœºçš„åœ°åŒºï¼Œä¹Ÿæ˜¯ä¸ºä»€ä¹ˆé‚£é‡Œå‘ç”Ÿäº†å¾ˆå¤šäº‹æƒ…ï¼Œç°åœ¨éƒ½åœ¨è¢«ä½ ä»¬å‘ç°ã€‚
 
 This is why it encompasses the area also known to you lately as Skinwalker Ranch, and why there are many things happening there that are now being discovered by all of you.
 
-ÕâĞ©ÃÅ»§¿É¹©ÄÇĞ©ÁË½âÈçºÎÉèÖÃÕıÈ·µÄÆµÂÊ½øÈëËüÃÇ²¢Í¨¹ıËüÃÇµÄÈËÊ¹ÓÃ¡£ÄãÃÇ¿ªÊ¼·¢ÏÖ£¬1.6 GHzµÄÆµÂÊÊ¹ÄãÔÚ¹ã²¥Ê±ÄÜ¹»»ñµÃÃÅ»§´ò¿ªµÄ·´À¡ĞÅºÅ¡£
+è¿™äº›é—¨æˆ·å¯ä¾›é‚£äº›äº†è§£å¦‚ä½•è®¾ç½®æ­£ç¡®çš„é¢‘ç‡è¿›å…¥å®ƒä»¬å¹¶é€šè¿‡å®ƒä»¬çš„äººä½¿ç”¨ã€‚ä½ ä»¬å¼€å§‹å‘ç°ï¼Œ1.6 GHzçš„é¢‘ç‡ä½¿ä½ åœ¨å¹¿æ’­æ—¶èƒ½å¤Ÿè·å¾—é—¨æˆ·æ‰“å¼€çš„åé¦ˆä¿¡å·ã€‚
 
 These portals are available to those who understand how to set up the right frequency to enter them, to pass through them.and you're beginning to discover that the frequency of 1.6 gigahertz is what allows you, when broadcasting, to get a feedback signal that the portal has opened.
 
-Õâ¾ÍÊÇ·´À¡ĞÅºÅËù´ú±íµÄ¡£ÃÅ»§µÄ´ò¿ª£¬µ±ÄãÌıµ½·´À¡Ê±£¬Äã¾ÍÖªµÀÃÅ»§ÊÇ´ò¿ªµÄ¡£ËùÒÔÍ¶ÉäÌØ¶¨µÄÆµÂÊ²¢»ñµÃ·´À¡¿ÉÒÔÈÃÄãÖªµÀÃÅ»§ÔÊĞíÍ¨¹ı¡£
+è¿™å°±æ˜¯åé¦ˆä¿¡å·æ‰€ä»£è¡¨çš„ã€‚é—¨æˆ·çš„æ‰“å¼€ï¼Œå½“ä½ å¬åˆ°åé¦ˆæ—¶ï¼Œä½ å°±çŸ¥é“é—¨æˆ·æ˜¯æ‰“å¼€çš„ã€‚æ‰€ä»¥æŠ•å°„ç‰¹å®šçš„é¢‘ç‡å¹¶è·å¾—åé¦ˆå¯ä»¥è®©ä½ çŸ¥é“é—¨æˆ·å…è®¸é€šè¿‡ã€‚
 
 That is what the feedback signals represent. The opening of the portal, when you hear the feedback, you know the portal is open.So projecting that particular frequency and getting the feedback is what lets you know that the portal is allowing passage.
 
-Â¡ÆğÔ²ÇğÊÇÒ»¸ö×²»÷¿Ó£¬ËüÔÚ¸ÃÇøÓò²úÉúÁËÒ»¶¨µÄ´ÅĞ§Ó¦£¬Ê¹µç´ÅÈë¿ÚÄÜ¹»´æÔÚÓÚ²»Í¬µÄÎ¬¶ÈÖ®¼ä¡£
+éš†èµ·åœ†ä¸˜æ˜¯ä¸€ä¸ªæ’å‡»å‘ï¼Œå®ƒåœ¨è¯¥åŒºåŸŸäº§ç”Ÿäº†ä¸€å®šçš„ç£æ•ˆåº”ï¼Œä½¿ç”µç£å…¥å£èƒ½å¤Ÿå­˜åœ¨äºä¸åŒçš„ç»´åº¦ä¹‹é—´ã€‚
 
 Upheaval Dome is an impact crater that has created certain magnetic effects in that area that allows the electromagnetic portal to exist between dimensions.
 
-µ±ÎÒÃÇÌ¸ÂÛÇÃÏì±´¶ûÑÒµÄÏë·¨Ê±£¬ÎÒÃÇ¸Õ¸ÕÃèÊöµÄÊÇ·¢³öÊÊµ±µÄÆµÂÊ²¢»ñµÃ·´À¡£¬ÊÕµ½ÏìÉù¡£
+å½“æˆ‘ä»¬è°ˆè®ºæ•²å“è´å°”å²©çš„æƒ³æ³•æ—¶ï¼Œæˆ‘ä»¬åˆšåˆšæè¿°çš„æ˜¯å‘å‡ºé€‚å½“çš„é¢‘ç‡å¹¶è·å¾—åé¦ˆï¼Œæ”¶åˆ°å“å£°ã€‚
 
 And when we talk about the idea of ringing the bell, it is what we have just described as sending out the proper frequency and getting the feedback, getting the ring.
 
-ÈÃ±´¶ûÑÒÏìÆğ£¬ÃÅ»§ÏìÆğ£¬ÕâÑùÄã¾ÍÖªµÀËüÊÇ¿ª·ÅµÄ£¬²¢ÈÃÄã½øÈëÆäËûÒâÊ¶²ãÃæ£¬ÆäËûÏÖÊµÎ¬¶È¡£
+è®©è´å°”å²©å“èµ·ï¼Œé—¨æˆ·å“èµ·ï¼Œè¿™æ ·ä½ å°±çŸ¥é“å®ƒæ˜¯å¼€æ”¾çš„ï¼Œå¹¶è®©ä½ è¿›å…¥å…¶ä»–æ„è¯†å±‚é¢ï¼Œå…¶ä»–ç°å®ç»´åº¦ã€‚
 
 making the bell ring, the portal ring, so that you know it is open and gives you access to other levels of consciousness, other dimensions of reality.
 
-Òò´Ë£¬¾¡¹ÜËü»¹Ã»ÓĞ±»³¢ÊÔ£¬µ«½«À´»á±»³¢ÊÔ£¬½«¸ÃÆµÂÊÍ¶Éäµ½Èû¶àÄÉäöÎĞµÄÏë·¨Ò²»á´øÀ´Ğí¶à¾ªÏ²ºÍÌåÑé¡£
+å› æ­¤ï¼Œå°½ç®¡å®ƒè¿˜æ²¡æœ‰è¢«å°è¯•ï¼Œä½†å°†æ¥ä¼šè¢«å°è¯•ï¼Œå°†è¯¥é¢‘ç‡æŠ•å°„åˆ°å¡å¤šçº³æ¼©æ¶¡çš„æƒ³æ³•ä¹Ÿä¼šå¸¦æ¥è®¸å¤šæƒŠå–œå’Œä½“éªŒã€‚
 
 And therefore, though it hasn't yet been tried, but will be tried in the future, the idea of taking that frequency and projecting it in the Sedona Vortex will also create many surprises and many experiences.
 
-ÈÃÄãÄÜ¹»¼ÌĞø±àÒë¸ü¶àµÄÊı¾İ£¬¸ü¶àµÄÁË½âºÍ¸ü¶àµÄĞÅÏ¢£¬ÁË½âÕâĞ©äöÎĞÊÇÈçºÎ¹¤×÷µÄ£¬ÒÔ¼°ËüÃÇ¿ÉÒÔÈÃÄãÁ¬½Óµ½Ê²Ã´¡£Ğ»Ğ»ÄãÍ¬Ê±ÇÃÏìÖÓÉù¡£
+è®©ä½ èƒ½å¤Ÿç»§ç»­ç¼–è¯‘æ›´å¤šçš„æ•°æ®ï¼Œæ›´å¤šçš„äº†è§£å’Œæ›´å¤šçš„ä¿¡æ¯ï¼Œäº†è§£è¿™äº›æ¼©æ¶¡æ˜¯å¦‚ä½•å·¥ä½œçš„ï¼Œä»¥åŠå®ƒä»¬å¯ä»¥è®©ä½ è¿æ¥åˆ°ä»€ä¹ˆã€‚è°¢è°¢ä½ åŒæ—¶æ•²å“é’Ÿå£°ã€‚
 
 that will allow you to continue to compile more data, more understanding and more information about how these vortices work and what they can allow you to connect to.Thank you for your synchronous ringing of the bell.
 
-Òò´ËÕıÈçÄãµÄ³ÌĞòÖĞËùÕ¹Ê¾µÄÄÇÑù£¬Äã²»½ö¿ÉÒÔÓÃ¼¼ÊõÀ´×öµ½ÕâÒ»µã£¬¶øÇÒÄãÒ²¿ÉÒÔÍ¨¹ıÔÚ±´¶ûÑÒÖÜÎ§ĞÎ³ÉÒ»¸ö¼¯»á¡£
+å› æ­¤æ­£å¦‚ä½ çš„ç¨‹åºä¸­æ‰€å±•ç¤ºçš„é‚£æ ·ï¼Œä½ ä¸ä»…å¯ä»¥ç”¨æŠ€æœ¯æ¥åšåˆ°è¿™ä¸€ç‚¹ï¼Œè€Œä¸”ä½ ä¹Ÿå¯ä»¥é€šè¿‡åœ¨è´å°”å²©å‘¨å›´å½¢æˆä¸€ä¸ªé›†ä¼šã€‚
 
 And so, not only can you do this with technology, as demonstrated in your programs, but you can also do it within yourselves by forming a gathering around Bell Rock.
 
-ÈÃ×Ô¼ºÔÚÏëÏóÖĞ´´ÔìOMÕñ¶¯£¬È»ºó½«ÆäÎïÀíµØÏòÍâÍ¶Éä£¬OM£¬µ«ÔÚÄãÕâÑù×öµÄÊ±ºò£¬ÄãÖªµÀÄã´ÓÏëÏóÖĞ¸³ÓèËü1.6 GHzµÄÆµÂÊ¡£
+è®©è‡ªå·±åœ¨æƒ³è±¡ä¸­åˆ›é€ OMæŒ¯åŠ¨ï¼Œç„¶åå°†å…¶ç‰©ç†åœ°å‘å¤–æŠ•å°„ï¼ŒOMï¼Œä½†åœ¨ä½ è¿™æ ·åšçš„æ—¶å€™ï¼Œä½ çŸ¥é“ä½ ä»æƒ³è±¡ä¸­èµ‹äºˆå®ƒ1.6 GHzçš„é¢‘ç‡ã€‚
 
 and allowing yourself in your imagination to create the OM vibration and then projecting it physically outward, OM, but knowing while you're doing that, that you impart to it from your imagination the 1.6 GHz frequency.
 
-ÈÃOM½«ÆµÂÊ´øÈë±´¶ûÑÒ£¬´©Í¸Ëü£¬²¢Ìí¼Óµ½ËüµÄºËĞÄµç´ÅÎĞÁ÷ÖĞ¡£ËùÒÔÖ»Òª×öÄãÕı³£µÄOM³ªËĞ£¬ÄãÕı³£µÄÚ¤ÏëÒ÷³ª£¬µ«Í¨¹ıÏëÏó²¢½«1.6 GHzµÄÆµÂÊÍ¶Éäµ½ÆäÖĞ¡£
+è®©OMå°†é¢‘ç‡å¸¦å…¥è´å°”å²©ï¼Œç©¿é€å®ƒï¼Œå¹¶æ·»åŠ åˆ°å®ƒçš„æ ¸å¿ƒç”µç£æ¶¡æµä¸­ã€‚æ‰€ä»¥åªè¦åšä½ æ­£å¸¸çš„OMå”±è¯µï¼Œä½ æ­£å¸¸çš„å†¥æƒ³åŸå”±ï¼Œä½†é€šè¿‡æƒ³è±¡å¹¶å°†1.6 GHzçš„é¢‘ç‡æŠ•å°„åˆ°å…¶ä¸­ã€‚
 
 Let the OM carry the frequency into Bell Rock, penetrating it and adding to the electromagnetic vortex that it is the heart of.So just by doing your normal OMing, your normal meditative chanting, but by imagining and projecting the 1.6 GHz frequency into it.
 
-Äã¾Í¿ÉÒÔ¿ªÊ¼ÌåÑéÒ»Ğ©±ä»¯£¬Ò»Ğ©ÆµÂÊ±ä»¯£¬Ò»Ğ©·´À¡±ä»¯£¬Ò»Ğ©¸Ğ¾õ£¬Ò»Ğ©×ª±ä£¬Ò»Ğ©ÌåÑé£¬ÓÈÆäÊÇ´ò¿ªÍ¨ÍùÄãÃÎÏëÊ±¼äµÄÃÅ»§¡£
+ä½ å°±å¯ä»¥å¼€å§‹ä½“éªŒä¸€äº›å˜åŒ–ï¼Œä¸€äº›é¢‘ç‡å˜åŒ–ï¼Œä¸€äº›åé¦ˆå˜åŒ–ï¼Œä¸€äº›æ„Ÿè§‰ï¼Œä¸€äº›è½¬å˜ï¼Œä¸€äº›ä½“éªŒï¼Œå°¤å…¶æ˜¯æ‰“å¼€é€šå¾€ä½ æ¢¦æƒ³æ—¶é—´çš„é—¨æˆ·ã€‚
 
  you can begin to experience some changes, some frequency changes, some feedback changes, some feelings, some shiftings, some experiences, especially in opening up the portal to your dream time.
 
-¿´¿´ÄãÃÎÏëÊ±¼äÀï·¢ÉúÁËÊ²Ã´£¬ÈÃÄã¿ªÊ¼ÓëĞí¶àÆäËûÎ¬¶È¡¢Ğí¶àÆäËû´æÓĞ½øĞĞÒÔÌ«Á¬½Ó£¬È»ºóÈÃËüÂıÂıÉøÍ¸µ½ÄãµÄÎïÀíÏÖÊµÖĞ£¬ÔÚÎïÀíÏÖÊµµÄÃÎ¾³ÖĞ±äµÃÔ½À´Ô½ÇåÎú¡£
+çœ‹çœ‹ä½ æ¢¦æƒ³æ—¶é—´é‡Œå‘ç”Ÿäº†ä»€ä¹ˆï¼Œè®©ä½ å¼€å§‹ä¸è®¸å¤šå…¶ä»–ç»´åº¦ã€è®¸å¤šå…¶ä»–å­˜æœ‰è¿›è¡Œä»¥å¤ªè¿æ¥ï¼Œç„¶åè®©å®ƒæ…¢æ…¢æ¸—é€åˆ°ä½ çš„ç‰©ç†ç°å®ä¸­ï¼Œåœ¨ç‰©ç†ç°å®çš„æ¢¦å¢ƒä¸­å˜å¾—è¶Šæ¥è¶Šæ¸…æ™°ã€‚
 
 and seeing what happens in your dream time that allows you to begin to connect etherically with many other dimensions, many other beings, and then let it slowly leak into your physical reality, becoming more and more lucid in the physical reality dream.
 
-ËùÒÔÕâÊÇÒ»¸ö¹ı³Ì£¬µ«Äã¿ÉÒÔ´ÓÎ§ÈÆÖÓÑÒÒ÷³ª¿ªÊ¼£¬ÏëÏóÕâ¸öÆµÂÊ±»Í¶Éäµ½ÑÒÊ¯ºÍµç´ÅÎĞÁ÷ÖĞ¡£ÄãÃÇÃ÷°×ÁËÂğ£¿ºÃµÄ¡£
+æ‰€ä»¥è¿™æ˜¯ä¸€ä¸ªè¿‡ç¨‹ï¼Œä½†ä½ å¯ä»¥ä»å›´ç»•é’Ÿå²©åŸå”±å¼€å§‹ï¼Œæƒ³è±¡è¿™ä¸ªé¢‘ç‡è¢«æŠ•å°„åˆ°å²©çŸ³å’Œç”µç£æ¶¡æµä¸­ã€‚ä½ ä»¬æ˜ç™½äº†å—ï¼Ÿå¥½çš„ã€‚
 
 So it is a process, but you can begin it by chanting around Bell Rock and imagining that frequency being projected into the stone and into the electromagnetic vortex.Do you understand? All right.
 
-ÏÖÔÚ£¬Èç¹ûÄã¿´¿´±´¶ûÑÒ×ÔÈ»ĞÎ³ÉµÄ½á¹¹£¬Äã¿ÉÒÔ¿´µ½£¬¾¡¹ÜËüÊµ¼ÊÉÏ¿´ÆğÀ´²¢²»ÏàËÆ¡£Èç¹ûÄã°Ñ¼ªÈø´ó½ğ×ÖËş·ÅÔÚ±´¶ûÑÒÉÏ£¬Äã»á¿´µ½Ò»Ğ©ÏàËÆµÄ±ÈÀı¡£
+ç°åœ¨ï¼Œå¦‚æœä½ çœ‹çœ‹è´å°”å²©è‡ªç„¶å½¢æˆçš„ç»“æ„ï¼Œä½ å¯ä»¥çœ‹åˆ°ï¼Œå°½ç®¡å®ƒå®é™…ä¸Šçœ‹èµ·æ¥å¹¶ä¸ç›¸ä¼¼ã€‚å¦‚æœä½ æŠŠå‰è¨å¤§é‡‘å­—å¡”æ”¾åœ¨è´å°”å²©ä¸Šï¼Œä½ ä¼šçœ‹åˆ°ä¸€äº›ç›¸ä¼¼çš„æ¯”ä¾‹ã€‚
 
 Now if you look at the configuration also of the natural formation of Bell Rock, you can see that even though it doesn't actually appear to be similar.if you were to take, let us say, the Great Pyramid of Giza and overlap it on Bell Rock, you would see some similar proportions.
 
-Í¼Æ¬
-Õâ¸öÏë·¨ÊÇµ×²¿¿í£¬¶¥²¿Õ­£¬ÕıºÃÒÔÊÊµ±µÄ½Ç¶ÈÀ´´´½¨äöÎĞ£¬ÒòÎª´ÓÄ³ÖÖÒâÒåÉÏËµ£¬ËüÄ£·ÂÁËÔ²ĞÎµÄĞÎÊ½£¬Óë½ğ×ÖËşÒ²´´½¨µÄÏë·¨Ò²ÏàÍ¬¡£ËùÒÔÕâ¾ÍÏñÓĞÒ»¸öÓÉÌìÈ»Ê¯Í·×é³ÉµÄÔ²ĞÎ½ğ×ÖËş£¬Ëü±»µç´Å¼¤»î¡£
+å›¾ç‰‡
+è¿™ä¸ªæƒ³æ³•æ˜¯åº•éƒ¨å®½ï¼Œé¡¶éƒ¨çª„ï¼Œæ­£å¥½ä»¥é€‚å½“çš„è§’åº¦æ¥åˆ›å»ºæ¼©æ¶¡ï¼Œå› ä¸ºä»æŸç§æ„ä¹‰ä¸Šè¯´ï¼Œå®ƒæ¨¡ä»¿äº†åœ†å½¢çš„å½¢å¼ï¼Œä¸é‡‘å­—å¡”ä¹Ÿåˆ›å»ºçš„æƒ³æ³•ä¹Ÿç›¸åŒã€‚æ‰€ä»¥è¿™å°±åƒæœ‰ä¸€ä¸ªç”±å¤©ç„¶çŸ³å¤´ç»„æˆçš„åœ†å½¢é‡‘å­—å¡”ï¼Œå®ƒè¢«ç”µç£æ¿€æ´»ã€‚
 
 The idea is wide at the base, narrow at the top, in precisely the appropriate angles to create the vortex because it is mimicking, in a sense, in a round formation, the same idea that the pyramid creates as well.So it is like having a circular pyramid of natural stone that is electromagnetically activated.
 
-ËùÒÔÄã¿ÉÒÔ°Ñ±´¶ûÑÒÊÓÎªÒ»ÖÖ½ğ×ÖËş£¬¾¡¹ÜËü¿´ÆğÀ´Ò»µãÒ²²»ÏñÄãÏ°¹ßµÄ½ğ×ÖËş£¬µ«ËüµÄ¹¦ÄÜÊÇÏàËÆµÄ¡£
+æ‰€ä»¥ä½ å¯ä»¥æŠŠè´å°”å²©è§†ä¸ºä¸€ç§é‡‘å­—å¡”ï¼Œå°½ç®¡å®ƒçœ‹èµ·æ¥ä¸€ç‚¹ä¹Ÿä¸åƒä½ ä¹ æƒ¯çš„é‡‘å­—å¡”ï¼Œä½†å®ƒçš„åŠŸèƒ½æ˜¯ç›¸ä¼¼çš„ã€‚
 
 So you can consider Bell Rock to be a type of pyramid, though it doesn't look anything like the pyramids you are used to, but it functions in a similar way.
 
-Í¼Æ¬
+å›¾ç‰‡
 
 
-Ò²¿ÉÒÔ×öÒ»¼şÊÂÀ´À©´óÄãµÄÌåÑé£¬ÄÇ¾ÍÊÇÔÚÎÒÃÇËùÌ¸ÂÛµÄÚ¤ÏëÖĞ£¬ÔÚÒ÷³ªÖĞ£¬ÒÔ¼°ÔÚ¸ÃÇøÓòµÄÆµÂÊÍ¶ÉäÖĞ¡£
+ä¹Ÿå¯ä»¥åšä¸€ä»¶äº‹æ¥æ‰©å¤§ä½ çš„ä½“éªŒï¼Œé‚£å°±æ˜¯åœ¨æˆ‘ä»¬æ‰€è°ˆè®ºçš„å†¥æƒ³ä¸­ï¼Œåœ¨åŸå”±ä¸­ï¼Œä»¥åŠåœ¨è¯¥åŒºåŸŸçš„é¢‘ç‡æŠ•å°„ä¸­ã€‚
 
 One thing that can also be done to amplify your experience is in the meditations we have talked about, in the chanting, and in the projection of that frequency in that area.
 
-Äã¿ÉÄÜ»á·¢ÏÖ£¬Èç¹ûÄã·ÅËÉµ½ÄÇÖÖÕñ¶¯ÖĞ£¬ËüÊµ¼ÊÉÏ¿ÉÄÜ»á¸üÈİÒ×µØÌáÉıÄãµÄÇåÃ÷ÃÎºÍĞÇÌåÍ¶ÉäµÄÏë·¨¡£
+ä½ å¯èƒ½ä¼šå‘ç°ï¼Œå¦‚æœä½ æ”¾æ¾åˆ°é‚£ç§æŒ¯åŠ¨ä¸­ï¼Œå®ƒå®é™…ä¸Šå¯èƒ½ä¼šæ›´å®¹æ˜“åœ°æå‡ä½ çš„æ¸…æ˜æ¢¦å’Œæ˜Ÿä½“æŠ•å°„çš„æƒ³æ³•ã€‚
 
 you may find if you relax into that vibration, it may actually promote the idea more easily for you of lucid dreaming and astral projection.
 
-ÒòÎªÕâ¾ÍÊÇ¼ªÈø´ó½ğ×ÖËş±³ºóµÄÀíÄî¡£ÔÚ¹úÍõµÄ·¿¼äºÍÊ¯Ï»ÖĞ¡£¼ÀË¾ÃÇ»á´´Ôì³öÕâÖÖÊ¥¸è£¬ÕâÖÖÕñ¶¯£¬ÕâÖÖÆµÂÊ£¬Õâ½«Ê¹ËûÃÇÔÚĞÇÌåÍ¶Éä·½Ãæ¸üÓĞĞ§ÂÊ¡£
+å› ä¸ºè¿™å°±æ˜¯å‰è¨å¤§é‡‘å­—å¡”èƒŒåçš„ç†å¿µã€‚åœ¨å›½ç‹çš„æˆ¿é—´å’ŒçŸ³åŒ£ä¸­ã€‚ç¥­å¸ä»¬ä¼šåˆ›é€ å‡ºè¿™ç§åœ£æ­Œï¼Œè¿™ç§æŒ¯åŠ¨ï¼Œè¿™ç§é¢‘ç‡ï¼Œè¿™å°†ä½¿ä»–ä»¬åœ¨æ˜Ÿä½“æŠ•å°„æ–¹é¢æ›´æœ‰æ•ˆç‡ã€‚
 
 Because this is the idea behind the Great Pyramid of Giza. In the king's chamber and in the stone coffer.the priests would create this chant, this vibration, this frequency, which would allow them more efficacy at astral projection.
 
-ËùÒÔËûÃÇ¿ÉÒÔ½øÈëÆäËû²ãÃæ£¬´ø»ØÓĞÖúÓÚºÍ°ïÖúÃñÖÚµÄĞÅÏ¢¡£ÕâÊÇ¹Å´úÑÇÌØÀ¼µÙË¹ÈË½Ì¸øËûÃÇµÄ¶«Î÷£¬²¢ÔÚÑÇÌØÀ¼µÙË¹ÃğÍöºóÈÚÈëÁËËûÃÇµÄ°£¼°ÎÄÃ÷¡£
+æ‰€ä»¥ä»–ä»¬å¯ä»¥è¿›å…¥å…¶ä»–å±‚é¢ï¼Œå¸¦å›æœ‰åŠ©äºå’Œå¸®åŠ©æ°‘ä¼—çš„ä¿¡æ¯ã€‚è¿™æ˜¯å¤ä»£äºšç‰¹å…°è’‚æ–¯äººæ•™ç»™ä»–ä»¬çš„ä¸œè¥¿ï¼Œå¹¶åœ¨äºšç‰¹å…°è’‚æ–¯ç­äº¡åèå…¥äº†ä»–ä»¬çš„åŸƒåŠæ–‡æ˜ã€‚
 
 So they could go into other dimensions, bring back information that would aid and assist the population.This is something that the ancient Atlanteans taught them and was incorporated into their Egyptian civilization after the fall of Atlantis.
 
-Òò´Ë£¬±´¶ûÑÒ¿ÉÒÔ·¢»Ó´óÖÂÏàÍ¬µÄ¹¦ÄÜ£¬¾¡¹ÜÄã²»Ò»¶¨»á·¢ÏÖÏàÍ¬ÖÖÀàµÄÄÚ²¿Ç»ÊÒ¡£ÈÃËü¸ù¾İÎÒÃÇ¸Õ²ÅÃèÊöµÄÆµÂÊ¹²ÕñµÄÏë·¨½«ÔÊĞíÄãÒÔÒ»ÖÖ¿ÉÒÔÌáÉıµÄ·½Ê½½øÈëäöÎĞ¡£
+å› æ­¤ï¼Œè´å°”å²©å¯ä»¥å‘æŒ¥å¤§è‡´ç›¸åŒçš„åŠŸèƒ½ï¼Œå°½ç®¡ä½ ä¸ä¸€å®šä¼šå‘ç°ç›¸åŒç§ç±»çš„å†…éƒ¨è…”å®¤ã€‚è®©å®ƒæ ¹æ®æˆ‘ä»¬åˆšæ‰æè¿°çš„é¢‘ç‡å…±æŒ¯çš„æƒ³æ³•å°†å…è®¸ä½ ä»¥ä¸€ç§å¯ä»¥æå‡çš„æ–¹å¼è¿›å…¥æ¼©æ¶¡ã€‚
 
 So Bell Rock can perform much the same function, though you won't necessarily find the same kinds of inner chambers.The idea of getting it to resonate according to the frequencies we have just described will allow you to tap into the vortex in a way that can promote.
 
-ÔÙÒ»´Î£¬Í¨¹ıÎÒÃÇ¸Õ¸ÕÃèÊö¹ıµÄÊ¥¸è£¬Ìá¸ßÇåÃ÷ÃÎºÍĞÇÌåÍ¶ÉäµÄĞ§¹û¡£´ËÍâ£¬Äã¿ÉÄÜ»á·¢ÏÖ£¬ÓÃ²»Í¬µÄÆµÂÊ³ªËĞ»áÈÃÄã½øÈë²»Í¬µÄ´æÓĞ£¬²»Í¬µÄÒâÊ¶²ã´Î¡£
+å†ä¸€æ¬¡ï¼Œé€šè¿‡æˆ‘ä»¬åˆšåˆšæè¿°è¿‡çš„åœ£æ­Œï¼Œæé«˜æ¸…æ˜æ¢¦å’Œæ˜Ÿä½“æŠ•å°„çš„æ•ˆæœã€‚æ­¤å¤–ï¼Œä½ å¯èƒ½ä¼šå‘ç°ï¼Œç”¨ä¸åŒçš„é¢‘ç‡å”±è¯µä¼šè®©ä½ è¿›å…¥ä¸åŒçš„å­˜æœ‰ï¼Œä¸åŒçš„æ„è¯†å±‚æ¬¡ã€‚
 
 again, more efficacy with the idea of lucid dreaming and astral projection by doing the chant that we have just described.Also, you may find that doing different kinds of frequencies with the chanting will allow you to tap into different beings, different levels of consciousness.
 
-²»½öÊÇÄã×Ô¼ºµÄÒâÊ¶£¬»¹ÓĞ²»Í¬µÄÏÖÊµ£¬¾Ó×¡ÔÚ²»Í¬²ã´Î¡¢²»Í¬ÏÖÊµÖĞµÄ²»Í¬´æÓĞ¡£Í¨¹ı³ªÊ¥¸èºÍ´«Í³µÄÃÀ¹úÓ¡µÚ°²ÈË³ªÊ¥¸è£¬²¢Í¶ÉäÏàÍ¬µÄÆµÂÊ¡£
+ä¸ä»…æ˜¯ä½ è‡ªå·±çš„æ„è¯†ï¼Œè¿˜æœ‰ä¸åŒçš„ç°å®ï¼Œå±…ä½åœ¨ä¸åŒå±‚æ¬¡ã€ä¸åŒç°å®ä¸­çš„ä¸åŒå­˜æœ‰ã€‚é€šè¿‡å”±åœ£æ­Œå’Œä¼ ç»Ÿçš„ç¾å›½å°ç¬¬å®‰äººå”±åœ£æ­Œï¼Œå¹¶æŠ•å°„ç›¸åŒçš„é¢‘ç‡ã€‚
 
 not only of your own consciousness, but different realities, different beings that inhabit different levels, different realities.And by doing the chant and doing traditional American Indian chanting and projecting that same frequency.
 
-Äã¿ÉÄÜ»á·¢ÏÖÄã½«ÄÜ¹»»½ÆğÈİÄÉ¿ËÆæÄÇÈËµÄÎ¬¶È»ò½éÓÚÎ¬¶ÈÖ®¼äµÄÎ¬¶È¡£¿ËÆæÄÇ¾«»êÔÚÈû¶àÄÉµØÇø·Ç³£Ç¿´ó£¬ËûÃÇ´ÓäöÎĞÖĞÀ´À´ÍùÍù¡£
+ä½ å¯èƒ½ä¼šå‘ç°ä½ å°†èƒ½å¤Ÿå”¤èµ·å®¹çº³å…‹å¥‡é‚£äººçš„ç»´åº¦æˆ–ä»‹äºç»´åº¦ä¹‹é—´çš„ç»´åº¦ã€‚å…‹å¥‡é‚£ç²¾é­‚åœ¨å¡å¤šçº³åœ°åŒºéå¸¸å¼ºå¤§ï¼Œä»–ä»¬ä»æ¼©æ¶¡ä¸­æ¥æ¥å¾€å¾€ã€‚
 
 you may find that you will be able to evoke the dimension or the in-between dimensions that house the Kachinas.The Kachina spirits are very strong in the Sedona area in terms of their coming and going from the vortex.
 
-Í¼Æ¬
-Äã²¢²»×ÜÊÇ¿´µ½ËûÃÇ¡£ËûÃÇ´ó¶àÊÇÄã¿´²»¼ûµÄ¡£µ«Äã¿ÉÒÔÈÃÄãµÄ¸Ğ¹ÙÑÓÉìµ½ÕâÑùÒ»¸öµØ²½£¬Äã¿ÉÒÔ¿ªÊ¼¸ĞÖªËûÃÇ¡£
+å›¾ç‰‡
+ä½ å¹¶ä¸æ€»æ˜¯çœ‹åˆ°ä»–ä»¬ã€‚ä»–ä»¬å¤§å¤šæ˜¯ä½ çœ‹ä¸è§çš„ã€‚ä½†ä½ å¯ä»¥è®©ä½ çš„æ„Ÿå®˜å»¶ä¼¸åˆ°è¿™æ ·ä¸€ä¸ªåœ°æ­¥ï¼Œä½ å¯ä»¥å¼€å§‹æ„ŸçŸ¥ä»–ä»¬ã€‚
 
 You do not always see them. They are mostly, usually invisible to you. But you can allow your senses to stretch to the point where you can begin to perceive them.
 
-ËûÃÇµÄÀ´À´ÍùÍù£¬ËûÃÇÓëÍÁµØµÄÁ¬½Ó£¬ÒÔ¼°ËûÃÇÓëÍÁµØÉÏÈËÃñµÄÄÜÁ¿µÄÁ¬½Ó¡£Í¨¹ıÓë¸ÃµØÇøÃÀ¹úÓ¡µÚ°²ÈËµÄ¹ÄÉùÒ»Æğ³ª×î´«Í³µÄÊ¥¸è¡£
+ä»–ä»¬çš„æ¥æ¥å¾€å¾€ï¼Œä»–ä»¬ä¸åœŸåœ°çš„è¿æ¥ï¼Œä»¥åŠä»–ä»¬ä¸åœŸåœ°ä¸Šäººæ°‘çš„èƒ½é‡çš„è¿æ¥ã€‚é€šè¿‡ä¸è¯¥åœ°åŒºç¾å›½å°ç¬¬å®‰äººçš„é¼“å£°ä¸€èµ·å”±æœ€ä¼ ç»Ÿçš„åœ£æ­Œã€‚
 
 and their comings and goings and their connection to the land and their connection to the energies of the people of the land.By doing the chanting that is most traditional with the drum chants of the American Indian people in the area.
 
-Í¨¹ıÉèÖÃ£¬Äã¿ÉÒÔÔö¼ÓÎĞÁ÷µÄÕñ¶¯ºÍÆµÂÊ¡£ÕıÈçÔÚ°şÆ¤ĞĞÕßÄÁ³¡µØÇøÓÃ±¾µØ¹ÄÉùËùÖ¤Ã÷µÄÄÇÑù£¬´Ó¶øÔö¼ÓÎĞÁ÷µÄÄÜÁ¿ÆµÂÊ¡£
+é€šè¿‡è®¾ç½®ï¼Œä½ å¯ä»¥å¢åŠ æ¶¡æµçš„æŒ¯åŠ¨å’Œé¢‘ç‡ã€‚æ­£å¦‚åœ¨å‰¥çš®è¡Œè€…ç‰§åœºåœ°åŒºç”¨æœ¬åœ°é¼“å£°æ‰€è¯æ˜çš„é‚£æ ·ï¼Œä»è€Œå¢åŠ æ¶¡æµçš„èƒ½é‡é¢‘ç‡ã€‚
 
 By setting that up, you can increase the vibration and frequency of the vort.as has been demonstrated in the Skinwalker Ranch area with native drumming, causing an increase in the frequency of the energy of the vortex.
 
-Òò´Ë£¬ÄãÒ²¿ÉÒÔÔÚÕâÀï·Ç³£Ç¿ÁÒµØ¸´ÖÆÕâÒ»µã£¬²¢Óë¿ËÆæÄÇ¾«»êµÄ¸ÅÄîÁ¬½ÓÆğÀ´£¬ÈÃÄãµÄ¸Ğ¹ÙÄÜ¹»¿ªÊ¼¸ĞÖªËûÃÇ¡£
+å› æ­¤ï¼Œä½ ä¹Ÿå¯ä»¥åœ¨è¿™é‡Œéå¸¸å¼ºçƒˆåœ°å¤åˆ¶è¿™ä¸€ç‚¹ï¼Œå¹¶ä¸å…‹å¥‡é‚£ç²¾é­‚çš„æ¦‚å¿µè¿æ¥èµ·æ¥ï¼Œè®©ä½ çš„æ„Ÿå®˜èƒ½å¤Ÿå¼€å§‹æ„ŸçŸ¥ä»–ä»¬ã€‚
 
 Thus you can replicate that here as well, very strongly, and connect to the idea of the Kachina spirits and allow your senses to be able to begin to perceive them.
 
-Ê×ÏÈ¿ÉÄÜÊÇÍ¸Ã÷µÄĞÎÊ½£¬È»ºó¿ÉÄÜÊÇ¹âÇò£¬È»ºó¿ÉÄÜÒÔÃÀ¹úÓ¡µÚ°²ÈË³ÊÏÖËüÃÇµÄÔ­ĞÍĞÎÊ½¡£ÕâÑù×öµÄÄ¿µÄÊÇÒªÀí½â£¬ÔÚÄãµÄÖĞ¼äÓĞÒ»ÖÖ²»Í¬Î¬¶ÈµÄµç»°¡£
+é¦–å…ˆå¯èƒ½æ˜¯é€æ˜çš„å½¢å¼ï¼Œç„¶åå¯èƒ½æ˜¯å…‰çƒï¼Œç„¶åå¯èƒ½ä»¥ç¾å›½å°ç¬¬å®‰äººå‘ˆç°å®ƒä»¬çš„åŸå‹å½¢å¼ã€‚è¿™æ ·åšçš„ç›®çš„æ˜¯è¦ç†è§£ï¼Œåœ¨ä½ çš„ä¸­é—´æœ‰ä¸€ç§ä¸åŒç»´åº¦çš„ç”µè¯ã€‚
 
 first perhaps as transparent forms and then perhaps as spheres of light and then perhaps in the archetypal form in which the American Indians presented them.The idea then is to understand that you have in your midst a kind of a telephone to many different dimensions.
 
-ÓĞÁËÕıÈ·µÄÊäÈë£¬Äã½«»ñµÃ²»Í¬ÀàĞÍµÄÊä³ö¡£ÓĞÁËÄãÏëÏóÖĞµÄÊ¥¸èºÍÆµÂÊ£¬²¢½«ÕâĞ©ÆµÂÊÊäÈëµ½äöÎĞÖĞ¡£
+æœ‰äº†æ­£ç¡®çš„è¾“å…¥ï¼Œä½ å°†è·å¾—ä¸åŒç±»å‹çš„è¾“å‡ºã€‚æœ‰äº†ä½ æƒ³è±¡ä¸­çš„åœ£æ­Œå’Œé¢‘ç‡ï¼Œå¹¶å°†è¿™äº›é¢‘ç‡è¾“å…¥åˆ°æ¼©æ¶¡ä¸­ã€‚
 
 With the right input, you will get different kinds of output. With the chanting and the frequencies in your imagination and inputting those frequencies into the vortex.
 
-Äã¿ÉÒÔÕÙ»½ºÍ·¢Õ¹¸ü¶àµÄ¹ØÏµ£¬²»½öÊÇÓëÄã×Ô¼ºµÄ¸ßÎÒ¡¢ÄãµÄÖ¸µ¼ÁéºÍÁé»ê¼Ò×å£¬»¹ÓĞ¸üÔ¸ÒâÓëÄã¹µÍ¨²¢¹²Í¬ĞÎ³ÉĞÂµÄÀí½â¡¢ĞÂµÄÏÖÊµµÄĞí¶àÎ¬¶ÈµÄ´æÓĞ¡£
+ä½ å¯ä»¥å¬å”¤å’Œå‘å±•æ›´å¤šçš„å…³ç³»ï¼Œä¸ä»…æ˜¯ä¸ä½ è‡ªå·±çš„é«˜æˆ‘ã€ä½ çš„æŒ‡å¯¼çµå’Œçµé­‚å®¶æ—ï¼Œè¿˜æœ‰æ›´æ„¿æ„ä¸ä½ æ²Ÿé€šå¹¶å…±åŒå½¢æˆæ–°çš„ç†è§£ã€æ–°çš„ç°å®çš„è®¸å¤šç»´åº¦çš„å­˜æœ‰ã€‚
 
 you can call forth and develop more relation to not only your own higher mind and your spirit guides and spirit family, but also many dimensions of beings that are more than willing to communicate with you and together form a new understanding, a new reality.
 
-ÀûÓÃÃÅ»§À´¼ÓËÙºÍ×ª±äÄãµÄÊµÏà£¬¼ÓËÙÈËÀàµÄ½ø»¯£¬»¹ÓëĞí¶àÍâĞÇÀ´Ô´½¨Á¢Á¬½Ó£¬ÌØ±ğÊÇÔÚÕâ¸öÊ±´ú£¬Óë×îÖÕ½«Éú»îÔÚÄãÃÇÖĞ¼äµÄ»ìÑª¶ùÍ¯½¨Á¢Á¬½Ó¡£
+åˆ©ç”¨é—¨æˆ·æ¥åŠ é€Ÿå’Œè½¬å˜ä½ çš„å®ç›¸ï¼ŒåŠ é€Ÿäººç±»çš„è¿›åŒ–ï¼Œè¿˜ä¸è®¸å¤šå¤–æ˜Ÿæ¥æºå»ºç«‹è¿æ¥ï¼Œç‰¹åˆ«æ˜¯åœ¨è¿™ä¸ªæ—¶ä»£ï¼Œä¸æœ€ç»ˆå°†ç”Ÿæ´»åœ¨ä½ ä»¬ä¸­é—´çš„æ··è¡€å„¿ç«¥å»ºç«‹è¿æ¥ã€‚
 
 using the portal to accelerate and transform your reality and to accelerate the evolution of humanity and also make connections to many of the extraterrestrial sources and in particular in this day and age to make connections to the hybrids that will eventually come to live among you.
 
-Èû¶àÄÉÊÇ£¬Èû¶àÄÉµÄ±ßÔ¶µØÇø£¬¾¡¹ÜÎÒÃÇ²»»áËµ³ö¾ßÌåµÄµØµã£¬µ«ËüÊÇ»ìÑª¶ùÍ¯±Ó»¤ËùµÄºòÑ¡µØÇøÖ®Ò»¡£
+å¡å¤šçº³æ˜¯ï¼Œå¡å¤šçº³çš„è¾¹è¿œåœ°åŒºï¼Œå°½ç®¡æˆ‘ä»¬ä¸ä¼šè¯´å‡ºå…·ä½“çš„åœ°ç‚¹ï¼Œä½†å®ƒæ˜¯æ··è¡€å„¿ç«¥åº‡æŠ¤æ‰€çš„å€™é€‰åœ°åŒºä¹‹ä¸€ã€‚
 
 Sedona is, and the outlying areas of Sedona in general, though we will not name a specific point, is one of the candidates for the sanctuaries for the hybrid children.
 
-µ«ÔÚ´ó×ÔÈ»ÖĞ£¬Ò»¿ªÊ¼²¢²»ÊÇ½Ó½üÎÄÃ÷µÄ¸ÅÄî£¬½Ó½ü³ÇÕò±¾Éí£¬¶øÊÇÔÚÖÜÎ§µÄ´ó×ÔÈ»ÖĞ£¬ÔÚÊ÷Ä¾Ö®¼ä¡£
+ä½†åœ¨å¤§è‡ªç„¶ä¸­ï¼Œä¸€å¼€å§‹å¹¶ä¸æ˜¯æ¥è¿‘æ–‡æ˜çš„æ¦‚å¿µï¼Œæ¥è¿‘åŸé•‡æœ¬èº«ï¼Œè€Œæ˜¯åœ¨å‘¨å›´çš„å¤§è‡ªç„¶ä¸­ï¼Œåœ¨æ ‘æœ¨ä¹‹é—´ã€‚
 
 But out in nature, not in proximity at first to the idea of the civilization, to the town itself, but in the surrounding nature, among the trees.
 
-ÔÚºÓÁ÷ËùÔÚµÄµØ·½£¬ÔÚË®Á÷Á÷¶¯µÄµØ·½£¬Ê÷Ä¾Éú³¤µÄµØ·½£¬·ç´µ¹ıµÄµØ·½£¬¶¯Îï¾Û¼¯µÄµØ·½£¬ÎÚÑ»Ìä½ĞµÄµØ·½£¬´ÔÁÖÀÇº¿½ĞµÄµØ·½¡£ÔÚÕâÖÖ×ÔÈ»»·¾³ÖĞ£¬Ò»¸ö±Ó»¤Ëù½«×ÔÈ»ĞÎ³É£¬»ìÑª¶ùÍ¯½«±»ËüËùÎüÒı¡£
+åœ¨æ²³æµæ‰€åœ¨çš„åœ°æ–¹ï¼Œåœ¨æ°´æµæµåŠ¨çš„åœ°æ–¹ï¼Œæ ‘æœ¨ç”Ÿé•¿çš„åœ°æ–¹ï¼Œé£å¹è¿‡çš„åœ°æ–¹ï¼ŒåŠ¨ç‰©èšé›†çš„åœ°æ–¹ï¼Œä¹Œé¸¦å•¼å«çš„åœ°æ–¹ï¼Œä¸›æ—ç‹¼åšå«çš„åœ°æ–¹ã€‚åœ¨è¿™ç§è‡ªç„¶ç¯å¢ƒä¸­ï¼Œä¸€ä¸ªåº‡æŠ¤æ‰€å°†è‡ªç„¶å½¢æˆï¼Œæ··è¡€å„¿ç«¥å°†è¢«å®ƒæ‰€å¸å¼•ã€‚
 
 where the rivers are, where the water flows, where the trees grow, where the wind blows, where the animals gather, where the crows crow, where the coyotes howl.In that natural environment, a sanctuary will naturally form and the hybrid children will gravitate to it.
 
-Í¼Æ¬
+å›¾ç‰‡
 
-ËùÒÔÄãÔÚÒ÷³ªºÍÆµÂÊÊäÈëÖĞËù×öµÄÊÇ´´Ôì±´¶ûÑÒµÄäöÎĞ£¬ÏñµÆËşÒ»ÑùÏìÆğ£¬ÎüÒıËûÃÇÀ´µ½Õâ¸öÇøÓò£¬ÈÃËûÃÇÖªµÀÄãÔ¸ÒâÎªËûÃÇÉèÖÃÕâ¸öÆµÂÊ¡£
+æ‰€ä»¥ä½ åœ¨åŸå”±å’Œé¢‘ç‡è¾“å…¥ä¸­æ‰€åšçš„æ˜¯åˆ›é€ è´å°”å²©çš„æ¼©æ¶¡ï¼Œåƒç¯å¡”ä¸€æ ·å“èµ·ï¼Œå¸å¼•ä»–ä»¬æ¥åˆ°è¿™ä¸ªåŒºåŸŸï¼Œè®©ä»–ä»¬çŸ¥é“ä½ æ„¿æ„ä¸ºä»–ä»¬è®¾ç½®è¿™ä¸ªé¢‘ç‡ã€‚
 
 So what you are doing in the chanting and the inputting of the frequency is creating the vortex of bell rock to ring like a beacon to attract them to the area,let them know that you are willing to set this frequency for them.
 
-¹ÄÀøËûÃÇ½«ÖÜÎ§×ÔÈ»ÇøµÄÇøÓò×÷Îª±Ó»¤ËùÖ®Ò»£¬ÈÃÄã×Ô¼ºÎªËûÃÇ´´ÔìÕñ¶¯¼æÈİµÄÆµÂÊ¡£²¢ÔÚÄãµÄÄÜÁ¿ºÍËûÃÇµÄÄÜÁ¿Ö®¼ä½¨Á¢¸üÀÎ¹ÌµÄÁ¬½Ó¡£
+é¼“åŠ±ä»–ä»¬å°†å‘¨å›´è‡ªç„¶åŒºçš„åŒºåŸŸä½œä¸ºåº‡æŠ¤æ‰€ä¹‹ä¸€ï¼Œè®©ä½ è‡ªå·±ä¸ºä»–ä»¬åˆ›é€ æŒ¯åŠ¨å…¼å®¹çš„é¢‘ç‡ã€‚å¹¶åœ¨ä½ çš„èƒ½é‡å’Œä»–ä»¬çš„èƒ½é‡ä¹‹é—´å»ºç«‹æ›´ç‰¢å›ºçš„è¿æ¥ã€‚
 
 to encourage them to adopt the area in the surrounding natural zone as one of the sanctuaries, allowing yourself to create that frequency of compatibility vibrationally for them.and a stronger connection between your energy and their energy.
 
-ÔÚÕâ±´¶ûÑÒÇÃÏìµÄ¹ı³ÌÖĞ£¬ÓĞĞí¶à¹¦ÄÜ¿ÉÒÔ°ïÖúºÍ°ïÖú¼ÓËÙÄãµÄÄÜÁ¿£¬¼ÓËÙÈËÀàµÄ½ø»¯¡£Í¨¹ıÑûÇëºÍµ½´ï×îÖÕ½«Éú»îÔÚÄãÃÇÖĞ¼äµÄ»ìÑª¶ùÍ¯£¬ÈÃµØÇò³¯×ÅÎÒÃÇËùËµµÄµÚÁù¸ö»ìÑªÖÖ×å½ø»¯¡£
+åœ¨è¿™è´å°”å²©æ•²å“çš„è¿‡ç¨‹ä¸­ï¼Œæœ‰è®¸å¤šåŠŸèƒ½å¯ä»¥å¸®åŠ©å’Œå¸®åŠ©åŠ é€Ÿä½ çš„èƒ½é‡ï¼ŒåŠ é€Ÿäººç±»çš„è¿›åŒ–ã€‚é€šè¿‡é‚€è¯·å’Œåˆ°è¾¾æœ€ç»ˆå°†ç”Ÿæ´»åœ¨ä½ ä»¬ä¸­é—´çš„æ··è¡€å„¿ç«¥ï¼Œè®©åœ°çƒæœç€æˆ‘ä»¬æ‰€è¯´çš„ç¬¬å…­ä¸ªæ··è¡€ç§æ—è¿›åŒ–ã€‚
 
 So in this ringing of the bell, there are many functions that can aid and assist in accelerating your energy and accelerating the evolution of humanity.with the idea of the invitation and arrival of the hybrids that will eventually come to live among you in order for Earth to evolve toward what we have called the sixth hybrid race.
 
-ÎÒÃÇ¸ĞĞ»ÄãÃÇÔÊĞíÎÒÃÇÓëÄãÃÇ·ÖÏíÕâĞ©ĞÅÏ¢£¬ÎÒÃÇ¹ÄÀøÄãÈ¥Õâ¸öµØÇø£¬³ªÊ¥¸è£¬»÷¹Ä£¬²¢½øĞĞÕñ¶¯ÊäÈë¡£
+æˆ‘ä»¬æ„Ÿè°¢ä½ ä»¬å…è®¸æˆ‘ä»¬ä¸ä½ ä»¬åˆ†äº«è¿™äº›ä¿¡æ¯ï¼Œæˆ‘ä»¬é¼“åŠ±ä½ å»è¿™ä¸ªåœ°åŒºï¼Œå”±åœ£æ­Œï¼Œå‡»é¼“ï¼Œå¹¶è¿›è¡ŒæŒ¯åŠ¨è¾“å…¥ã€‚
 
 We thank you for allowing us to share this information with you and we encourage you to go to the area, do your chanting, do your drumming, and do the vibrational inputting.
 
-Õâ½«Ê¹Èû¶àÄÉµÄäöÎĞ³ÉÎªÒ»ÕÅÃûÆ¬ºÍÒ»¸öÑûÇë£¬¶ÔÄÇĞ©½«ÒªÀ´µÄÈË£¬¶ÔÄÇĞ©ÓĞÒ»Ìì»áÔÚÄãÉí±ßµÄÈËÀ´Ëµ£¬¶¼ÊÇÕæÊµµÄ¡£
+è¿™å°†ä½¿å¡å¤šçº³çš„æ¼©æ¶¡æˆä¸ºä¸€å¼ åç‰‡å’Œä¸€ä¸ªé‚€è¯·ï¼Œå¯¹é‚£äº›å°†è¦æ¥çš„äººï¼Œå¯¹é‚£äº›æœ‰ä¸€å¤©ä¼šåœ¨ä½ èº«è¾¹çš„äººæ¥è¯´ï¼Œéƒ½æ˜¯çœŸå®çš„ã€‚
 
 that will allow the vortex of Sedona to become a calling card and an invitation, ringing true to those who will come, to those who will once be among you one day.
 
-ÎÒÃÇ¸ĞĞ»ÄãÃÇÔÊĞíÎÒÃÇ·ÖÏíÕâ¼şÊÂ£¬×÷Îª¶ÔÕâ·İÀñÎïµÄ»Ø±¨£¬ÎÒÏÖÔÚÎÊÄã£¬ÎÒÃÇÄÜÒÔÊ²Ã´·½Ê½ÎªÄã·şÎñ£¿Èç¹ûÄãÔ¸Òâ£¬Äã¿ÉÒÔ¼ÌĞøÄãµÄ¶Ô»°ºÍÌáÎÊÁË¡£
+æˆ‘ä»¬æ„Ÿè°¢ä½ ä»¬å…è®¸æˆ‘ä»¬åˆ†äº«è¿™ä»¶äº‹ï¼Œä½œä¸ºå¯¹è¿™ä»½ç¤¼ç‰©çš„å›æŠ¥ï¼Œæˆ‘ç°åœ¨é—®ä½ ï¼Œæˆ‘ä»¬èƒ½ä»¥ä»€ä¹ˆæ–¹å¼ä¸ºä½ æœåŠ¡ï¼Ÿå¦‚æœä½ æ„¿æ„ï¼Œä½ å¯ä»¥ç»§ç»­ä½ çš„å¯¹è¯å’Œæé—®äº†ã€‚
 
 We thank you for allowing us to share this and in return for this gift, I ask you now, in what way may we be of service to you? You may continue if you wish with your dialogues and questions.
 
 
-Í¼Æ¬
+å›¾ç‰‡
 
 

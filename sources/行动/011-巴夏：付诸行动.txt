@@ -1,530 +1,530 @@
-°ÍÏÄ£º¸¶ÖîĞĞ¶¯
+å·´å¤ï¼šä»˜è¯¸è¡ŒåŠ¨
 2025.1.24
 
-Ç°ÑÔ£º
+å‰è¨€ï¼š
 
 
-ÕâÊÇÍêÕûµÄÁ½²¿·Ö½²×ùµÄµÚ¶ş²¿·Ö£¬Á½²¿·ÖĞÅÏ¢ĞèÒªÍêÕûµÄ½áºÏÆğÀ´Ò»ÆğÑ§Ï°ÒÔĞÎ³É±Õ»·µÄÀí½â¡£
-
-
-
-¡°ÄãÕæÕıµÄÌìÈ»µÄ×ÔÎÒµÄÕñ¶¯£¬¸ü¸ß²ãÃæµÄ¸ßÎÒĞÄÖÇµÄÕñ¶¯£¬ÊÇÄãµÄÎïÖÊ½çµÄĞÄÖÇºÍÎïÖÊ½çµÄÉíÌå¾­³£·­Òë³É¼¤Çé¡¢¿ìÀÖ¡¢ÈÈ³À¡¢°®Óë´´ÔìÁ¦µÄÕñ¶¯¡£
+è¿™æ˜¯å®Œæ•´çš„ä¸¤éƒ¨åˆ†è®²åº§çš„ç¬¬äºŒéƒ¨åˆ†ï¼Œä¸¤éƒ¨åˆ†ä¿¡æ¯éœ€è¦å®Œæ•´çš„ç»“åˆèµ·æ¥ä¸€èµ·å­¦ä¹ ä»¥å½¢æˆé—­ç¯çš„ç†è§£ã€‚
 
 
 
-ËùÒÔµ±ÄãÉú»îÖĞ¸ü¶àµÄ³öÏÖ°üº¬ÕâĞ©Æ·ÖÊµÄÇé¿ö£¬µ±ÄãÉú»îÖĞ³öÏÖÁË¸ü¶àÕâÖÖ¸ĞÊÜ£¬Õâ¾ÍÊÇ²ÉÈ¡ĞĞ¶¯µÄ·½Ïò¡£
+â€œä½ çœŸæ­£çš„å¤©ç„¶çš„è‡ªæˆ‘çš„æŒ¯åŠ¨ï¼Œæ›´é«˜å±‚é¢çš„é«˜æˆ‘å¿ƒæ™ºçš„æŒ¯åŠ¨ï¼Œæ˜¯ä½ çš„ç‰©è´¨ç•Œçš„å¿ƒæ™ºå’Œç‰©è´¨ç•Œçš„èº«ä½“ç»å¸¸ç¿»è¯‘æˆæ¿€æƒ…ã€å¿«ä¹ã€çƒ­å¿±ã€çˆ±ä¸åˆ›é€ åŠ›çš„æŒ¯åŠ¨ã€‚
 
 
 
-ÒòÎªÄã¿´µ½ËüÔÚÄ³ÖÖÒâÒåÉÏÊÇÒ»¸ö°üº¬Á½²¿·ÖµÄ¹ı³Ì£¬ÏÂÔØĞÅÏ¢µÄÏë·¨ºÜºÃ£¬µ«ÊÇÈç¹ûÄãÃ»ÓĞÕæÕı¶ÔÁé¸Ğ²ÉÈ¡ĞĞ¶¯£¬Èç¹ûÄãÃ»ÓĞÕæÕı²ÉÈ¡ĞĞ¶¯È¥Ó¦ÓÃÄãµÄÏëÏóÁ¦£¬Ô¸¾°£¬ÃÎÏë¡£ÄÇÃ´Äã¾ÍÊÇÔÚ¶ÌÂ·ÄãµÄÏÔ»¯½ø³Ì£¬ÒòÎªÕâ¸ö¡°ÏÂÔØĞÅÏ¢-¸¶ÖîĞĞ¶¯¡±µÄ½ø³Ì·Ç³£ÀàËÆÓÚË®Á÷»òµçÁ÷£¬ÄÜÁ¿±ØĞëÁ÷¾­Äã²¢Ó¦ÓÃÓÚÄãµÄÏÖÊµ£¬ÒÔ±ã¸ßÎ¬ĞÅÏ¢µÄÏÂÔØ¼ÌĞø¡£¡±¡ª¡ª°ÍÏÄ£ºÏÂÔØ¸ßÎÒĞÅÏ¢µÄËÉ¹ûÏÙÌå£¨¸ßÎÒĞÄÖÇ¡¢ÎïÖÊ½çĞÄÖÇ¡¢´óÄÔËÉ¹ûÌåµÄ¹ØÏµ£©-½²×ù×¨À¸
+æ‰€ä»¥å½“ä½ ç”Ÿæ´»ä¸­æ›´å¤šçš„å‡ºç°åŒ…å«è¿™äº›å“è´¨çš„æƒ…å†µï¼Œå½“ä½ ç”Ÿæ´»ä¸­å‡ºç°äº†æ›´å¤šè¿™ç§æ„Ÿå—ï¼Œè¿™å°±æ˜¯é‡‡å–è¡ŒåŠ¨çš„æ–¹å‘ã€‚
 
 
 
-µÚÒ»²¿·ÖÒÑ¾­·­ÒëÕûÀíÍê±Ï£¬ÓÉÓÚÕâÊÇÁ½²¿·Ö½²×ù×÷ÎªÍêÕûµÄĞÅÏ¢±Õ»·£¬Ê×ÏÈÍÆ¼ö´ó¼ÒÑ§Ï°µÚÒ»²¿·Ö??°ÍÏÄ£ºÏÂÔØ¸ßÎÒĞÅÏ¢µÄËÉ¹ûÏÙÌå£¨¸ßÎÒĞÄÖÇ¡¢ÎïÖÊ½çĞÄÖÇ¡¢´óÄÔËÉ¹ûÌåµÄ¹ØÏµ£©-½²×ù×¨À¸µÄÄÚÈİ¡£
+å› ä¸ºä½ çœ‹åˆ°å®ƒåœ¨æŸç§æ„ä¹‰ä¸Šæ˜¯ä¸€ä¸ªåŒ…å«ä¸¤éƒ¨åˆ†çš„è¿‡ç¨‹ï¼Œä¸‹è½½ä¿¡æ¯çš„æƒ³æ³•å¾ˆå¥½ï¼Œä½†æ˜¯å¦‚æœä½ æ²¡æœ‰çœŸæ­£å¯¹çµæ„Ÿé‡‡å–è¡ŒåŠ¨ï¼Œå¦‚æœä½ æ²¡æœ‰çœŸæ­£é‡‡å–è¡ŒåŠ¨å»åº”ç”¨ä½ çš„æƒ³è±¡åŠ›ï¼Œæ„¿æ™¯ï¼Œæ¢¦æƒ³ã€‚é‚£ä¹ˆä½ å°±æ˜¯åœ¨çŸ­è·¯ä½ çš„æ˜¾åŒ–è¿›ç¨‹ï¼Œå› ä¸ºè¿™ä¸ªâ€œä¸‹è½½ä¿¡æ¯-ä»˜è¯¸è¡ŒåŠ¨â€çš„è¿›ç¨‹éå¸¸ç±»ä¼¼äºæ°´æµæˆ–ç”µæµï¼Œèƒ½é‡å¿…é¡»æµç»ä½ å¹¶åº”ç”¨äºä½ çš„ç°å®ï¼Œä»¥ä¾¿é«˜ç»´ä¿¡æ¯çš„ä¸‹è½½ç»§ç»­ã€‚â€â€”â€”å·´å¤ï¼šä¸‹è½½é«˜æˆ‘ä¿¡æ¯çš„æ¾æœè…ºä½“ï¼ˆé«˜æˆ‘å¿ƒæ™ºã€ç‰©è´¨ç•Œå¿ƒæ™ºã€å¤§è„‘æ¾æœä½“çš„å…³ç³»ï¼‰-è®²åº§ä¸“æ 
 
 
 
-
-Í¼Æ¬
-
-
-ÏÂÃæÊÇµÚÒ»²¿·ÖÄÚÈİ½ô½Ó×ÅµÄµÚ¶ş²¿·ÖÄÚÈİ£¬ÓÉÅ»ĞÄÁ¤ÑªµÄ·ÉÏèµÄÍâĞÇÈËJubilee??·­ÒëÕûÀí£º
-
-
-
-¡¶°ÍÏÄ£º¸¶ÖîĞĞ¶¯¡·
+ç¬¬ä¸€éƒ¨åˆ†å·²ç»ç¿»è¯‘æ•´ç†å®Œæ¯•ï¼Œç”±äºè¿™æ˜¯ä¸¤éƒ¨åˆ†è®²åº§ä½œä¸ºå®Œæ•´çš„ä¿¡æ¯é—­ç¯ï¼Œé¦–å…ˆæ¨èå¤§å®¶å­¦ä¹ ç¬¬ä¸€éƒ¨åˆ†??å·´å¤ï¼šä¸‹è½½é«˜æˆ‘ä¿¡æ¯çš„æ¾æœè…ºä½“ï¼ˆé«˜æˆ‘å¿ƒæ™ºã€ç‰©è´¨ç•Œå¿ƒæ™ºã€å¤§è„‘æ¾æœä½“çš„å…³ç³»ï¼‰-è®²åº§ä¸“æ çš„å†…å®¹ã€‚
 
 
 
 
+å›¾ç‰‡
+
+
+ä¸‹é¢æ˜¯ç¬¬ä¸€éƒ¨åˆ†å†…å®¹ç´§æ¥ç€çš„ç¬¬äºŒéƒ¨åˆ†å†…å®¹ï¼Œç”±å‘•å¿ƒæ²¥è¡€çš„é£ç¿”çš„å¤–æ˜ŸäººJubilee??ç¿»è¯‘æ•´ç†ï¼š
 
 
 
-½ñÌì£¬ºÍ´ó¼ÒËµÉùºÃ¡£´ó¼ÒºÃÂğ£¿ÎÒ¾Íµ±´ó¼ÒÃ»Òâ¼ûÁË¡£
-
-I¡¯ll say good day to you this day of your time. How are you all? I will take that as an okay.
+ã€Šå·´å¤ï¼šä»˜è¯¸è¡ŒåŠ¨ã€‹
 
 
 
-¸ĞĞ»´ó¼ÒÒ»Í¬²ÎÓë½ñÌìÕâ´Î»¥¶¯¡£
+
+
+
+
+ä»Šå¤©ï¼Œå’Œå¤§å®¶è¯´å£°å¥½ã€‚å¤§å®¶å¥½å—ï¼Ÿæˆ‘å°±å½“å¤§å®¶æ²¡æ„è§äº†ã€‚
+
+Iâ€™ll say good day to you this day of your time. How are you all? I will take that as an okay.
+
+
+
+æ„Ÿè°¢å¤§å®¶ä¸€åŒå‚ä¸ä»Šå¤©è¿™æ¬¡äº’åŠ¨ã€‚
 
 We thank you once again for the co-creation of this interaction this day of your time.
 
 
 
-ÎÒÃÇ½«¿ªÊ¼Õâ´Î»¥¶¯£¬ÎÒÃÇ°ÑÕâ´Î»¥¶¯µÄÖ÷Ìâ¶¨Îª£º¸¶ÖîĞĞ¶¯¡£
+æˆ‘ä»¬å°†å¼€å§‹è¿™æ¬¡äº’åŠ¨ï¼Œæˆ‘ä»¬æŠŠè¿™æ¬¡äº’åŠ¨çš„ä¸»é¢˜å®šä¸ºï¼šä»˜è¯¸è¡ŒåŠ¨ã€‚
 
 and we will begin this interaction which we have entitled take action in the following way
 
-Í¼Æ¬
+å›¾ç‰‡
 
-´ú±íĞĞ¶¯µÄËşÂŞ-È¨ÕÈÍõÅÆ
+ä»£è¡¨è¡ŒåŠ¨çš„å¡”ç½—-æƒæ–ç‹ç‰Œ
 
 
 
-×òÍíÎÒÃÇÌ¸µ½ÁËÏÂÔØµÄ¸ÅÄî£¬ÎÒÃÇ»á¼òÒªÖØÉê¼¸µã£¬ÒòÎªÕâºÍÏÂÔØÒÔ¼°²ÉÈ¡ĞĞ¶¯µÄ¸ÅÄîÓĞ¹Ø¡£
+æ˜¨æ™šæˆ‘ä»¬è°ˆåˆ°äº†ä¸‹è½½çš„æ¦‚å¿µï¼Œæˆ‘ä»¬ä¼šç®€è¦é‡ç”³å‡ ç‚¹ï¼Œå› ä¸ºè¿™å’Œä¸‹è½½ä»¥åŠé‡‡å–è¡ŒåŠ¨çš„æ¦‚å¿µæœ‰å…³ã€‚
 
 last night of your time we spoke about the idea of downloads and we will reiterate a few points briefly because there is connection between the idea of download and take action
 
 
 
-°ÍÏÄ£ºÏÂÔØ¸ßÎÒĞÅÏ¢µÄËÉ¹ûÏÙÌå£¨¸ßÎÒĞÄÖÇ¡¢ÎïÖÊ½çĞÄÖÇ¡¢´óÄÔËÉ¹ûÌåµÄ¹ØÏµ£©-½²×ù×¨À¸
+å·´å¤ï¼šä¸‹è½½é«˜æˆ‘ä¿¡æ¯çš„æ¾æœè…ºä½“ï¼ˆé«˜æˆ‘å¿ƒæ™ºã€ç‰©è´¨ç•Œå¿ƒæ™ºã€å¤§è„‘æ¾æœä½“çš„å…³ç³»ï¼‰-è®²åº§ä¸“æ 
 
 
 
-ÎÒÃÇ»¹Ì¸µ½¸ßÎÒºÍÍâ½ç¹µÍ¨µÄ¸ÅÄî£¬ÕâÖÖ¹µÍ¨ÊÇÈçºÎÏÂÔØµ½ÎïÖÊ½çµÄÈâÌå´óÄÔµÄ£¬ÔÙÓÉÎïÖÊ½çµÄ´óÄÔ´«µİĞÅÏ¢¸øÎïÖÊ½çĞÄÖÇ¡£
+æˆ‘ä»¬è¿˜è°ˆåˆ°é«˜æˆ‘å’Œå¤–ç•Œæ²Ÿé€šçš„æ¦‚å¿µï¼Œè¿™ç§æ²Ÿé€šæ˜¯å¦‚ä½•ä¸‹è½½åˆ°ç‰©è´¨ç•Œçš„è‚‰ä½“å¤§è„‘çš„ï¼Œå†ç”±ç‰©è´¨ç•Œçš„å¤§è„‘ä¼ é€’ä¿¡æ¯ç»™ç‰©è´¨ç•Œå¿ƒæ™ºã€‚
 
 we spoke about the idea of the communion between the higher self as it downloads to the physical brain which then transmits to the physical mind information.
 
 
 
-ÎÒÃÇÔøÌáĞÑ£¬¸ßÎÒ¸ºÔğ¹¹Ë¼£¬ÎïÖÊ½çµÄ´óÄÔ¸ºÔğ½ÓÊÕ£¬×îºóÓÉÎïÖÊ½çĞÄÖÇ½øĞĞ¸ĞÖª¡£
+æˆ‘ä»¬æ›¾æé†’ï¼Œé«˜æˆ‘è´Ÿè´£æ„æ€ï¼Œç‰©è´¨ç•Œçš„å¤§è„‘è´Ÿè´£æ¥æ”¶ï¼Œæœ€åç”±ç‰©è´¨ç•Œå¿ƒæ™ºè¿›è¡Œæ„ŸçŸ¥ã€‚
 
 And we reminded you that the higher mind conceives, the brain receives, the physical mind perceives.
 
 
 
-ÎÒÃÇÒ²Ì½ÌÖ¹ıÕâÖÖ»úÖÆÊÇÈçºÎÔË×÷µÄ£¬ÆäÖĞÉæ¼°ËÉ¹ûÌå¼°Æä²úÉúµÄÉñ¾­»¯Ñ§µİÖÊ£¬Ä¿µÄÊÇ´Ù½ø¸ü¸ßµÄ·ÇÎïÖÊ½çĞÄÖÇ£¨¸ßÎÒ£©Ö®¼äµÄÁ¬½Ó£¬¾­ÓÉÎïÖÊ½çµÄÈâÌå´óÄÔ£¬½øÈëÎïÖÊ½çÈË¸ñ½á¹¹£¨ÎïÖÊ½çĞÄÖÇ¡¢Ğ¡ÎÒ£©¡£
+æˆ‘ä»¬ä¹Ÿæ¢è®¨è¿‡è¿™ç§æœºåˆ¶æ˜¯å¦‚ä½•è¿ä½œçš„ï¼Œå…¶ä¸­æ¶‰åŠæ¾æœä½“åŠå…¶äº§ç”Ÿçš„ç¥ç»åŒ–å­¦é€’è´¨ï¼Œç›®çš„æ˜¯ä¿ƒè¿›æ›´é«˜çš„éç‰©è´¨ç•Œå¿ƒæ™ºï¼ˆé«˜æˆ‘ï¼‰ä¹‹é—´çš„è¿æ¥ï¼Œç»ç”±ç‰©è´¨ç•Œçš„è‚‰ä½“å¤§è„‘ï¼Œè¿›å…¥ç‰©è´¨ç•Œäººæ ¼ç»“æ„ï¼ˆç‰©è´¨ç•Œå¿ƒæ™ºã€å°æˆ‘ï¼‰ã€‚
 
 And we talked about the mechanism by which that occurs involving the pineal gland and the neurochemical transmitters it creates in order to facilitate that connection between higher non-physical mind through the physical brain into the personality construct.
 
 
 
-Í¼Æ¬
-ÏÖÔÚ£¬ÎÒÃÇÖ®ËùÒÔÌáĞÑÄãÃÇ¹ØÓÚÏÂÔØµÄ¸ÅÄî£¬ÒÔ¼°ËùÓĞÍ¨¹ıÏëÏó¶øÀ´µÄĞÅÏ¢¡¢Áé¸Ğ---Óë¸ü¸ßµÄ¸ßÎÒĞÄÖÇ½»Á÷¶øÀ´µÄĞÅÏ¢£¬ÊÇÒòÎªÕâ¸öÏë·¨°üº¬Á½¸ö²½Öè¡£
+å›¾ç‰‡
+ç°åœ¨ï¼Œæˆ‘ä»¬ä¹‹æ‰€ä»¥æé†’ä½ ä»¬å…³äºä¸‹è½½çš„æ¦‚å¿µï¼Œä»¥åŠæ‰€æœ‰é€šè¿‡æƒ³è±¡è€Œæ¥çš„ä¿¡æ¯ã€çµæ„Ÿ---ä¸æ›´é«˜çš„é«˜æˆ‘å¿ƒæ™ºäº¤æµè€Œæ¥çš„ä¿¡æ¯ï¼Œæ˜¯å› ä¸ºè¿™ä¸ªæƒ³æ³•åŒ…å«ä¸¤ä¸ªæ­¥éª¤ã€‚
 
 Now, the reason why we remind you of the idea of the download and all the information that comes through the conduit of imagination, inspiration, and communion with the higher mind is that The idea is a two-part process.
 
 
 
-ÏÂÔØÊÇµÚÒ»²½£¬¶ø²ÉÈ¡ĞĞ¶¯ÊÇµÚ¶ş²½¡£
+ä¸‹è½½æ˜¯ç¬¬ä¸€æ­¥ï¼Œè€Œé‡‡å–è¡ŒåŠ¨æ˜¯ç¬¬äºŒæ­¥ã€‚
 
 Downloading is the first part, but taking action is the second part.
 
 
 
-ÎÒÃÇÔÙÀ´´ò¸ö±È·½£¬ÄãÃÇ¿ÉÒÔ°ÑËü±È×÷µçÁ÷£ºÈç¹ûÄãÕıÔÚ½ÓÊÕĞÅÏ¢£¬Èç¹ûÄãÕıÔÚ½ÓÊÕÁé¸Ğ£¬µ«Èç¹ûÄãÃ»ÓĞÕæÕıÈÃĞÅÏ¢ÄÚ»¯£¬Í¨¹ıÊµ¼ÊĞĞ¶¯½«Æä¸¶ÖîÓÚÎïÖÊ½çÏÖÊµ£¬ÄÇÃ´¼ÌĞøÍ¨¹ıÏÂÔØ»ñÈ¡ĞÅÏ¢¾ÍºÁÎŞÒâÒåÁË¡£
+æˆ‘ä»¬å†æ¥æ‰“ä¸ªæ¯”æ–¹ï¼Œä½ ä»¬å¯ä»¥æŠŠå®ƒæ¯”ä½œç”µæµï¼šå¦‚æœä½ æ­£åœ¨æ¥æ”¶ä¿¡æ¯ï¼Œå¦‚æœä½ æ­£åœ¨æ¥æ”¶çµæ„Ÿï¼Œä½†å¦‚æœä½ æ²¡æœ‰çœŸæ­£è®©ä¿¡æ¯å†…åŒ–ï¼Œé€šè¿‡å®é™…è¡ŒåŠ¨å°†å…¶ä»˜è¯¸äºç‰©è´¨ç•Œç°å®ï¼Œé‚£ä¹ˆç»§ç»­é€šè¿‡ä¸‹è½½è·å–ä¿¡æ¯å°±æ¯«æ— æ„ä¹‰äº†ã€‚
 
 Once again, by analogy you can liken it to the idea of electricity in the sense that if you are receiving information if you are receiving inspiration If you do not actually flow that information through you apply it by physical action in your physical reality then there is really no point in the continuation of the downloading of information.
 
 
 
-Èç¹ûÄã²»ÈÃĞÅÏ¢ÄÚ»¯Á÷¾­Äã£¬Äã¾Í¶ÌÂ·²¢×è°­ÁËĞÅÏ¢ÔÚÎïÖÊ½çÏÖÊµÖĞ±»Ó¦ÓÃ£¬Òò´ËĞÅÏ¢¾ÍÖ»ÄÜÍ£ÁôÔÚÄãÌåÄÚ£¬ÔÚÄãÌåÄÚÀÛ»ı¡£Òò´ËÏÂÔØÕâ¸ö¹ı³ÌÒ²»áÍ£Ö¹£¬ÒòÎªÃ»±ØÒªÔÙ»ñÈ¡¸ü¶àĞÅÏ¢ÁË£¬Èç¹ûÄã»¹Ã»ÔËÓÃÄãËù»ñµÃµÄ¡£
+å¦‚æœä½ ä¸è®©ä¿¡æ¯å†…åŒ–æµç»ä½ ï¼Œä½ å°±çŸ­è·¯å¹¶é˜»ç¢äº†ä¿¡æ¯åœ¨ç‰©è´¨ç•Œç°å®ä¸­è¢«åº”ç”¨ï¼Œå› æ­¤ä¿¡æ¯å°±åªèƒ½åœç•™åœ¨ä½ ä½“å†…ï¼Œåœ¨ä½ ä½“å†…ç´¯ç§¯ã€‚å› æ­¤ä¸‹è½½è¿™ä¸ªè¿‡ç¨‹ä¹Ÿä¼šåœæ­¢ï¼Œå› ä¸ºæ²¡å¿…è¦å†è·å–æ›´å¤šä¿¡æ¯äº†ï¼Œå¦‚æœä½ è¿˜æ²¡è¿ç”¨ä½ æ‰€è·å¾—çš„ã€‚
 
-If you do not flow it through you, you have short-circuited its ability to be applied in physical reality and therefore the download information can simply stay within you build up within you, And the downloads, in a sense, can seem to cease. For there is no reason to pick up any more information if you haven¡¯t already used what you¡¯ve been given.
+If you do not flow it through you, you have short-circuited its ability to be applied in physical reality and therefore the download information can simply stay within you build up within you, And the downloads, in a sense, can seem to cease. For there is no reason to pick up any more information if you havenâ€™t already used what youâ€™ve been given.
 
 
 
-ËùÒÔ£¬ÒªÕæÕıÀûÓÃÕâĞ©ĞÅÏ¢£¬ÈÃ¸ü¶àĞÅÏ¢½øÈë£¬ÔÚÎïÖÊ½çÏÖÊµÖĞ²ÉÈ¡ĞĞ¶¯ÖÁ¹ØÖØÒª¡£
+æ‰€ä»¥ï¼Œè¦çœŸæ­£åˆ©ç”¨è¿™äº›ä¿¡æ¯ï¼Œè®©æ›´å¤šä¿¡æ¯è¿›å…¥ï¼Œåœ¨ç‰©è´¨ç•Œç°å®ä¸­é‡‡å–è¡ŒåŠ¨è‡³å…³é‡è¦ã€‚
 
 So it is crucial to understand that in order to really use the information to allow more information to come through taking action is very important in your physical reality.
 
 
 
-µ±È»£¬µ±ÎÒÃÇÌáµ½²ÉÈ¡ĞĞ¶¯Ê±£¬¾ÍÏñÎÒÃÇ³£ËµµÄ£¬ÎÒÃÇÖ¸µÄÊÇ¶Ô×îÈÃÄãĞË·ÜµÄÊÂ²ÉÈ¡ĞĞ¶¯¡£
+å½“ç„¶ï¼Œå½“æˆ‘ä»¬æåˆ°é‡‡å–è¡ŒåŠ¨æ—¶ï¼Œå°±åƒæˆ‘ä»¬å¸¸è¯´çš„ï¼Œæˆ‘ä»¬æŒ‡çš„æ˜¯å¯¹æœ€è®©ä½ å…´å¥‹çš„äº‹é‡‡å–è¡ŒåŠ¨ã€‚
 
 And of course, when we talk about taking action As we have many times we are referring to the idea of taking action on the thing that excite you the most
 
 
 
-ÒòÎªĞË·ÜÊÇÄãÕæÊµ×Ô¼ºÕñ¶¯ÄÜÁ¿µÄÎïÖÊ½çÌåÏÖ¡£ÏÖÔÚ£¬ÏÔÈ»ÓĞºÜ¶à·½·¨¿ÉÒÔ¸¶ÖîĞĞ¶¯£¬½ñÌìÎÒÃÇ½«ÀûÓÃ´ó¼ÒµÄÊ±¼äÌÖÂÛÕâĞ©¡£
+å› ä¸ºå…´å¥‹æ˜¯ä½ çœŸå®è‡ªå·±æŒ¯åŠ¨èƒ½é‡çš„ç‰©è´¨ç•Œä½“ç°ã€‚ç°åœ¨ï¼Œæ˜¾ç„¶æœ‰å¾ˆå¤šæ–¹æ³•å¯ä»¥ä»˜è¯¸è¡ŒåŠ¨ï¼Œä»Šå¤©æˆ‘ä»¬å°†åˆ©ç”¨å¤§å®¶çš„æ—¶é—´è®¨è®ºè¿™äº›ã€‚
 
 Because excitement is the physical translation of the vibratory energy represent your true self Now, obviously there are many ways in which you can take action. And we will be discussing these today, of your time.
 
 
 
-¶øÇÒ£¬ÔÚÕâ´ÎÌÖÂÛÀï£¬ÎÒÃÇ½«ÓëÄãÃÇÖĞµÄÒ»Ğ©ÈË½øĞĞÉîÈëµÄ»¥¶¯£¬½«Õâ¸öĞĞ¶¯ÀíÄîÓ¦ÓÃµ½ÄãÃÇ¸÷×ÔµÄÉú»îÖĞ£¬ÒÔ¼°¾ßÌåÇé¿öÖĞ¡£»»¾ä»°Ëµ£¬Èç¹ûÄãÃÇÔÚÏÔ»¯ËùÆÚÍûµÄÊÂÎïÉÏÓöµ½ÈÎºÎÀ§ÄÑ£¬ÎÒÃÇ¿ÉÒÔ¾ßÌåÌÖÂÛ£¬ÎªÁËÍ»ÆÆÆ¿¾±£¬¿ÉÄÜĞèÒª²ÉÈ¡ÄÄĞ©ĞĞ¶¯£¬½â³ıÕÏ°­£¬ÈÃĞÅÏ¢ºÍÄÜÁ¿Á÷¶¯£¬´Ó¶øÔÚÏÖÊµÖĞÊµÏÖÏÔ»¯¡£
+è€Œä¸”ï¼Œåœ¨è¿™æ¬¡è®¨è®ºé‡Œï¼Œæˆ‘ä»¬å°†ä¸ä½ ä»¬ä¸­çš„ä¸€äº›äººè¿›è¡Œæ·±å…¥çš„äº’åŠ¨ï¼Œå°†è¿™ä¸ªè¡ŒåŠ¨ç†å¿µåº”ç”¨åˆ°ä½ ä»¬å„è‡ªçš„ç”Ÿæ´»ä¸­ï¼Œä»¥åŠå…·ä½“æƒ…å†µä¸­ã€‚æ¢å¥è¯è¯´ï¼Œå¦‚æœä½ ä»¬åœ¨æ˜¾åŒ–æ‰€æœŸæœ›çš„äº‹ç‰©ä¸Šé‡åˆ°ä»»ä½•å›°éš¾ï¼Œæˆ‘ä»¬å¯ä»¥å…·ä½“è®¨è®ºï¼Œä¸ºäº†çªç ´ç“¶é¢ˆï¼Œå¯èƒ½éœ€è¦é‡‡å–å“ªäº›è¡ŒåŠ¨ï¼Œè§£é™¤éšœç¢ï¼Œè®©ä¿¡æ¯å’Œèƒ½é‡æµåŠ¨ï¼Œä»è€Œåœ¨ç°å®ä¸­å®ç°æ˜¾åŒ–ã€‚
 
 And, in this discussion we will engage some of you, specifically, personally to apply this idea of action in your lives in your own personal and specific situations so in other words if you are having any degree of difficulty in manifesting what you prefer we can discuss in specific terms what actions might be necessary to unstick yourselves unblock yourselves allow that information that energy to flow and to create an effect of manifestation in your reality.
 
 
 
-µ«ÇëÔÙ´ÎÌáĞÑ´ó¼Ò²ÉÈ¡ĞĞ¶¯µÄ»ù±¾Òªµã£¬ÒòÎªÎÒÃÇÖ®Ç°Ëµ¹ı£¬µ±ÎÒÃÇÌ¸µ½ÄãÃÇĞÇÇòÉÏ±»³ÆÎª¡°ÃØÃÜ¡±µÄÀíÄîÊ±£¬ÎÒÃÇÌ¸µ½¡°ÃØÃÜµÄÃØÃÜ¡±£º
+ä½†è¯·å†æ¬¡æé†’å¤§å®¶é‡‡å–è¡ŒåŠ¨çš„åŸºæœ¬è¦ç‚¹ï¼Œå› ä¸ºæˆ‘ä»¬ä¹‹å‰è¯´è¿‡ï¼Œå½“æˆ‘ä»¬è°ˆåˆ°ä½ ä»¬æ˜Ÿçƒä¸Šè¢«ç§°ä¸ºâ€œç§˜å¯†â€çš„ç†å¿µæ—¶ï¼Œæˆ‘ä»¬è°ˆåˆ°â€œç§˜å¯†çš„ç§˜å¯†â€ï¼š
 
-But let us remind you once again of the basics of taking action because as we talked about when we spoke of the idea now on your planet that is labeled the secret and we talked about the secret of the secret is that It¡¯s all well
+But let us remind you once again of the basics of taking action because as we talked about when we spoke of the idea now on your planet that is labeled the secret and we talked about the secret of the secret is that Itâ€™s all well
 
 
 
-ÓµÓĞ¶ÔÄ³ÊÂµÄÈÈÇéÊÇ¼şºÃÊÂ£¬µ«Äã±ØĞë¶ÔÈÈÇé±¾ÉíÒ²³äÂúÈÈÇé£¬ÕâÑùËü²ÅÄÜÕæÕıÑÓĞø¡£ºÜ¶àÈË»áËµ×Ô¼ºÕıÔÚ×·Ëæ²¢Êµ¼ùÈÈÇé£¬µ«ËûÃÇÌ«ÈİÒ×¾Í·ÅÆúÁË£¬µ±ËûÃÇÃ»ÓĞ´ïµ½Ô¤ÆÚÊ±¡£
+æ‹¥æœ‰å¯¹æŸäº‹çš„çƒ­æƒ…æ˜¯ä»¶å¥½äº‹ï¼Œä½†ä½ å¿…é¡»å¯¹çƒ­æƒ…æœ¬èº«ä¹Ÿå……æ»¡çƒ­æƒ…ï¼Œè¿™æ ·å®ƒæ‰èƒ½çœŸæ­£å»¶ç»­ã€‚å¾ˆå¤šäººä¼šè¯´è‡ªå·±æ­£åœ¨è¿½éšå¹¶å®è·µçƒ­æƒ…ï¼Œä½†ä»–ä»¬å¤ªå®¹æ˜“å°±æ”¾å¼ƒäº†ï¼Œå½“ä»–ä»¬æ²¡æœ‰è¾¾åˆ°é¢„æœŸæ—¶ã€‚
 
 and good to have passion about a thing but you must also be passionate about having passion in order for it to really continue. Many people will say they are following and acting on their passion but they give up all too easily when they do not get what they expect.
 
 
 
-¹Ø¼üÔÚÓÚ£¬Èç¹ûÄã¶Ô±£³ÖÈÈÇéÕâ¼şÊÂ±¾ÉíÃ»ÓĞÈÈÇé£¬ÄÇÃ´Õâ·İÈÈÇéÒ²¾ÍÎŞ·¨³ÖĞø¡£¶ÔÓÚÄÇĞ©ÄãÕæÕıÈÈÖÔµÄÊÂÇé£¬ÄãÓÀÔ¶²»»á·ÅÆú£¬Äã»áÏë¾¡Ò»ÇĞ°ì·¨£¬Ö»ÎªÔÙ´Î×·ÇóÄÇ¸öÏë·¨¡£
+å…³é”®åœ¨äºï¼Œå¦‚æœä½ å¯¹ä¿æŒçƒ­æƒ…è¿™ä»¶äº‹æœ¬èº«æ²¡æœ‰çƒ­æƒ…ï¼Œé‚£ä¹ˆè¿™ä»½çƒ­æƒ…ä¹Ÿå°±æ— æ³•æŒç»­ã€‚å¯¹äºé‚£äº›ä½ çœŸæ­£çƒ­è¡·çš„äº‹æƒ…ï¼Œä½ æ°¸è¿œä¸ä¼šæ”¾å¼ƒï¼Œä½ ä¼šæƒ³å°½ä¸€åˆ‡åŠæ³•ï¼Œåªä¸ºå†æ¬¡è¿½æ±‚é‚£ä¸ªæƒ³æ³•ã€‚
 
 The idea is that if you are not passionate about being passionate then the idea of the passion will not be sustained. for the ideas that that which truly you are passionate about you would never give up on you would look for any avenue anyway any methodology what so ever by wish to pursue that idea
 
 
 
-ÏÖÔÚ£¬µ±ÎÒÃÇÌ¸ÂÛ²ÉÈ¡ĞĞ¶¯Ê±£¬ÒªÃ÷°×µÄÊÇ£º¼´²»Òª´øÓĞÌØ¶¨ÆÚÍû£¬»òÕßËµ£¬¿ÉÒÔ³ÆÖ®ÎªÆÚÅÎ¡£¸¶ÖîĞĞ¶¯»á¸øÄã´øÀ´ÄãËùĞèµÄ£¬ÕâĞ©ËæÖ®¶øÀ´µÄÊÂÎï»áÔöÇ¿¡¢¼ÓËÙ²¢À©Õ¹ÄãµÄ¿ìÀÖ¡¢´´ÔìÁ¦ºÍ¼¤Çé¡£
+ç°åœ¨ï¼Œå½“æˆ‘ä»¬è°ˆè®ºé‡‡å–è¡ŒåŠ¨æ—¶ï¼Œè¦æ˜ç™½çš„æ˜¯ï¼šå³ä¸è¦å¸¦æœ‰ç‰¹å®šæœŸæœ›ï¼Œæˆ–è€…è¯´ï¼Œå¯ä»¥ç§°ä¹‹ä¸ºæœŸç›¼ã€‚ä»˜è¯¸è¡ŒåŠ¨ä¼šç»™ä½ å¸¦æ¥ä½ æ‰€éœ€çš„ï¼Œè¿™äº›éšä¹‹è€Œæ¥çš„äº‹ç‰©ä¼šå¢å¼ºã€åŠ é€Ÿå¹¶æ‰©å±•ä½ çš„å¿«ä¹ã€åˆ›é€ åŠ›å’Œæ¿€æƒ…ã€‚
 
 now once again when we talk about the idea of taking action it is within the context of understanding that it is to be without specific expectation you can have for lack of a better term the expectancy that it will bring you what you need, what you require. It will increase, accelerate and expand your joy, your creativity, your passion.
 
 
 
-µ«ÕâÀïËµµÄÆÚÍû£¬Ö¸µÄÊÇ¾ßÌåµÄ·½Ê½¡ª¡ªÄãÉèÏëÊÂÇé½«ÈçºÎ·¢Éú¡£ÕıÈçÎÒÃÇ×òÍíÌáµ½µÄ£¬¹Ø¼üÊÇ£¬ÄãµÄÎïÖÊ½çĞÄÖÇ²¢²»ÕæÕıÖªµÀÊÂÎï»áÈçºÎÏÔÏÖ£¬µ«Ëü¿ÉÒÔÔÚĞÄÖĞ¹¹Ïë³öÒ»¸öÏóÕ÷ĞÔµÄÏÔÏÖ£¬ÔÚÄãµÄÄÔº£ÖĞ£¬Õâ´ú±íÄãËù¿ÊÍûºÍÆ«°®µÄÄÇÖÖÏÖÊµµÄÏë·¨¡£
+ä½†è¿™é‡Œè¯´çš„æœŸæœ›ï¼ŒæŒ‡çš„æ˜¯å…·ä½“çš„æ–¹å¼â€”â€”ä½ è®¾æƒ³äº‹æƒ…å°†å¦‚ä½•å‘ç”Ÿã€‚æ­£å¦‚æˆ‘ä»¬æ˜¨æ™šæåˆ°çš„ï¼Œå…³é”®æ˜¯ï¼Œä½ çš„ç‰©è´¨ç•Œå¿ƒæ™ºå¹¶ä¸çœŸæ­£çŸ¥é“äº‹ç‰©ä¼šå¦‚ä½•æ˜¾ç°ï¼Œä½†å®ƒå¯ä»¥åœ¨å¿ƒä¸­æ„æƒ³å‡ºä¸€ä¸ªè±¡å¾æ€§çš„æ˜¾ç°ï¼Œåœ¨ä½ çš„è„‘æµ·ä¸­ï¼Œè¿™ä»£è¡¨ä½ æ‰€æ¸´æœ›å’Œåçˆ±çš„é‚£ç§ç°å®çš„æƒ³æ³•ã€‚
 
 But the expectation refers to the specific way in which you might envision a thing coming to fruition. And as we mentioned last night of your time the idea is that your physical mind does not really have the capability of knowing exactly how a thing may manifest. But it does have the capability of envisioning a symbolic manifestation in its mind that represents the idea of that particular reality that you desire you prefer
 
 
 
-ÏÖÔÚ£¬ÎÒÃÇ²»ÊÇËµ£¬ÄãµÄÎïÖÊ½çĞÄÖÇÏëÏóµÄÄÇ¸ö»­Ãæ£¬´ú±íÄãÆ«°®µÄÄÇÖÖÏÖÊµ¾ÍÎŞ·¨ÊµÏÖ¡£ËüÓĞÊ±È·Êµ»áÍêÈ«ÈçÄãËùÏë°ãÏÔ»¯£¬µ«ÎÒÃÇÒªÌáĞÑÄãµÄÊÇ£¬ÎŞÂÛÄãµÄÎïÖÊ½çĞÄÖÇËùÄÜÏëÏó³öµÄÄÇ¸öËùÎ½ÀíÏëÏÖÊµÊÇÊ²Ã´£¬²¢·Ç£¨¼´±ãÄãµÄÎïÖÊ½çĞÄÖÇÕâÑùÈÏÎª£©Ò»¶¨¾ÍÊÇÄãÕæÕı¿ÊÍûµÄÏÖÊµµÄ×î¸ßÌåÏÖ¡£
+ç°åœ¨ï¼Œæˆ‘ä»¬ä¸æ˜¯è¯´ï¼Œä½ çš„ç‰©è´¨ç•Œå¿ƒæ™ºæƒ³è±¡çš„é‚£ä¸ªç”»é¢ï¼Œä»£è¡¨ä½ åçˆ±çš„é‚£ç§ç°å®å°±æ— æ³•å®ç°ã€‚å®ƒæœ‰æ—¶ç¡®å®ä¼šå®Œå…¨å¦‚ä½ æ‰€æƒ³èˆ¬æ˜¾åŒ–ï¼Œä½†æˆ‘ä»¬è¦æé†’ä½ çš„æ˜¯ï¼Œæ— è®ºä½ çš„ç‰©è´¨ç•Œå¿ƒæ™ºæ‰€èƒ½æƒ³è±¡å‡ºçš„é‚£ä¸ªæ‰€è°“ç†æƒ³ç°å®æ˜¯ä»€ä¹ˆï¼Œå¹¶éï¼ˆå³ä¾¿ä½ çš„ç‰©è´¨ç•Œå¿ƒæ™ºè¿™æ ·è®¤ä¸ºï¼‰ä¸€å®šå°±æ˜¯ä½ çœŸæ­£æ¸´æœ›çš„ç°å®çš„æœ€é«˜ä½“ç°ã€‚
 
 Now, we are not saying that what your physical mind might imagine as a picture that represents that reality you prefer cannot manifest. It can and sometimes often does exactly as you have pictured it. But what we are reminding you of is that whatever it is the physical mind is capable of conjuring up as an image of that so-called preferred reality, that idealized reality, that desired reality, is not even though the physical mind may think so, necessarily the highest depiction of that reality you actually desire, of that state of being.
 
 
 
-ÎïÖÊ½çĞÄÖÇÖ»ÄÜ½øĞĞÓĞÏŞµÄÏëÏó£¬ÔÚÆäËù´¦µÄÎïÖÊÏÖÊµÖĞ£¬ËüÎŞ·¨Í¬Ê±´¦Àí¹ı¶àĞÅÏ¢£¬Ò²ÎŞ·¨¸ĞÖªÄ³Ğ©À´×Ô¸ü¸ß²ãÁìÓò£¨¸ßÎÒĞÄÖÇ£©²ÅÓĞµÄÊÂÎï¡£
+ç‰©è´¨ç•Œå¿ƒæ™ºåªèƒ½è¿›è¡Œæœ‰é™çš„æƒ³è±¡ï¼Œåœ¨å…¶æ‰€å¤„çš„ç‰©è´¨ç°å®ä¸­ï¼Œå®ƒæ— æ³•åŒæ—¶å¤„ç†è¿‡å¤šä¿¡æ¯ï¼Œä¹Ÿæ— æ³•æ„ŸçŸ¥æŸäº›æ¥è‡ªæ›´é«˜å±‚é¢†åŸŸï¼ˆé«˜æˆ‘å¿ƒæ™ºï¼‰æ‰æœ‰çš„äº‹ç‰©ã€‚
 
 The physical mind can only imagine so much in the context of its physical reality. It is not capable of handling too much information at the same time. And it is not capable of perceiving certain things that are the domain of the higher mind.
 
 
 
-°ÍÏÄ£ºÎïÖÊ½çÏÖÊµµÄ±¾ÖÊ-½²×ù×¨À¸
+å·´å¤ï¼šç‰©è´¨ç•Œç°å®çš„æœ¬è´¨-è®²åº§ä¸“æ 
 
 
 
-ËùÒÔ£¬¹Ø¼üÊÇ£ºÎŞÂÛÄãËùÉèÏëµÄÀíÏëÏÖÊµÊÇÔõÑùµÄ£¬Äã¿ÉÒÔ°ÑËüµ±×÷Ä£°å£¬µ±×÷Ö¸Òı£¬ÓÃÀ´¸ĞÊÜ¡¢Ê¶±ğ²¢ÌåÑéÄãÉèÏëµÄÏÖÊµµÄÄÇ·İÕñ¶¯ºÍĞË·Ü£¬ÒÔ¼°ÄÇ´ú±í×ÅµÄÈÈ³À¡£
+æ‰€ä»¥ï¼Œå…³é”®æ˜¯ï¼šæ— è®ºä½ æ‰€è®¾æƒ³çš„ç†æƒ³ç°å®æ˜¯æ€æ ·çš„ï¼Œä½ å¯ä»¥æŠŠå®ƒå½“ä½œæ¨¡æ¿ï¼Œå½“ä½œæŒ‡å¼•ï¼Œç”¨æ¥æ„Ÿå—ã€è¯†åˆ«å¹¶ä½“éªŒä½ è®¾æƒ³çš„ç°å®çš„é‚£ä»½æŒ¯åŠ¨å’Œå…´å¥‹ï¼Œä»¥åŠé‚£ä»£è¡¨ç€çš„çƒ­å¿±ã€‚
 
 So the idea is that whatever it is you picture as a vision of the reality you prefer You can use that as a template. You can use that as a guide. You can use that to allow yourself to feel, to identify and feel the vibration, the excitement the passion that represents that reality.
 
 
 
-Çë¼Ç×¡£¬ÄãÄÔº£ÖĞµÄ»­ÃæÀ´×ÔÄãµÄÎïÖÊ½çĞÄÖÇ£¬Ò²ĞíÔÚÄã¿´À´ÊÇÄÔº£ÖĞµÄ»­ÃæËùÄÜ¹¹ÏëµÄ×î¸ßÌåÏÖ£¬µ«¶Ô¸ü¸ßµÄ¸ßÎÒĞÄÖÇ¶øÑÔ£¬ÎïÖÊ½çĞÄÖÇËùÄÜ¹¹ÏëµÄ¶«Î÷Ö»ÊÇÄÇ¸öÏë·¨µÄ×îµÍÌåÏÖ¡£
+è¯·è®°ä½ï¼Œä½ è„‘æµ·ä¸­çš„ç”»é¢æ¥è‡ªä½ çš„ç‰©è´¨ç•Œå¿ƒæ™ºï¼Œä¹Ÿè®¸åœ¨ä½ çœ‹æ¥æ˜¯è„‘æµ·ä¸­çš„ç”»é¢æ‰€èƒ½æ„æƒ³çš„æœ€é«˜ä½“ç°ï¼Œä½†å¯¹æ›´é«˜çš„é«˜æˆ‘å¿ƒæ™ºè€Œè¨€ï¼Œç‰©è´¨ç•Œå¿ƒæ™ºæ‰€èƒ½æ„æƒ³çš„ä¸œè¥¿åªæ˜¯é‚£ä¸ªæƒ³æ³•çš„æœ€ä½ä½“ç°ã€‚
 
-But please remember and recognize that whatever the picture is you have that is conjured from your physical mind is to you, perhaps, seeming the highest possible representation of that idea but to the higher mind it¡¯s the lowest possible representation of that idea.
+But please remember and recognize that whatever the picture is you have that is conjured from your physical mind is to you, perhaps, seeming the highest possible representation of that idea but to the higher mind itâ€™s the lowest possible representation of that idea.
 
 
 
-Òò´Ë£¬¸ü¸ßµÄ¸ßÎÒĞÄÖÇ»áÒÔÎïÖÊ½çĞÄÖÇµÄ¹¹ÏëÎª»ù´¡²¢ÏòÉÏÌáÉı£¬×îÖÕ»á¸øÄã´øÀ´¸üÎ°´ó¡¢¸ü¼¤¶¯ÈËĞÄµÄÊÂÎï£¬Ô¶±ÈÄãÓÃÎïÖÊ½çĞÄÖÇÄÜÏëÏóµ½µÄ¸ü¸»ÏëÏóÁ¦¡£
+å› æ­¤ï¼Œæ›´é«˜çš„é«˜æˆ‘å¿ƒæ™ºä¼šä»¥ç‰©è´¨ç•Œå¿ƒæ™ºçš„æ„æƒ³ä¸ºåŸºç¡€å¹¶å‘ä¸Šæå‡ï¼Œæœ€ç»ˆä¼šç»™ä½ å¸¦æ¥æ›´ä¼Ÿå¤§ã€æ›´æ¿€åŠ¨äººå¿ƒçš„äº‹ç‰©ï¼Œè¿œæ¯”ä½ ç”¨ç‰©è´¨ç•Œå¿ƒæ™ºèƒ½æƒ³è±¡åˆ°çš„æ›´å¯Œæƒ³è±¡åŠ›ã€‚
 
 And thus then the higher mind will take that as a foundation and can go up from there. And actually give you something manifest something for you that is far greater, far more exciting far more imaginative than you were capable of imagining with the physical mind.
 
 
 
-ËùÒÔ£¬ÖØÒªµÄÊÇ²»ÒªÖ´×ÅÓÚÄãÎïÖÊ½çĞÄÖÇËù¹¹ÏëµÄÆÚÍû£¬²»Ò»¶¨·ÇµÃ°´ÄÇÑù·¢Éú¡£ÒòÎªÈç¹ûÄã¹ÌÖ´ÓÚ´Ë£¬¾Í»á×è°­¸ßÎÒĞÄÖÇÒÔÄãÏëÏó²»µ½µÄ¸üºÃ·½Ê½½«Ëü¸øÓèÄã¡£
+æ‰€ä»¥ï¼Œé‡è¦çš„æ˜¯ä¸è¦æ‰§ç€äºä½ ç‰©è´¨ç•Œå¿ƒæ™ºæ‰€æ„æƒ³çš„æœŸæœ›ï¼Œä¸ä¸€å®šéå¾—æŒ‰é‚£æ ·å‘ç”Ÿã€‚å› ä¸ºå¦‚æœä½ å›ºæ‰§äºæ­¤ï¼Œå°±ä¼šé˜»ç¢é«˜æˆ‘å¿ƒæ™ºä»¥ä½ æƒ³è±¡ä¸åˆ°çš„æ›´å¥½æ–¹å¼å°†å®ƒç»™äºˆä½ ã€‚
 
-So that¡¯s why it is important to not insist with your expectation that the vision your physical mind conjures for you must be the way it occurs. Because if you insist on it you¡¯re actually stopping the higher mind from giving it to you in a way that might be better than you imagined.
+So thatâ€™s why it is important to not insist with your expectation that the vision your physical mind conjures for you must be the way it occurs. Because if you insist on it youâ€™re actually stopping the higher mind from giving it to you in a way that might be better than you imagined.
 
 
 
-°ÑÎïÖÊ½çĞÄÖÇµÄ¹¹Ïëµ±×÷²Î¿¼£¬ÒªÖªµÀÕâÊÇ¸ßÎÒĞÄÖÇĞèÒªÈ¥Ëø¶¨µÄÕñ¶¯¡£Ëø¶¨ÁËÕâ²ãÕñ¶¯ºó£¬Äã¾ÍÄÜÔÊĞíÓëÕâ·İÕñ¶¯Ïà·ûµÄÊÂÎïÔÚÄãÉúÃüÀïÕÃÏÔ£¬Äã»á·¢ÏÖÄÇ²ÅÊÇÄã×î¿ìÀÖ¡¢×îÓĞÒæ¡¢Ò²×î³äÂú¼¤Çé¡¢°®ºÍ´´ÔìÁ¦µÄ×´Ì¬¡£
+æŠŠç‰©è´¨ç•Œå¿ƒæ™ºçš„æ„æƒ³å½“ä½œå‚è€ƒï¼Œè¦çŸ¥é“è¿™æ˜¯é«˜æˆ‘å¿ƒæ™ºéœ€è¦å»é”å®šçš„æŒ¯åŠ¨ã€‚é”å®šäº†è¿™å±‚æŒ¯åŠ¨åï¼Œä½ å°±èƒ½å…è®¸ä¸è¿™ä»½æŒ¯åŠ¨ç›¸ç¬¦çš„äº‹ç‰©åœ¨ä½ ç”Ÿå‘½é‡Œå½°æ˜¾ï¼Œä½ ä¼šå‘ç°é‚£æ‰æ˜¯ä½ æœ€å¿«ä¹ã€æœ€æœ‰ç›Šã€ä¹Ÿæœ€å……æ»¡æ¿€æƒ…ã€çˆ±å’Œåˆ›é€ åŠ›çš„çŠ¶æ€ã€‚
 
 Just use it as a guide knowing that it is the vibration the higher mind needs to key off of to then bring to you what you are willing to allow to come to you as the actual thing that represents the state of being that you really, really would find most joyful, most beneficial, most passionate, most loving, most creative.
 
 
 
-µ«²ÉÈ¡ĞĞ¶¯ÖÁ¹ØÖØÒª£¬Ò²ÊÇÎŞÂÛÄãËù¹¹ÏëµÄÔ¸¾°ÔõÑù£¬µÃÒÔÊµÏÖµÄ¹Ø¼ü£¬ÎŞÂÛÊÇ×ÖÃæÒâÒå£¬»¹ÊÇ»á±äµÃ¸üºÃ¡£
+ä½†é‡‡å–è¡ŒåŠ¨è‡³å…³é‡è¦ï¼Œä¹Ÿæ˜¯æ— è®ºä½ æ‰€æ„æƒ³çš„æ„¿æ™¯æ€æ ·ï¼Œå¾—ä»¥å®ç°çš„å…³é”®ï¼Œæ— è®ºæ˜¯å­—é¢æ„ä¹‰ï¼Œè¿˜æ˜¯ä¼šå˜å¾—æ›´å¥½ã€‚
 
 But this idea of taking action is paramount and key into fulfilling whatever that vision represents be it literal or be it something that will be even better, even greater.
 
 
 
-ĞĞ¶¯ÆğÀ´¡ª¡ªÒòÎªÄãÃÇÊÇÎïÖÊ½çµÄ¾ÓÃñ¡£¶ÔÄãµÄĞË·Ü²ÉÈ¡ĞĞ¶¯±¾Éí¾ÍÊÇÒ»ÖÖ³ĞÅµ¡ª¡ªÏòÄãµÄ¸ßÎÒÕ¹Ê¾ÄãÔ¸ÒâÍ¶ÉíÓÚÄÇ¸öÏÖÊµ¡¢ÄÇÖÖÕñ¶¯ºÍ´æÔÚ×´Ì¬£¬²¢½ÓÊÕÓëÖ®ÏàÓ¦µÄÒ»ÇĞ¡£
+è¡ŒåŠ¨èµ·æ¥â€”â€”å› ä¸ºä½ ä»¬æ˜¯ç‰©è´¨ç•Œçš„å±…æ°‘ã€‚å¯¹ä½ çš„å…´å¥‹é‡‡å–è¡ŒåŠ¨æœ¬èº«å°±æ˜¯ä¸€ç§æ‰¿è¯ºâ€”â€”å‘ä½ çš„é«˜æˆ‘å±•ç¤ºä½ æ„¿æ„æŠ•èº«äºé‚£ä¸ªç°å®ã€é‚£ç§æŒ¯åŠ¨å’Œå­˜åœ¨çŠ¶æ€ï¼Œå¹¶æ¥æ”¶ä¸ä¹‹ç›¸åº”çš„ä¸€åˆ‡ã€‚
 
 Taking action because you are physical beings the idea of actually acting on your excitement is making a commitment And it is showing it is demonstrating to your higher mind that you are willing to commit to that reality, to that vibration, to that state of being. That you are open to receiving anything that is of that state of being.
 
 
 
-ÕâÒ²ÒâÎ¶×ÅÄãÔ¸ÒâÉóÊÓ×Ô¼ºµÄÄÚÔÚ£¬ÈÎºÎÊÂÎï¡ª¡ªÒ»Ì×ĞÅÄîÏµÍ³£¬Ò»¸ö¶¨Òå£¬Ò»ÖÖÇéĞ÷£¬Ò»¸öÏë·¨¡ª¡ªÖ»ÒªÄãÄÚÔÚĞèÒª±»´¦ÀíµÄ£¬ÎªÁËÈÃÄã³ÉÎª¸üÍêÕûµÄÈË¡¢ÎªÁË³¯×ÅÄãËùÆÚÍûµÄÏÖÊµÓëÀíÏë´æÔÚ×´Ì¬Ç°½ø¡£
+è¿™ä¹Ÿæ„å‘³ç€ä½ æ„¿æ„å®¡è§†è‡ªå·±çš„å†…åœ¨ï¼Œä»»ä½•äº‹ç‰©â€”â€”ä¸€å¥—ä¿¡å¿µç³»ç»Ÿï¼Œä¸€ä¸ªå®šä¹‰ï¼Œä¸€ç§æƒ…ç»ªï¼Œä¸€ä¸ªæƒ³æ³•â€”â€”åªè¦ä½ å†…åœ¨éœ€è¦è¢«å¤„ç†çš„ï¼Œä¸ºäº†è®©ä½ æˆä¸ºæ›´å®Œæ•´çš„äººã€ä¸ºäº†æœç€ä½ æ‰€æœŸæœ›çš„ç°å®ä¸ç†æƒ³å­˜åœ¨çŠ¶æ€å‰è¿›ã€‚
 
 It is also being willing to look at anything within yourself. Anything at all. A belief system, a definition, an emotion, a thought. Anything within yourself that needs to be processed in order for you to become a more integrated being in order to move forward in the direction of that preferred reality that preferred state of being.
 
 
 
-µ±Äã³¯×Å×îÈÃÄãĞË·ÜµÄ·½ÏòĞĞ¶¯Ê±£¬Äã»á¿ªÊ¼Ò»¸ö½ø³Ì£¬ÈÃÊÂÇéÔË×ªÆğÀ´£¬½âËøÄãÈË¸ñ½á¹¹ÖĞµÄÄ³Ğ©ÌØÖÊ£»Äã»á¿ªÊ¼×¢Òâµ½Ä³Ğ©ĞÅÄîºÍ¶¨Òå£¬ÕâĞ©»á±»´øµ½ÄãÃæÇ°£¬ÈÃÄãÒâÊ¶µ½ËüÃÇ¡£
+å½“ä½ æœç€æœ€è®©ä½ å…´å¥‹çš„æ–¹å‘è¡ŒåŠ¨æ—¶ï¼Œä½ ä¼šå¼€å§‹ä¸€ä¸ªè¿›ç¨‹ï¼Œè®©äº‹æƒ…è¿è½¬èµ·æ¥ï¼Œè§£é”ä½ äººæ ¼ç»“æ„ä¸­çš„æŸäº›ç‰¹è´¨ï¼›ä½ ä¼šå¼€å§‹æ³¨æ„åˆ°æŸäº›ä¿¡å¿µå’Œå®šä¹‰ï¼Œè¿™äº›ä¼šè¢«å¸¦åˆ°ä½ é¢å‰ï¼Œè®©ä½ æ„è¯†åˆ°å®ƒä»¬ã€‚
 
 as You take actions in your life in the direction of the things that excite you the most You will start a process start a ball rolling as you say that will unlock your Certain parameters within your personality certain beliefs and certain definitions will then be brought to your attention. You will be made conscious of them.
 
 
 
-µ±ÄãÔÚĞĞ¶¯ÖĞÒâÊ¶µ½ĞÅÄîºÍ¶¨ÒåÊ±£¬Ö®ËùÒÔÈÃÄã²ì¾õ£¬²¢²»ÊÇÒòÎªÄã±»¿¨ÔÚÄÇÀï£¬¶øÊÇ±íÃ÷ÕâÊÇÄãÒªÈ¥´¦ÀíµÄÊÂ£¬¸øÄã»ú»áÈ¥³¬Ô½ºÍÕûºÏËüÃÇ¡£
+å½“ä½ åœ¨è¡ŒåŠ¨ä¸­æ„è¯†åˆ°ä¿¡å¿µå’Œå®šä¹‰æ—¶ï¼Œä¹‹æ‰€ä»¥è®©ä½ å¯Ÿè§‰ï¼Œå¹¶ä¸æ˜¯å› ä¸ºä½ è¢«å¡åœ¨é‚£é‡Œï¼Œè€Œæ˜¯è¡¨æ˜è¿™æ˜¯ä½ è¦å»å¤„ç†çš„äº‹ï¼Œç»™ä½ æœºä¼šå»è¶…è¶Šå’Œæ•´åˆå®ƒä»¬ã€‚
 
 And when you are made conscious of them as you take these actions you are not made conscious of them because it is a reflection that you are stuck with it. You are made conscious of them because it is a reflection that this is what you need to deal with so that it gives you the opportunity to move beyond it to integrate it and move beyond it.
 
 
 
-ËùÒÔ£¬µ±ÀàËÆÇé¿ö³öÏÖÊ±£¬¼´Ê¹ÄãºÁÎŞ×¼±¸£¬Ò²ÒªÃ÷°×ÄÇÊÇÃÀºÃµÄ»úÓö£¬ÄÜÈÃÄãÇ°½ø¡¢³¬Ô½£¬²¢ÍÆ¶¯ÄãÏòÇ°×ß¡£Èç¹ûÄãÄÜÔÚ»ı¼«µÄ×´Ì¬ÏÂ´¦ÀíÕâĞ©Çé¾³£¬°ÑËüÃÇ¿´×÷ÖúÄãÂõÏòÏÂÒ»¸ö½×¶ÎµÄ½×Ìİ¡£
+æ‰€ä»¥ï¼Œå½“ç±»ä¼¼æƒ…å†µå‡ºç°æ—¶ï¼Œå³ä½¿ä½ æ¯«æ— å‡†å¤‡ï¼Œä¹Ÿè¦æ˜ç™½é‚£æ˜¯ç¾å¥½çš„æœºé‡ï¼Œèƒ½è®©ä½ å‰è¿›ã€è¶…è¶Šï¼Œå¹¶æ¨åŠ¨ä½ å‘å‰èµ°ã€‚å¦‚æœä½ èƒ½åœ¨ç§¯æçš„çŠ¶æ€ä¸‹å¤„ç†è¿™äº›æƒ…å¢ƒï¼ŒæŠŠå®ƒä»¬çœ‹ä½œåŠ©ä½ è¿ˆå‘ä¸‹ä¸€ä¸ªé˜¶æ®µçš„é˜¶æ¢¯ã€‚
 
-So anytime anything like that comes up even if you didn¡¯t expect it it is a joyful event that gives you the opportunity to propel yourself through it and beyond it if you will act upon that circumstance in that way, from that positive point of view. Labeling it as positive that it is there using it in a positive way as a stepping stone to the next stepping stone.
-
-
-
-¼Ç×¡£¬Ã¿¸öµã¡¢Ã¿¸öÏë·¨¶¼ÊÇ½ø²½µÄ½×Ìİ¡£Èç¹ûÄã²»È¥ÈÏ¿ÉËüµÄ´æÔÚ£¬¾ÍÎŞ·¨ÓÃËüÂõÏòÏÂÒ»²½£¬»áÈçÍ¬³öÏÖ¶Ï²ã¡£
-
-Remember, Every point, every idea is a stepping stone. And if you don¡¯t validate the one that¡¯s there you cannot use it to get to the next one. It will be as if there is a gap.
+So anytime anything like that comes up even if you didnâ€™t expect it it is a joyful event that gives you the opportunity to propel yourself through it and beyond it if you will act upon that circumstance in that way, from that positive point of view. Labeling it as positive that it is there using it in a positive way as a stepping stone to the next stepping stone.
 
 
 
-ËùÒÔ£¬²ÉÈ¡ĞĞ¶¯µÄ¹ı³ÌÊÇÕûÌåµÄ£¬ÊÇ²»¶ÏÇ°½øµÄ£¬ÄÄÅÂÔÚÄãÃÇËùÎ½µÄ¡°ĞÅÑö¡±Àï£¬Ëü²¢²»ĞèÒªÄãÀí½âµÄÄÇÖÖĞÅÑö£¬¶ø¿ÉÒÔÊÇÒ»ÖÖÈ·Öª£¬Ò»ÖÖ³ä·ÖµÄÖªÏş¡£
+è®°ä½ï¼Œæ¯ä¸ªç‚¹ã€æ¯ä¸ªæƒ³æ³•éƒ½æ˜¯è¿›æ­¥çš„é˜¶æ¢¯ã€‚å¦‚æœä½ ä¸å»è®¤å¯å®ƒçš„å­˜åœ¨ï¼Œå°±æ— æ³•ç”¨å®ƒè¿ˆå‘ä¸‹ä¸€æ­¥ï¼Œä¼šå¦‚åŒå‡ºç°æ–­å±‚ã€‚
 
-So the idea of taking action is an overall holistic process of taking steps forward in what you might typically call faith but doesn¡¯t really require faith as you understand it. It can be a knowing, an absolute knowing.
-
-
-
-ÄÇÊÇÄã¸ü¸ßµÄ¸ßÎÒĞÄÖÇÔÚÒıµ¼Äã£¬ÄãËù²ÉÈ¡µÄĞĞ¶¯ºÍÄãÉú»îÖĞ³ÊÏÖµÄÊÂÎï£¬ÆäÊµÊÇÈç¹û±»»ı¼«ÔËÓÃ£¬¾ÍÄÜ´øÄãµ½´ïÄãÕæÕıÏëÈ¥µÄµØ·½¡£ÄÇ¾ÍÊÇËüÃÇ´æÔÚµÄÄ¿µÄ¡£
-
-That your higher mind is guiding you and that the steps you take and the things that are presented to you in life are the things that actually when used in a positive way, when acted on in a positive way will get you where you actually wish to go. that¡¯s what they¡¯re there for
+Remember, Every point, every idea is a stepping stone. And if you donâ€™t validate the one thatâ€™s there you cannot use it to get to the next one. It will be as if there is a gap.
 
 
 
-ËüÃÇµÄ´æÔÚÊÇÎªÁËÈÃÄãÍ¨¹ıÌØ¶¨µÄĞÎÊ½ºÍÁ÷³ÌÌåÑéÕâ¶ÎÂÃ³Ì£¬´Ó¶øÕæÕı¶®µÃĞÀÉÍ¡¢³ä·ÖÀûÓÃ£¬²¢×îÖÕÏÔ»¯¡£ÕıÒòÈç´Ë£¬ÄãĞèÒªĞĞ¶¯£¬Ò²ÕıÊÇÎªÁËÑ§Ï°ÄãËùĞèÒªµÄÒ»ÇĞ¡£
+æ‰€ä»¥ï¼Œé‡‡å–è¡ŒåŠ¨çš„è¿‡ç¨‹æ˜¯æ•´ä½“çš„ï¼Œæ˜¯ä¸æ–­å‰è¿›çš„ï¼Œå“ªæ€•åœ¨ä½ ä»¬æ‰€è°“çš„â€œä¿¡ä»°â€é‡Œï¼Œå®ƒå¹¶ä¸éœ€è¦ä½ ç†è§£çš„é‚£ç§ä¿¡ä»°ï¼Œè€Œå¯ä»¥æ˜¯ä¸€ç§ç¡®çŸ¥ï¼Œä¸€ç§å……åˆ†çš„çŸ¥æ™“ã€‚
 
-but they¡¯re there to give you that journey in a particular form in a particular process that actually gives you the ability to fully appreciate and fully utilize what it is that ultimately will manifest the process is for that reason taking action is for that reason is for learning the things You need to learn.
+So the idea of taking action is an overall holistic process of taking steps forward in what you might typically call faith but doesnâ€™t really require faith as you understand it. It can be a knowing, an absolute knowing.
 
 
 
-ÄãĞèÒªÌåÑéĞĞ¶¯Õâ¸ö¹ı³Ì£¬ÒòÎªÕû¸ö¹ı³Ì¼´ÊÇÄãÄ¿±êµÄÕ¹ÏÖ¡£µ±ÄÇ¸öÄ¿±êÕæÕıÏÔÏÖÊ±£¬Äã½«¸üÓĞÄÜÁ¦¡¢¸ü¾ß¸Ğ¼¤µØÀí½âËü²¢ÔËÓÃ£¬ÎªËùÓĞÏà¹Ø·½´øÀ´×î¼ÑĞ§¹û¡£
+é‚£æ˜¯ä½ æ›´é«˜çš„é«˜æˆ‘å¿ƒæ™ºåœ¨å¼•å¯¼ä½ ï¼Œä½ æ‰€é‡‡å–çš„è¡ŒåŠ¨å’Œä½ ç”Ÿæ´»ä¸­å‘ˆç°çš„äº‹ç‰©ï¼Œå…¶å®æ˜¯å¦‚æœè¢«ç§¯æè¿ç”¨ï¼Œå°±èƒ½å¸¦ä½ åˆ°è¾¾ä½ çœŸæ­£æƒ³å»çš„åœ°æ–¹ã€‚é‚£å°±æ˜¯å®ƒä»¬å­˜åœ¨çš„ç›®çš„ã€‚
+
+That your higher mind is guiding you and that the steps you take and the things that are presented to you in life are the things that actually when used in a positive way, when acted on in a positive way will get you where you actually wish to go. thatâ€™s what theyâ€™re there for
+
+
+
+å®ƒä»¬çš„å­˜åœ¨æ˜¯ä¸ºäº†è®©ä½ é€šè¿‡ç‰¹å®šçš„å½¢å¼å’Œæµç¨‹ä½“éªŒè¿™æ®µæ—…ç¨‹ï¼Œä»è€ŒçœŸæ­£æ‡‚å¾—æ¬£èµã€å……åˆ†åˆ©ç”¨ï¼Œå¹¶æœ€ç»ˆæ˜¾åŒ–ã€‚æ­£å› å¦‚æ­¤ï¼Œä½ éœ€è¦è¡ŒåŠ¨ï¼Œä¹Ÿæ­£æ˜¯ä¸ºäº†å­¦ä¹ ä½ æ‰€éœ€è¦çš„ä¸€åˆ‡ã€‚
+
+but theyâ€™re there to give you that journey in a particular form in a particular process that actually gives you the ability to fully appreciate and fully utilize what it is that ultimately will manifest the process is for that reason taking action is for that reason is for learning the things You need to learn.
+
+
+
+ä½ éœ€è¦ä½“éªŒè¡ŒåŠ¨è¿™ä¸ªè¿‡ç¨‹ï¼Œå› ä¸ºæ•´ä¸ªè¿‡ç¨‹å³æ˜¯ä½ ç›®æ ‡çš„å±•ç°ã€‚å½“é‚£ä¸ªç›®æ ‡çœŸæ­£æ˜¾ç°æ—¶ï¼Œä½ å°†æ›´æœ‰èƒ½åŠ›ã€æ›´å…·æ„Ÿæ¿€åœ°ç†è§£å®ƒå¹¶è¿ç”¨ï¼Œä¸ºæ‰€æœ‰ç›¸å…³æ–¹å¸¦æ¥æœ€ä½³æ•ˆæœã€‚
 
 Experiencing the process, you need to experience in order that when the thing itself that might be the object of the manifestation manifests you actually will have more capability more appreciation to utilize it in the best possible way for all concerned.
 
 
 
-Õâ¾ÍÊÇÖØµã¡£ÎÒÃÇÖ®Ç°½²ÁËºÜ¶à¹ØÓÚ²ÉÈ¡ĞĞ¶¯µÄ·½Ê½£¬¹ØÓÚÈçºÎ¸ù¾İÄãµÄÈÈÇéĞĞ¶¯µÄ¶à¸ö²ãÃæ£¬ËùÒÔÏÖÔÚÔÙ¸ø´ó¼Ò¸´Ï°¼¸¸öÒªµã¡£
+è¿™å°±æ˜¯é‡ç‚¹ã€‚æˆ‘ä»¬ä¹‹å‰è®²äº†å¾ˆå¤šå…³äºé‡‡å–è¡ŒåŠ¨çš„æ–¹å¼ï¼Œå…³äºå¦‚ä½•æ ¹æ®ä½ çš„çƒ­æƒ…è¡ŒåŠ¨çš„å¤šä¸ªå±‚é¢ï¼Œæ‰€ä»¥ç°åœ¨å†ç»™å¤§å®¶å¤ä¹ å‡ ä¸ªè¦ç‚¹ã€‚
 
-So that¡¯s what that¡¯s about. Now we have talked about many ways of taking action, many levels of the idea of taking action on your excitement. And so we will remind you right now of a few.
-
-
-
-¸ù¾İÄãµÄÈÈÇéĞĞ¶¯Ê±£¬Çë¼Ç×¡£ºÕâ²»ÒâÎ¶×ÅÄã±ØĞëÓĞÒ»¸öÌØ¶¨µÄ¡¢³ÖĞøÒ»ÉúµÄÊÂÒµ»ò¾ßÌåÏîÄ¿¡£µ±È»ÄÇÒ²¿ÉÒÔ£¬µ«Èç¹ûÄã»¹Ã»ÏëºÃÄ¿±ê£¬²»Ò»¶¨·ÇµÃ´ÓÄÇ¿ªÊ¼¡£
-
-When we talk about the idea of taking action on your excitement, again, please remember it doesn¡¯t mean you have to have some sort of particular life-spanning career or project in mind. You can, that¡¯s fine. But you don¡¯t have to start there if you don¡¯t have one in mind.
+So thatâ€™s what thatâ€™s about. Now we have talked about many ways of taking action, many levels of the idea of taking action on your excitement. And so we will remind you right now of a few.
 
 
 
-×îÖØÒªµÄÒ»µãÊÇ£¨ÔÙ´ÎÇ¿µ÷£©£ºÄãËæÊ±¶¼ÓĞºÜ¶àÊÂÇé¿É×ö¡£ÄãÖ»Òª¿´Ò»¿´ÕâĞ©¿ÉĞĞµÄÑ¡Ïî£¬È»ºóÑ¡Ôñ×îÈÃÄãĞË·Ü¡¢µ±ÏÂÄãÒ²ÓĞ×î´óÄÜÁ¦È¥Êµ¼ùµÄÄÇ¸ö£¬¸¶ÖîĞĞ¶¯¡£
+æ ¹æ®ä½ çš„çƒ­æƒ…è¡ŒåŠ¨æ—¶ï¼Œè¯·è®°ä½ï¼šè¿™ä¸æ„å‘³ç€ä½ å¿…é¡»æœ‰ä¸€ä¸ªç‰¹å®šçš„ã€æŒç»­ä¸€ç”Ÿçš„äº‹ä¸šæˆ–å…·ä½“é¡¹ç›®ã€‚å½“ç„¶é‚£ä¹Ÿå¯ä»¥ï¼Œä½†å¦‚æœä½ è¿˜æ²¡æƒ³å¥½ç›®æ ‡ï¼Œä¸ä¸€å®šéå¾—ä»é‚£å¼€å§‹ã€‚
+
+When we talk about the idea of taking action on your excitement, again, please remember it doesnâ€™t mean you have to have some sort of particular life-spanning career or project in mind. You can, thatâ€™s fine. But you donâ€™t have to start there if you donâ€™t have one in mind.
+
+
+
+æœ€é‡è¦çš„ä¸€ç‚¹æ˜¯ï¼ˆå†æ¬¡å¼ºè°ƒï¼‰ï¼šä½ éšæ—¶éƒ½æœ‰å¾ˆå¤šäº‹æƒ…å¯åšã€‚ä½ åªè¦çœ‹ä¸€çœ‹è¿™äº›å¯è¡Œçš„é€‰é¡¹ï¼Œç„¶åé€‰æ‹©æœ€è®©ä½ å…´å¥‹ã€å½“ä¸‹ä½ ä¹Ÿæœ‰æœ€å¤§èƒ½åŠ›å»å®è·µçš„é‚£ä¸ªï¼Œä»˜è¯¸è¡ŒåŠ¨ã€‚
 
 The idea, first and foremost, is to recognize that, again at any given moment you have available to you a number of options of things you could do. All you have to do is look at all the options available to you and act on the one that is most exciting to you that you have the greatest degree of ability to take action on at that moment.
 
 
 
-Èç¹û¶à¸öÑ¡Ôñ¶¼Í¬ÑùÈÃÄãĞË·Ü£¬ÄÇÄã¿ÉÒÔÈÎÑ¡Ò»¸öÈ¥×ö£¬ÈÃËüÒıµ¼ÄãÊÇ·ñ¼ÌĞø³¯¸Ã·½ÏòÇ°½ø£¬»ò×ªÈ¥×öÁíÒ»¸ö¡£»òÕßÄãÒ²¿ÉÒÔ¸øÕâÁ½¸öÍ¬ÑùÁîÈËĞË·ÜµÄÊÂÇéÖØĞÂÌù±êÇ©¡¢ÖØĞÂ¶¨Òå£¬°ÑËüÃÇÊÓÎªÒ»¸ö¸üºê´óµÄĞË·ÜÄ¿±êµÄ²»Í¬ÃæÏò¡£
+å¦‚æœå¤šä¸ªé€‰æ‹©éƒ½åŒæ ·è®©ä½ å…´å¥‹ï¼Œé‚£ä½ å¯ä»¥ä»»é€‰ä¸€ä¸ªå»åšï¼Œè®©å®ƒå¼•å¯¼ä½ æ˜¯å¦ç»§ç»­æœè¯¥æ–¹å‘å‰è¿›ï¼Œæˆ–è½¬å»åšå¦ä¸€ä¸ªã€‚æˆ–è€…ä½ ä¹Ÿå¯ä»¥ç»™è¿™ä¸¤ä¸ªåŒæ ·ä»¤äººå…´å¥‹çš„äº‹æƒ…é‡æ–°è´´æ ‡ç­¾ã€é‡æ–°å®šä¹‰ï¼ŒæŠŠå®ƒä»¬è§†ä¸ºä¸€ä¸ªæ›´å®å¤§çš„å…´å¥‹ç›®æ ‡çš„ä¸åŒé¢å‘ã€‚
 
 And if more than one seems equally exciting then you can either take action on either and let it guide you as to whether to keep going in that direction or turn around and do the other one or you can relabel, redefine, and re-identify the two apparently equally exciting things as simply different aspects of one larger overriding over all exciting things of which those two things might simply be reflections of.
 
 
 
-ÕâÊÇÒ»¸öÕûºÏ¡¢ÈÚºÏĞË·Ü¸Ğ£¬²¢·¢ÏÖÆäÄÚÔÚÁªÏµµÄ»ú»á¡£Èç¹ûÁ½¼şÊÂÍ¬ÑùÈÃÄãĞË·Ü£¬¿´ÆğÀ´ÄÑ·Ö²®ÖÙ£¬ÄÇÄã²ÉÈ¡ºÎÖÖĞĞ¶¯ÆäÊµ¶¼ÎŞ¹Ø½ôÒª¡£
+è¿™æ˜¯ä¸€ä¸ªæ•´åˆã€èåˆå…´å¥‹æ„Ÿï¼Œå¹¶å‘ç°å…¶å†…åœ¨è”ç³»çš„æœºä¼šã€‚å¦‚æœä¸¤ä»¶äº‹åŒæ ·è®©ä½ å…´å¥‹ï¼Œçœ‹èµ·æ¥éš¾åˆ†ä¼¯ä»²ï¼Œé‚£ä½ é‡‡å–ä½•ç§è¡ŒåŠ¨å…¶å®éƒ½æ— å…³ç´§è¦ã€‚
 
-It¡¯s an opportunity to consolidate and integrate the idea of your excitement and recognize connections where they exist if two things seem equal to you in excitement. but if they do seem equal it won¡¯t matter really what you take action on
-
-
-
-»ùÓÚÄã×îÄÜ¸¶ÖîĞĞ¶¯µÄÏë·¨¡£µÚÒ»ÌõÊÇ£ºÑ¡Ôñ×îÁîÄãĞË·ÜµÄÊÂ£»µÚ¶şÌõ£ºÄãÓĞ×î´óÄÜÁ¦È¥×öµÄ£¬¾Í¾¡Á¦ÎªÖ®£¬Ö±µ½ÎŞ·¨¼ÌĞøÎªÖ¹¡£µ±Äãµ½´ïĞÂµÄÊ®×ÖÂ·¿ÚÊ±£¬ÔÙ¿´¿´ÖÜÎ§ÓĞÄÄĞ©»ú»á¡¢Çé¾³£¬ÒÀÈ»×ñ´Ó¡°×îĞË·Ü¡±µÄ±ê×¼£¬È»ºóĞĞ¶¯¡£
-
-based on the idea of what you have the greatest ability to take action on so that¡¯s the first criteria choose whatever it is that most exciting secondly that you have the greatest degree of ability to actually do something about and take it as far as you can until you can take it no further then when you reach that new crossroads look around for what opportunities circumstances and situations are, once again, most representative of the most exciting thing. And choose that and act on it.
+Itâ€™s an opportunity to consolidate and integrate the idea of your excitement and recognize connections where they exist if two things seem equal to you in excitement. but if they do seem equal it wonâ€™t matter really what you take action on
 
 
 
-ÔÙ´ÎÇ¿µ÷£¬²»ÊÇÒªÑ°ÕÒÄÇĞ©±íÃæÉÏ¿´ËÆºÍÄãÈÈÇéÄ¿±êÖ±½Ó¹ØÁªµÄÊÂ£¬¶øÊÇÈ¥¸úËæÄÇĞ©×îÈÃÄãĞË·ÜµÄĞĞ¶¯¡£ÄãÖ®ËùÒÔĞË·Ü£¬ÕıÊÇÒòÎªËüºÍÄãÏëÈ¥µÄ·½ÏòÏàÁ¬¡£
+åŸºäºä½ æœ€èƒ½ä»˜è¯¸è¡ŒåŠ¨çš„æƒ³æ³•ã€‚ç¬¬ä¸€æ¡æ˜¯ï¼šé€‰æ‹©æœ€ä»¤ä½ å…´å¥‹çš„äº‹ï¼›ç¬¬äºŒæ¡ï¼šä½ æœ‰æœ€å¤§èƒ½åŠ›å»åšçš„ï¼Œå°±å°½åŠ›ä¸ºä¹‹ï¼Œç›´åˆ°æ— æ³•ç»§ç»­ä¸ºæ­¢ã€‚å½“ä½ åˆ°è¾¾æ–°çš„åå­—è·¯å£æ—¶ï¼Œå†çœ‹çœ‹å‘¨å›´æœ‰å“ªäº›æœºä¼šã€æƒ…å¢ƒï¼Œä¾ç„¶éµä»â€œæœ€å…´å¥‹â€çš„æ ‡å‡†ï¼Œç„¶åè¡ŒåŠ¨ã€‚
 
-Now, once again, it¡¯s not about looking for those things that you think are suppose to appeal connected to what you think excites you. It¡¯s simply about following whatever is most exciting and knowing that the reason it¡¯s most exciting is because it is connected to where you want to go. That¡¯s why it¡¯s exciting.
-
-
-
-²»ÊÇÒòÎªËü±íÃæÉÏ¿´×ÅÒ»¶¨ÓĞ¹ØÁª¡£ºÜ¶àÊ±ºò£¬×îÈÃÄãĞË·ÜµÄÊÂ£¬¿´ÆğÀ´ºÍÆäËûÈÃÄãĞË·ÜµÄÄ¿±ê²¢ÎŞ¹ØÏµ£¬µ«ËüÃÇÆäÊµ¿ÉÄÜÊÇ¡°³¯ÄÇ¸ö·½ÏòÇ°½ø¡±µÄ¡°×èÁ¦×îĞ¡µÄÂ·¾¶¡±¡£
-
-Not because it has to look like it¡¯s connected, because very often the things that excite you the most will not necessarily appear to be connected to other things that excite you but they may actually in fact be representative, moving in that direction, of the path of least resistance.
+based on the idea of what you have the greatest ability to take action on so thatâ€™s the first criteria choose whatever it is that most exciting secondly that you have the greatest degree of ability to actually do something about and take it as far as you can until you can take it no further then when you reach that new crossroads look around for what opportunities circumstances and situations are, once again, most representative of the most exciting thing. And choose that and act on it.
 
 
 
-ÄãµÄÎïÖÊ½çĞÄÖÇÒ²ĞíÒÔÎª¡°×èÁ¦×îĞ¡µÄÂ·¾¶¡±ÊÇÄ³¸ö·½Ïò£¬µ«ÄãµÄ¸ßÎÒĞÄÖÇ»áÍ¨¹ı¡°×îÁîÄãĞË·ÜµÄÊÂ¡±¸æËßÄãÕæÕıµÄ¡°×èÁ¦×îĞ¡Â·¾¶¡±£¬¼´Ê¹Õ§¿´ÆğÀ´ÓĞµãÈÆ¡£
+å†æ¬¡å¼ºè°ƒï¼Œä¸æ˜¯è¦å¯»æ‰¾é‚£äº›è¡¨é¢ä¸Šçœ‹ä¼¼å’Œä½ çƒ­æƒ…ç›®æ ‡ç›´æ¥å…³è”çš„äº‹ï¼Œè€Œæ˜¯å»è·Ÿéšé‚£äº›æœ€è®©ä½ å…´å¥‹çš„è¡ŒåŠ¨ã€‚ä½ ä¹‹æ‰€ä»¥å…´å¥‹ï¼Œæ­£æ˜¯å› ä¸ºå®ƒå’Œä½ æƒ³å»çš„æ–¹å‘ç›¸è¿ã€‚
+
+Now, once again, itâ€™s not about looking for those things that you think are suppose to appeal connected to what you think excites you. Itâ€™s simply about following whatever is most exciting and knowing that the reason itâ€™s most exciting is because it is connected to where you want to go. Thatâ€™s why itâ€™s exciting.
+
+
+
+ä¸æ˜¯å› ä¸ºå®ƒè¡¨é¢ä¸Šçœ‹ç€ä¸€å®šæœ‰å…³è”ã€‚å¾ˆå¤šæ—¶å€™ï¼Œæœ€è®©ä½ å…´å¥‹çš„äº‹ï¼Œçœ‹èµ·æ¥å’Œå…¶ä»–è®©ä½ å…´å¥‹çš„ç›®æ ‡å¹¶æ— å…³ç³»ï¼Œä½†å®ƒä»¬å…¶å®å¯èƒ½æ˜¯â€œæœé‚£ä¸ªæ–¹å‘å‰è¿›â€çš„â€œé˜»åŠ›æœ€å°çš„è·¯å¾„â€ã€‚
+
+Not because it has to look like itâ€™s connected, because very often the things that excite you the most will not necessarily appear to be connected to other things that excite you but they may actually in fact be representative, moving in that direction, of the path of least resistance.
+
+
+
+ä½ çš„ç‰©è´¨ç•Œå¿ƒæ™ºä¹Ÿè®¸ä»¥ä¸ºâ€œé˜»åŠ›æœ€å°çš„è·¯å¾„â€æ˜¯æŸä¸ªæ–¹å‘ï¼Œä½†ä½ çš„é«˜æˆ‘å¿ƒæ™ºä¼šé€šè¿‡â€œæœ€ä»¤ä½ å…´å¥‹çš„äº‹â€å‘Šè¯‰ä½ çœŸæ­£çš„â€œé˜»åŠ›æœ€å°è·¯å¾„â€ï¼Œå³ä½¿ä¹çœ‹èµ·æ¥æœ‰ç‚¹ç»•ã€‚
 
 Your physical mind may think that the path of least resistance is this way but your higher mind will show you through the idea of what comes with the most excitement what the path of least resistance actually is even if it seems a little bit circuitous at first.
 
 
 
-ĞË·Ü»á¸æËßÄã£ºÄÇ²ÅÊÇ×î¶Ì¡¢×îÑ¸ËÙ¡¢×îÇáËÉµÄ½İ¾¶¡£ÏàĞÅÄãµÄĞË·Ü¸Ğ£¬ÏàĞÅÄãµÄÈÈÇé£¬Ëü»á´øÄã×ß¶ÔµÄ·½Ïò£¬°ïÄã´¦Àí¸Ã´¦ÀíµÄÊÂÇé£¬ÈÃÄãÌåÑéµ½ÄãËùĞèµÄÍ¬²½ĞÔ¡£
+å…´å¥‹ä¼šå‘Šè¯‰ä½ ï¼šé‚£æ‰æ˜¯æœ€çŸ­ã€æœ€è¿…é€Ÿã€æœ€è½»æ¾çš„æ·å¾„ã€‚ç›¸ä¿¡ä½ çš„å…´å¥‹æ„Ÿï¼Œç›¸ä¿¡ä½ çš„çƒ­æƒ…ï¼Œå®ƒä¼šå¸¦ä½ èµ°å¯¹çš„æ–¹å‘ï¼Œå¸®ä½ å¤„ç†è¯¥å¤„ç†çš„äº‹æƒ…ï¼Œè®©ä½ ä½“éªŒåˆ°ä½ æ‰€éœ€çš„åŒæ­¥æ€§ã€‚
 
-The excitement tells you it¡¯s actually the shortest, quickest, most effortless path. Trust the excitement. Trust the passion. It will lead you in the proper direction. It will allow you to process what you need to process. It will allow you the synchronicity that you need to experience.
-
-
-
-ËüÒ²»áÒÔ×î¼Ñ·½Ê½´øÄãµ½´ïÄ¿±ê£¬ÈÃÄãÓĞ×î´óµÄÄÜÁ¦ÓëĞÀÉÍÀ´ÔËÓÃÄãËùÏÔ»¯µÄÒ»ÇĞ¡£
-
-And it will get you where you¡¯re going in the best possible way with the highest amount of ability and appreciation to use what you manifest.
+The excitement tells you itâ€™s actually the shortest, quickest, most effortless path. Trust the excitement. Trust the passion. It will lead you in the proper direction. It will allow you to process what you need to process. It will allow you the synchronicity that you need to experience.
 
 
 
-ÏÖÔÚ£¬Í¬²½ĞÔÔÚĞĞ¶¯ÖĞÖÁ¹ØÖØÒª¡£ÔÙËµÒ»±é£¬µ±ÄãÕæµÄÔ¸ÒâÈ«Á¦ÒÔ¸°Ê±£¬¾ÍÈ¥ĞĞ¶¯¡ª¡ª¶ÔÄãËùËµµÄÈÃÄãĞË·ÜµÄÊÂ×ö³ö³ĞÅµ£¬¾¡ÄãËùÄÜ£¬ÈÃĞĞ¶¯³ÉÎªÄãÔÚÎïÖÊ½çÊµ´òÊµµÄÌåÑé¡£ÈÃĞĞ¶¯ÕæÊµµÄÈ¥¸ĞÊÜ¡¢È¥Æ·³¢¡¢È¥ÎÅ¡¢È¥´¥Ãş¡¢È¥¿´¡¢È¥Ìı£¬Òª¾¡¿ÉÄÜµØÊµÏÖËü¡ª¡ª²ÉÈ¡ĞĞ¶¯£¬ÉíÌåÁ¦ĞĞ¡£
+å®ƒä¹Ÿä¼šä»¥æœ€ä½³æ–¹å¼å¸¦ä½ åˆ°è¾¾ç›®æ ‡ï¼Œè®©ä½ æœ‰æœ€å¤§çš„èƒ½åŠ›ä¸æ¬£èµæ¥è¿ç”¨ä½ æ‰€æ˜¾åŒ–çš„ä¸€åˆ‡ã€‚
+
+And it will get you where youâ€™re going in the best possible way with the highest amount of ability and appreciation to use what you manifest.
+
+
+
+ç°åœ¨ï¼ŒåŒæ­¥æ€§åœ¨è¡ŒåŠ¨ä¸­è‡³å…³é‡è¦ã€‚å†è¯´ä¸€éï¼Œå½“ä½ çœŸçš„æ„¿æ„å…¨åŠ›ä»¥èµ´æ—¶ï¼Œå°±å»è¡ŒåŠ¨â€”â€”å¯¹ä½ æ‰€è¯´çš„è®©ä½ å…´å¥‹çš„äº‹åšå‡ºæ‰¿è¯ºï¼Œå°½ä½ æ‰€èƒ½ï¼Œè®©è¡ŒåŠ¨æˆä¸ºä½ åœ¨ç‰©è´¨ç•Œå®æ‰“å®çš„ä½“éªŒã€‚è®©è¡ŒåŠ¨çœŸå®çš„å»æ„Ÿå—ã€å»å“å°ã€å»é—»ã€å»è§¦æ‘¸ã€å»çœ‹ã€å»å¬ï¼Œè¦å°½å¯èƒ½åœ°å®ç°å®ƒâ€”â€”é‡‡å–è¡ŒåŠ¨ï¼Œèº«ä½“åŠ›è¡Œã€‚
 
 Now, Synchronicity plays a big key in the idea of taking action. Once again, when you are willing to really put yourself out, take action make a commitment to the things you say excite you do whatever it is you can do to make that a physical reality for yourself to make it real, to feel it, to taste it, to smell it, to touch it, to see it, to hear it to really make it as real as possible, taking action, physical action, physical activity.
 
 
 
-×¨×¢ÓÚÈÃÄãĞË·ÜµÄÊÂ£¬¾¡ÄãËùÄÜ¡£Éú»îÖĞ»á³öÏÖÔ½À´Ô½¶àµÄÇÉºÏ£¬ÈÃ¶ÔµÄÈË¡¢¶ÔµÄµØµã¡¢¶ÔµÄÊ±¼ä£¬ÔÚÄãĞèÒªÊ±Ç¡ÈçÆä·ÖµØÀ´µ½ÄãÃæÇ°¡£Ëü²»»áÔÚÄãĞèÒªµÄÇ°Ò»Ãë³öÏÖ£¬µ«Ò²²»»áÔÚÄãĞèÒªµÄºóÒ»Ãë³öÏÖ¡£Õâ¾ÍÊÇÍ¬²½ĞÔµÄÒâÒåËùÔÚ¡ª¡ªÍêÃÀÊ±»ú¡£
+ä¸“æ³¨äºè®©ä½ å…´å¥‹çš„äº‹ï¼Œå°½ä½ æ‰€èƒ½ã€‚ç”Ÿæ´»ä¸­ä¼šå‡ºç°è¶Šæ¥è¶Šå¤šçš„å·§åˆï¼Œè®©å¯¹çš„äººã€å¯¹çš„åœ°ç‚¹ã€å¯¹çš„æ—¶é—´ï¼Œåœ¨ä½ éœ€è¦æ—¶æ°å¦‚å…¶åˆ†åœ°æ¥åˆ°ä½ é¢å‰ã€‚å®ƒä¸ä¼šåœ¨ä½ éœ€è¦çš„å‰ä¸€ç§’å‡ºç°ï¼Œä½†ä¹Ÿä¸ä¼šåœ¨ä½ éœ€è¦çš„åä¸€ç§’å‡ºç°ã€‚è¿™å°±æ˜¯åŒæ­¥æ€§çš„æ„ä¹‰æ‰€åœ¨â€”â€”å®Œç¾æ—¶æœºã€‚
 
-On that thing that excites you to whatever degree you can more and more synchronicity will occur in your life that will bring to you the right people, the right places, the right time the right support exactly when you need it. It may not come one second before you need it but it will not come one second later than you need it. That¡¯s what synchronicity is all about. Perfect timing. Perfect timing.
+On that thing that excites you to whatever degree you can more and more synchronicity will occur in your life that will bring to you the right people, the right places, the right time the right support exactly when you need it. It may not come one second before you need it but it will not come one second later than you need it. Thatâ€™s what synchronicity is all about. Perfect timing. Perfect timing.
 
 
 
-ÍêÃÀÊ±»ú½«ËùÓĞÒ»ÇĞ»ã¾ÛÔÚÒ»Æğ£¬ËùÓĞÔªËØÔÚÇ¡µ±µÄÊ±»ú³öÏÖ£¬¶¼ÏòÄãÊ¾ÏÖÍòÎïÒ»Ìå¡¢ÍòÎïÏàÁ¬£¬¶øÍ¬²½ĞÔÕıÊÇÏßĞÔÊ±¿ÕÖĞÍòÎïÏàÁ¬µÄÌåÏÖ£¬ÈÃÄã¿´¼ûÍòÊÂÍòÎï±Ë´Ë½»Ö¯µÄÊÂÊµ¡£
+å®Œç¾æ—¶æœºå°†æ‰€æœ‰ä¸€åˆ‡æ±‡èšåœ¨ä¸€èµ·ï¼Œæ‰€æœ‰å…ƒç´ åœ¨æ°å½“çš„æ—¶æœºå‡ºç°ï¼Œéƒ½å‘ä½ ç¤ºç°ä¸‡ç‰©ä¸€ä½“ã€ä¸‡ç‰©ç›¸è¿ï¼Œè€ŒåŒæ­¥æ€§æ­£æ˜¯çº¿æ€§æ—¶ç©ºä¸­ä¸‡ç‰©ç›¸è¿çš„ä½“ç°ï¼Œè®©ä½ çœ‹è§ä¸‡äº‹ä¸‡ç‰©å½¼æ­¤äº¤ç»‡çš„äº‹å®ã€‚
 
 The coming together, the right place and time of all the elements that demonstrate to you that everything is one that everything is connected, and synchronicity is the linear space-time representation of that fact that everything touches everything else.
 
 
 
-ÄãËùĞèµÄÈÎºÎ²¿·Ö¶¼»áÔÚÄãĞèÒªÊ±Ç¡ºÃ³öÏÖ£¬²»Ôç²»Íí£¬·ÖÃë²»²î¡£ÒòÎªÈç¹ûÄã²»ĞèÒª£¬Ëü³öÏÖÒ²Ã»ÓĞÒâÒå¡£
+ä½ æ‰€éœ€çš„ä»»ä½•éƒ¨åˆ†éƒ½ä¼šåœ¨ä½ éœ€è¦æ—¶æ°å¥½å‡ºç°ï¼Œä¸æ—©ä¸æ™šï¼Œåˆ†ç§’ä¸å·®ã€‚å› ä¸ºå¦‚æœä½ ä¸éœ€è¦ï¼Œå®ƒå‡ºç°ä¹Ÿæ²¡æœ‰æ„ä¹‰ã€‚
 
-and that any part that needs to be there in your kit will be there exactly when you need it, not a second later, but not a second sooner because if you don¡¯t need it there¡¯s no point in it showing up.
-
-
-
-ÎÒÃÇÃ÷°×£¬ºÜ¶àÊ±ºòÄãÃÇÓÌÔ¥²»¾ö¡¢²»Ô¸ĞĞ¶¯£¬ÊÇÒòÎªÄãÃÇÔÚµÈÄ³¸ö¡°Æõ»ú¡±£¬Ïë×Å¡°µÈËü³öÏÖÁË£¬ÎÒ²Å»áĞĞ¶¯¡±¡£µ«ÆäÊµ£¬¸ü¶àÊ±ºòÇ¡ºÃÏà·´£ºµ±Äã¿ªÊ¼ĞĞ¶¯£¬ÄãËùĞèÒªµÄÆõ»ú¾Í»á³öÏÖ¡£ÕâÕıÊÇÄãĞèÒªÑ§»áÏàĞÅµÄ¡ª¡ªÍ¨³£ÊÂÇé¾ÍÊÇÕâÑùÔË×÷¡£
-
-So many times we know That one of the reasons many of you hesitate to take some of the actions that are necessary to get things rolling is because you¡¯re waiting for something to show up, thinking, well I¡¯ll take the action when that thing¡¯s there. But in fact, it actually works the other way around more often than not. When you take the action then that thing is there when you need it. And that¡¯s what you need to learn to trust is that that¡¯s how the kit usually works.
+and that any part that needs to be there in your kit will be there exactly when you need it, not a second later, but not a second sooner because if you donâ€™t need it thereâ€™s no point in it showing up.
 
 
 
-µ±È»£¬ÓĞÊ±Æõ»úÒ²¿ÉÄÜ»áÏÈ³öÏÖ£¬µ«ºÜ¶àÊ±ºò²¢²»»á¡£µ«Õâ¶¼²»¸Ã×èÖ¹ÄãĞĞ¶¯¡£Õû¸ö¹ı³Ì»áÔÚÆõ»ú¸Ã·¢ÉúµÄÊ±ºò£¬ÒÔÆõ»ú¸ÃÓĞµÄ·½Ê½·¢Éú¡£
+æˆ‘ä»¬æ˜ç™½ï¼Œå¾ˆå¤šæ—¶å€™ä½ ä»¬çŠ¹è±«ä¸å†³ã€ä¸æ„¿è¡ŒåŠ¨ï¼Œæ˜¯å› ä¸ºä½ ä»¬åœ¨ç­‰æŸä¸ªâ€œå¥‘æœºâ€ï¼Œæƒ³ç€â€œç­‰å®ƒå‡ºç°äº†ï¼Œæˆ‘æ‰ä¼šè¡ŒåŠ¨â€ã€‚ä½†å…¶å®ï¼Œæ›´å¤šæ—¶å€™æ°å¥½ç›¸åï¼šå½“ä½ å¼€å§‹è¡ŒåŠ¨ï¼Œä½ æ‰€éœ€è¦çš„å¥‘æœºå°±ä¼šå‡ºç°ã€‚è¿™æ­£æ˜¯ä½ éœ€è¦å­¦ä¼šç›¸ä¿¡çš„â€”â€”é€šå¸¸äº‹æƒ…å°±æ˜¯è¿™æ ·è¿ä½œã€‚
+
+So many times we know That one of the reasons many of you hesitate to take some of the actions that are necessary to get things rolling is because youâ€™re waiting for something to show up, thinking, well Iâ€™ll take the action when that thingâ€™s there. But in fact, it actually works the other way around more often than not. When you take the action then that thing is there when you need it. And thatâ€™s what you need to learn to trust is that thatâ€™s how the kit usually works.
+
+
+
+å½“ç„¶ï¼Œæœ‰æ—¶å¥‘æœºä¹Ÿå¯èƒ½ä¼šå…ˆå‡ºç°ï¼Œä½†å¾ˆå¤šæ—¶å€™å¹¶ä¸ä¼šã€‚ä½†è¿™éƒ½ä¸è¯¥é˜»æ­¢ä½ è¡ŒåŠ¨ã€‚æ•´ä¸ªè¿‡ç¨‹ä¼šåœ¨å¥‘æœºè¯¥å‘ç”Ÿçš„æ—¶å€™ï¼Œä»¥å¥‘æœºè¯¥æœ‰çš„æ–¹å¼å‘ç”Ÿã€‚
 
 Sometimes it might be there first but many times it may not be. But that should not stop you. The whole process will occur when it needs to in exactly the manner that it does.
 
 
 
-ÏÖÔÚ£¬¹ØÓÚ²ÉÈ¡ĞĞ¶¯£¬ÎÒÃÇÒ²ÌÖÂÛ¹ı¡°¾¡¿ÉÄÜÀÎ¹ÌµØ´´ÔìÄãÄÔº£ÖĞÀíÏëÏÖÊµµÄÔ¸¾°¡±£¬ÒÔ¼°ÓÃÎïÖÊ½çµÄÊÂÎïÈ¥Ä£Äâ»ò¡°Ô¤Ñİ¡±Õâ¸öÔ¸¾°£¬¾¡ÄãËùÄÜ¡£
+ç°åœ¨ï¼Œå…³äºé‡‡å–è¡ŒåŠ¨ï¼Œæˆ‘ä»¬ä¹Ÿè®¨è®ºè¿‡â€œå°½å¯èƒ½ç‰¢å›ºåœ°åˆ›é€ ä½ è„‘æµ·ä¸­ç†æƒ³ç°å®çš„æ„¿æ™¯â€ï¼Œä»¥åŠç”¨ç‰©è´¨ç•Œçš„äº‹ç‰©å»æ¨¡æ‹Ÿæˆ–â€œé¢„æ¼”â€è¿™ä¸ªæ„¿æ™¯ï¼Œå°½ä½ æ‰€èƒ½ã€‚
 
 Now, in terms of taking action we have also talked about the idea of creating as solidly as possible the vision that you have in your mind of what represent your ideal reality We have talked about the idea of mocking it up in physical terms, simulating it, if you will as best as you can.
 
 
 
-½ß¾¡È«Á¦ÈÔÈ»ÊÇÖØÒªµÄ¹Ø¼ü¡£Äã»á·¢ÏÖºÜ¶à×ÔÈÏÊÇ³É¹¦ÏÔ»¯ÕßµÄÈË£¬ÔÚÈËÉú²»Í¬½×¶Î¶¼ÔøÓĞ¹ıÔ¸¾°£¬¶øËûÃÇÒ²»áÒÔÄ³ÖÖ·½Ê½Ç×ÉíÑİÁ·ÄÇ¸öÔ¸¾°£¬ÄÄÅÂµ±Ê±²¢²»ÊÇÕæÕıµÄ¡°ÕıÊ½Ê±¿Ì¡±¡£
+ç«­å°½å…¨åŠ›ä»ç„¶æ˜¯é‡è¦çš„å…³é”®ã€‚ä½ ä¼šå‘ç°å¾ˆå¤šè‡ªè®¤æ˜¯æˆåŠŸæ˜¾åŒ–è€…çš„äººï¼Œåœ¨äººç”Ÿä¸åŒé˜¶æ®µéƒ½æ›¾æœ‰è¿‡æ„¿æ™¯ï¼Œè€Œä»–ä»¬ä¹Ÿä¼šä»¥æŸç§æ–¹å¼äº²èº«æ¼”ç»ƒé‚£ä¸ªæ„¿æ™¯ï¼Œå“ªæ€•å½“æ—¶å¹¶ä¸æ˜¯çœŸæ­£çš„â€œæ­£å¼æ—¶åˆ»â€ã€‚
 
-This is still an important key. Once again, you will find that many people who consider themselves to be successful manifestors will have at various points in their lives, had a vision but they will actually have play-acted the vision out physically in some fashion even though it may not actually have been at the moment the¡°real thing¡±
+This is still an important key. Once again, you will find that many people who consider themselves to be successful manifestors will have at various points in their lives, had a vision but they will actually have play-acted the vision out physically in some fashion even though it may not actually have been at the moment theâ€œreal thingâ€
 
 
 
-ÀıÈç£¬ÏëÒªµÇÉÏÎèÌ¨»òÅÄµçÓ°µÄÑİÔ±£¬»òĞí»áÔÚÄÃµ½ÕıÊ½½ÇÉ«Ç°£¬¾ÍÏÈÈ¥ÎèÌ¨»òÆ¬³¡£¬ÕÒÅóÓÑÅÄÉã£¬È»ºóÑİÒ»¶ÎÏ·¡ª¡ª¿ÉÄÜÊÇËûÃÇ×Ô¼º»ò±ğÈËĞ´µÄ¡ª¡ªËûÃÇ»áÒÔÊµ¼Ê¶¯×÷Ä£Äâ£¬¾ÍÏñÄÇÒ»¿ÌÕæÔÚÅÄµçÓ°Ò»Ñù£¬Õæ¸ÉÊµ¸É£¬³ÉÎªÕæÕıµÄÑİÔ±¡£
+ä¾‹å¦‚ï¼Œæƒ³è¦ç™»ä¸Šèˆå°æˆ–æ‹ç”µå½±çš„æ¼”å‘˜ï¼Œæˆ–è®¸ä¼šåœ¨æ‹¿åˆ°æ­£å¼è§’è‰²å‰ï¼Œå°±å…ˆå»èˆå°æˆ–ç‰‡åœºï¼Œæ‰¾æœ‹å‹æ‹æ‘„ï¼Œç„¶åæ¼”ä¸€æ®µæˆâ€”â€”å¯èƒ½æ˜¯ä»–ä»¬è‡ªå·±æˆ–åˆ«äººå†™çš„â€”â€”ä»–ä»¬ä¼šä»¥å®é™…åŠ¨ä½œæ¨¡æ‹Ÿï¼Œå°±åƒé‚£ä¸€åˆ»çœŸåœ¨æ‹ç”µå½±ä¸€æ ·ï¼ŒçœŸå¹²å®å¹²ï¼Œæˆä¸ºçœŸæ­£çš„æ¼”å‘˜ã€‚
 
 An actor, for example who wishes to act on stage or wishes to act in a movie may simply go before they have ever given a part they may simply go to a stage to a sound stage may hire their friends to run a camera. They will then act out a part, perhaps that they wrote or someone else wrote but they will go through the actual physical motion, mocking it up as though they really are, at that moment making a real movie doing it for real being a real actor.
 
 
 
-Í¨¹ıÕâÖÖ·½Ê½£¬Í¨¹ı²ÉÈ¡ÕâÑùµÄĞĞ¶¯£¬²»½öÊÇÈ¥×öÁ¦ËùÄÜ¼°¡¢ÓëÄãÈÈ°®Ö®ÊÂÏà¹ØµÄÈÎºÎÊµÎñ£¬¸üÊÇÍ¨¹ı¡°ÑİÁ·¡±À´ÊÊÓ¦ÄÇ¸ö³¡¾°¡ª¡ªÄ³ÖÖÒâÒåÉÏÄãÕıÔÚÑµÁ·ÉíÌåÈ¥ÊÊÓ¦ÄÇÖÖ¡°ÀíÏëÏÖÊµ¡±µÄÕñ¶¯¡£
+é€šè¿‡è¿™ç§æ–¹å¼ï¼Œé€šè¿‡é‡‡å–è¿™æ ·çš„è¡ŒåŠ¨ï¼Œä¸ä»…æ˜¯å»åšåŠ›æ‰€èƒ½åŠã€ä¸ä½ çƒ­çˆ±ä¹‹äº‹ç›¸å…³çš„ä»»ä½•å®åŠ¡ï¼Œæ›´æ˜¯é€šè¿‡â€œæ¼”ç»ƒâ€æ¥é€‚åº”é‚£ä¸ªåœºæ™¯â€”â€”æŸç§æ„ä¹‰ä¸Šä½ æ­£åœ¨è®­ç»ƒèº«ä½“å»é€‚åº”é‚£ç§â€œç†æƒ³ç°å®â€çš„æŒ¯åŠ¨ã€‚
 
 and by doing that, By taking that kind of action as well not only acting on the things you are capable of acting on that apparently relate to the thing that you prefer but also mocking it up and acting through that scenario, you then train, in a sense your body consciousness to get used to that vibration of that reality.
 
 
 
-Äã°ÑËü×öµÃÔ½ÕæÊµ£¬´óÄÔºÍÉíÌå¾ÍÔ½ÏàĞÅÄÇÊÇÕæµÄ£¬¶øÔ½ÊÇÕæÊµ£¬Äã¾ÍÔ½ÄÜÓë¸ßÎÒĞÄÖÇ±£³ÖÒ»ÖÂ£¬ÈÃËüÒÔÄ³ÖÖĞÎÊ½ÏÔ»¯ÄÇ¸öÏÖÊµ¸øÄã¡£
+ä½ æŠŠå®ƒåšå¾—è¶ŠçœŸå®ï¼Œå¤§è„‘å’Œèº«ä½“å°±è¶Šç›¸ä¿¡é‚£æ˜¯çœŸçš„ï¼Œè€Œè¶Šæ˜¯çœŸå®ï¼Œä½ å°±è¶Šèƒ½ä¸é«˜æˆ‘å¿ƒæ™ºä¿æŒä¸€è‡´ï¼Œè®©å®ƒä»¥æŸç§å½¢å¼æ˜¾åŒ–é‚£ä¸ªç°å®ç»™ä½ ã€‚
 
 The more real you can make it the more real your brain and your body will believe that it is. And the more real your brain and body vibrations believe that it is the easier it will be for you to align with your higher mind and allow the higher mind to manifest that reality for you in some form.
 
 
 
-ËùÒÔ£¬Ä£ÄâÒ²ÊÇÒ»ÖÖĞĞ¶¯·½Ê½¡£µ«ÎÒÃÇÒ²ÖªµÀ£¬¼´Ê¹¶à´ÎÌáµ½´Ë¸ÅÄî£¬Ğí¶àÈË»¹ÊÇ»áÈÏÎªÄÇ½ö½öÊÇ¡°ÒşÓ÷¡±£¬Ö»»áÔÚÄÔº£ÖĞÉÔ×÷Á·Ï°£¬¶ø²»ÕæÕıÈ¥¡°¸ÄÔì¡±ÄãµÄÎïÀí»·¾³£¬ÈÃËü¾¡Á¿±Æ½üÄãËùÆ«°®µÄÏÖÊµ¡£
+æ‰€ä»¥ï¼Œæ¨¡æ‹Ÿä¹Ÿæ˜¯ä¸€ç§è¡ŒåŠ¨æ–¹å¼ã€‚ä½†æˆ‘ä»¬ä¹ŸçŸ¥é“ï¼Œå³ä½¿å¤šæ¬¡æåˆ°æ­¤æ¦‚å¿µï¼Œè®¸å¤šäººè¿˜æ˜¯ä¼šè®¤ä¸ºé‚£ä»…ä»…æ˜¯â€œéšå–»â€ï¼Œåªä¼šåœ¨è„‘æµ·ä¸­ç¨ä½œç»ƒä¹ ï¼Œè€Œä¸çœŸæ­£å»â€œæ”¹é€ â€ä½ çš„ç‰©ç†ç¯å¢ƒï¼Œè®©å®ƒå°½é‡é€¼è¿‘ä½ æ‰€åçˆ±çš„ç°å®ã€‚
 
 So mocking it up is also a form of taking action. But again, we recognize that even though we have discussed this idea many times many of you will still think we are talking metaphorically and will just do the exercise in your mind and will not actually go to the length to actually physically transform your physical environment to actually be as close a representation of the reality you prefer that you would prefer
 
 
 
-Òò´Ë£¬ÎÒÃÇÇ¿ÁÒ½¨ÒéÄã¸¶ÖîĞĞ¶¯£¬ÔÚÄãµÄÏÖÊµÖĞ£¬´´Ôì¾¡¿ÉÄÜ½Ó½üÄÇ¸öÀíÏëÏÖÊµµÄ¡°·ÂÕæÌåÑé¡±£¬²¢°ÑËüµ±Õæ¡£ÈÃËü¿´ÆğÀ´Ô½±ÆÕæÔ½ºÃ¡ª¡ªÄã¿ÉÒÔÓÃÏëÏóÁ¦£¬µ«²»ÊÇÖ»×øÔÚÄÇ¶ùÏë£¬¶øÊÇÔÚÕæÊµµÄÄ£Äâ²¼¾°ÖĞÑİÒïºÍÅÅÁ·¡£¾ÍÏñ¡°ÅÅÁ·¡±ÄÇ¸öÏÖÊµ£¬ÄãÔ½ÅÅÁ·£¬¾ÍÔ½×öµÃºÃ£¬Ò²Ô½ÄÜ·¢ÏÖ×Ô¼º½¥½¥»îÔÚÄÇÖÖÏÖÊµÀï¡£
+å› æ­¤ï¼Œæˆ‘ä»¬å¼ºçƒˆå»ºè®®ä½ ä»˜è¯¸è¡ŒåŠ¨ï¼Œåœ¨ä½ çš„ç°å®ä¸­ï¼Œåˆ›é€ å°½å¯èƒ½æ¥è¿‘é‚£ä¸ªç†æƒ³ç°å®çš„â€œä»¿çœŸä½“éªŒâ€ï¼Œå¹¶æŠŠå®ƒå½“çœŸã€‚è®©å®ƒçœ‹èµ·æ¥è¶Šé€¼çœŸè¶Šå¥½â€”â€”ä½ å¯ä»¥ç”¨æƒ³è±¡åŠ›ï¼Œä½†ä¸æ˜¯åªååœ¨é‚£å„¿æƒ³ï¼Œè€Œæ˜¯åœ¨çœŸå®çš„æ¨¡æ‹Ÿå¸ƒæ™¯ä¸­æ¼”ç»å’Œæ’ç»ƒã€‚å°±åƒâ€œæ’ç»ƒâ€é‚£ä¸ªç°å®ï¼Œä½ è¶Šæ’ç»ƒï¼Œå°±è¶Šåšå¾—å¥½ï¼Œä¹Ÿè¶Šèƒ½å‘ç°è‡ªå·±æ¸æ¸æ´»åœ¨é‚£ç§ç°å®é‡Œã€‚
 
-So we are urging you strongly to actually take action in the direction of creating in your reality some representation as close to the vision of that reality as you can that is physically present and key off of those representations as though they are real which is why it¡¯s important to make them look as real as possible But you can use your imagination in this but not just to sit around and use your imagination. Use your imagination while you are physically mocking it up. To play act through that and get used to that. It¡¯s like rehearsal of that reality. And the more you rehearse the better you get. And the more you actually find yourself then living that reality.
+So we are urging you strongly to actually take action in the direction of creating in your reality some representation as close to the vision of that reality as you can that is physically present and key off of those representations as though they are real which is why itâ€™s important to make them look as real as possible But you can use your imagination in this but not just to sit around and use your imagination. Use your imagination while you are physically mocking it up. To play act through that and get used to that. Itâ€™s like rehearsal of that reality. And the more you rehearse the better you get. And the more you actually find yourself then living that reality.
 
 
 
-ÁíÒ»ÖÖ·½Ê½£ºÃÜÇĞ¹Û²ìÄãÔÚÄÔº£ÖĞ¡°ÀíÏëÏÖÊµ¡±ÖĞËù¿´µ½µÄÄÇ¸ö×Ô¼º¡£ÒòÎªÄÇ¸ö°æ±¾µÄÄã£¬×öÊÂ·½Ê½ÍùÍù¸úÄãÈÕ³£µÄĞĞÎªÓĞºÜ´ó²î±ğ¡£
+å¦ä¸€ç§æ–¹å¼ï¼šå¯†åˆ‡è§‚å¯Ÿä½ åœ¨è„‘æµ·ä¸­â€œç†æƒ³ç°å®â€ä¸­æ‰€çœ‹åˆ°çš„é‚£ä¸ªè‡ªå·±ã€‚å› ä¸ºé‚£ä¸ªç‰ˆæœ¬çš„ä½ ï¼Œåšäº‹æ–¹å¼å¾€å¾€è·Ÿä½ æ—¥å¸¸çš„è¡Œä¸ºæœ‰å¾ˆå¤§å·®åˆ«ã€‚
 
 Another variation of the idea of taking action in that vision in your mind. is to pay attention very closely to the version of you you see in that image you have of that ideal reality. Because that version of you will do things very often very differently than you go about doing things in your day-to-day reality
 
 
 
-ÏëÏóÄãÔÚ¡°ÀíÏëµÄ×Ô¼º¡±ÄÇ¸öÇé¾³Àï£¬ÊÇÎªÁËÈÃÄãÓĞ¸ö¡°¾µÏñ¡±¿ÉÄ£·Â¡ª¡ªÈç¹ûÄãÄÜÏñÄÇÈËÒ»ÑùĞĞ¶¯£¬¾Í¸ü¿ÉÄÜÊÕ»ñÄÇ¸ö°æ±¾µÄÄãËùÔÚµÄÏÖÊµ¡£
+æƒ³è±¡ä½ åœ¨â€œç†æƒ³çš„è‡ªå·±â€é‚£ä¸ªæƒ…å¢ƒé‡Œï¼Œæ˜¯ä¸ºäº†è®©ä½ æœ‰ä¸ªâ€œé•œåƒâ€å¯æ¨¡ä»¿â€”â€”å¦‚æœä½ èƒ½åƒé‚£äººä¸€æ ·è¡ŒåŠ¨ï¼Œå°±æ›´å¯èƒ½æ”¶è·é‚£ä¸ªç‰ˆæœ¬çš„ä½ æ‰€åœ¨çš„ç°å®ã€‚
 
 The idea of seeing yourself in that vision of the ideal reality that you prefer is for the purpose of creating a mirror reflection for you to mimic so that if you become if you act like that person you are more likely to have the reality you see that version of you having.
 
 
 
-×ĞÏ¸¹Û²ìÄÇ¸ö°æ±¾µÄÄãµÄË¼Î¬¡¢ÑÔÓï¡¢ĞĞÎª£¬°üÀ¨Ö«ÌåÓïÑÔºÍÉíÌå±íÏÖ¡£ÒòÎªÈôÄÇ¸ö°æ±¾µÄÄãÉí´¦Ò»¸ö¡°³äÂúÈÈÇé¡±µÄÏÖÊµ£¬Ëû/ËıÁ¬×öÆÕÍ¨ÊÂµÄ·½Ê½£¬¶¼¿ÉÄÜ¸úÄãÏÖÔÚºÜ²»Ò»Ñù¡£
+ä»”ç»†è§‚å¯Ÿé‚£ä¸ªç‰ˆæœ¬çš„ä½ çš„æ€ç»´ã€è¨€è¯­ã€è¡Œä¸ºï¼ŒåŒ…æ‹¬è‚¢ä½“è¯­è¨€å’Œèº«ä½“è¡¨ç°ã€‚å› ä¸ºè‹¥é‚£ä¸ªç‰ˆæœ¬çš„ä½ èº«å¤„ä¸€ä¸ªâ€œå……æ»¡çƒ­æƒ…â€çš„ç°å®ï¼Œä»–/å¥¹è¿åšæ™®é€šäº‹çš„æ–¹å¼ï¼Œéƒ½å¯èƒ½è·Ÿä½ ç°åœ¨å¾ˆä¸ä¸€æ ·ã€‚
 
 Observe closely the thoughts, the words, the deeds, the body language, the physical behavior of that version of you in that reality. Because if that you is actually in a reality that is representative of his or her passion that you is going to be doing even the ordinary things in a much different way than you might do.
 
 
 
-ËùÒÔ£¬Äã¿ÉÒÔÍ¨¹ıÕâÖÖ·½Ê½Ö¸³öÄãÃÇÖ®¼äµÄ²îÒì£¬ÒÔ¼õÉÙ²îÒì¡£ÄãÔ½ÏñÄÇ¸öÀíÏëÖĞµÄËû/Ëı£¬¾ÍÔ½ÄÜÎüÒıÓëÖ®¶ÔÓ¦µÄÏÖÊµ¡£
+æ‰€ä»¥ï¼Œä½ å¯ä»¥é€šè¿‡è¿™ç§æ–¹å¼æŒ‡å‡ºä½ ä»¬ä¹‹é—´çš„å·®å¼‚ï¼Œä»¥å‡å°‘å·®å¼‚ã€‚ä½ è¶Šåƒé‚£ä¸ªç†æƒ³ä¸­çš„ä»–/å¥¹ï¼Œå°±è¶Šèƒ½å¸å¼•ä¸ä¹‹å¯¹åº”çš„ç°å®ã€‚
 
 And so you have the ability to use your imagination this way. To point out the difference between the two. So that you can create less difference between the two. The more you act like him or her in that version of your ideal reality the more you will attract that reality.
 
 
 
-ÈÃÄÇ¸ö°æ±¾µÄÄãÈ¥¾­ÀúÄãµ±ÏÂÉú»îÖĞµÄÈÕ³£»î¶¯£¬»òÕßÄãÏ£ÍûÔÚÀíÏëÏÖÊµÖĞÓµÓĞµÄÈÕ³£ÊÂÏî¡£¼´±ãÊÇÆ½·²»òËöËéµÄĞ¡ÊÂ£¬Ò²È¥¿´¿´ÄÇÊ±µÄÄãÊÇÈçºÎ×öµÄ¡£Èç¹ûÄÇ¸öÄãÈ·Êµ»îÔÚ´ú±íËû/ËıÈÈÇéµÄÏÖÊµÖĞ£¬ÄÇËû/Ëı×öÍ¬ÑùÊÂÇéÊ±£¬Ò»¶¨»áÓëÏÖÔÚµÄÄãºÜ²»Ò»Ñù¡£
+è®©é‚£ä¸ªç‰ˆæœ¬çš„ä½ å»ç»å†ä½ å½“ä¸‹ç”Ÿæ´»ä¸­çš„æ—¥å¸¸æ´»åŠ¨ï¼Œæˆ–è€…ä½ å¸Œæœ›åœ¨ç†æƒ³ç°å®ä¸­æ‹¥æœ‰çš„æ—¥å¸¸äº‹é¡¹ã€‚å³ä¾¿æ˜¯å¹³å‡¡æˆ–çç¢çš„å°äº‹ï¼Œä¹Ÿå»çœ‹çœ‹é‚£æ—¶çš„ä½ æ˜¯å¦‚ä½•åšçš„ã€‚å¦‚æœé‚£ä¸ªä½ ç¡®å®æ´»åœ¨ä»£è¡¨ä»–/å¥¹çƒ­æƒ…çš„ç°å®ä¸­ï¼Œé‚£ä»–/å¥¹åšåŒæ ·äº‹æƒ…æ—¶ï¼Œä¸€å®šä¼šä¸ç°åœ¨çš„ä½ å¾ˆä¸ä¸€æ ·ã€‚
 
 And take that version of you through all the typical daily routines you may have in your life or that you want in that reality. Even if it is something that you typically consider ordinary or mundane watch how that you does it. Because if that you is actually in a reality that is representative of his or her passion that you is going to be doing even the ordinary things in a much different way than you might do.
 
 
 
-¼ÙÉèÄãÔÚÄÇ¸öÀíÏëÏÖÊµÖĞ¿´µ½×Ô¼ºÈ¥Âò²Ë£¬ÄÇÃ´ÄãµÄÖ«ÌåÓïÑÔ¿ÉÄÜ²»Í¬£¬Ò²»á±»²»Í¬µÄÉÌÆ·ÎüÒı£¬Ò²ĞíÄã»¹»áÇëÈË´úÂò¡­¡­×ÜÖ®£¬¾¡Á¦È¥¡°³ÉÎª¡±ÄÇ¸öÄã£¬ÄÇ¸öÕæÕıÌåÏÖÄã¿ìÀÖºÍÈÈÇéµÄ°æ±¾£¬ÔÚË¼Ïë¡¢ÑÔÓïºÍĞĞ¶¯ÉÏ¶¼Ä£·Â²¢¸´¿ÌËü¡£
+å‡è®¾ä½ åœ¨é‚£ä¸ªç†æƒ³ç°å®ä¸­çœ‹åˆ°è‡ªå·±å»ä¹°èœï¼Œé‚£ä¹ˆä½ çš„è‚¢ä½“è¯­è¨€å¯èƒ½ä¸åŒï¼Œä¹Ÿä¼šè¢«ä¸åŒçš„å•†å“å¸å¼•ï¼Œä¹Ÿè®¸ä½ è¿˜ä¼šè¯·äººä»£ä¹°â€¦â€¦æ€»ä¹‹ï¼Œå°½åŠ›å»â€œæˆä¸ºâ€é‚£ä¸ªä½ ï¼Œé‚£ä¸ªçœŸæ­£ä½“ç°ä½ å¿«ä¹å’Œçƒ­æƒ…çš„ç‰ˆæœ¬ï¼Œåœ¨æ€æƒ³ã€è¨€è¯­å’Œè¡ŒåŠ¨ä¸Šéƒ½æ¨¡ä»¿å¹¶å¤åˆ»å®ƒã€‚
 
-So let¡¯s say you have a vision of that you in that reality and you see that you going grocery shopping. Again, the idea might be that the body language is different as you do so maybe your attention is drawn to different products as that you that are more representative of the reality you prefer maybe you will as that you hire someone to do the shopping for you again get as close as you can to that you. Whatever truly, truly represents what is most fun, most passionate for you, in thought, word, and deed and all those behaviors, mock it up, mimic it mirror it as closely as you can.
-
-
-
-×ßÔÚ½ÖÉÏ£¬È»ºóÏë£º¡°ÀíÏëÖĞµÄÎÒ¡±ÔÚÀíÏëÏÖÊµÖĞ»áÈçºÎ×ßÕâÌõ½Ö£¿Ò²Ğí»á°ºÊ×Í¦ĞØ£¬Î¢Ğ¦×ÅÃæ¶ÔÃ¿¸öÈË£¬Çá¿ì×ÔÔÚ£¬¶ø²»ÊÇ´¹Í·É¥ÆøµØÓÎµ´£¬ĞÄÏë¡°ÕâÒ»ÇĞÊ²Ã´Ê±ºò²ÅÄÜ·¢ÉúÔÚÎÒÉíÉÏ£¿¡±
-
-Walk down the street and say how would the ideal me with the ideal reality be walking down this street? Head held high. A smile for everyone. Feeling great. light on my feet not moping down the sidewalk wondering when it¡¯s all going to happen for me.
+So letâ€™s say you have a vision of that you in that reality and you see that you going grocery shopping. Again, the idea might be that the body language is different as you do so maybe your attention is drawn to different products as that you that are more representative of the reality you prefer maybe you will as that you hire someone to do the shopping for you again get as close as you can to that you. Whatever truly, truly represents what is most fun, most passionate for you, in thought, word, and deed and all those behaviors, mock it up, mimic it mirror it as closely as you can.
 
 
 
-ÒòÎªÔÚÄÇ¸öÒÑÊµÏÖµÄÀíÏëÏÖÊµÖĞ£¬ÄãÃ»ÓĞÀíÓÉÒ»Ììµ½Íí´¹Í·É¥Æø¡£ÏëÏë¿´£¬ÄÇ¸öÀíÏë°æ±¾µÄÄã»áÕâÑùÏû³ÁÂğ£¿ËùÒÔ£¬Èç¹ûÄãÕıÔÚÕâÑù£¨´¹Í·É¥Æø£©£¬¶øÀíÏëÖĞµÄÄãÈ´ÄÇÑù£¨°ºÊ×Í¦ĞØ£©£¬ÄÇÄãÃÇµÄÕñ¶¯½ØÈ»²»Í¬£¬ÄãÎüÒıÊÂÎïµÄÄÜÁ¦Ò²»á½ØÈ»²»Í¬¡£ËùÒÔ£¬Òª²ÉÈ¡ĞĞ¶¯¡£
+èµ°åœ¨è¡—ä¸Šï¼Œç„¶åæƒ³ï¼šâ€œç†æƒ³ä¸­çš„æˆ‘â€åœ¨ç†æƒ³ç°å®ä¸­ä¼šå¦‚ä½•èµ°è¿™æ¡è¡—ï¼Ÿä¹Ÿè®¸ä¼šæ˜‚é¦–æŒºèƒ¸ï¼Œå¾®ç¬‘ç€é¢å¯¹æ¯ä¸ªäººï¼Œè½»å¿«è‡ªåœ¨ï¼Œè€Œä¸æ˜¯å‚å¤´ä¸§æ°”åœ°æ¸¸è¡ï¼Œå¿ƒæƒ³â€œè¿™ä¸€åˆ‡ä»€ä¹ˆæ—¶å€™æ‰èƒ½å‘ç”Ÿåœ¨æˆ‘èº«ä¸Šï¼Ÿâ€
 
-because the version of you for whom it has already happened doesn¡¯t have a reason to do that do they therefore if you are doing this and they are doing this there is a vast difference between your vibrations and thus a vast difference in your ability to attract So, taking action.
+Walk down the street and say how would the ideal me with the ideal reality be walking down this street? Head held high. A smile for everyone. Feeling great. light on my feet not moping down the sidewalk wondering when itâ€™s all going to happen for me.
 
 
 
-²ÉÈ¡ĞĞ¶¯£¬ÊÇ»ùÓÚÄã¿ÊÍûÀí½â¡¢¿ÊÍûÖªÏş£ºÄãÕıÔÚ½«ÏÂÔØµÄĞÅÏ¢¡¢Áé¸Ğ¡¢ÏëÏóÁ¦¡¢Ô¸¾°ºÍÄÜÁ¿´øÈëÏÖÊµ£¬²¢Ôú¸ùÂäµØ¡£
+å› ä¸ºåœ¨é‚£ä¸ªå·²å®ç°çš„ç†æƒ³ç°å®ä¸­ï¼Œä½ æ²¡æœ‰ç†ç”±ä¸€å¤©åˆ°æ™šå‚å¤´ä¸§æ°”ã€‚æƒ³æƒ³çœ‹ï¼Œé‚£ä¸ªç†æƒ³ç‰ˆæœ¬çš„ä½ ä¼šè¿™æ ·æ¶ˆæ²‰å—ï¼Ÿæ‰€ä»¥ï¼Œå¦‚æœä½ æ­£åœ¨è¿™æ ·ï¼ˆå‚å¤´ä¸§æ°”ï¼‰ï¼Œè€Œç†æƒ³ä¸­çš„ä½ å´é‚£æ ·ï¼ˆæ˜‚é¦–æŒºèƒ¸ï¼‰ï¼Œé‚£ä½ ä»¬çš„æŒ¯åŠ¨æˆªç„¶ä¸åŒï¼Œä½ å¸å¼•äº‹ç‰©çš„èƒ½åŠ›ä¹Ÿä¼šæˆªç„¶ä¸åŒã€‚æ‰€ä»¥ï¼Œè¦é‡‡å–è¡ŒåŠ¨ã€‚
+
+because the version of you for whom it has already happened doesnâ€™t have a reason to do that do they therefore if you are doing this and they are doing this there is a vast difference between your vibrations and thus a vast difference in your ability to attract So, taking action.
+
+
+
+é‡‡å–è¡ŒåŠ¨ï¼Œæ˜¯åŸºäºä½ æ¸´æœ›ç†è§£ã€æ¸´æœ›çŸ¥æ™“ï¼šä½ æ­£åœ¨å°†ä¸‹è½½çš„ä¿¡æ¯ã€çµæ„Ÿã€æƒ³è±¡åŠ›ã€æ„¿æ™¯å’Œèƒ½é‡å¸¦å…¥ç°å®ï¼Œå¹¶æ‰æ ¹è½åœ°ã€‚
 
 Taking action is the willingness to understand, the willingness to know that by doing so you are bringing that downloaded information, that downloaded inspiration, that downloaded imagination, that downloaded vision, that downloaded energy and you are grounding it
 
 
 
-ÄãÕıÔÚÔËÓÃÕâĞ©À´Ô´ÓÚ¸ßÎÒµÄĞÅÏ¢£¬Í¨¹ıĞĞ¶¯°ÑĞÅÏ¢ÊÍ·Å³öÀ´£¬´´ÔìÁ÷¶¯¡£µ±Äã´´ÔìÁ÷¶¯Ê±£¬Äã¾Í°Ñ×Ô¼ºÕâ¸öÈİÆ÷·Å¿ÕÁË£»µ±ÈİÆ÷±»·Å¿Õ£¬¾ÍÄÜ×°½ø¸ü¶à£¬¶ø¸ü¶àÒ²»á³ÖĞø²»¶ÏµØÓ¿Èë£¬ÓÀÎŞÖ¹¾³¡£
+ä½ æ­£åœ¨è¿ç”¨è¿™äº›æ¥æºäºé«˜æˆ‘çš„ä¿¡æ¯ï¼Œé€šè¿‡è¡ŒåŠ¨æŠŠä¿¡æ¯é‡Šæ”¾å‡ºæ¥ï¼Œåˆ›é€ æµåŠ¨ã€‚å½“ä½ åˆ›é€ æµåŠ¨æ—¶ï¼Œä½ å°±æŠŠè‡ªå·±è¿™ä¸ªå®¹å™¨æ”¾ç©ºäº†ï¼›å½“å®¹å™¨è¢«æ”¾ç©ºï¼Œå°±èƒ½è£…è¿›æ›´å¤šï¼Œè€Œæ›´å¤šä¹Ÿä¼šæŒç»­ä¸æ–­åœ°æ¶Œå…¥ï¼Œæ°¸æ— æ­¢å¢ƒã€‚
 
 you are applying it you are putting it out there so that you are creating a flow. And when you create a flow you empty the vessel. And when you empty the vessel more can be poured in. And more will come. And more will keep coming. And it will never stop.
 
-Í¼Æ¬
-Á¶½ğÊõ¿ÕÖ®ºËĞÄ£º°ÍÏÄ£ºÊ±¿ÕÄ§·¨µÄÊµ¼ù
+å›¾ç‰‡
+ç‚¼é‡‘æœ¯ç©ºä¹‹æ ¸å¿ƒï¼šå·´å¤ï¼šæ—¶ç©ºé­”æ³•çš„å®è·µ
 
 
 
-Ëü²»»áÍ£Ö¹¡£ÓĞÊ±¿´ËÆÍ£Ö¹£¬µ«²¢²»ÊÇÕæµÄÍ££¬Ö»ÊÇÌáĞÑÄãÒ²ĞíÒªÔİÍ£Ò»ÏÂ£¬È¥Ë¼¿¼µ±ÏÂÕıÔÚ·¢ÉúÊ²Ã´£¬´ÓÈİµØ³ÁµíË¼Ğ÷£¬²¢²»ÒâÎ¶×ÅÒ»ÇĞ¾Í´Ë½áÊø¡£
+å®ƒä¸ä¼šåœæ­¢ã€‚æœ‰æ—¶çœ‹ä¼¼åœæ­¢ï¼Œä½†å¹¶ä¸æ˜¯çœŸçš„åœï¼Œåªæ˜¯æé†’ä½ ä¹Ÿè®¸è¦æš‚åœä¸€ä¸‹ï¼Œå»æ€è€ƒå½“ä¸‹æ­£åœ¨å‘ç”Ÿä»€ä¹ˆï¼Œä»å®¹åœ°æ²‰æ·€æ€ç»ªï¼Œå¹¶ä¸æ„å‘³ç€ä¸€åˆ‡å°±æ­¤ç»“æŸã€‚
 
-It will never stop. There are times when it may seem to stop. But that doesn¡¯t mean it actually has stopped. It may simply mean that there is a reason to pause and ponder what¡¯s going on. And contemplate in a peaceful manner. That doesn¡¯t mean anything has stopped.
-
-
-
-ÓÀÔ¶±ğ°ÑÈÎºÎÊÂÊÓÎªÕÏ°­£¬·ñÔòËü¾Í³ÉÁËÕÏ°­¡£ÔÊĞí×Ô¼ºÈ¥Ãæ¶ÔËü£¬ÈÎÆäËùÊÇ¡ª¡ªÄãÒªÃ÷°×£¬Ëü³öÏÖ±ØÈ»ÓĞÆäÔµÓÉ¡£ÄãÔõÃ´ÖªµÀ£¿ÒòÎªÄãËµÁËËã¡£¼Ç×¡£¬ÔìÎïÖ÷´Ó²»»á·´²µÄã£¬ÒÔÇ°Ã»ÓĞ£¬½«À´Ò²²»»á¡£
-
-never label anything as an obstacle or it will be experienced as an obstacle simply allow yourself to sit with it let it be what it is knowing knowing it¡¯s there for a reason how do you know it¡¯s there for a reason because you say so again remember nothing in creation will contradict you it never has before and it never will
+It will never stop. There are times when it may seem to stop. But that doesnâ€™t mean it actually has stopped. It may simply mean that there is a reason to pause and ponder whatâ€™s going on. And contemplate in a peaceful manner. That doesnâ€™t mean anything has stopped.
 
 
 
-¼´Ê¹Äã¼á¾öÒªÌåÑé¼«¶Ë¸ºÃæµÄÏÖÊµ£¬ÔìÎïÖ÷Ò²²»»á²µ³âÄã£»µ±ÄãÖ´ÒâÒªÓµÓĞ»ı¼«µÄÏÖÊµÊ±£¬ÔìÎïÖ÷Òà²»»á²µ³â¡£Äã¿ÉÒÔ×ÔÓÉÑ¡ÔñÈÎºÎÄãÏëÒªµÄÏÖÊµ¡£
+æ°¸è¿œåˆ«æŠŠä»»ä½•äº‹è§†ä¸ºéšœç¢ï¼Œå¦åˆ™å®ƒå°±æˆäº†éšœç¢ã€‚å…è®¸è‡ªå·±å»é¢å¯¹å®ƒï¼Œä»»å…¶æ‰€æ˜¯â€”â€”ä½ è¦æ˜ç™½ï¼Œå®ƒå‡ºç°å¿…ç„¶æœ‰å…¶ç¼˜ç”±ã€‚ä½ æ€ä¹ˆçŸ¥é“ï¼Ÿå› ä¸ºä½ è¯´äº†ç®—ã€‚è®°ä½ï¼Œé€ ç‰©ä¸»ä»ä¸ä¼šåé©³ä½ ï¼Œä»¥å‰æ²¡æœ‰ï¼Œå°†æ¥ä¹Ÿä¸ä¼šã€‚
 
-even when you insist on having extremely negative realities creation doesn¡¯t contradict you. It¡¯s not going to contradict you when you insist on having a positive one. So feel free to have whatever reality you prefer.
-
-
-
-µ«ÒòÎªÄãÃÇÉí´¦ÎïÖÊ½ç£¬ËùÒÔÄã±ØĞë³¯ÄãÏëÒªµÄ·½ÏòĞĞ¶¯£¬·ñÔòÓîÖæÎŞ·¨¸ĞÊÜµ½ÄãµÄ¾öĞÄ£¬ÎŞ·¨·­¶¯ÄÇ¸ö¡°¿ª¹Ø¡±À´Ç¿»¯ÄÇ¸öÏÖÊµ¡£Èç¹ûÄã²»ĞĞ¶¯£¬ÆäÊµ¾ÍµÈÓÚÄãÔÚËµ£º¡°ÎÒ²¢²»ÕæµÄÏëÒªÄÇÑù¡£¡±ÓÚÊÇÄãµÃµ½µÄÖ»»áÊÇ£ºÊ²Ã´¶¼Ã»·¢Éú£¬Í£ÖÍ²»Ç°¡£
-
-But because you are physical beings it is imperative that you take action in the direction of what you prefer or the universe will not experience the commitment from you that will flip the switch to allow things to happen to reinforce that reality if you¡¯re not taking action you¡¯re actually saying you don¡¯t really want it and therefore you are getting what you asked for nothing stasis static.
+never label anything as an obstacle or it will be experienced as an obstacle simply allow yourself to sit with it let it be what it is knowing knowing itâ€™s there for a reason how do you know itâ€™s there for a reason because you say so again remember nothing in creation will contradict you it never has before and it never will
 
 
 
-¿Éµ±ÄãË³ÊÆ¶øÎªÊ±£¬Ò»ÇĞ¾Í»á¿ªÊ¼Á÷¶¯¡£Äã±ØĞëÏÈ´ò¿ªÄÇ¸ö¡°·§ÃÅ¡±£¬È»ºó¡°¾«Áé¡±²ÅÄÜ°ïÄãÊµÏÖÔ¸Íû¡ª¡ªÄãÄÚĞÄµÄ¾«Áé¡£
+å³ä½¿ä½ åšå†³è¦ä½“éªŒæç«¯è´Ÿé¢çš„ç°å®ï¼Œé€ ç‰©ä¸»ä¹Ÿä¸ä¼šé©³æ–¥ä½ ï¼›å½“ä½ æ‰§æ„è¦æ‹¥æœ‰ç§¯æçš„ç°å®æ—¶ï¼Œé€ ç‰©ä¸»äº¦ä¸ä¼šé©³æ–¥ã€‚ä½ å¯ä»¥è‡ªç”±é€‰æ‹©ä»»ä½•ä½ æƒ³è¦çš„ç°å®ã€‚
+
+even when you insist on having extremely negative realities creation doesnâ€™t contradict you. Itâ€™s not going to contradict you when you insist on having a positive one. So feel free to have whatever reality you prefer.
+
+
+
+ä½†å› ä¸ºä½ ä»¬èº«å¤„ç‰©è´¨ç•Œï¼Œæ‰€ä»¥ä½ å¿…é¡»æœä½ æƒ³è¦çš„æ–¹å‘è¡ŒåŠ¨ï¼Œå¦åˆ™å®‡å®™æ— æ³•æ„Ÿå—åˆ°ä½ çš„å†³å¿ƒï¼Œæ— æ³•ç¿»åŠ¨é‚£ä¸ªâ€œå¼€å…³â€æ¥å¼ºåŒ–é‚£ä¸ªç°å®ã€‚å¦‚æœä½ ä¸è¡ŒåŠ¨ï¼Œå…¶å®å°±ç­‰äºä½ åœ¨è¯´ï¼šâ€œæˆ‘å¹¶ä¸çœŸçš„æƒ³è¦é‚£æ ·ã€‚â€äºæ˜¯ä½ å¾—åˆ°çš„åªä¼šæ˜¯ï¼šä»€ä¹ˆéƒ½æ²¡å‘ç”Ÿï¼Œåœæ»ä¸å‰ã€‚
+
+But because you are physical beings it is imperative that you take action in the direction of what you prefer or the universe will not experience the commitment from you that will flip the switch to allow things to happen to reinforce that reality if youâ€™re not taking action youâ€™re actually saying you donâ€™t really want it and therefore you are getting what you asked for nothing stasis static.
+
+
+
+å¯å½“ä½ é¡ºåŠ¿è€Œä¸ºæ—¶ï¼Œä¸€åˆ‡å°±ä¼šå¼€å§‹æµåŠ¨ã€‚ä½ å¿…é¡»å…ˆæ‰“å¼€é‚£ä¸ªâ€œé˜€é—¨â€ï¼Œç„¶åâ€œç²¾çµâ€æ‰èƒ½å¸®ä½ å®ç°æ„¿æœ›â€”â€”ä½ å†…å¿ƒçš„ç²¾çµã€‚
 
 but when you flow everything flows you must uncork the valve and then The genie can grant your wishes. The genie within you.
 
 
 
-ÏÖÔÚ£¬ÈÃÎÒÃÇÀ´Ì½ÌÖÒ»ÏÂÔÚ¸öÈËÉú»îÖĞÈçºÎÍ¨¹ıĞĞ¶¯À´ÊµÏÖÄ¿±ê£¬Ò²¾ÍÊÇÄãÃÇ¿ÉÄÜÕıÃæÁÙµÄÖÖÖÖÌôÕ½¡£
+ç°åœ¨ï¼Œè®©æˆ‘ä»¬æ¥æ¢è®¨ä¸€ä¸‹åœ¨ä¸ªäººç”Ÿæ´»ä¸­å¦‚ä½•é€šè¿‡è¡ŒåŠ¨æ¥å®ç°ç›®æ ‡ï¼Œä¹Ÿå°±æ˜¯ä½ ä»¬å¯èƒ½æ­£é¢ä¸´çš„ç§ç§æŒ‘æˆ˜ã€‚
 
 Now, let us explore some specific ideas in your personal lives about taking action, manifestation things that you might be experiencing as difficulties, obstacles, impediments, if you wish.
 
 
 
-±ğÍüÁËÌ½Ë÷µÚÒ»²¿·Ö£¡¸ĞĞ»ÄãµÄÏ²»¶£¬Î´À´¾«²Ê¼ÌĞø£¡
+åˆ«å¿˜äº†æ¢ç´¢ç¬¬ä¸€éƒ¨åˆ†ï¼æ„Ÿè°¢ä½ çš„å–œæ¬¢ï¼Œæœªæ¥ç²¾å½©ç»§ç»­ï¼
 
 
 

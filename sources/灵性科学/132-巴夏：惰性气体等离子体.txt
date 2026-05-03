@@ -1,54 +1,54 @@
-°ÍÏÄ£º¶èĞÔÆøÌåµÈÀë×ÓÌå
-Ô­´´ °¢¿üÑÇ °ÍÏÄËµ
- 2025Äê01ÔÂ28ÈÕ 06:00 ÁÉÄş
-Ç°ÑÔ
-Èç¹ûÄãÓĞÒ»¸öµ°ĞÎµÄÈİÆ÷£¬Ò»¸öÔ²»·¡£¿ÉÒÔËµ£¬Ëü³äÂúÁË¶èĞÔÆøÌåµÈÀë×ÓÌå£¬²¢ÇÒÈİÆ÷ÊÇÂÁ¡¢Åğ¡¢îÏ¡¢Äø¡¢Í­µÄºÏ½ğ¡£
-                 ÒëÕß£º°¢¿üÑÇ Aquia
-              ´«Ñ¶Ê±¼ä£º2019Äê6ÔÂ22ÈÕ
-ÎÊ£ººÃµÄ¡£ÄÇÃ´£¬ÄãÄÜ¸æËßÎÒÊ²Ã´ÊÂÇéÂğ£¬ÄãÄÜ¸øÎÒÒ»¸ö¹ØÓÚĞı×ª¶èĞÔÆøÌåµÈÀë×ÓÌåµÄÌáÊ¾Âğ£¿
+å·´å¤ï¼šæƒ°æ€§æ°”ä½“ç­‰ç¦»å­ä½“
+åŸåˆ› é˜¿å¥äºš å·´å¤è¯´
+ 2025å¹´01æœˆ28æ—¥ 06:00 è¾½å®
+å‰è¨€
+å¦‚æœä½ æœ‰ä¸€ä¸ªè›‹å½¢çš„å®¹å™¨ï¼Œä¸€ä¸ªåœ†ç¯ã€‚å¯ä»¥è¯´ï¼Œå®ƒå……æ»¡äº†æƒ°æ€§æ°”ä½“ç­‰ç¦»å­ä½“ï¼Œå¹¶ä¸”å®¹å™¨æ˜¯é“ã€ç¡¼ã€é’•ã€é•ã€é“œçš„åˆé‡‘ã€‚
+                 è¯‘è€…ï¼šé˜¿å¥äºš Aquia
+              ä¼ è®¯æ—¶é—´ï¼š2019å¹´6æœˆ22æ—¥
+é—®ï¼šå¥½çš„ã€‚é‚£ä¹ˆï¼Œä½ èƒ½å‘Šè¯‰æˆ‘ä»€ä¹ˆäº‹æƒ…å—ï¼Œä½ èƒ½ç»™æˆ‘ä¸€ä¸ªå…³äºæ—‹è½¬æƒ°æ€§æ°”ä½“ç­‰ç¦»å­ä½“çš„æç¤ºå—ï¼Ÿ
 Okay. So, can you tell me anything, can you give me a hint about spinning noble gas plasma?
-°ÍÏÄ£ºÎÒ¿ÉÒÔÓÃ¸÷ÖÖ·½Ê½Ì¸ÂÛĞı×ª¶èĞÔÆøÌåµÈÀë×ÓÌå£¬µ«¸øÒ»¸öÌáÊ¾ÊÇ»ùÓÚÊ²Ã´£¬ÓÃÓÚºÎÖÖÓÃÍ¾£¿ÒòÎªĞı×ª¶èĞÔÆøÌåµÈÀë×ÓÌåÓĞºÜ¶àÓÃÍ¾¡£
+å·´å¤ï¼šæˆ‘å¯ä»¥ç”¨å„ç§æ–¹å¼è°ˆè®ºæ—‹è½¬æƒ°æ€§æ°”ä½“ç­‰ç¦»å­ä½“ï¼Œä½†ç»™ä¸€ä¸ªæç¤ºæ˜¯åŸºäºä»€ä¹ˆï¼Œç”¨äºä½•ç§ç”¨é€”ï¼Ÿå› ä¸ºæ—‹è½¬æƒ°æ€§æ°”ä½“ç­‰ç¦»å­ä½“æœ‰å¾ˆå¤šç”¨é€”ã€‚
 I can talk about spinning noble gas plasma in a variety of ways, but a hint based on what and for what purpose?Because there are many purposes to spinning noble gas plasmas.
-ÎÊ£ºÓÃÓÚÈÎºÎÒ»¸öA£¬ÌáÈ¡ÄÜÁ¿B£¬´Óë²Æø¡¢º¤Æø¡¢ÄÊÆø¡¢ë´Æø»òë¯ÆøÖĞÓÕµ¼ÁÆÓúĞ§¹û¡£
+é—®ï¼šç”¨äºä»»ä½•ä¸€ä¸ªAï¼Œæå–èƒ½é‡Bï¼Œä»æ°©æ°”ã€æ°¦æ°”ã€æ°–æ°”ã€æ°ªæ°”æˆ–æ°™æ°”ä¸­è¯±å¯¼ç–—æ„ˆæ•ˆæœã€‚
 For either A, extracting energy, B, inducing healing effects from, say, argon, helium, neon, krypton, or xenon.
-°ÍÏÄ£ºÎÒÃ÷°×ÄãÔÚËµÊ²Ã´£¬µ«ÎÒÊìÏ¤µÄ¼¼Êõ³¬³öÁËÄãÃÇµÄ¼¼Êõ¡£ÄãÃÇÊµ¼ÊÉÏÃ»ÓĞ¼¼ÊõÀ´×öÎÒÄÜÃèÊö¸øÄãÃÇµÄÊÂÇé¡£
+å·´å¤ï¼šæˆ‘æ˜ç™½ä½ åœ¨è¯´ä»€ä¹ˆï¼Œä½†æˆ‘ç†Ÿæ‚‰çš„æŠ€æœ¯è¶…å‡ºäº†ä½ ä»¬çš„æŠ€æœ¯ã€‚ä½ ä»¬å®é™…ä¸Šæ²¡æœ‰æŠ€æœ¯æ¥åšæˆ‘èƒ½æè¿°ç»™ä½ ä»¬çš„äº‹æƒ…ã€‚
 I understand what you're saying, but the technology that I'm familiar with would be beyond your technology.You actually don't have the technology to do what I could describe to you.
-Í¼Æ¬
-ÎÊ£ººÃ°É£¬ÎŞÂÛÈçºÎ£¬ÃèÊöÒ»ÏÂ£¬°İÍĞÁË¡£
+å›¾ç‰‡
+é—®ï¼šå¥½å§ï¼Œæ— è®ºå¦‚ä½•ï¼Œæè¿°ä¸€ä¸‹ï¼Œæ‹œæ‰˜äº†ã€‚
 Well, describe it anyway, please.
-°ÍÏÄ£ººÃ°É¡£Èç¹ûÄãÓĞÒ»¸öµ°ĞÎµÄÈİÆ÷£¬Ò»¸öÔ²»·¡£¿ÉÒÔËµ£¬Ëü³äÂúÁË¶èĞÔÆøÌåµÈÀë×ÓÌå£¬²¢ÇÒÈİÆ÷ÊÇÂÁ¡¢Åğ¡¢îÏ¡¢Äø¡¢Í­µÄºÏ½ğ¡£ÔÚĞü¸¡ÓĞË«²ãÊ¯Ä«Ï©µÄÄÉÃ×²£Á§»ùÖÊÖĞ£¬²¢ÇÒÄãÒıÈëÁËÓëÄãÖ®Ç°Ì¸ÂÛµÄ¸ĞÓ¦µçÁ÷ÏàÍ¬µÄ¸ĞÓ¦µçÁ÷£¬µ«ÔÚÒ»¸ö·Ç³£·Ç³£Ç¿Á¦µÄµçÆ½ÉÏ¡£Äã½«ÔÚ»·ÃæÖÜÎ§´´ÔìÒ»¸ö·øÉä³¡£¬Ò»¸öµç´Å³¡£¬¸ù¾İÄã½«»á°üº¬ÔÚÄÇ¸öÔ²»·µÄÆäËû¶«Î÷£¬Ëü¿ÉÒÔ²úÉúĞí¶à²»Í¬ÀàĞÍµÄÓ°Ïì£¬´Ó¶øÔÚ¶à¸öÆµÂÊÏÂ½«ÄÜÁ¿×ª»¯Îª¶àÖÖÓÃÍ¾¡£ÄãÄÜÔìÒ»¸öÕâÑùµÄÂğ£¿
-All right. If you have a ovoid container, a torus, as it were, filled with noble gas plasma, and the container is an alloy of aluminum£¬boron, neodymium, nickel, copper.In a nanoglass matrix suspended with double layer graphene, and you introduce the same kind of induction current that you were talking about before, but on a much, much powerful level.You will create a radiant field, an electromagnetic field around the torus that can have many different kinds of effects depending upon other things that you would contain that torus in that would translate that energy for multiple purposes at multiple frequencies.Can you build one of those?
-ÎÊ£ºÎÒÃÇ¿ÉÒÔ·Ç³£½Ó½üÕâ¸ö×°ÖÃ¡£
+å·´å¤ï¼šå¥½å§ã€‚å¦‚æœä½ æœ‰ä¸€ä¸ªè›‹å½¢çš„å®¹å™¨ï¼Œä¸€ä¸ªåœ†ç¯ã€‚å¯ä»¥è¯´ï¼Œå®ƒå……æ»¡äº†æƒ°æ€§æ°”ä½“ç­‰ç¦»å­ä½“ï¼Œå¹¶ä¸”å®¹å™¨æ˜¯é“ã€ç¡¼ã€é’•ã€é•ã€é“œçš„åˆé‡‘ã€‚åœ¨æ‚¬æµ®æœ‰åŒå±‚çŸ³å¢¨çƒ¯çš„çº³ç±³ç»ç’ƒåŸºè´¨ä¸­ï¼Œå¹¶ä¸”ä½ å¼•å…¥äº†ä¸ä½ ä¹‹å‰è°ˆè®ºçš„æ„Ÿåº”ç”µæµç›¸åŒçš„æ„Ÿåº”ç”µæµï¼Œä½†åœ¨ä¸€ä¸ªéå¸¸éå¸¸å¼ºåŠ›çš„ç”µå¹³ä¸Šã€‚ä½ å°†åœ¨ç¯é¢å‘¨å›´åˆ›é€ ä¸€ä¸ªè¾å°„åœºï¼Œä¸€ä¸ªç”µç£åœºï¼Œæ ¹æ®ä½ å°†ä¼šåŒ…å«åœ¨é‚£ä¸ªåœ†ç¯çš„å…¶ä»–ä¸œè¥¿ï¼Œå®ƒå¯ä»¥äº§ç”Ÿè®¸å¤šä¸åŒç±»å‹çš„å½±å“ï¼Œä»è€Œåœ¨å¤šä¸ªé¢‘ç‡ä¸‹å°†èƒ½é‡è½¬åŒ–ä¸ºå¤šç§ç”¨é€”ã€‚ä½ èƒ½é€ ä¸€ä¸ªè¿™æ ·çš„å—ï¼Ÿ
+All right. If you have a ovoid container, a torus, as it were, filled with noble gas plasma, and the container is an alloy of aluminumï¼Œboron, neodymium, nickel, copper.In a nanoglass matrix suspended with double layer graphene, and you introduce the same kind of induction current that you were talking about before, but on a much, much powerful level.You will create a radiant field, an electromagnetic field around the torus that can have many different kinds of effects depending upon other things that you would contain that torus in that would translate that energy for multiple purposes at multiple frequencies.Can you build one of those?
+é—®ï¼šæˆ‘ä»¬å¯ä»¥éå¸¸æ¥è¿‘è¿™ä¸ªè£…ç½®ã€‚
 We can get pretty close to that.
-°ÍÏÄ£ºÈÃÎÒÃÇ¿´¿´¡£
+å·´å¤ï¼šè®©æˆ‘ä»¬çœ‹çœ‹ã€‚
 Let's see.
-ÎÊ£ººÃ°É£¬ÎÒµÄÒâË¼ÊÇ£¬ÕâĞèÒªÒ»¶ÎÊ±¼äÀ´ÕâÑù×ö¡£
+é—®ï¼šå¥½å§ï¼Œæˆ‘çš„æ„æ€æ˜¯ï¼Œè¿™éœ€è¦ä¸€æ®µæ—¶é—´æ¥è¿™æ ·åšã€‚
 Well, I mean, it will take a while to do that.
-°ÍÏÄ£ºÊÇµÄ£¬ÎÒÖªµÀ¡£Õâ¾ÍÊÇÎÒÕıÔÚËµµÄ¡£
+å·´å¤ï¼šæ˜¯çš„ï¼Œæˆ‘çŸ¥é“ã€‚è¿™å°±æ˜¯æˆ‘æ­£åœ¨è¯´çš„ã€‚
 Yes, I know. That's what I was saying.
-ÎÊ£ºµ«ÎÒÔçĞ©Ê±ºòÏòÕâ¸ö¹ÜµÀ´ïÀï¶ûÕ¹Ê¾µÄ¶«Î÷£¬ÊÇÄ³ÖÖ³¯×ÅÄÇ¸ö·½Ïò·¢Õ¹µÄ¶«Î÷¡£ËüÊÇÒ»ÖÖº¬ÓĞÍ­ºÍÄø²ãµÄÄÉÃ×²ÄÁÏ¡£
+é—®ï¼šä½†æˆ‘æ—©äº›æ—¶å€™å‘è¿™ä¸ªç®¡é“è¾¾é‡Œå°”å±•ç¤ºçš„ä¸œè¥¿ï¼Œæ˜¯æŸç§æœç€é‚£ä¸ªæ–¹å‘å‘å±•çš„ä¸œè¥¿ã€‚å®ƒæ˜¯ä¸€ç§å«æœ‰é“œå’Œé•å±‚çš„çº³ç±³ææ–™ã€‚
 But the thing that I showed the channel, Darrell, earlier, is something of sort in that direction.It's a nanomaterial with layers of copper and nickel.
-Í¼Æ¬
+å›¾ç‰‡
 
-°ÍÏÄ£ºÊÇµÄ£¬ÎÒÃÇÃ÷°×¡£µ«ÕâÓëÎÒÃÇ¸Õ²ÅÃèÊöµÄÏàÈ¥ÉõÔ¶¡£
+å·´å¤ï¼šæ˜¯çš„ï¼Œæˆ‘ä»¬æ˜ç™½ã€‚ä½†è¿™ä¸æˆ‘ä»¬åˆšæ‰æè¿°çš„ç›¸å»ç”šè¿œã€‚
 Yes, we understand. But it's nothing close to what we just described.
-ÎÊ£ºËü¿ÉÒÔ×¢ÈëÊ¯Ä«Ï©£¬ÎÒÃÇÕıÔÚÑĞ¾¿Ê¯Ä«Ï©£¬Ë³±ãËµÒ»¾ä£¬»¹ÓĞ²£Á§¡£
+é—®ï¼šå®ƒå¯ä»¥æ³¨å…¥çŸ³å¢¨çƒ¯ï¼Œæˆ‘ä»¬æ­£åœ¨ç ”ç©¶çŸ³å¢¨çƒ¯ï¼Œé¡ºä¾¿è¯´ä¸€å¥ï¼Œè¿˜æœ‰ç»ç’ƒã€‚
 It can be infused with graphene, and we're working with graphene, by the way. And glass.
-°ÍÏÄ£º¸æËßÎÒµ±ÄãÃÇµ½´ïÄÉÃ×²£Á§¡£
+å·´å¤ï¼šå‘Šè¯‰æˆ‘å½“ä½ ä»¬åˆ°è¾¾çº³ç±³ç»ç’ƒã€‚
 Tell me when you get to the nanoglass.
-ÎÊ£ºÄÉÃ×²£Á§£¿ÄãµÄÒâË¼ÊÇ£¿ÄãÊÇËµÏñ20ÄÉÃ×ÕâÑùµÄĞ¡²£Á§ÖéÂğ£¿
+é—®ï¼šçº³ç±³ç»ç’ƒï¼Ÿä½ çš„æ„æ€æ˜¯ï¼Ÿä½ æ˜¯è¯´åƒ20çº³ç±³è¿™æ ·çš„å°ç»ç’ƒç å—ï¼Ÿ
 By nanoglass? What do you mean?Do you mean little beads of glass, like 20 nanometers?
-°ÍÏÄ£ºÎÒÃÇµÄÒâË¼ÊÇ£¬ÄÉÃ×¼¼ÊõÊÇÓÉÒ»ÖÖ²£Á§ÖÆ³ÉµÄ£¬ÕâÖÖ²£Á§¿ÉÒÔ¸Ä±äĞÎ×´£¬¿ÉÒÔÎüÊÕÌØ¶¨ÊıÁ¿ºÍÌØ¶¨¹²ÕñµÄÄÜÁ¿£¬ÓÃÓÚÌØ¶¨Ä¿µÄ¡£²¢¸ù¾İĞèÒªÊµÊ±±ä»»£¬ÒÔ´¦ÀíÄãÃÇ²úÉúµÄÄÜÁ¿³¡ÖĞµÄ²¨¶¯¡£
+å·´å¤ï¼šæˆ‘ä»¬çš„æ„æ€æ˜¯ï¼Œçº³ç±³æŠ€æœ¯æ˜¯ç”±ä¸€ç§ç»ç’ƒåˆ¶æˆçš„ï¼Œè¿™ç§ç»ç’ƒå¯ä»¥æ”¹å˜å½¢çŠ¶ï¼Œå¯ä»¥å¸æ”¶ç‰¹å®šæ•°é‡å’Œç‰¹å®šå…±æŒ¯çš„èƒ½é‡ï¼Œç”¨äºç‰¹å®šç›®çš„ã€‚å¹¶æ ¹æ®éœ€è¦å®æ—¶å˜æ¢ï¼Œä»¥å¤„ç†ä½ ä»¬äº§ç”Ÿçš„èƒ½é‡åœºä¸­çš„æ³¢åŠ¨ã€‚
 We mean that it is nanotechnology that is made of a type of glass that can change form and can absorb energies of certain quantities and certain resonances for specific purposes.And shift as it needs to in real time to handle the fluctuations going on in the energy fields that you generate.
-ÎÊ£ºÕæÎüÒıÈË¡£
+é—®ï¼šçœŸå¸å¼•äººã€‚
 Fascinating.
-°ÍÏÄ£ºÕâÊÇÒ»ÖÖĞÂµÄÒÖÖÆĞÎÊ½¡£ÊµÊ±ÒÖÖÆµÄÏìÓ¦¡£
+å·´å¤ï¼šè¿™æ˜¯ä¸€ç§æ–°çš„æŠ‘åˆ¶å½¢å¼ã€‚å®æ—¶æŠ‘åˆ¶çš„å“åº”ã€‚
 It's a new form of containment.A response of real-time containment.
-ÎÊ£ºÒÖÖÆÊ²Ã´£¿
+é—®ï¼šæŠ‘åˆ¶ä»€ä¹ˆï¼Ÿ
 Containment of what?
-°ÍÏÄ£ºµÈÀë×ÓÌåµÄÒÖÖÆ¡£
+å·´å¤ï¼šç­‰ç¦»å­ä½“çš„æŠ‘åˆ¶ã€‚
 Of the plasma.
-ÎÊ£ººÃµÄ£¬ÎÒÃ÷°×ÁË£¬·Ç³£¸ĞĞ»Äã¡£
+é—®ï¼šå¥½çš„ï¼Œæˆ‘æ˜ç™½äº†ï¼Œéå¸¸æ„Ÿè°¢ä½ ã€‚
 Okay. I see.Thank you very much.
-°ÍÏÄ£º²»¿ÍÆø¡£
+å·´å¤ï¼šä¸å®¢æ°”ã€‚
 You're welcome.

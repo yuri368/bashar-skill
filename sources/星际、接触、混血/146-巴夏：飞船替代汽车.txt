@@ -1,46 +1,46 @@
-°ÍÏÄ£º·É´¬Ìæ´úÆû³µ
-Ô­´´ °¢¿üÑÇ °ÍÏÄËµ
- 2024Äê08ÔÂ28ÈÕ 06:01 ÁÉÄş
-Ç°ÑÔ
+å·´å¤ï¼šé£èˆ¹æ›¿ä»£æ±½è½¦
+åŸåˆ› é˜¿å¥äºš å·´å¤è¯´
+ 2024å¹´08æœˆ28æ—¥ 06:01 è¾½å®
+å‰è¨€
 
-Õâ½«Ê¹Äã·ÅÏÂ¶ÔÄãÃÇÊ¹ÓÃÆû³µµÄÏë·¨ÕıÈçÄãÃÇµ±½ñÊ¹ÓÃËüÃÇÒ»Ñù£¬ĞÂ¼¼ÊõµÄÒıÈë¿Ï¶¨»á×îÖÕÓÃ¶àÖÖ½»Í¨·½Ê½È¡´úËüÃÇ¡£
+è¿™å°†ä½¿ä½ æ”¾ä¸‹å¯¹ä½ ä»¬ä½¿ç”¨æ±½è½¦çš„æƒ³æ³•æ­£å¦‚ä½ ä»¬å½“ä»Šä½¿ç”¨å®ƒä»¬ä¸€æ ·ï¼Œæ–°æŠ€æœ¯çš„å¼•å…¥è‚¯å®šä¼šæœ€ç»ˆç”¨å¤šç§äº¤é€šæ–¹å¼å–ä»£å®ƒä»¬ã€‚
 
-                    ÒëÕß£º°¢¿üÑÇ Aquia
+                    è¯‘è€…ï¼šé˜¿å¥äºš Aquia
 
-                ´«Ñ¶Ê±¼ä£º2024Äê8ÔÂ24ÈÕ
+                ä¼ è®¯æ—¶é—´ï¼š2024å¹´8æœˆ24æ—¥
 
-ÎÊ£ºÄãÒÑ¾­Ì¸µ½ÁËµÚÆß¸ö»ìÑªÖÖ×åµÄµ®Éú£¬°¢Å¬º£ÌØÈË£¬½«ÈçºÎÎªÕû¸öÒøºÓÏµ´øÀ´10ÍòÄêµÄºÍÆ½¡£ÎªÊ²Ã´ºÍÆ½²»»á³ÖĞø¸ü³¤Ê±¼ä£¿ÔÚÄÇÖ®ºó»á·¢ÉúÊ²Ã´£¿
+é—®ï¼šä½ å·²ç»è°ˆåˆ°äº†ç¬¬ä¸ƒä¸ªæ··è¡€ç§æ—çš„è¯ç”Ÿï¼Œé˜¿åŠªæµ·ç‰¹äººï¼Œå°†å¦‚ä½•ä¸ºæ•´ä¸ªé“¶æ²³ç³»å¸¦æ¥10ä¸‡å¹´çš„å’Œå¹³ã€‚ä¸ºä»€ä¹ˆå’Œå¹³ä¸ä¼šæŒç»­æ›´é•¿æ—¶é—´ï¼Ÿåœ¨é‚£ä¹‹åä¼šå‘ç”Ÿä»€ä¹ˆï¼Ÿ
 
 You've talked about how the creation of the seventh hybrid race, the Anu-Het,will usher in 100,000 years of peace throughout the galaxy.Why doesn't the peace last longer than that? And what happens after that?
 
-°ÍÏÄ£ºÎÒ²»ÊÇËµºÍÆ½²»ÄÜ³ÖĞø¸ü³¤Ê±¼ä£¬µ«ÎÒÒªËµµÄÊÇÔÚ°¢Å¬º£ÌØÄ¿Ç°µÄ°²ÅÅÏÂ£¬ÕâÊÇ10ÍòÄêµÄºÍÆ½¡£ÔÚÄÇÖ®ºó»¹»á·¢ÉúÆäËûÊÂÇé£¬ºÍÆ½¿ÉÄÜ»á¼ÌĞø£¬µ«Ëü½«ÒÔ²»Í¬µÄ·½Ê½ÔÚ²»Í¬µÄ¶ÀÌØ´æÓĞÈºÌåÖĞ¼ÌĞø¡£
+å·´å¤ï¼šæˆ‘ä¸æ˜¯è¯´å’Œå¹³ä¸èƒ½æŒç»­æ›´é•¿æ—¶é—´ï¼Œä½†æˆ‘è¦è¯´çš„æ˜¯åœ¨é˜¿åŠªæµ·ç‰¹ç›®å‰çš„å®‰æ’ä¸‹ï¼Œè¿™æ˜¯10ä¸‡å¹´çš„å’Œå¹³ã€‚åœ¨é‚£ä¹‹åè¿˜ä¼šå‘ç”Ÿå…¶ä»–äº‹æƒ…ï¼Œå’Œå¹³å¯èƒ½ä¼šç»§ç»­ï¼Œä½†å®ƒå°†ä»¥ä¸åŒçš„æ–¹å¼åœ¨ä¸åŒçš„ç‹¬ç‰¹å­˜æœ‰ç¾¤ä½“ä¸­ç»§ç»­ã€‚
 
 I'm not saying the peace cannot last longer, but what I am saying is that it is 100,000 years of peace under the present arrangement of the Anu-Het.There are other things that will happen after that, The peace may continue, but it will continue in a different way with a different grouping of individual beings.
 
-Õâ¸öÏë·¨ÊÇÄãÃÇµÄÒøºÓÏµ½«¾­ÀúÒ»¸öÌØ¶¨µÄÖÜÆÚ¡£Õâ½«ÔÊĞí²»Í¬µÄÉúÃüÌåÑéµ½ĞÂµÄÒâÊ¶ÖÜÆÚ£¬ÒÔ¼°ËûÃÇÑ¡ÔñÌåÑéµÄĞÂÌåÑé¡£ËùÒÔ²¢²»ÊÇËµºÍÆ½²»ÄÜ¼ÌĞø£¬ÎÒÃÇÖ»ÊÇÔÚÌ¸ÂÛÔÚÄãÃÇ¿ÉÄÜ³ÆÖ®ÎªÒøºÓÏµÄ¿Ç°¹ÜÀíÏÂµÄ10ÍòÄêºÍÆ½¡£
+è¿™ä¸ªæƒ³æ³•æ˜¯ä½ ä»¬çš„é“¶æ²³ç³»å°†ç»å†ä¸€ä¸ªç‰¹å®šçš„å‘¨æœŸã€‚è¿™å°†å…è®¸ä¸åŒçš„ç”Ÿå‘½ä½“éªŒåˆ°æ–°çš„æ„è¯†å‘¨æœŸï¼Œä»¥åŠä»–ä»¬é€‰æ‹©ä½“éªŒçš„æ–°ä½“éªŒã€‚æ‰€ä»¥å¹¶ä¸æ˜¯è¯´å’Œå¹³ä¸èƒ½ç»§ç»­ï¼Œæˆ‘ä»¬åªæ˜¯åœ¨è°ˆè®ºåœ¨ä½ ä»¬å¯èƒ½ç§°ä¹‹ä¸ºé“¶æ²³ç³»ç›®å‰ç®¡ç†ä¸‹çš„10ä¸‡å¹´å’Œå¹³ã€‚
 
 The idea is that your galaxy will go through a particular cycle.That will allow for different beings to experience new cycles of awareness, new experiences as they have chosen to experience them.So it's not that the peace can't continue, We 're simply talking about 100,000 years of peace under what you might term the present administration of the galaxy.
 
-ÎÊ£ºµ±Äã½éÉÜ±í´ïUFO£¬µ±Äã°ÑÍâĞÇ·É´¬ÒıÈëÎÒÃÇµÄÉç»áÊ±£¬Ëü»áÓ°ÏìÎÒÃÇ¶ÔÆû³µµÄÊ¹ÓÃÂğ£¿
+é—®ï¼šå½“ä½ ä»‹ç»è¡¨è¾¾UFOï¼Œå½“ä½ æŠŠå¤–æ˜Ÿé£èˆ¹å¼•å…¥æˆ‘ä»¬çš„ç¤¾ä¼šæ—¶ï¼Œå®ƒä¼šå½±å“æˆ‘ä»¬å¯¹æ±½è½¦çš„ä½¿ç”¨å—ï¼Ÿ
 
 When you introduce, says UFO, so ET ships to our society, will it affect our use of automobiles?
 
-Í¼Æ¬
+å›¾ç‰‡
 
-°ÍÏÄ£ºÔÚÄ³Ğ©µØÇø£¬¿ÉÄÜ»á£¬ÕâÒª¿´Çé¿ö¡£×îÖÕ»¹»áÓĞÆäËû½»Í¨·½Ê½£¬µ±È»¡£Õâ½«Ê¹Äã·ÅÏÂ¶ÔÄãÃÇÊ¹ÓÃÆû³µµÄÏë·¨ÕıÈçÄãÃÇµ±½ñÊ¹ÓÃËüÃÇÒ»Ñù£¬ĞÂ¼¼ÊõµÄÒıÈë¿Ï¶¨»á×îÖÕÓÃ¶àÖÖ½»Í¨·½Ê½È¡´úËüÃÇ¡£
+å·´å¤ï¼šåœ¨æŸäº›åœ°åŒºï¼Œå¯èƒ½ä¼šï¼Œè¿™è¦çœ‹æƒ…å†µã€‚æœ€ç»ˆè¿˜ä¼šæœ‰å…¶ä»–äº¤é€šæ–¹å¼ï¼Œå½“ç„¶ã€‚è¿™å°†ä½¿ä½ æ”¾ä¸‹å¯¹ä½ ä»¬ä½¿ç”¨æ±½è½¦çš„æƒ³æ³•æ­£å¦‚ä½ ä»¬å½“ä»Šä½¿ç”¨å®ƒä»¬ä¸€æ ·ï¼Œæ–°æŠ€æœ¯çš„å¼•å…¥è‚¯å®šä¼šæœ€ç»ˆç”¨å¤šç§äº¤é€šæ–¹å¼å–ä»£å®ƒä»¬ã€‚
 
 In some areas, it may, It depends,There will be other modes of transportation, ultimately, of course.That will allow you to let go of the idea of your automobiles.as you use them today, The introduction of new technologies will certainly replace them eventually with many modes of transportation.
 
-ÎÊ£º¿¼ÂÇµ½ÕâÊÇÄãÔÚÔçÆÚ´«Ñ¶ÖĞÌáµ½µÄÎ¨Ò»ÈËÉú£¬ÄãÏÖÔÚÑ¡ÔñÔÚµØÇòÉÏ»¯ÉíÎª´ïÀï¶ûÊÇÎªÊ²Ã´£¿
+é—®ï¼šè€ƒè™‘åˆ°è¿™æ˜¯ä½ åœ¨æ—©æœŸä¼ è®¯ä¸­æåˆ°çš„å”¯ä¸€äººç”Ÿï¼Œä½ ç°åœ¨é€‰æ‹©åœ¨åœ°çƒä¸ŠåŒ–èº«ä¸ºè¾¾é‡Œå°”æ˜¯ä¸ºä»€ä¹ˆï¼Ÿ
 
 What did you choose to incarnate on Earth as Darryl now, given that this is your only life here as mentioned in an earlier transmission?
 
-°ÍÏÄ£ºÏòµØÇòÉç»á´«µİµ±Ê±×îÓĞÀûÓÚÏò¹«¿ª½Ó´¥×ª±äµÄĞÅÏ¢¡£
+å·´å¤ï¼šå‘åœ°çƒç¤¾ä¼šä¼ é€’å½“æ—¶æœ€æœ‰åˆ©äºå‘å…¬å¼€æ¥è§¦è½¬å˜çš„ä¿¡æ¯ã€‚
 
 To deliver information to Earth's society most conducive at the time for the shifting toward open contact.
 
 
-Í¼Æ¬
+å›¾ç‰‡
 
 
 
@@ -48,5 +48,5 @@ To deliver information to Earth's society most conducive at the time for the shi
 
 
 
-°¢¿üÑÇ
- Èç¹ûÓĞ°ïÖú»¹ÇëÄúËæÏ²ÔŞÉÍ 
+é˜¿å¥äºš
+ å¦‚æœæœ‰å¸®åŠ©è¿˜è¯·æ‚¨éšå–œèµèµ 

@@ -1,81 +1,81 @@
-°ÍÏÄ£º²»¸øÌÇ¾Íµ·µ°
-Ô­´´ °¢¿üÑÇ °ÍÏÄËµ
- 2024Äê11ÔÂ23ÈÕ 06:00 ÁÉÄş
-Ç°ÑÔ
+å·´å¤ï¼šä¸ç»™ç³–å°±æ£è›‹
+åŸåˆ› é˜¿å¥äºš å·´å¤è¯´
+ 2024å¹´11æœˆ23æ—¥ 06:00 è¾½å®
+å‰è¨€
 
-Ò»¸ö°ÍÏÄ´Ó´ïÀï¶û°²¿¨µÄÎ´À´ÒâÊ¶ÖĞÌáÈ¡µÄ¹ÊÊÂ£¬Ò»¸ö¹ØÓÚÍòÊ¥½ÚµÄ¹ÊÊÂ£¬½Ğ×ö¡°°®³ÔÌğÊ³µÄ¶ñÄ§¡±¡£
+ä¸€ä¸ªå·´å¤ä»è¾¾é‡Œå°”å®‰å¡çš„æœªæ¥æ„è¯†ä¸­æå–çš„æ•…äº‹ï¼Œä¸€ä¸ªå…³äºä¸‡åœ£èŠ‚çš„æ•…äº‹ï¼Œå«åšâ€œçˆ±åƒç”œé£Ÿçš„æ¶é­”â€ã€‚
 
-                   ÒëÕß£º°¢¿üÑÇ Aquia
+                   è¯‘è€…ï¼šé˜¿å¥äºš Aquia
 
-               ´«Ñ¶Ê±¼ä£º2021Äê10ÔÂ23ÈÕ
+               ä¼ è®¯æ—¶é—´ï¼š2021å¹´10æœˆ23æ—¥
 
-ÎÊ£ºÅ¶£¬»¹ÓĞÈËÇëÇó½²ÊöÒ»¸öÍòÊ¥½Ú¹ÊÊÂ¡£
+é—®ï¼šå“¦ï¼Œè¿˜æœ‰äººè¯·æ±‚è®²è¿°ä¸€ä¸ªä¸‡åœ£èŠ‚æ•…äº‹ã€‚
 
 Oh, and there was a request for a Halloween story.
 
-°ÍÏÄ£ºÒ»¸öÍòÊ¥½Ú¹ÊÊÂ¡£ºÃµÄ¡£ÎÒÃÇ½«´ÓÄãÃÇËùÈÏÎªµÄ¹ÜµÀµÄÎ´À´ÒâÊ¶ÖĞÌáÈ¡Õâ¸ö¹ÊÊÂ¡£»»¾ä»°Ëµ£¬ÕâÊÇÒ»¸öÔÚËûÒâÊ¶ÖĞµÄ¹ÊÊÂ£¬Ëû»¹Ã»ÓĞÒâÊ¶µ½£¬²¢½«ÔÚÎ´À´Ğ´ÏÂÀ´¡£µ±È»£¬ËûÏÖÔÚ»áÒâÊ¶µ½ÕâÒ»µã£¬ÒòÎªÎÒÃÇ»á°ÑËüÓ¡ÔÚËûÉíÉÏ£¬ÕâÑùËû¾Í¿ÉÒÔ±ÈÒÔÇ°¸ü¿ìµØĞ´ÏÂÀ´¡£Õâ²»ÊÇÒ»ÖÖ¸ÉÉæ£¬ÒòÎªÕâĞ©¶«Î÷¿ÉÒÔÍ¨¹ı¹ÜµÀµÄÒâÊ¶Ìá¹©¸øÎÒÃÇ¡£
+å·´å¤ï¼šä¸€ä¸ªä¸‡åœ£èŠ‚æ•…äº‹ã€‚å¥½çš„ã€‚æˆ‘ä»¬å°†ä»ä½ ä»¬æ‰€è®¤ä¸ºçš„ç®¡é“çš„æœªæ¥æ„è¯†ä¸­æå–è¿™ä¸ªæ•…äº‹ã€‚æ¢å¥è¯è¯´ï¼Œè¿™æ˜¯ä¸€ä¸ªåœ¨ä»–æ„è¯†ä¸­çš„æ•…äº‹ï¼Œä»–è¿˜æ²¡æœ‰æ„è¯†åˆ°ï¼Œå¹¶å°†åœ¨æœªæ¥å†™ä¸‹æ¥ã€‚å½“ç„¶ï¼Œä»–ç°åœ¨ä¼šæ„è¯†åˆ°è¿™ä¸€ç‚¹ï¼Œå› ä¸ºæˆ‘ä»¬ä¼šæŠŠå®ƒå°åœ¨ä»–èº«ä¸Šï¼Œè¿™æ ·ä»–å°±å¯ä»¥æ¯”ä»¥å‰æ›´å¿«åœ°å†™ä¸‹æ¥ã€‚è¿™ä¸æ˜¯ä¸€ç§å¹²æ¶‰ï¼Œå› ä¸ºè¿™äº›ä¸œè¥¿å¯ä»¥é€šè¿‡ç®¡é“çš„æ„è¯†æä¾›ç»™æˆ‘ä»¬ã€‚
 
 A Halloween story. All right. We are going to pull this story from what you would recognize as the channel's future consciousness.In other words, it's a story that's in his consciousness that he hasn't realized yet and will write in the future.Of course, he will realize it now because we'll imprint it on him and impress it on him so he could write it sooner than he otherwise would have done.This is not an interference because these things are available to us through the channel's consciousness.
 
-¼ÈÈ»ÕâÓëËû½«ÒªĞ´µÄÒ»¸ö¹ÊÊÂÓĞ¹Ø£¬ÄÇÃ´ÎÒÃÇÏÖÔÚ¾Í¿ÉÒÔÌáÈ¡Ëü£¬ÒòÎªËüÊÇÔÊĞíÕâÑù×öµÄ¡£Õâ¸ö¹ÊÊÂ±»³ÆÎª¡°°®³ÔÌğÊ³µÄ¶ñÄ§¡±¡£½Ü¿ËºÍ¼ª¶û£¬10ËêµÄË«°ûÌ¥¡£ÔÚÍòÊ¥½ÚÇ°Ï¦´ò°çµÃÏñ÷¼÷Ã¡£ËûÃÇ×Ô¼º×öÕâ¼şÊÂÊÇÒòÎª½Ü¿Ë¶ÔÌØĞ§»¯×±·Ç³£ĞË·Ü¡£Ëû×öµÃºÜ³öÉ«£¬ÈÃËûºÍËûµÄË«°ûÌ¥ÃÃÃÃ¿´ÆğÀ´¾ÍÏñ¡¶ÍöÁé½Ú¡·ÖĞµÄ÷¼÷Ã¡£
+æ—¢ç„¶è¿™ä¸ä»–å°†è¦å†™çš„ä¸€ä¸ªæ•…äº‹æœ‰å…³ï¼Œé‚£ä¹ˆæˆ‘ä»¬ç°åœ¨å°±å¯ä»¥æå–å®ƒï¼Œå› ä¸ºå®ƒæ˜¯å…è®¸è¿™æ ·åšçš„ã€‚è¿™ä¸ªæ•…äº‹è¢«ç§°ä¸ºâ€œçˆ±åƒç”œé£Ÿçš„æ¶é­”â€ã€‚æ°å…‹å’Œå‰å°”ï¼Œ10å²çš„åŒèƒèƒã€‚åœ¨ä¸‡åœ£èŠ‚å‰å¤•æ‰“æ‰®å¾—åƒéª·é«…ã€‚ä»–ä»¬è‡ªå·±åšè¿™ä»¶äº‹æ˜¯å› ä¸ºæ°å…‹å¯¹ç‰¹æ•ˆåŒ–å¦†éå¸¸å…´å¥‹ã€‚ä»–åšå¾—å¾ˆå‡ºè‰²ï¼Œè®©ä»–å’Œä»–çš„åŒèƒèƒå¦¹å¦¹çœ‹èµ·æ¥å°±åƒã€Šäº¡çµèŠ‚ã€‹ä¸­çš„éª·é«…ã€‚
 
 And since it has to do with a story that he will have written, then we can pull it now because it is allowed to do so.This is called The Demon with the Sweet Tooth. Jack and Jill, 10-year-old twins.Are made up like skeletons for Halloween. They have done this on their own because Jack is very excited about special effects makeup.And has done a wonderful job making he and his twin sister look just like Day of the Dead skeletons.
 
-Í¼Æ¬
+å›¾ç‰‡
 
-ËûÃÇÔÚ¸½½üËÄ´¦ÊÕ¼¯ÌÇ¹û¡£ÄÇÌìÍíÉÏ£¬ËûÃÇµÖ´ïÁËµÚ13¶°·¿×Ó¡£Ò»¸ö´ò°ç³ÉĞ¡³óµÄÅ®ÈË´ò¿ªÁËÃÅ¡£¿´×ÅËûÃÇËµ£¬Å¶£¬¶àÃ´¾ªÆæµÄ·ş×°¡£ÕâÊÇ¸øÄãÃÇµÄÌÇ¹û¡£ËûÃÇºÜ¿ìËµĞ»Ğ»²¢×ªÉí×ß¿ª£¬ÒòÎª¶ÔËûÃÇÀ´Ëµ£¬Ğ¡³óÉõÖÁ±È÷¼÷Ã»¹¿ÉÅÂ¡£ËûÃÇ¼ÌĞøÇ°½ø£¬µ½´ïÁË½ÖÇøµÄ¾¡Í·¡£ËûÃÇÑØ×Å½ÖÇøÍùÏÂ¿´£¬½ÖÇøºÜºÚ¡£
+ä»–ä»¬åœ¨é™„è¿‘å››å¤„æ”¶é›†ç³–æœã€‚é‚£å¤©æ™šä¸Šï¼Œä»–ä»¬æŠµè¾¾äº†ç¬¬13æ ‹æˆ¿å­ã€‚ä¸€ä¸ªæ‰“æ‰®æˆå°ä¸‘çš„å¥³äººæ‰“å¼€äº†é—¨ã€‚çœ‹ç€ä»–ä»¬è¯´ï¼Œå“¦ï¼Œå¤šä¹ˆæƒŠå¥‡çš„æœè£…ã€‚è¿™æ˜¯ç»™ä½ ä»¬çš„ç³–æœã€‚ä»–ä»¬å¾ˆå¿«è¯´è°¢è°¢å¹¶è½¬èº«èµ°å¼€ï¼Œå› ä¸ºå¯¹ä»–ä»¬æ¥è¯´ï¼Œå°ä¸‘ç”šè‡³æ¯”éª·é«…è¿˜å¯æ€•ã€‚ä»–ä»¬ç»§ç»­å‰è¿›ï¼Œåˆ°è¾¾äº†è¡—åŒºçš„å°½å¤´ã€‚ä»–ä»¬æ²¿ç€è¡—åŒºå¾€ä¸‹çœ‹ï¼Œè¡—åŒºå¾ˆé»‘ã€‚
 
 And they go around in their neighborhood collecting candy. And they arrive at the 13th house that evening.And a woman opens the door who is dressed like a clown. And looks at them and says, oh, what wonderful costumes.Here is some candy for you.They very quickly say thank you and turn around and walk away because to them, clowns are even scarier than skeletons.And they continue on their way and arrive at the end of the block. And they look down the block and it is very dark.
 
-Â·µÆºÜÉÙ¡£È»ºó¼ª¶ûËµ£¬ºÃ°É£¬Ò²ĞíÎÒÃÇÓ¦¸Ã×ßÁíÒ»ÌõÂ·¡£È»ºó½Ü¿ËËµ£¬ºÃ°É£¬ÎÒÃÇµÄ½ã½ãÈğÇïËµ£¬Õâ¸ö½ÖÇøÓĞÒ»Ğ©×îºÃµÄÌÇ¹û¡£ËùÒÔÎÒÃÇ²»Ó¦¸Ãº¦ÅÂ¡£È»ºó¼ª¶ûËµ£¬µ«ÈğÇïÓ¦¸ÃºÍÎÒÃÇÔÚÒ»Æğ¡£ÊÇµÄ£¬½Ü¿ËËµ£¬µ«ÏÖÔÚËıÉÏ¸ßÖĞÁË£¬ËıËµÅã°éÁ½¸öÄêÓ×µÄº¢×Ó¶ÔËıÀ´Ëµ²»ÈçÈ¥²Î¼Ó¾Û»áÄÇÃ´ÁîÈËĞË·Ü¡£ËıµÄÍòÊ¥½ÚÅÉ¶Ô¡£Å¶£¬ÓĞÊ²Ã´ÁË²»ÆğµÄ¡£´óĞÍ³ÉÈË¾Û»á¡£ËùÒÔÏÖÔÚÎÒÃÇÖ»ÄÜ¿¿×Ô¼ºÁË¡£
+è·¯ç¯å¾ˆå°‘ã€‚ç„¶åå‰å°”è¯´ï¼Œå¥½å§ï¼Œä¹Ÿè®¸æˆ‘ä»¬åº”è¯¥èµ°å¦ä¸€æ¡è·¯ã€‚ç„¶åæ°å…‹è¯´ï¼Œå¥½å§ï¼Œæˆ‘ä»¬çš„å§å§ç‘ç§‹è¯´ï¼Œè¿™ä¸ªè¡—åŒºæœ‰ä¸€äº›æœ€å¥½çš„ç³–æœã€‚æ‰€ä»¥æˆ‘ä»¬ä¸åº”è¯¥å®³æ€•ã€‚ç„¶åå‰å°”è¯´ï¼Œä½†ç‘ç§‹åº”è¯¥å’Œæˆ‘ä»¬åœ¨ä¸€èµ·ã€‚æ˜¯çš„ï¼Œæ°å…‹è¯´ï¼Œä½†ç°åœ¨å¥¹ä¸Šé«˜ä¸­äº†ï¼Œå¥¹è¯´é™ªä¼´ä¸¤ä¸ªå¹´å¹¼çš„å­©å­å¯¹å¥¹æ¥è¯´ä¸å¦‚å»å‚åŠ èšä¼šé‚£ä¹ˆä»¤äººå…´å¥‹ã€‚å¥¹çš„ä¸‡åœ£èŠ‚æ´¾å¯¹ã€‚å“¦ï¼Œæœ‰ä»€ä¹ˆäº†ä¸èµ·çš„ã€‚å¤§å‹æˆäººèšä¼šã€‚æ‰€ä»¥ç°åœ¨æˆ‘ä»¬åªèƒ½é è‡ªå·±äº†ã€‚
 
 There are very few streetlights. And Jill says, well, maybe we should go the other way. And Jack says, well, our big sister, Rachel, has said that some of the best candy is on this block.So we shouldn't be afraid of that. And Jill says, but Rachel should have been with us. Yes, says Jack, but now she is in high school and says that chaperoning two young children is less exciting to her than going to her parties.Her Halloween parties. Ooh, big deal. Big grown-up parties. So we are now on our own for the moment.
 
-ËùÒÔ£¬ÈÃÎÒÃÇÑØ×ÅÕâ¸ö½ÖÇø×ßÏÂÈ¥£¬ÔÙÊÕ¼¯Ò»Ğ©ÌÇ¹û¡£ËùÒÔ¼ª¶û²»ÇéÔ¸µØÍ¬ÒâÁË£¬ËûÃÇÑØ×Å½ÖÇøÍùÏÂ×ß¡£ËûÃÇ¿ÉÄÜ×ßÁË²»³¬¹ı100Ó¢³ß¡£Ò»¸ö¾Ş´óµÄ¡¢¿ÉÅÂµÄ¡¢¶ñÄ§°ãµÄĞ¡³óÍ»È»³öÏÖÔÚËûÃÇÃæÇ°£¬ÔÚ·çÖĞ¶ÔËûÃÇº¿½Ğ¡£ËûÃÇÍ£×¡²»¶¯ÁË£¬ÎŞ·¨Ëµ»°»ò±¼ÅÜ¡£»¹ÓĞÄÇ¸ö³¤×ÅÂÌÉ«ÑÛ¾¦µÄ¶ñÄ§Ğ¡³ó¡£
+æ‰€ä»¥ï¼Œè®©æˆ‘ä»¬æ²¿ç€è¿™ä¸ªè¡—åŒºèµ°ä¸‹å»ï¼Œå†æ”¶é›†ä¸€äº›ç³–æœã€‚æ‰€ä»¥å‰å°”ä¸æƒ…æ„¿åœ°åŒæ„äº†ï¼Œä»–ä»¬æ²¿ç€è¡—åŒºå¾€ä¸‹èµ°ã€‚ä»–ä»¬å¯èƒ½èµ°äº†ä¸è¶…è¿‡100è‹±å°ºã€‚ä¸€ä¸ªå·¨å¤§çš„ã€å¯æ€•çš„ã€æ¶é­”èˆ¬çš„å°ä¸‘çªç„¶å‡ºç°åœ¨ä»–ä»¬é¢å‰ï¼Œåœ¨é£ä¸­å¯¹ä»–ä»¬åšå«ã€‚ä»–ä»¬åœä½ä¸åŠ¨äº†ï¼Œæ— æ³•è¯´è¯æˆ–å¥”è·‘ã€‚è¿˜æœ‰é‚£ä¸ªé•¿ç€ç»¿è‰²çœ¼ç›çš„æ¶é­”å°ä¸‘ã€‚
 
 So let us go down this block and collect some more candy. And so Jill reluctantly agrees and they move down the block.They don't get more than maybe about 100 feet when all of a sudden a huge, scary, demonic clown shows up in front of them and howls at them on the wind.And the demonic clown with glowing green eyes.Reaches out and snatches away their bags of candy and devours it in an instant.
 
-Í¼Æ¬
+å›¾ç‰‡
 
-È»ºóÄÇ¸ö³¤×ÅÂÌÉ«ÑÛ¾¦µÄ¶ñÄ§Ğ¡³ó¡£ÉìÊÖÇÀ×ßËûÃÇµÄÌÇ¹û´ü£¬Ë²¼äÀÇÍÌ»¢ÑÊ¡£È»ºó´òàÃ£¬ÎÅÆğÀ´¾ÍÏñÏÂË®µÀ£¬È»ºóÏûÊ§ÁË¡£È»ºó½Ü¿ËºÍ¼ª¶û´óÔ¼ĞèÒªÒ»Á½·ÖÖÓ²ÅÄÜËµ»°¡£µ±½Ü¿ËËµ»°Ê±£¬ËûËµ£¬ÍÛÅ¶¡£È»ºó¼ª¶ûËµ£¬ÍÛÅ¶£¬ÔÚÕâ´Î¿ÉÅÂµÄ¾­ÀúÖ®ºó£¬ÄãÖ»ÏëËµÕâĞ©Âğ£¿ÍÛÅ¶£¡È»ºó½Ü¿ËËµ£¬àÅ£¬ÄÇÊÇÎÒ¼û¹ıµÄ×îºÃµÄÌØ¼¼Ğ§¹ûÖ®Ò»¡£È»ºó¼ª¶ûËµ£¬ÄãÊÇËµÄãÏàĞÅÄÇ²»ÊÇÕæµÄ£¿
+ç„¶åé‚£ä¸ªé•¿ç€ç»¿è‰²çœ¼ç›çš„æ¶é­”å°ä¸‘ã€‚ä¼¸æ‰‹æŠ¢èµ°ä»–ä»¬çš„ç³–æœè¢‹ï¼Œç¬é—´ç‹¼åè™å’½ã€‚ç„¶åæ‰“å—ï¼Œé—»èµ·æ¥å°±åƒä¸‹æ°´é“ï¼Œç„¶åæ¶ˆå¤±äº†ã€‚ç„¶åæ°å…‹å’Œå‰å°”å¤§çº¦éœ€è¦ä¸€ä¸¤åˆ†é’Ÿæ‰èƒ½è¯´è¯ã€‚å½“æ°å…‹è¯´è¯æ—¶ï¼Œä»–è¯´ï¼Œå“‡å“¦ã€‚ç„¶åå‰å°”è¯´ï¼Œå“‡å“¦ï¼Œåœ¨è¿™æ¬¡å¯æ€•çš„ç»å†ä¹‹åï¼Œä½ åªæƒ³è¯´è¿™äº›å—ï¼Ÿå“‡å“¦ï¼ç„¶åæ°å…‹è¯´ï¼Œå—¯ï¼Œé‚£æ˜¯æˆ‘è§è¿‡çš„æœ€å¥½çš„ç‰¹æŠ€æ•ˆæœä¹‹ä¸€ã€‚ç„¶åå‰å°”è¯´ï¼Œä½ æ˜¯è¯´ä½ ç›¸ä¿¡é‚£ä¸æ˜¯çœŸçš„ï¼Ÿ
 
 And the demonic clown with glowing green eyes.Reaches out and snatches away their bags of candy and devours it in an instant.And then belches and smells like a sewer and disappears.And it takes about a minute or two for Jack and Jill to be able to speak. And when Jack speaks, he says, wow.And Jill says, wow, that's all you have to say after that horribly frightening experience? Wow.And Jack says, well, that was some of the best special effects I've ever seen. And Jill says, you mean you believe that wasn't real?
 
-ËûËµ£¬ÕâÔõÃ´¿ÉÄÜÊÇÕæµÄ£¬Éµ¹Ï£¿¶ñÄ§²¢·ÇÕæÊµ´æÔÚ¡£ÎÒÏëÄãÒ²ÈÔÈ»ÏàĞÅÊ¥µ®ÀÏÈËÕæÊµ´æÔÚ£¬²»ÊÇÂğ£¿È»ºó¼ª¶ûËµ£¬ºÃ°É£¬Èç¹ûÄãÈ·ĞÅµÄ»°£¬ÎÒÃÇµÄÌÇ¹ûÊÇÔõÃ´ÏûÊ§µÄ£¿ºÃ°É£¬ÕâÊÇÒ»¸öÄ§Êõ£¬½Ü¿ËËµ¡£Äã»¹¼ÇµÃÔÚµçÊÓÉÏ¿´µ½ÄÇ¸öÄ§ÊõÊ¦ÈÃ´óÏóÏûÊ§Âğ£¿àÅ£¬Ïà±ÈÖ®ÏÂ£¬ÌÇ¹ûÓ¦¸Ã¸üÈİÒ×ÏûÊ§¡£ºÃ°É£¬ÎÒÏëÖªµÀÕâÊÇË­¸ÉµÄ£¬¼ª¶ûËµ¡£ËûÃÇ±ØĞëÓĞÒ»Ğ©¾ªÈËµÄ¼¼ÊõÀ´×öÕâÑùµÄÊÂÇé¡£
+ä»–è¯´ï¼Œè¿™æ€ä¹ˆå¯èƒ½æ˜¯çœŸçš„ï¼Œå‚»ç“œï¼Ÿæ¶é­”å¹¶éçœŸå®å­˜åœ¨ã€‚æˆ‘æƒ³ä½ ä¹Ÿä»ç„¶ç›¸ä¿¡åœ£è¯è€äººçœŸå®å­˜åœ¨ï¼Œä¸æ˜¯å—ï¼Ÿç„¶åå‰å°”è¯´ï¼Œå¥½å§ï¼Œå¦‚æœä½ ç¡®ä¿¡çš„è¯ï¼Œæˆ‘ä»¬çš„ç³–æœæ˜¯æ€ä¹ˆæ¶ˆå¤±çš„ï¼Ÿå¥½å§ï¼Œè¿™æ˜¯ä¸€ä¸ªé­”æœ¯ï¼Œæ°å…‹è¯´ã€‚ä½ è¿˜è®°å¾—åœ¨ç”µè§†ä¸Šçœ‹åˆ°é‚£ä¸ªé­”æœ¯å¸ˆè®©å¤§è±¡æ¶ˆå¤±å—ï¼Ÿå—¯ï¼Œç›¸æ¯”ä¹‹ä¸‹ï¼Œç³–æœåº”è¯¥æ›´å®¹æ˜“æ¶ˆå¤±ã€‚å¥½å§ï¼Œæˆ‘æƒ³çŸ¥é“è¿™æ˜¯è°å¹²çš„ï¼Œå‰å°”è¯´ã€‚ä»–ä»¬å¿…é¡»æœ‰ä¸€äº›æƒŠäººçš„æŠ€æœ¯æ¥åšè¿™æ ·çš„äº‹æƒ…ã€‚
 
 He says, how could it be, silly? Demons aren't real. I suppose you still believe in Santa Claus, too, don't you?And Jill says, well, if you're sure, well, how did our candy disappear? Well, it's a magic trick, says Jack.You remember seeing that magician on TV make that elephant disappear? Well, candy should be easy peasy by comparison.Well, I wonder who did that, said Jill. They must have some amazing technology to do something like this.
 
-Å¶£¬ÊÇµÄ£¬½Ü¿ËËµ£¬¿ÉÄÜÊÇÒ»¸öÈ«Ï¢Í¼£¬ÓëÎÒÃÇÃ»ÓĞ¿´µ½µÄÎ±×°µÄÄ§ÊõÊ¦ÓĞ¹Ø¡£Ë­ÖªµÀÄØ£¿µ«ÕâÊÇÒ»´Î·Ç³£¿ÉÅÂµÄ¾­Àú¡£ÈÃÎÒÃÇÑØ×ÅÕâ¸ö½ÖÇø×ß£¬¿´¿´»¹ÄÜÅöµ½Ê²Ã´¡£ËùÒÔËûÃÇÍ¬ÒâÏÖÔÚ¼ÌĞøÊ¹ÓÃ¿Õ´ü×Ó£¬±ØĞëÔÙ´Î×°Âú¡£ÔÙÒ»´Î£¬ËûÃÇ°¤¼Ò°¤»§µØ»ñµÃ¸ü¶àÌÇ¹û
+å“¦ï¼Œæ˜¯çš„ï¼Œæ°å…‹è¯´ï¼Œå¯èƒ½æ˜¯ä¸€ä¸ªå…¨æ¯å›¾ï¼Œä¸æˆ‘ä»¬æ²¡æœ‰çœ‹åˆ°çš„ä¼ªè£…çš„é­”æœ¯å¸ˆæœ‰å…³ã€‚è°çŸ¥é“å‘¢ï¼Ÿä½†è¿™æ˜¯ä¸€æ¬¡éå¸¸å¯æ€•çš„ç»å†ã€‚è®©æˆ‘ä»¬æ²¿ç€è¿™ä¸ªè¡—åŒºèµ°ï¼Œçœ‹çœ‹è¿˜èƒ½ç¢°åˆ°ä»€ä¹ˆã€‚æ‰€ä»¥ä»–ä»¬åŒæ„ç°åœ¨ç»§ç»­ä½¿ç”¨ç©ºè¢‹å­ï¼Œå¿…é¡»å†æ¬¡è£…æ»¡ã€‚å†ä¸€æ¬¡ï¼Œä»–ä»¬æŒ¨å®¶æŒ¨æˆ·åœ°è·å¾—æ›´å¤šç³–æœ
 
 Oh, yes, said Jack, probably a hologram connected with some magician in disguise that we didn't see.Who knows? But that was a wonderfully frightening experience. Let's go down this block and see what else we can find.So they agree to continue now with empty bags, having to need to fill them up again. And again, they go from house to house and get more candy.
 
-Í¼Æ¬
+å›¾ç‰‡
 
-µ±ËûÃÇÍê³ÉµÚ26¶°·¿×ÓÊ±£¬ÔÙÒ»´Î£¬Á½´Î13¶°¡£¶ñÄ§Ğ¡³óÔÙ´Î³öÏÖ£¬ÔÚ·çÖĞ·¢³ö¿ÉÅÂµÄº¿½Ğ£¬ÇÀ×ßËûÃÇµÄÌÇ¹û£¬ÔÙ´ÎÍÌÊ³£¬ÔÙ´Î´òàÃ£¬È»ºóÀë¿ª£¬ÏûÊ§ÔÚÒõÓ°ÖĞ¡£È»ºó½Ü¿ËºÍ¼ª¶ûËµ£¬ºÃÁË£¬¹»ÁË¡£Èç¹ûÕâÖÖÇé¿ö¼ÌĞøÏÂÈ¥£¬ÎÒÃÇ¾ÍÃ»ÓĞÌÇ¹ûÁË¡£ÎÒÏëÖªµÀË­ÊÇÄ»ºóºÚÊÖ£¬ËûÃÇÊÇÈçºÎÔÚ½ÖÇøµÄÁíÒ»¶ËÔÙ´Î×öµ½ÕâÒ»µãµÄ¡£ÎÒÃÇÒÔÎªËü¿ÉÄÜ¾ÍÔÚËûÃÇ¼Ò¸½½ü¡£µ«ºÜÃ÷ÏÔ£¬ÎŞÂÛÎÒÃÇÔÚÄÄÀï£¬ËûÃÇ¶¼ÓĞÄÜÁ¦×öÕâÑùµÄÊÂÇé¡£
+å½“ä»–ä»¬å®Œæˆç¬¬26æ ‹æˆ¿å­æ—¶ï¼Œå†ä¸€æ¬¡ï¼Œä¸¤æ¬¡13æ ‹ã€‚æ¶é­”å°ä¸‘å†æ¬¡å‡ºç°ï¼Œåœ¨é£ä¸­å‘å‡ºå¯æ€•çš„åšå«ï¼ŒæŠ¢èµ°ä»–ä»¬çš„ç³–æœï¼Œå†æ¬¡åé£Ÿï¼Œå†æ¬¡æ‰“å—ï¼Œç„¶åç¦»å¼€ï¼Œæ¶ˆå¤±åœ¨é˜´å½±ä¸­ã€‚ç„¶åæ°å…‹å’Œå‰å°”è¯´ï¼Œå¥½äº†ï¼Œå¤Ÿäº†ã€‚å¦‚æœè¿™ç§æƒ…å†µç»§ç»­ä¸‹å»ï¼Œæˆ‘ä»¬å°±æ²¡æœ‰ç³–æœäº†ã€‚æˆ‘æƒ³çŸ¥é“è°æ˜¯å¹•åé»‘æ‰‹ï¼Œä»–ä»¬æ˜¯å¦‚ä½•åœ¨è¡—åŒºçš„å¦ä¸€ç«¯å†æ¬¡åšåˆ°è¿™ä¸€ç‚¹çš„ã€‚æˆ‘ä»¬ä»¥ä¸ºå®ƒå¯èƒ½å°±åœ¨ä»–ä»¬å®¶é™„è¿‘ã€‚ä½†å¾ˆæ˜æ˜¾ï¼Œæ— è®ºæˆ‘ä»¬åœ¨å“ªé‡Œï¼Œä»–ä»¬éƒ½æœ‰èƒ½åŠ›åšè¿™æ ·çš„äº‹æƒ…ã€‚
 
 And by the time they have finished with the 26th house, again, two times 13.The demon clown shows up again and with a horrible howl on the wind, snatches their candy away and devours it again and belches once more and leaves, vanishes into the shadows.And Jack and Jill said, all right, well, enough of this. We're not going to have any candy left if this continues.I wonder who's behind it and how they were able to do this again at the other end of the block.We thought maybe it would just be near their own house. But clearly they're capable of doing something like this no matter where we are.
 
-ËùÒÔÈÃÎÒÃÇ²âÊÔÒ»ÏÂ£¬ÒòÎªÎÒÒªÈ·±£ÕâÖÖÇé¿ö²»»áÔÙ·¢Éú£¬ÒòÎªÎÒÃÇĞèÒª±£»¤ÎÒÃÇµÄÌÇ¹û¡£ÓÚÊÇËûÃÇÄÃÆğ¿Õ´ü×Ó£¬×ßµ½½ÖÇøµÄÁíÒ»±ß¡£ÔÙ´Î£¬ÔÚËûÃÇµ½´ïµÚ39¶°·¿×Óºó£¬Èı´Î13¡£¹ûÈ»£¬¶ñÄ§Ğ¡³óÔÙ´Î³öÏÖ£¬ÓÃËüÉÁÉÁ·¢¹âµÄÂÌÉ«ÑÛ¾¦¸ß¸ßµØ¸©î«×ÅËûÃÇ£¬²¢Éì³öÁËÊÖ¡£µ«½Ü¿ËºÍ¼ª¶û·´Ó¦ºÜ¿ì£¬°ÑËûÃÇµÄÌÇ¹û´ü²ØÔÚ±³ºó¡£½Ü¿ËËµ£¬²»£¬Äã²»ÄÜÔÙ³ÔÎÒÃÇµÄÌÇ¹ûÁË¡£
+æ‰€ä»¥è®©æˆ‘ä»¬æµ‹è¯•ä¸€ä¸‹ï¼Œå› ä¸ºæˆ‘è¦ç¡®ä¿è¿™ç§æƒ…å†µä¸ä¼šå†å‘ç”Ÿï¼Œå› ä¸ºæˆ‘ä»¬éœ€è¦ä¿æŠ¤æˆ‘ä»¬çš„ç³–æœã€‚äºæ˜¯ä»–ä»¬æ‹¿èµ·ç©ºè¢‹å­ï¼Œèµ°åˆ°è¡—åŒºçš„å¦ä¸€è¾¹ã€‚å†æ¬¡ï¼Œåœ¨ä»–ä»¬åˆ°è¾¾ç¬¬39æ ‹æˆ¿å­åï¼Œä¸‰æ¬¡13ã€‚æœç„¶ï¼Œæ¶é­”å°ä¸‘å†æ¬¡å‡ºç°ï¼Œç”¨å®ƒé—ªé—ªå‘å…‰çš„ç»¿è‰²çœ¼ç›é«˜é«˜åœ°ä¿¯ç°ç€ä»–ä»¬ï¼Œå¹¶ä¼¸å‡ºäº†æ‰‹ã€‚ä½†æ°å…‹å’Œå‰å°”ååº”å¾ˆå¿«ï¼ŒæŠŠä»–ä»¬çš„ç³–æœè¢‹è—åœ¨èƒŒåã€‚æ°å…‹è¯´ï¼Œä¸ï¼Œä½ ä¸èƒ½å†åƒæˆ‘ä»¬çš„ç³–æœäº†ã€‚
 
 So let's test that because I'm going to make sure that this doesn't happen again because we need to keep our candy.So they pick up their empty bags and they go down the other side of the block. And again, after they reach the 39th house, three times 13.Sure enough, the demonic clown manifests again and towers over them with its glowing green eyes and reaches out.But Jack and Jill react quickly and hide their bags of candy behind their backs. And Jack says, no, you shall not have our candy again.
 
-È»ºó¼ª¶ûËµ£¬ÊÇµÄ£¬×ß¿ª£¬Å¶£¬¶ñÄ§Ğ¡³ó¡£ËûÃÇ¶Ô´Ë¹ş¹ş´óĞ¦£¬ÒòÎª£¬ÔÙ´Î£¬ËûÃÇºÜÈ·¶¨ÕâÖ»ÊÇÒ»ÖÖÌØ¼¼Ğ§¹û¡£µ«µ±ËûÃÇÃæ¶Ô¶ñÄ§Ê±£¬ÁîÈË¾ªÑÈ¡¢Õğ¾ªµÄÊÇ£¬¶ñÄ§Ğ¡³ó¿ªÊ¼¿ŞÆü¡£Ëæ×ÅËü¼ÌĞø¿ŞÆü£¬Ëü¿ªÊ¼ËõĞ¡¡£È»ºóËü¼ÌĞø¿ŞÆü£¬¼ÌĞøËõĞ¡¡£ËüËõĞ¡ÁË£¬±ä³ÉÁËÒ»¸öÆßËêĞ¡ÄĞº¢ĞÎÏóµÄ¹í»ê¡£Õâ¸öÆßËêµÄĞ¡ÄĞº¢¹í»ê¼ÌĞøÔÚËûÃÇÃæÇ°¿ŞÆü£¬ÔÚËûÃÇÑÛÇ°Æ¯¸¡ÔÚ¿ÕÖĞ¡£
+ç„¶åå‰å°”è¯´ï¼Œæ˜¯çš„ï¼Œèµ°å¼€ï¼Œå“¦ï¼Œæ¶é­”å°ä¸‘ã€‚ä»–ä»¬å¯¹æ­¤å“ˆå“ˆå¤§ç¬‘ï¼Œå› ä¸ºï¼Œå†æ¬¡ï¼Œä»–ä»¬å¾ˆç¡®å®šè¿™åªæ˜¯ä¸€ç§ç‰¹æŠ€æ•ˆæœã€‚ä½†å½“ä»–ä»¬é¢å¯¹æ¶é­”æ—¶ï¼Œä»¤äººæƒŠè®¶ã€éœ‡æƒŠçš„æ˜¯ï¼Œæ¶é­”å°ä¸‘å¼€å§‹å“­æ³£ã€‚éšç€å®ƒç»§ç»­å“­æ³£ï¼Œå®ƒå¼€å§‹ç¼©å°ã€‚ç„¶åå®ƒç»§ç»­å“­æ³£ï¼Œç»§ç»­ç¼©å°ã€‚å®ƒç¼©å°äº†ï¼Œå˜æˆäº†ä¸€ä¸ªä¸ƒå²å°ç”·å­©å½¢è±¡çš„é¬¼é­‚ã€‚è¿™ä¸ªä¸ƒå²çš„å°ç”·å­©é¬¼é­‚ç»§ç»­åœ¨ä»–ä»¬é¢å‰å“­æ³£ï¼Œåœ¨ä»–ä»¬çœ¼å‰æ¼‚æµ®åœ¨ç©ºä¸­ã€‚
 
 And Jill says, yes, be gone, oh, demon clown. And they have a laugh about this because, again, they're pretty sure that this is just a special effect.But as they confront the demon, surprisingly, shockingly, the demon clown begins to cry.And as it continues to cry, it starts to shrink. And it continues to cry and continues to shrink.And it shrinks down and changes into the image, into the ghost of a seven-year-old little boy.And this seven-year-old little boy ghost continues to weep in front of them, floating in the air before their eyes.
 
-Í¼Æ¬
+å›¾ç‰‡
 
-Í»È»£¬½Ü¿ËºÍ¼ª¶ûÈÏ³öÁËÄÇ¸öĞ¡ÄĞº¢µÄ¹í»ê¡£ÇÇÏ£¡¤¸ñÀ×·òË¹£¬½Ü¿ËËµ£¬µ«ÄãÈ¥ÄêÈ¥ÊÀÁË¡£ÊÇµÄ£¬¹í»êÎØÑÊ×ÅËµ£¬ÎÒ²¡ÁËºÜ¾Ã¡£ÎÒÓÀÔ¶²»ÄÜÈ¥Íæ¡°²»¸øÌÇ¾Íµ·µ°¡±¡£×îºó£¬ÎÒËÀÁË£¬´ÓÀ´Ã»ÓĞ¾­Àú¹ıÍòÊ¥½Ú¡£ËùÒÔÎÒ¶ÔÄÇĞ©µ½´¦Íæ¡°²»¸øÌÇ¾Íµ·µ°¡±µÄº¢×ÓÃÇ¸Ğµ½·ßÅ­ºÍ¼µ¶Ê¡£²¢ÇÒÏëÒªÇÀ¶á¡£ÏëÇÀ×ßËûÃÇµÄÌÇ¹û£¬ÒòÎªÈç¹ûÎÒ²»ÄÜÓµÓĞËü£¬ÄãÃÇÒ²²»ÄÜÓµÓĞËü¡£
+çªç„¶ï¼Œæ°å…‹å’Œå‰å°”è®¤å‡ºäº†é‚£ä¸ªå°ç”·å­©çš„é¬¼é­‚ã€‚ä¹”å¸ŒÂ·æ ¼é›·å¤«æ–¯ï¼Œæ°å…‹è¯´ï¼Œä½†ä½ å»å¹´å»ä¸–äº†ã€‚æ˜¯çš„ï¼Œé¬¼é­‚å‘œå’½ç€è¯´ï¼Œæˆ‘ç—…äº†å¾ˆä¹…ã€‚æˆ‘æ°¸è¿œä¸èƒ½å»ç©â€œä¸ç»™ç³–å°±æ£è›‹â€ã€‚æœ€åï¼Œæˆ‘æ­»äº†ï¼Œä»æ¥æ²¡æœ‰ç»å†è¿‡ä¸‡åœ£èŠ‚ã€‚æ‰€ä»¥æˆ‘å¯¹é‚£äº›åˆ°å¤„ç©â€œä¸ç»™ç³–å°±æ£è›‹â€çš„å­©å­ä»¬æ„Ÿåˆ°æ„¤æ€’å’Œå«‰å¦’ã€‚å¹¶ä¸”æƒ³è¦æŠ¢å¤ºã€‚æƒ³æŠ¢èµ°ä»–ä»¬çš„ç³–æœï¼Œå› ä¸ºå¦‚æœæˆ‘ä¸èƒ½æ‹¥æœ‰å®ƒï¼Œä½ ä»¬ä¹Ÿä¸èƒ½æ‹¥æœ‰å®ƒã€‚
 
 And suddenly, Jack and Jill recognize the little boy ghost. Josh Graves, Jack says, but you died last year.Yes, said the ghost, whimpering. I was sick for a very long time. And I could never go trick-or-treating.And finally, I died, never having experienced Halloween. And so I became angry and jealous of all the children that go around trick-or-treating.And want to snatch. And want to snatch their candy away, because if I can't have it, you can't have it.
 
-½Ü¿ËºÍ¼ª¶û¶ÔËÀÈ¥µÄĞ¡ÄĞº¢¸Ğµ½Í¬Çé¡£¼ª¶ûËµ£ºÎÒÓĞ¸ö×¢Òâ¡£ÄãÏÖÔÚÎªÊ²Ã´²»ºÍÎÒÃÇÒ»ÆğÍæ¡°²»¸øÌÇ¾Íµ·µ°¡±µÄÓÎÏ·ÄØ£¿ÄãÊÇÈÏÕæµÄÂğ£¿ÇÇÏ£Ëµ¡£Å¶£¬ÊÇµÄ£¬ÄÇ»áºÜÓĞÈ¤¡£ÒòÎªÄãÊµ¼ÊÉÏ¿ÉÒÔÔÚÈËÃÇ¸øÎÒÃÇÌÇ¹ûºóÏÅµ½ËûÃÇ¡£ÒòÎªÄãÊÇ¸öÕæÕıµÄÓÄÁé¡£ÄÇ»áºÜÓĞÈ¤¡£ºÃ£¬ÄÇ¸öĞ¡¹íÄĞº¢Í£Ö¹ÁË³éÆü£¬²¢´ğÓ¦ÁË¡£ÎÒºÜÀÖÒâÕâÃ´×ö¡£ÓÚÊÇ£¬ËûÃÇÈı¸öÈË¾ÍÁï×ßÁË£¬È¥Íæ¡°²»¸øÌÇ¾Íµ·µ°¡±µÄÓÎÏ·¡£
+æ°å…‹å’Œå‰å°”å¯¹æ­»å»çš„å°ç”·å­©æ„Ÿåˆ°åŒæƒ…ã€‚å‰å°”è¯´ï¼šæˆ‘æœ‰ä¸ªæ³¨æ„ã€‚ä½ ç°åœ¨ä¸ºä»€ä¹ˆä¸å’Œæˆ‘ä»¬ä¸€èµ·ç©â€œä¸ç»™ç³–å°±æ£è›‹â€çš„æ¸¸æˆå‘¢ï¼Ÿä½ æ˜¯è®¤çœŸçš„å—ï¼Ÿä¹”å¸Œè¯´ã€‚å“¦ï¼Œæ˜¯çš„ï¼Œé‚£ä¼šå¾ˆæœ‰è¶£ã€‚å› ä¸ºä½ å®é™…ä¸Šå¯ä»¥åœ¨äººä»¬ç»™æˆ‘ä»¬ç³–æœåå“åˆ°ä»–ä»¬ã€‚å› ä¸ºä½ æ˜¯ä¸ªçœŸæ­£çš„å¹½çµã€‚é‚£ä¼šå¾ˆæœ‰è¶£ã€‚å¥½ï¼Œé‚£ä¸ªå°é¬¼ç”·å­©åœæ­¢äº†æŠ½æ³£ï¼Œå¹¶ç­”åº”äº†ã€‚æˆ‘å¾ˆä¹æ„è¿™ä¹ˆåšã€‚äºæ˜¯ï¼Œä»–ä»¬ä¸‰ä¸ªäººå°±æºœèµ°äº†ï¼Œå»ç©â€œä¸ç»™ç³–å°±æ£è›‹â€çš„æ¸¸æˆã€‚
 
 And Jack and Jill felt compassion for the little boy who had died. And Jill said, I'll tell you what.Why don't you come trick-or-treating with us now? Do you mean it? said Josh. Oh, yes, it would be great fun.Because you can actually scare the people after they give us candy. Because you are a real ghost.And that would be so much fun. Well, the little ghost boy stopped his sniffling and said yes.I would love to do that. And so the three of them traipsed off and went trick-or-treating.
 
-Í¼Æ¬
+å›¾ç‰‡
 
-ÊÕµ½ÁËºÜ¶àÌÇ¹û£¬Ò²ÏÅ»µÁËºÜ¶àÈË¡£×îºó£¬½Ü¿ËºÍ¼ª¶ûËµ£¬ÄãÖªµÀ£¬ÎÒÓĞ¸öÖ÷Òâ¡£ÄãÎªÊ²Ã´²»Ã¿Äê¶¼À´ºÍÎÒÃÇÒ»ÆğÍæ¡°²»¸øÌÇ¾Íµ·µ°¡±µÄÓÎÏ·ÄØ£¿Å¶£¬ÎÒºÜÀÖÒâ£¬ÇÇÏ£¡¤¸ñÀ×·òË¹Ëµ¡£ËùÒÔ×îºó£¬Ëû±»Ò»¸ö»î×ÅµÄÈË½»ÉÏÁËÅóÓÑ£¬Õâ¸öÈË¿ÉÒÔÈÃËûÒÔµØÇòÉÏÓ¦ÓĞµÄ·½Ê½ÌåÑé¡°²»¸øÌÇ¾Íµ·µ°¡±ºÍÍòÊ¥½Ú¡£ÓÚÊÇ¾ÍÔÚÕâ¶ÎÊ±¼äÀï£¬Ëû·µ»ØÁËÁé½ç¡£Ö±µ½½Ü¿ËºÍ¼ª¶û³ÉÎªËûµÄÅóÓÑ£¬Ëû²Å¸ĞÊÜµ½×ÔÓÉ¡£µ«Ã¿ÄêËû¶¼»á»ØÀ´¡£ËûÃÇÈı¸ö»áÒ»ÆğÈ¥Íæ¡°²»¸øÌÇ¾Íµ·µ°¡±¡£¹ÊÊÂ½áÊø¡£
+æ”¶åˆ°äº†å¾ˆå¤šç³–æœï¼Œä¹Ÿå“åäº†å¾ˆå¤šäººã€‚æœ€åï¼Œæ°å…‹å’Œå‰å°”è¯´ï¼Œä½ çŸ¥é“ï¼Œæˆ‘æœ‰ä¸ªä¸»æ„ã€‚ä½ ä¸ºä»€ä¹ˆä¸æ¯å¹´éƒ½æ¥å’Œæˆ‘ä»¬ä¸€èµ·ç©â€œä¸ç»™ç³–å°±æ£è›‹â€çš„æ¸¸æˆå‘¢ï¼Ÿå“¦ï¼Œæˆ‘å¾ˆä¹æ„ï¼Œä¹”å¸ŒÂ·æ ¼é›·å¤«æ–¯è¯´ã€‚æ‰€ä»¥æœ€åï¼Œä»–è¢«ä¸€ä¸ªæ´»ç€çš„äººäº¤ä¸Šäº†æœ‹å‹ï¼Œè¿™ä¸ªäººå¯ä»¥è®©ä»–ä»¥åœ°çƒä¸Šåº”æœ‰çš„æ–¹å¼ä½“éªŒâ€œä¸ç»™ç³–å°±æ£è›‹â€å’Œä¸‡åœ£èŠ‚ã€‚äºæ˜¯å°±åœ¨è¿™æ®µæ—¶é—´é‡Œï¼Œä»–è¿”å›äº†çµç•Œã€‚ç›´åˆ°æ°å…‹å’Œå‰å°”æˆä¸ºä»–çš„æœ‹å‹ï¼Œä»–æ‰æ„Ÿå—åˆ°è‡ªç”±ã€‚ä½†æ¯å¹´ä»–éƒ½ä¼šå›æ¥ã€‚ä»–ä»¬ä¸‰ä¸ªä¼šä¸€èµ·å»ç©â€œä¸ç»™ç³–å°±æ£è›‹â€ã€‚æ•…äº‹ç»“æŸã€‚
 
 And received a lot of candy and gave a lot of scares. And at the end of it, Jack and Jill said, you know, I have an idea.Why don't you come trick-or-treating with us every year? Oh, I would love that, said Josh Graves.And so finally he was befriended by someone living who could allow him to experience trick-or-treating and Halloween in the way it was meant to be experienced on earth. And so in the meantime, he returned to spirit.And felt the freedom that wasn't his until Jack and Jill had befriended him. But every year he would return.And the three of them would go trick-or-treating together. The end.
 

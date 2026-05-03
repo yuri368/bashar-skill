@@ -1,167 +1,167 @@
-°ÍÏÄ£ºÓëÍâĞÇÈËÁ¬½Ó
-Ô­´´ °¢¿üÑÇ °ÍÏÄËµ
- 2024Äê10ÔÂ09ÈÕ 06:00 ÁÉÄş
-Ç°ÑÔ
+å·´å¤ï¼šä¸å¤–æ˜Ÿäººè¿æ¥
+åŸåˆ› é˜¿å¥äºš å·´å¤è¯´
+ 2024å¹´10æœˆ09æ—¥ 06:00 è¾½å®
+å‰è¨€
 
-ÓëÍÅ¶ÓÒ»ÆğÇ°ÍùÄ³Ğ©µØÇø£¬´ò¿ª¹µÍ¨ÇşµÀ£¬µãÁÁµÆ¹â£¬´Ó³öÏÖµÄ·É´¬ÄÇÀïµÃµ½»Ø´ğ£¬²¢¸øÄã»ØÓ¦µÈµÈ£¬Õâ¾ÍÊÇµÚÎåÀà½Ó´¥µÄÏë·¨£¬CE5¡£
+ä¸å›¢é˜Ÿä¸€èµ·å‰å¾€æŸäº›åœ°åŒºï¼Œæ‰“å¼€æ²Ÿé€šæ¸ é“ï¼Œç‚¹äº®ç¯å…‰ï¼Œä»å‡ºç°çš„é£èˆ¹é‚£é‡Œå¾—åˆ°å›ç­”ï¼Œå¹¶ç»™ä½ å›åº”ç­‰ç­‰ï¼Œè¿™å°±æ˜¯ç¬¬äº”ç±»æ¥è§¦çš„æƒ³æ³•ï¼ŒCE5ã€‚
 
 CE5
 
-ÈËÓëUFOµÄ½Ó´¥¹²·ÖÁùÀà£º
+äººä¸UFOçš„æ¥è§¦å…±åˆ†å…­ç±»ï¼š
 
-1¡¢µÚÁãÀà½Ó´¥£ºÒ£Ô¶µÄÄ¿»÷
+1ã€ç¬¬é›¶ç±»æ¥è§¦ï¼šé¥è¿œçš„ç›®å‡»
 
-2¡¢µÚÒ»Àà½Ó´¥£º½ü¾àÀëÄ¿»÷
+2ã€ç¬¬ä¸€ç±»æ¥è§¦ï¼šè¿‘è·ç¦»ç›®å‡»
 
-3¡¢µÚ¶şÀà½Ó´¥£ºÈËÌåµÄÄ³Ò»²¿·Ö´¥¼°UFOÉÏÄ³Ò»¶«Î÷£»»òÄ¿»÷´¥»÷ÒÅÁôºÛ¼£
+3ã€ç¬¬äºŒç±»æ¥è§¦ï¼šäººä½“çš„æŸä¸€éƒ¨åˆ†è§¦åŠUFOä¸ŠæŸä¸€ä¸œè¥¿ï¼›æˆ–ç›®å‡»è§¦å‡»é—ç•™ç—•è¿¹
 
-4¡¢µÚÈıÀà½Ó´¥£ºÓëÍâĞÇÈË½øĞĞÖ±½Ó½Ó´¥;¿´ÇåÁËUFO£¬ÌØ±ğÊÇ¿´ÇåÁËÆäÖĞÔØµÄÀàÈË¸ß¼¶ÉúÃüÌå
+4ã€ç¬¬ä¸‰ç±»æ¥è§¦ï¼šä¸å¤–æ˜Ÿäººè¿›è¡Œç›´æ¥æ¥è§¦;çœ‹æ¸…äº†UFOï¼Œç‰¹åˆ«æ˜¯çœ‹æ¸…äº†å…¶ä¸­è½½çš„ç±»äººé«˜çº§ç”Ÿå‘½ä½“
 
-5¡¢µÚËÄÀà½Ó´¥£ºÍ¨¹ıĞÄµç¸ĞÓ¦ÓëÍâĞÇÈË¹µÍ¨£¬ÊÇ´ó¶àÊıÑĞ¾¿ÕßËù²»³ĞÈÏµÄ
+5ã€ç¬¬å››ç±»æ¥è§¦ï¼šé€šè¿‡å¿ƒç”µæ„Ÿåº”ä¸å¤–æ˜Ÿäººæ²Ÿé€šï¼Œæ˜¯å¤§å¤šæ•°ç ”ç©¶è€…æ‰€ä¸æ‰¿è®¤çš„
 
-6¡¢µÚÎåÀà½Ó´¥£ºÈËÀàÓÃÓÑºÃĞÅÏ¢ÓëÍâĞÇÎÄÃ÷ÁªÏµ
+6ã€ç¬¬äº”ç±»æ¥è§¦ï¼šäººç±»ç”¨å‹å¥½ä¿¡æ¯ä¸å¤–æ˜Ÿæ–‡æ˜è”ç³»
 
-                   ÒëÕß£º°¢¿üÑÇ Aquia
-               ´«Ñ¶Ê±¼ä£º2024Äê9ÔÂ15ÈÕ
-ÎÊ£ººÃµÄ£¬ÎÒµÄ×îºóÒ»¸öÎÊÌâ£¬°ÍÏÄ¡£¿ÉÒÔ¼ÌĞøÎÊÂğ£¬»¹ÊÇÎÒ¸Ã×ßÁË£¿ºÃµÄ£¬ËùÒÔÎÒµÄ×îºóÒ»¸öÎÊÌâ¡£µ±ÄãÌ¸µ½ÕâÎåÄê£¬ÔÚ¹«¿ª½Ó´¥µÄÎåÄêÄÚ£¬ÎÒÃÇÒª×¼±¸×öÊ²Ã´£¿ËùÒÔÔÚÎÒ¿´À´£¬ÊÂÊµÉÏ£¬ÎÒÒ»Ö±Ï£ÍûÎªÎÒµÄ»ìÑªº¢×ÓÃÇ½¨Á¢Ò»¸öÖĞĞÄ£¬Ò»¸öÅàÑµÖĞĞÄ£¬¾ÍÏñÎÒÓĞºÜ¶àº¢×ÓÒ»Ñù£¬À´½ÌËûÃÇ¡£
+                   è¯‘è€…ï¼šé˜¿å¥äºš Aquia
+               ä¼ è®¯æ—¶é—´ï¼š2024å¹´9æœˆ15æ—¥
+é—®ï¼šå¥½çš„ï¼Œæˆ‘çš„æœ€åä¸€ä¸ªé—®é¢˜ï¼Œå·´å¤ã€‚å¯ä»¥ç»§ç»­é—®å—ï¼Œè¿˜æ˜¯æˆ‘è¯¥èµ°äº†ï¼Ÿå¥½çš„ï¼Œæ‰€ä»¥æˆ‘çš„æœ€åä¸€ä¸ªé—®é¢˜ã€‚å½“ä½ è°ˆåˆ°è¿™äº”å¹´ï¼Œåœ¨å…¬å¼€æ¥è§¦çš„äº”å¹´å†…ï¼Œæˆ‘ä»¬è¦å‡†å¤‡åšä»€ä¹ˆï¼Ÿæ‰€ä»¥åœ¨æˆ‘çœ‹æ¥ï¼Œäº‹å®ä¸Šï¼Œæˆ‘ä¸€ç›´å¸Œæœ›ä¸ºæˆ‘çš„æ··è¡€å­©å­ä»¬å»ºç«‹ä¸€ä¸ªä¸­å¿ƒï¼Œä¸€ä¸ªåŸ¹è®­ä¸­å¿ƒï¼Œå°±åƒæˆ‘æœ‰å¾ˆå¤šå­©å­ä¸€æ ·ï¼Œæ¥æ•™ä»–ä»¬ã€‚
 Okay, my last question, Bashar. Is this okay, or I should go?Okay, so my last question. When you talk about the five years, within five years of an open contact, and what are we preparing to do?So in my mind, actually, I've been willing to hopefully set up a center, a training center for my hyper-children, as I have many of them, to teach them.
-°ÍÏÄ£ºÄÇÃ´¾Í¸úËæÄãµÄĞË·Ü£¬¿´¿´»á·¢ÉúÊ²Ã´¡£
+å·´å¤ï¼šé‚£ä¹ˆå°±è·Ÿéšä½ çš„å…´å¥‹ï¼Œçœ‹çœ‹ä¼šå‘ç”Ÿä»€ä¹ˆã€‚
 Then follow your passion and see what happens. 
-ÎÊ£ººÃµÄ£¬·Ç³£¸ĞĞ»Äã¡£
-Ok£¬thank you so much. 
-°ÍÏÄ£ºÒªÃ÷°×£¬ÎÒÃÇ½ñÌì±»ÔÊĞíÔÚÕâÀï×öµÄÊÂÇéÊÇ·Ç³£²»Ñ°³£µÄ¡£ÕâÖ»±íÃ÷ÄãÃÇ±ÈÒÔÇ°¸ü½Ó½ü½Ó´¥ÁË¡£µÈÒ»ÏÂ¡£
+é—®ï¼šå¥½çš„ï¼Œéå¸¸æ„Ÿè°¢ä½ ã€‚
+Okï¼Œthank you so much. 
+å·´å¤ï¼šè¦æ˜ç™½ï¼Œæˆ‘ä»¬ä»Šå¤©è¢«å…è®¸åœ¨è¿™é‡Œåšçš„äº‹æƒ…æ˜¯éå¸¸ä¸å¯»å¸¸çš„ã€‚è¿™åªè¡¨æ˜ä½ ä»¬æ¯”ä»¥å‰æ›´æ¥è¿‘æ¥è§¦äº†ã€‚ç­‰ä¸€ä¸‹ã€‚
 Understand that what we have been allowed to do here today is highly unusual.And only indicative of the fact that you are closer to contact than you were before.One moment.
-³¨¿ªÄãµÄĞÄìé¡£ÕÅ¿ªÄãµÄÑÛ¾¦£¬¿ª·ÅÄãµÄÍ·ÄÔ£¬Äã»áÖªµÀÄãÇ°ÃæµÄµÀÂ·ÊÇ×ßÏòÎÒÃÇµÄ¡£ÕâÊÇÒ»Ôò¹«Òæ¹ã¸æ¡£Ö±µ½ÒÔºóÄãÃÇ²Å»áÖªµÀÄÇÊÇË­¡£µ«ÎÒÃÇ×òÍíÒÑ¾­½éÉÜ¹ıËûÃÇÁË¡£ÏÂÒ»¸ö¡£
+æ•å¼€ä½ çš„å¿ƒæ‰‰ã€‚å¼ å¼€ä½ çš„çœ¼ç›ï¼Œå¼€æ”¾ä½ çš„å¤´è„‘ï¼Œä½ ä¼šçŸ¥é“ä½ å‰é¢çš„é“è·¯æ˜¯èµ°å‘æˆ‘ä»¬çš„ã€‚è¿™æ˜¯ä¸€åˆ™å…¬ç›Šå¹¿å‘Šã€‚ç›´åˆ°ä»¥åä½ ä»¬æ‰ä¼šçŸ¥é“é‚£æ˜¯è°ã€‚ä½†æˆ‘ä»¬æ˜¨æ™šå·²ç»ä»‹ç»è¿‡ä»–ä»¬äº†ã€‚ä¸‹ä¸€ä¸ªã€‚
 
 Open your hearts. Open your hearts. Open your eyes, open your minds and you will know the path before you that is toward us.This has been a public service announcement. You will not know who that was until later.But we have introduced them already last night of your time. Next.
 
-Í¼Æ¬
+å›¾ç‰‡
 
 
 
-ÎÊ£ºÎÊºò°ÍÏÄ¡£
+é—®ï¼šé—®å€™å·´å¤ã€‚
 Greating bashar.
-°ÍÏÄ£ºÄãÒ²ÊÇ£¬ÄãºÃ¡£
+å·´å¤ï¼šä½ ä¹Ÿæ˜¯ï¼Œä½ å¥½ã€‚
 And to you, good day. 
-ÎÊ£º½ñÌìÄÜºÍÄãÔÚÒ»Æğ£¬ÎÒ¸Ğµ½·Ç³£¸ßĞËºÍ¾ªÆæ¡£¸Ğ¾õÎÒÒÑ¾­ºÍÄãĞ£×¼ÁËºÜ³¤Ê±¼ä¡£
+é—®ï¼šä»Šå¤©èƒ½å’Œä½ åœ¨ä¸€èµ·ï¼Œæˆ‘æ„Ÿåˆ°éå¸¸é«˜å…´å’ŒæƒŠå¥‡ã€‚æ„Ÿè§‰æˆ‘å·²ç»å’Œä½ æ ¡å‡†äº†å¾ˆé•¿æ—¶é—´ã€‚
 Such a pleasure and amazing to be here with you today after feeling like I've been calibrating with you for a long time.
 
-°ÍÏÄ£ººÃµÄ£¬ÕâÒ²ÊÇÎÒÃÇµÄÈÙĞÒºÍ¼¤Çé¡£ÄãÏëÒªÌÖÂÛÊ²Ã´£¿
+å·´å¤ï¼šå¥½çš„ï¼Œè¿™ä¹Ÿæ˜¯æˆ‘ä»¬çš„è£å¹¸å’Œæ¿€æƒ…ã€‚ä½ æƒ³è¦è®¨è®ºä»€ä¹ˆï¼Ÿ
 
 Alright, it is our passion and our pleasure as well. What would you like to discuss?
 
-ÎÊ£ºËùÒÔÎÒÕâĞ©ÄêÀ´²Î¹Û¹ıºÜ¶à´Î£¬¿´µ½²¢²Î¹Û¹ı²»Í¬µÄ·ÉĞĞÆ÷£¬µ«Ã»ÓĞÒ»ÖÖÄ£Ê½¡£Ã¿Ò»¸öËÆºõ¶¼ÓĞÆä¶ÀÌØµÄµÆ¹âºÍÑÕÉ«¡£ÎÒµÄÎÊÌâÊÇ£¬ÄãÄÜ¸æËßÎÒ£¬ÎÒÓëÄÄ¸öÖÖ×åµÄÁ¬½Ó¸ü½ôÃÜ£¬»òÕßÎÒµÄÄÜÁ¿¸üÕ¼ÓÅÊÆÂğ£¿
+é—®ï¼šæ‰€ä»¥æˆ‘è¿™äº›å¹´æ¥å‚è§‚è¿‡å¾ˆå¤šæ¬¡ï¼Œçœ‹åˆ°å¹¶å‚è§‚è¿‡ä¸åŒçš„é£è¡Œå™¨ï¼Œä½†æ²¡æœ‰ä¸€ç§æ¨¡å¼ã€‚æ¯ä¸€ä¸ªä¼¼ä¹éƒ½æœ‰å…¶ç‹¬ç‰¹çš„ç¯å…‰å’Œé¢œè‰²ã€‚æˆ‘çš„é—®é¢˜æ˜¯ï¼Œä½ èƒ½å‘Šè¯‰æˆ‘ï¼Œæˆ‘ä¸å“ªä¸ªç§æ—çš„è¿æ¥æ›´ç´§å¯†ï¼Œæˆ–è€…æˆ‘çš„èƒ½é‡æ›´å ä¼˜åŠ¿å—ï¼Ÿ
 So I've been throughout my years visited many times, seen and been visited by different crafts, but there hasn't been a pattern. Each one seems to be very unique in its lights and colors.My question is, can you tell me maybe which race I'm more connected with or my energy is more dominant with?
 
-°ÍÏÄ£ºÄãÓëÆß½ãÃÃĞÇÈËºÍ»ìÑªÈËÀàÓĞÁ¬½Ó¡£»¹ÓĞÒ»Ğ©ÆäËûµÄÖÖ×å¡£
+å·´å¤ï¼šä½ ä¸ä¸ƒå§å¦¹æ˜Ÿäººå’Œæ··è¡€äººç±»æœ‰è¿æ¥ã€‚è¿˜æœ‰ä¸€äº›å…¶ä»–çš„ç§æ—ã€‚
 
 You are connected to Pleiadians and Hybrids. There's a few smatterings of others as well. 
 
-ÎÊ£ºÌìÀÇĞÇÈË£¿
+é—®ï¼šå¤©ç‹¼æ˜Ÿäººï¼Ÿ
 
 Sirians.
 
-°ÍÏÄ£ºÓĞÒ»Ğ©£¬ÊÇµÄ¡£
+å·´å¤ï¼šæœ‰ä¸€äº›ï¼Œæ˜¯çš„ã€‚
 
 Some, yes. 
 
-ÎÊ£ººÃµÄ£¬ËùÒÔÕâÊÇµÚÒ»¸öÎÊÌâ¡£Äã¸Ğ¾õÓĞÃ»ÓĞÒ»¸öÎÒ¿ÉÄÜ»áÔÚ¸üÉî²ã´ÎÉÏÓë¸ü¶àÖÖ×å½¨Á¢Á¬½ÓµÄ·½·¨£¿
+é—®ï¼šå¥½çš„ï¼Œæ‰€ä»¥è¿™æ˜¯ç¬¬ä¸€ä¸ªé—®é¢˜ã€‚ä½ æ„Ÿè§‰æœ‰æ²¡æœ‰ä¸€ä¸ªæˆ‘å¯èƒ½ä¼šåœ¨æ›´æ·±å±‚æ¬¡ä¸Šä¸æ›´å¤šç§æ—å»ºç«‹è¿æ¥çš„æ–¹æ³•ï¼Ÿ
 
-Ok£¬so that was first question.Is there one that I could maybe potentially connect with more on a deeper level that you feel?
+Okï¼Œso that was first question.Is there one that I could maybe potentially connect with more on a deeper level that you feel?
 
-°ÍÏÄ£ºÈç¹ûÄã²Î¼ÓÎÒÃÇËµ¹ıµÄÄãÃÇ³ÆÖ®ÎªCE5µÄ»î¶¯£¬ÄãÃ÷°×Õâ¸öÊõÓïÂğ£¿
+å·´å¤ï¼šå¦‚æœä½ å‚åŠ æˆ‘ä»¬è¯´è¿‡çš„ä½ ä»¬ç§°ä¹‹ä¸ºCE5çš„æ´»åŠ¨ï¼Œä½ æ˜ç™½è¿™ä¸ªæœ¯è¯­å—ï¼Ÿ
 
 If you will participate in what we talked about that you call CE5s, you understand this term?
 
-ÎÊ£º²»Ã÷°×¡£
+é—®ï¼šä¸æ˜ç™½ã€‚
 
 No.
 
-°ÍÏÄ£ºÓëÍÅ¶ÓÒ»ÆğÇ°ÍùÄ³Ğ©µØÇø£¬´ò¿ª¹µÍ¨ÇşµÀ£¬µãÁÁµÆ¹â£¬´Ó³öÏÖµÄ·É´¬ÄÇÀïµÃµ½»Ø´ğ£¬²¢¸øÄã»ØÓ¦µÈµÈ£¬Õâ¾ÍÊÇµÚÎåÀà½Ó´¥µÄÏë·¨£¬CE5¡£Èç¹ûÄãÒª²Î¼Ó¾Û»á»ò´´½¨×Ô¼ºµÄ¾Û»á£¬Õâ¿ÉÒÔ°ïÖúÄãÓëÄÇĞ©ÓëÄãÁ¬½Ó×îÃÜÇĞµÄÖÖ×å½¨Á¢¹µÍ¨ºÍÁ¬½Ó¡£
+å·´å¤ï¼šä¸å›¢é˜Ÿä¸€èµ·å‰å¾€æŸäº›åœ°åŒºï¼Œæ‰“å¼€æ²Ÿé€šæ¸ é“ï¼Œç‚¹äº®ç¯å…‰ï¼Œä»å‡ºç°çš„é£èˆ¹é‚£é‡Œå¾—åˆ°å›ç­”ï¼Œå¹¶ç»™ä½ å›åº”ç­‰ç­‰ï¼Œè¿™å°±æ˜¯ç¬¬äº”ç±»æ¥è§¦çš„æƒ³æ³•ï¼ŒCE5ã€‚å¦‚æœä½ è¦å‚åŠ èšä¼šæˆ–åˆ›å»ºè‡ªå·±çš„èšä¼šï¼Œè¿™å¯ä»¥å¸®åŠ©ä½ ä¸é‚£äº›ä¸ä½ è¿æ¥æœ€å¯†åˆ‡çš„ç§æ—å»ºç«‹æ²Ÿé€šå’Œè¿æ¥ã€‚
 
 Going out with groups to certain areas and opening up communication, shining lights, and getting answers from ships that will appear and give you responses and things like that, that is the idea of close encounters of the fifth kind, CE5s.If you will participate in gatherings or create your own gatherings to do so, this can help open up avenues of communication and connection for you to those to whom you are most strongly connected. 
 
-Í¼Æ¬
+å›¾ç‰‡
 
-ÎÊ£ºĞ»Ğ»¡£ÎÒÒ»¶¨»áÊÔÊÔµÄ¡£ÁíÒ»¸öÎÊÌâ¶ÔÎÒÀ´Ëµ¸ü¸öÈË¡£ÎÒÈÏÎª×î¼òµ¥µÄ·½·¨ÊÇÌá³öÒ»¸öÓÉÈı²¿·Ö×é³ÉµÄÎÊÌâ¡£
+é—®ï¼šè°¢è°¢ã€‚æˆ‘ä¸€å®šä¼šè¯•è¯•çš„ã€‚å¦ä¸€ä¸ªé—®é¢˜å¯¹æˆ‘æ¥è¯´æ›´ä¸ªäººã€‚æˆ‘è®¤ä¸ºæœ€ç®€å•çš„æ–¹æ³•æ˜¯æå‡ºä¸€ä¸ªç”±ä¸‰éƒ¨åˆ†ç»„æˆçš„é—®é¢˜ã€‚
 
 Thank you.I'll definitely try that out. All right. Another question is going to be more personal to me, I think the easiest way to frame this would be a three-part question.
 
-°ÍÏÄ£ºÕâÊÇÒ»ÖÖÍµÍµÃşÃşµØÎÊÈı¸öÎÊÌâµÄ·½Ê½Âğ£¿
+å·´å¤ï¼šè¿™æ˜¯ä¸€ç§å·å·æ‘¸æ‘¸åœ°é—®ä¸‰ä¸ªé—®é¢˜çš„æ–¹å¼å—ï¼Ÿ
 
 Is that a sneaky way of asking three questions? 
 
-ÎÊ£º²»£¬ÕâÊÇÒ»¸ö¸ÅÄî£¬µ«ÓĞÈı¸ö²»Í¬µÄÒªËØÏà»¥¹ØÁª¡£ËùÒÔ³¤ÆÚÒÔÀ´ÕâÒ»Ö±ÊÇÎÒÉîÉîµÄ¿Ö¾å¡£µÚÒ»¸öÊÇÉß¡£Éß¡£´ÓÎÒĞ¡Ê±ºòÆğ£¬ÎÒ¾ÍÔÚºÜ¶à·½Ãæ¶ÔËüÃÇÓĞÒ»ÖÖÔ­Ê¼µÄ¿Ö¾å£¬ÎÒ¸Ğ¾õÎÒ±»ËûÃÇÉËº¦ÁË¡£
+é—®ï¼šä¸ï¼Œè¿™æ˜¯ä¸€ä¸ªæ¦‚å¿µï¼Œä½†æœ‰ä¸‰ä¸ªä¸åŒçš„è¦ç´ ç›¸äº’å…³è”ã€‚æ‰€ä»¥é•¿æœŸä»¥æ¥è¿™ä¸€ç›´æ˜¯æˆ‘æ·±æ·±çš„ææƒ§ã€‚ç¬¬ä¸€ä¸ªæ˜¯è›‡ã€‚è›‡ã€‚ä»æˆ‘å°æ—¶å€™èµ·ï¼Œæˆ‘å°±åœ¨å¾ˆå¤šæ–¹é¢å¯¹å®ƒä»¬æœ‰ä¸€ç§åŸå§‹çš„ææƒ§ï¼Œæˆ‘æ„Ÿè§‰æˆ‘è¢«ä»–ä»¬ä¼¤å®³äº†ã€‚
 
 So this has been a deep fear of mine for a long time. The first one is snakes. Snakes. Since I was a child, I've had sort of like a primal fear of them.
 
-Í¼Æ¬
+å›¾ç‰‡
 
-°ÍÏÄ£º²»¡£µ«Õâ¸öÏë·¨ÊÇ£¬ËüÓë¹ÅÀÏÖÇ»ÛµÄÏóÕ÷ÓĞ¹Ø£¬Ò²Óë»ùÒò¸ÄÔìµÄÏóÕ÷ÓĞ¹Ø¡£ÒòÎªÄãÊÇ»ìÑªÒé³ÌµÄÒ»²¿·Ö¡£ËüÓëÄ³Ğ©ÎïÖÖÏàÁ¬£¬ÕâĞ©ÎïÖÖ»áÊÍ·Å³öÄ³ÖÖÆµÂÊºÍÄÜÁ¿£¬ÈÃÄãÔÚ½Ó´¥µ½ËüÊ±¸Ğµ½ĞèÒª½øÈëÉú´æÄ£Ê½¡£
+å·´å¤ï¼šä¸ã€‚ä½†è¿™ä¸ªæƒ³æ³•æ˜¯ï¼Œå®ƒä¸å¤è€æ™ºæ…§çš„è±¡å¾æœ‰å…³ï¼Œä¹Ÿä¸åŸºå› æ”¹é€ çš„è±¡å¾æœ‰å…³ã€‚å› ä¸ºä½ æ˜¯æ··è¡€è®®ç¨‹çš„ä¸€éƒ¨åˆ†ã€‚å®ƒä¸æŸäº›ç‰©ç§ç›¸è¿ï¼Œè¿™äº›ç‰©ç§ä¼šé‡Šæ”¾å‡ºæŸç§é¢‘ç‡å’Œèƒ½é‡ï¼Œè®©ä½ åœ¨æ¥è§¦åˆ°å®ƒæ—¶æ„Ÿåˆ°éœ€è¦è¿›å…¥ç”Ÿå­˜æ¨¡å¼ã€‚
 
 No. But the idea is that it connects to the symbol of ancient wisdom, and it connects to the symbol of genetic alteration, because you're part of the hybrid program.And it connects to certain species that give off a certain frequency and a certain energy that allows you to feel that you need to go into survival mode when exposed to it.
 
-ÎÊ£ºËùÒÔÕâ¾ÍÒı³öÁËòáòæÈË£¬ÎÒÏë´ÓÄãÃÇÄÇÀïµÃµ½¸ü¶àµÄÊÓ½Ç£¬ÒòÎªËüµãÈ¼ÁËÎÒÄÚĞÄµÄ¿Ö¾å¡£
+é—®ï¼šæ‰€ä»¥è¿™å°±å¼•å‡ºäº†èœ¥èœ´äººï¼Œæˆ‘æƒ³ä»ä½ ä»¬é‚£é‡Œå¾—åˆ°æ›´å¤šçš„è§†è§’ï¼Œå› ä¸ºå®ƒç‚¹ç‡ƒäº†æˆ‘å†…å¿ƒçš„ææƒ§ã€‚
 
 So this leads to the reptilians, which I would like to have more perspective from you on, because it ignites fear within me.
 
-°ÍÏÄ£ºËûÃÇ²»Ò»¶¨ÊÇ¶ñÒâµÄ£¬µ«ËûÃÇ²»Ò»¶¨£¬¿ÉÒÔËµ£¬°ÑÈËÀàµÄ×î´óÀûÒæ×÷ÎªËûÃÇµÄ×î¸ßÒé³Ì£¬µ«ËûÃÇÊÜµ½ÆäËûÎïÖÖµÄ¿ØÖÆ¡£ËùÒÔËûÃÇ×îÖÕ½«ÎŞ·¨ÂıÏÂÀ´¡£»òÕßÉËº¦Äã¡£Ö»ÊÇËûÃÇ×ßµÄÊÇÁíÒ»ÌõÂ·£¬ÁíÒ»ÌõÂ·Ïß£¬ËûÃÇ²¢Ã»ÓĞÕæÕı²ÎÓë´Ù½øÈËÀà½ø»¯µÄÏë·¨¡£
+å·´å¤ï¼šä»–ä»¬ä¸ä¸€å®šæ˜¯æ¶æ„çš„ï¼Œä½†ä»–ä»¬ä¸ä¸€å®šï¼Œå¯ä»¥è¯´ï¼ŒæŠŠäººç±»çš„æœ€å¤§åˆ©ç›Šä½œä¸ºä»–ä»¬çš„æœ€é«˜è®®ç¨‹ï¼Œä½†ä»–ä»¬å—åˆ°å…¶ä»–ç‰©ç§çš„æ§åˆ¶ã€‚æ‰€ä»¥ä»–ä»¬æœ€ç»ˆå°†æ— æ³•æ…¢ä¸‹æ¥ã€‚æˆ–è€…ä¼¤å®³ä½ ã€‚åªæ˜¯ä»–ä»¬èµ°çš„æ˜¯å¦ä¸€æ¡è·¯ï¼Œå¦ä¸€æ¡è·¯çº¿ï¼Œä»–ä»¬å¹¶æ²¡æœ‰çœŸæ­£å‚ä¸ä¿ƒè¿›äººç±»è¿›åŒ–çš„æƒ³æ³•ã€‚
 
 They're not necessarily malicious, but they don't necessarily have, shall we say, humanity's best interests as their highest agenda, but they are kept in check by the other species that do.So they will not ultimately be capable of slowing down. or harming you. It's just that they're on another path, on another course, and they're not really engaged in the idea of the promotion of the evolution of humanity.
 
-Í¼Æ¬
+å›¾ç‰‡
 
-ÈÎºÎÓëËüÃÇµÄ½Ó´¥¶¼»áÔÚÎïÖÊĞÎÌ¬ÖĞÒı·¢Õ½¶·»òÌÓÅÜµÄÉú´æ·´Ó¦µÄÏë·¨£¬ÒòÎªÅÀĞĞ¶¯ÎïµÄÕñ¶¯DNA»á¼¤»îÄãÉíÌåÖĞµÄ²¸Èé¶¯ÎïÕñ¶¯DNA£¬ÕâÊÇ²¶Ê³ÕßÓëÁÔÎï¹ØÏµµÄ½á¹û¡£
+ä»»ä½•ä¸å®ƒä»¬çš„æ¥è§¦éƒ½ä¼šåœ¨ç‰©è´¨å½¢æ€ä¸­å¼•å‘æˆ˜æ–—æˆ–é€ƒè·‘çš„ç”Ÿå­˜ååº”çš„æƒ³æ³•ï¼Œå› ä¸ºçˆ¬è¡ŒåŠ¨ç‰©çš„æŒ¯åŠ¨DNAä¼šæ¿€æ´»ä½ èº«ä½“ä¸­çš„å“ºä¹³åŠ¨ç‰©æŒ¯åŠ¨DNAï¼Œè¿™æ˜¯æ•é£Ÿè€…ä¸çŒç‰©å…³ç³»çš„ç»“æœã€‚
 
 So any exposure to them simply invokes within the physical form the idea of a fight-or-flight survival response, because the reptilian vibrational DNA activates the mammalian vibrational DNA in your physical body as a result of the relationship of predator to prey.
 
-Õâ²¢²»ÒâÎ¶×ÅËûÃÇÕæµÄ»á³ÉÎªÄãµÄ²¶Ê³Õß£¬µ«Õâ¾ÍÊÇÄã¶ÔËüÃÇÕñ¶¯µÄ·´Ó¦¡£ÔÚÄ³ÖÖ³Ì¶ÈÉÏ£¬ËûÃÇÊµ¼ÊÉÏÊÇ£¬ºÃ°É£¬ÎÒ¾ÍÕâÃ´Ëµ°É£¬ËûÃÇÓĞµãÊÜÉËÁË¡£ËûÃÇÍ¨¹ıÕâ¸öÔÚÇé¸ĞÉÏÊÜµ½ÁËÉËº¦£¬ÒòÎªÄãÃÇ¶ÔËûÃÇµÄ·´Ó¦£¬Òò´ËËûÃÇ¶ÔÈËÀàÓĞÒ»ÖÖÔ¹ºŞ¡£
+è¿™å¹¶ä¸æ„å‘³ç€ä»–ä»¬çœŸçš„ä¼šæˆä¸ºä½ çš„æ•é£Ÿè€…ï¼Œä½†è¿™å°±æ˜¯ä½ å¯¹å®ƒä»¬æŒ¯åŠ¨çš„ååº”ã€‚åœ¨æŸç§ç¨‹åº¦ä¸Šï¼Œä»–ä»¬å®é™…ä¸Šæ˜¯ï¼Œå¥½å§ï¼Œæˆ‘å°±è¿™ä¹ˆè¯´å§ï¼Œä»–ä»¬æœ‰ç‚¹å—ä¼¤äº†ã€‚ä»–ä»¬é€šè¿‡è¿™ä¸ªåœ¨æƒ…æ„Ÿä¸Šå—åˆ°äº†ä¼¤å®³ï¼Œå› ä¸ºä½ ä»¬å¯¹ä»–ä»¬çš„ååº”ï¼Œå› æ­¤ä»–ä»¬å¯¹äººç±»æœ‰ä¸€ç§æ€¨æ¨ã€‚
 
 It doesn't mean they're actually going to be predators for you, but that's the way you respond to their vibration. To some degree, they actually are, well, I'll just put it this way, they're kind of hurt by that.They are hurt emotionally by that, by your reaction to them, and therefore they have a kind of resentment against humanity.
 
-ÎÊ£ºÅ¶¡£
+é—®ï¼šå“¦ã€‚
 
 Oh. 
 
-°ÍÏÄ£ºÒòÎªËûÃÇ±»ÈËÀàÊÓÎª±»ÅÅ³âµÄÈË¡£Òò´Ë£¬ËûÃÇÁôÔÚÒ»¸ö²»Ò»¶¨°ÑÄãÃÇµÄ×î´óÀûÒæ·ÅÔÚĞÄÉÏµÄµØ·½£¬µ«ÆäËûÖÖ×å»á¿ØÖÆ×¡ËûÃÇ£¬°ïÖúËûÃÇ±£³ÖÆ½ºâ£¬ÕâÑùËûÃÇ¾Í²»»á¸ÉÈÅÈËÀà½ø»¯µÄ½ø³Ì¡£µ«ÆäÊµÃ»Ê²Ã´ºÃº¦ÅÂµÄ¡£ËûÃÇÎŞ·¨ÉËº¦Äã¡£
+å·´å¤ï¼šå› ä¸ºä»–ä»¬è¢«äººç±»è§†ä¸ºè¢«æ’æ–¥çš„äººã€‚å› æ­¤ï¼Œä»–ä»¬ç•™åœ¨ä¸€ä¸ªä¸ä¸€å®šæŠŠä½ ä»¬çš„æœ€å¤§åˆ©ç›Šæ”¾åœ¨å¿ƒä¸Šçš„åœ°æ–¹ï¼Œä½†å…¶ä»–ç§æ—ä¼šæ§åˆ¶ä½ä»–ä»¬ï¼Œå¸®åŠ©ä»–ä»¬ä¿æŒå¹³è¡¡ï¼Œè¿™æ ·ä»–ä»¬å°±ä¸ä¼šå¹²æ‰°äººç±»è¿›åŒ–çš„è¿›ç¨‹ã€‚ä½†å…¶å®æ²¡ä»€ä¹ˆå¥½å®³æ€•çš„ã€‚ä»–ä»¬æ— æ³•ä¼¤å®³ä½ ã€‚
 
 Because they are seen by humanity's eyes as outcasts.And therefore, they remain in a place where they may not necessarily have your best interests at heart, but the others that do keep them in check and help keep them balanced and at bay, so that they will not interfere with the progression of humanity's evolution.But there is nothing really to fear. They cannot harm you. 
 
-ÎÊ£ººÜ¶àÈËËÆºõÈÏÎªËûÃÇÓëµØÇòÉÏµÄÍõÊÒÑªÍ³ÓĞ¹Ø£¬ËûÃÇËÆºõ¿ØÖÆ×Å¡£¡£¡£
+é—®ï¼šå¾ˆå¤šäººä¼¼ä¹è®¤ä¸ºä»–ä»¬ä¸åœ°çƒä¸Šçš„ç‹å®¤è¡€ç»Ÿæœ‰å…³ï¼Œä»–ä»¬ä¼¼ä¹æ§åˆ¶ç€ã€‚ã€‚ã€‚
 
 A lot of people seem to think that they're connected to the royal lineages on Earth, and they seem to control...
 
-°ÍÏÄ£º²»£¬²»£¬²»¡£ÄÇÊÇ¸öÃıÂÛ¡£ÕâÊÇÒ»ÖÖ»ÃÏë¡£ÕâÊÇ¶Ô¹ÅÀÏ°¢Å¬ÄÉÆæÈËµÄÏë·¨µÄ»Ø¹é£¬°¢Å¬ÄÉÆæÈËÈ·Êµ´´ÔìÁËÀ¶ÑªÍõÊÒÑªÍ³µÄÏë·¨¡£
+å·´å¤ï¼šä¸ï¼Œä¸ï¼Œä¸ã€‚é‚£æ˜¯ä¸ªè°¬è®ºã€‚è¿™æ˜¯ä¸€ç§å¹»æƒ³ã€‚è¿™æ˜¯å¯¹å¤è€é˜¿åŠªçº³å¥‡äººçš„æƒ³æ³•çš„å›å½’ï¼Œé˜¿åŠªçº³å¥‡äººç¡®å®åˆ›é€ äº†è“è¡€ç‹å®¤è¡€ç»Ÿçš„æƒ³æ³•ã€‚
 
 No, no, no, no. That's a fallacy. It is a fantasy. It is a throwback to the idea of the ancient Anunnaki who did create the idea of the blue blood royal bloodlines.
 
-ÕâÖ»ÊÇ±í´ï°¢Å¬ÄÉÆæÈËDNAÔÚµØÇòÉÏÄ³Ğ©Æ×ÏµÖĞ¿ÉÄÜÉÔÎ¢¸ü´¿µÄÁíÒ»ÖÖ·½Ê½¡£Õâ¾ÍÊÇËüµÄÒâÒåËùÔÚ¡£µ«ÊÇ£¬Ò»Ğ©²ÎÓëÒõÄ±ÂÛÑĞ¾¿µÄÈË½«¸÷ÖÖÒõÄ±ÂÛ»ìÏı²¢»ìºÏÔÚÒ»Æğ£¬ÈÏÎªòáòæÈËÒ²²ÎÓëÆäÖĞ£¬½ö½öÊÇÒòÎªËûÃÇ¶ÔÈËÀàµÄÌ¬¶È£¬ÄãÖ±¹ÛµØ¸ĞÊÜµ½ÁËÕâÒ»µã¡£
+è¿™åªæ˜¯è¡¨è¾¾é˜¿åŠªçº³å¥‡äººDNAåœ¨åœ°çƒä¸ŠæŸäº›è°±ç³»ä¸­å¯èƒ½ç¨å¾®æ›´çº¯çš„å¦ä¸€ç§æ–¹å¼ã€‚è¿™å°±æ˜¯å®ƒçš„æ„ä¹‰æ‰€åœ¨ã€‚ä½†æ˜¯ï¼Œä¸€äº›å‚ä¸é˜´è°‹è®ºç ”ç©¶çš„äººå°†å„ç§é˜´è°‹è®ºæ··æ·†å¹¶æ··åˆåœ¨ä¸€èµ·ï¼Œè®¤ä¸ºèœ¥èœ´äººä¹Ÿå‚ä¸å…¶ä¸­ï¼Œä»…ä»…æ˜¯å› ä¸ºä»–ä»¬å¯¹äººç±»çš„æ€åº¦ï¼Œä½ ç›´è§‚åœ°æ„Ÿå—åˆ°äº†è¿™ä¸€ç‚¹ã€‚
 
 That is simply another way of expressing that the Anunnaki DNA may be slightly more pure in certain lineages on Earth. That's what that's about. But some humans that are involved in conspiracy theories have confused and co-mingled various conspiracy ideas into the idea that the reptilians are involved in that, simply because of their attitude toward humanity that you are intuitively picking up on.
 
-ËùÒÔËûÃÇ»ìºÏÁË²»Í¬µÄÒõÄ±ÂÛ£¬ÕâÒ²ÊÇÎªºÎĞÇ¼ÊÁªÃËÉç»áÊµÑéµÄµÚÒ»²½ÊÇ·ÅÆúÒõÄ±ÂÛµÄÔ­ÒòÖ®Ò»¡£
+æ‰€ä»¥ä»–ä»¬æ··åˆäº†ä¸åŒçš„é˜´è°‹è®ºï¼Œè¿™ä¹Ÿæ˜¯ä¸ºä½•æ˜Ÿé™…è”ç›Ÿç¤¾ä¼šå®éªŒçš„ç¬¬ä¸€æ­¥æ˜¯æ”¾å¼ƒé˜´è°‹è®ºçš„åŸå› ä¹‹ä¸€ã€‚
 
 So they've co-mingled different conspiracy theories, which is one of the reasons why the first step in the interstellar alliance, social experiment, was to let go of conspiracy theories.
 
-Í¼Æ¬
+å›¾ç‰‡
 
-ÎÊ£ºËùÒÔ£¬Èç¹û°¢Å¬ÄÉÆæÈËÊÇÎÒÃÇµÄ¸¸Ä¸£¬»òÕßÎÒÃÇÃ»ÓĞËûÃÇµÄÒÅ´«»ùÒò¡£¡£¡£ÎÒÃÇ²»ÊÇ°¢Å¬ÄÉÆæÈËµÄ»ìÑª¶ùÂğ£¿
+é—®ï¼šæ‰€ä»¥ï¼Œå¦‚æœé˜¿åŠªçº³å¥‡äººæ˜¯æˆ‘ä»¬çš„çˆ¶æ¯ï¼Œæˆ–è€…æˆ‘ä»¬æ²¡æœ‰ä»–ä»¬çš„é—ä¼ åŸºå› ã€‚ã€‚ã€‚æˆ‘ä»¬ä¸æ˜¯é˜¿åŠªçº³å¥‡äººçš„æ··è¡€å„¿å—ï¼Ÿ
 
 So if the Anunnaki are our parents, or don't we have their genetic... Aren't we a hybrid of Anunnaki and... 
 
-°ÍÏÄ£ºÕıÈçÎÒËùËµ£¬ÄãÃÇ×÷ÎªÖÇÈËÒ»¿ªÊ¼¾ÍÊÇ»ìÑªÈË¡£Õâ¾ÍÊÇÎªÊ²Ã´ÄãÃÇÒÑ¾­»ìÑªÁË£¬ÒòÎª°¢Å¬ÄÉÆæÈËµÄ»ùÒò±»ÒıÈëÁËµØÇòÉÏ×ÔÈ»½ø»¯µÄÔ­Ê¼ÈËÀà¡£
+å·´å¤ï¼šæ­£å¦‚æˆ‘æ‰€è¯´ï¼Œä½ ä»¬ä½œä¸ºæ™ºäººä¸€å¼€å§‹å°±æ˜¯æ··è¡€äººã€‚è¿™å°±æ˜¯ä¸ºä»€ä¹ˆä½ ä»¬å·²ç»æ··è¡€äº†ï¼Œå› ä¸ºé˜¿åŠªçº³å¥‡äººçš„åŸºå› è¢«å¼•å…¥äº†åœ°çƒä¸Šè‡ªç„¶è¿›åŒ–çš„åŸå§‹äººç±»ã€‚
 
 As I said, you are hybrids to begin with as Homo sapiens. That's why you're already hybridized, because of the Anunnaki genetics that were introduced into the naturally evolved hominid on Earth.
 
-ÎÊ£ºµ«ÊÇ°¢Å¬ÄÉÆæÈËÄÑµÀ²»»áÀ´Ö¸ÒıÎÒÃÇÂğ£¿
+é—®ï¼šä½†æ˜¯é˜¿åŠªçº³å¥‡äººéš¾é“ä¸ä¼šæ¥æŒ‡å¼•æˆ‘ä»¬å—ï¼Ÿ
 
 But wouldn't then the Anunnaki come and, like, guide us?
 
-°ÍÏÄ£ºËûÃÇÖ¸ÒıÁË¡£ÄãÈÏÎªÊ¥¾­ÖĞµÄÒ»Ğ©¹ÊÊÂÊÇ¹ØÓÚÊ²Ã´µÄ£¿¹ØÓÚÌìÊ¹ÏÂ·²À´Òıµ¼ÄãÃÇ£¬±»»ğÖùºÍÔÆÖùÒıÁì´©Ô½É³Ä®¡£Äã¾õµÃÕâÊÇ¹ØÓÚÊ²Ã´µÄ£¿ÕâÊÇ¹ØÓÚ°¢Å¬ÄÉÆæÈËµÄÖ¸µ¼£¬ËûÃÇÕÙ»ØÁËÄÇĞ©´´ÔìÖÇÈËµÄÈË£¬ÒòÎªÕâÑù×öÎ¥·´ÁËËûÃÇµÄ·¨ÂÉ¡£
+å·´å¤ï¼šä»–ä»¬æŒ‡å¼•äº†ã€‚ä½ è®¤ä¸ºåœ£ç»ä¸­çš„ä¸€äº›æ•…äº‹æ˜¯å…³äºä»€ä¹ˆçš„ï¼Ÿå…³äºå¤©ä½¿ä¸‹å‡¡æ¥å¼•å¯¼ä½ ä»¬ï¼Œè¢«ç«æŸ±å’Œäº‘æŸ±å¼•é¢†ç©¿è¶Šæ²™æ¼ ã€‚ä½ è§‰å¾—è¿™æ˜¯å…³äºä»€ä¹ˆçš„ï¼Ÿè¿™æ˜¯å…³äºé˜¿åŠªçº³å¥‡äººçš„æŒ‡å¯¼ï¼Œä»–ä»¬å¬å›äº†é‚£äº›åˆ›é€ æ™ºäººçš„äººï¼Œå› ä¸ºè¿™æ ·åšè¿åäº†ä»–ä»¬çš„æ³•å¾‹ã€‚
 
 They did. What do you think some of the stories in the Bible are about?Of angels coming down to guide you, of being led through the desert by a pillar of fire and a pillar of cloud.What do you think that's about? It's about the guidance of the Anunnaki who recalled those who created Homo sapiens because that was against their law to do so.
 
-µ«ËûÃÇËæºóÒâÊ¶µ½£¬ËûÃÇ±ØĞë³Ğµ£ÆğÖ¸µ¼ÄãÃÇ´ïµ½Ä³Ò»µãµÄÔğÈÎ£¬Ö±µ½ËûÃÇ¾õµÃËûÃÇ¿ÉÒÔÈÃÄãÃÇ×Ô¼º½ø»¯£¬¿´¿´»á·¢ÉúÊ²Ã´¡£
+ä½†ä»–ä»¬éšåæ„è¯†åˆ°ï¼Œä»–ä»¬å¿…é¡»æ‰¿æ‹…èµ·æŒ‡å¯¼ä½ ä»¬è¾¾åˆ°æŸä¸€ç‚¹çš„è´£ä»»ï¼Œç›´åˆ°ä»–ä»¬è§‰å¾—ä»–ä»¬å¯ä»¥è®©ä½ ä»¬è‡ªå·±è¿›åŒ–ï¼Œçœ‹çœ‹ä¼šå‘ç”Ÿä»€ä¹ˆã€‚
 
 But they then realized, that they had to take responsibility for guiding you up to a certain point until they felt that they could let you sort of evolve on your own to see what would happen.
 
