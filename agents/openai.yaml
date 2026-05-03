@@ -1,0 +1,4 @@
+interface:
+  display_name: "Bashar"
+  short_description: "原文优先，含词汇定义、主题索引、预计算检索与对话结构分析的可迭代巴夏资料库模式"
+  default_prompt: "Use $bashar to answer from Bashar source excerpts, check topic and vocabulary indexes, and preserve the dialogue rhythm."
