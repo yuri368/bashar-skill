@@ -1,5 +1,4 @@
 param(
-    [Parameter(Mandatory = $true)]
     [string]$Message,
 
     [string]$Version,
@@ -18,6 +17,10 @@ param(
 )
 
 $ErrorActionPreference = "Stop"
+
+if (-not $Message) {
+    $Message = "Publish Bashar skill updates $(Get-Date -Format 'yyyy-MM-dd HH:mm')"
+}
 
 function Run {
     param(

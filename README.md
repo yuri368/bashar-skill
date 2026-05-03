@@ -164,17 +164,19 @@ python scripts/search_sources.py "跟随兴奋"
 
 自动提交并推送到 GitHub：
 
+双击仓库根目录的 `一键发布到GitHub.cmd` 即可自动发布。
+
 ```powershell
-powershell -ExecutionPolicy Bypass -File scripts/publish_to_github.ps1 -Message "发布本次 Bashar 资料库更新"
+powershell -ExecutionPolicy Bypass -File scripts/publish_to_github.ps1
 ```
 
 发布新版本并自动打 tag：
 
 ```powershell
-powershell -ExecutionPolicy Bypass -File scripts/publish_to_github.ps1 -Message "发布 v0.2.1" -Version 0.2.1
+powershell -ExecutionPolicy Bypass -File scripts/publish_to_github.ps1 -Version 0.2.1
 ```
 
-脚本会在推送前检查远端分支状态、重建检索索引、扫描正文 UTF-8 编码、运行一次 `Bashar` 检索 smoke test，然后提交并推送当前分支。使用 `-DryRun` 可以预览会执行的步骤。
+脚本会在推送前检查远端分支状态、重建检索索引、扫描正文 UTF-8 编码、运行一次 `Bashar` 检索 smoke test，然后提交并推送当前分支。未传 `-Message` 时会自动生成提交信息；使用 `-DryRun` 可以预览会执行的步骤。
 
 ---
 
